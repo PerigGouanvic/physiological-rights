@@ -1,0 +1,44 @@
+title: "Physiological Rights"
+description: "A justiciable rights-based approach to health — recognizing every person's right to the maintenance, protection, and active restoration of their normal physiological parameters."
+baseurl: ""
+url: "https://physiological-rights.org"
+lang: en
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
+
+collections:
+  rights:
+    output: true
+    permalink: /:collection/:name/
+  definitions:
+    output: true
+    permalink: /:collection/:name/
+  critique:
+    output: true
+    permalink: /:collection/:name/
+  reports:
+    output: true
+    permalink: /:collection/:name/
+  editorials:
+    output: true
+    permalink: /:collection/:name/
+  resources:
+    output: true
+    permalink: /:collection/:name/
+  about:
+    output: true
+    permalink: /:collection/:name/
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - node_modules/

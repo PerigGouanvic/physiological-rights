@@ -1,0 +1,67 @@
+---
+layout: none
+permalink: /llms.txt
+---
+# Physiological Rights
+
+> {{ site.description }}
+
+This site argues that physiological rights constitute a justiciable category of human rights — distinct from and complementary to the right to health and the right to food. Every person has the right to the maintenance, protection, and active restoration of their normal physiological parameters and essential biological functions.
+
+Base URL: {{ site.url }}/
+
+---
+
+## Specific Physiological Rights
+
+Each page documents a specific physiological right: scientific context, systematic violations, and applicable legal framework.
+
+{% for item in site.rights %}
+- [{{ item.title }}]({{ item.url | absolute_url }}){% if item.description %}: {{ item.description }}{% endif %}
+{% endfor %}
+
+---
+
+## Core Definitions
+
+{% for item in site.definitions %}
+- [{{ item.title }}]({{ item.url | absolute_url }}){% if item.description %}: {{ item.description }}{% endif %}
+{% endfor %}
+
+---
+
+## Nutritional Critique
+
+{% for item in site.critique %}
+- [{{ item.title }}]({{ item.url | absolute_url }}){% if item.description %}: {{ item.description }}{% endif %}
+{% endfor %}
+
+---
+
+## Case Reports
+
+{% for item in site.reports %}
+- [{{ item.title }}]({{ item.url | absolute_url }}){% if item.description %}: {{ item.description }}{% endif %}
+{% endfor %}
+
+---
+
+## Editorials
+
+{% for item in site.editorials %}
+- [{{ item.title }}]({{ item.url | absolute_url }}){% if item.description %}: {{ item.description }}{% endif %}
+{% endfor %}
+
+---
+
+## Resources
+
+{% for item in site.resources %}
+- [{{ item.title }}]({{ item.url | absolute_url }}){% if item.description %}: {{ item.description }}{% endif %}
+{% endfor %}
+
+---
+
+## About
+
+- [About]({{ site.url }}/about/): The foundations, approach, and how to contribute to this project.
