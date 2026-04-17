@@ -21,7 +21,7 @@
   --col-width:  680px;
 }
 
-html { font-size: 18px; scroll-behavior: smooth; }
+html { font-size: 18px; scroll-behavior: smooth; overflow-x: hidden; }
 
 body {
   background: var(--bg);
@@ -280,6 +280,8 @@ header {
 .content {
   grid-area: content;
   padding-bottom: 6rem;
+  min-width: 0;
+  overflow-wrap: break-word;
 }
 
 /* ── ASIDE ── */
