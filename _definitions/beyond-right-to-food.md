@@ -2,6 +2,8 @@
 layout: default
 title: Why Physiological Rights Go Beyond the Right to Food
 description: "Physiological rights are irreducible to the right to food — many physiological parameters cannot be maintained or restored through diet alone."
+status: published
+last_revised: "April 2025"
 ---
 
 # Why Physiological Rights Go Beyond the Right to Food

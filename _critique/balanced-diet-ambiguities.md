@@ -2,6 +2,8 @@
 layout: default
 title: The Ambiguities of "Balanced Diet"
 description: "Why population-average dietary recommendations are insufficient to guarantee physiological integrity at the individual level — magnesium, vitamin D, omega-3, and other examples."
+status: published
+last_revised: "April 2025"
 ---
 
 # The Ambiguities of "Balanced Diet"

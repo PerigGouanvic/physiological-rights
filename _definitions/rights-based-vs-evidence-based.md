@@ -2,6 +2,8 @@
 layout: default
 title: Rights-Based Medicine vs Evidence-Based Medicine
 description: "Integrating ethics and rights into medical decision-making — why the right to physiological integrity cannot be subordinated to the availability of clinical trial evidence."
+status: published
+last_revised: "April 2025"
 ---
 
 # Rights-Based Medicine vs Evidence-Based Medicine

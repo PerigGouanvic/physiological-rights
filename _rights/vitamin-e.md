@@ -6,6 +6,8 @@ category: vitamin
 severity: high
 description: "Vitamin E is not a molecule — it is a family of eight compounds. For decades, official science, medicine, and industry have recognised only one member. This reductionism has produced inadequate recommendations, potentially harmful supplements, and a massive underestimate of actual deficiency."
 status: documented
+last_revised: "April 2025"
+researchers: "Maret Traber · Barrie Tan · Chandan K. Sen · Qing Jiang"
 ---
 
 # The Vitamin Es: The Silent Epidemic of a Poorly Defined Deficiency

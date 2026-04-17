@@ -2,6 +2,8 @@
 layout: default
 title: The Limits of "Healthy Eating"
 description: "Why the nutritional value of a food is never absolute — it depends on the individual's physiological context. Spinach, dairy, nuts: examples of foods that are beneficial for some and harmful for others."
+status: published
+last_revised: "April 2025"
 ---
 
 # The Limits of "Healthy Eating"

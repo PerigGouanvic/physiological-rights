@@ -2,6 +2,8 @@
 layout: default
 title: The Ethical Limits of Randomised Controlled Trials
 description: "Why waiting for RCT evidence cannot override the right to treat a measurable physiological imbalance — towards a physiological precautionary ethics."
+status: published
+last_revised: "April 2025"
 ---
 
 # The Ethical Limits of Randomised Controlled Trials

@@ -5,6 +5,8 @@ name: Vitamin B1 (thiamine)
 category: vitamin
 description: "The right to an optimal thiamine status: recognition of functional deficiency beyond frank beriberi, including high-dose thiamine therapy for conditions such as dysautonomia and Parkinson's disease."
 status: published
+last_revised: "April 2025"
+researchers: "Derrick Lonsdale · Chandler Marrs · Elliot Overton"
 ---
 
 # Thiamine deficiency: the silent epidemic of the modern world

@@ -2,6 +2,8 @@
 layout: default
 title: Thematic Bibliography
 description: "A thematic bibliography being developed on physiology, human rights, medical ethics, nutrition, and nutritional deficiencies in support of the physiological rights framework."
+status: draft
+last_revised: "April 2025"
 ---
 
 # Thematic Bibliography

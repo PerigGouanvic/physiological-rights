@@ -2,6 +2,8 @@
 layout: default
 title: Deficiency as a Rights Violation
 description: "When untreated nutritional deficiency constitutes a violation of physiological rights — an obligation of results, not merely of means."
+status: published
+last_revised: "April 2025"
 ---
 
 # Deficiency as a Rights Violation

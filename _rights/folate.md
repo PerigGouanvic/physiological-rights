@@ -5,6 +5,8 @@ name: Folate / folic acid (B9)
 category: vitamin
 description: "The right to adequate folate levels: access to testing and appropriate supplementation, with recognition of MTHFR polymorphisms that affect conversion of synthetic folic acid to the active form."
 status: published
+last_revised: "April 2025"
+researchers: "Patrick Stover · Joel Mason · Jacob Selhub · Lucy Wills"
 ---
 
 # Right to Adequate Folate Levels

@@ -2,6 +2,8 @@
 layout: default
 title: The Invisible Medical Emergency
 description: "Chronic physiological deficiencies as invisible medical emergencies — why their neglect by healthcare systems constitutes a violation of fundamental human rights."
+status: published
+last_revised: "April 2025"
 ---
 
 # The Invisible Medical Emergency

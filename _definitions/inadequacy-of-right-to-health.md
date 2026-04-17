@@ -2,6 +2,8 @@
 layout: default
 title: Inadequacy of the Right to Health
 description: "The limits of the State's obligation of means — why the right to health as currently framed fails to guarantee individual physiological integrity."
+status: published
+last_revised: "April 2025"
 ---
 
 # Inadequacy of the Right to Health

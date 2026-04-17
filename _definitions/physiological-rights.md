@@ -2,6 +2,8 @@
 layout: default
 title: Physiological Rights
 description: "The full set of essential physiological needs that must be actively met to enable a person to live fully — a concrete, measurable complement to the right to health."
+status: published
+last_revised: "April 2025"
 ---
 
 # Physiological Rights: The Full Set of Essential Needs
