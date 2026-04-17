@@ -29,6 +29,7 @@ body {
   font-family: var(--body);
   line-height: 1.75;
   -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
 }
 
 /* ── DRAFT BANNER ── */
@@ -479,8 +480,11 @@ header {
 
 /* ── TABLES ── */
 .content table {
-  width: 100%;
-  max-width: var(--col-width);
+  display: block;
+  width: max-content;
+  max-width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
   border-collapse: collapse;
   font-family: var(--ui);
   font-size: 0.88rem;
@@ -543,7 +547,11 @@ header {
   margin-bottom: 0.5rem;
 }
 
-.content .footnotes a { color: var(--accent-2); }
+.content .footnotes a {
+  color: var(--accent-2);
+  word-break: break-all;
+  overflow-wrap: break-word;
+}
 
 /* ── CODE ── */
 .content code {
