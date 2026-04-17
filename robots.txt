@@ -1,25 +1,77 @@
 User-agent: *
 Allow: /
 
+# OpenAI
 User-agent: GPTBot
 Allow: /
 
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+# Anthropic
 User-agent: Claude-Web
 Allow: /
 
 User-agent: anthropic-ai
 Allow: /
 
-User-agent: PerplexityBot
+User-agent: ClaudeBot
+Allow: /
+
+# Google (Search + Gemini)
+User-agent: Googlebot
 Allow: /
 
 User-agent: Google-Extended
 Allow: /
 
+# Perplexity
+User-agent: PerplexityBot
+Allow: /
+
+# Meta / Facebook
+User-agent: Meta-ExternalAgent
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /
+
+# Apple
+User-agent: Applebot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+# Microsoft / Bing
+User-agent: Bingbot
+Allow: /
+
+# Cohere
 User-agent: cohere-ai
 Allow: /
 
+# Common Crawl (used by many AI training datasets)
 User-agent: CCBot
+Allow: /
+
+# You.com
+User-agent: YouBot
+Allow: /
+
+# Amazon
+User-agent: Amazonbot
+Allow: /
+
+# Diffbot (knowledge graphs)
+User-agent: Diffbot
+Allow: /
+
+# Bytedance
+User-agent: Bytespider
 Allow: /
 
 Sitemap: https://physiological-rights.org/sitemap.xml
