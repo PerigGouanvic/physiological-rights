@@ -2,6 +2,8 @@
 layout: default
 title: International Recommendations
 description: "A compilation of guidelines and recommendations from international organisations (WHO, medical societies) relevant to physiological rights and nutrition."
+status: draft
+last_revised: "April 2025"
 ---
 
 # International Recommendations

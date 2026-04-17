@@ -5,6 +5,8 @@ name: Magnesium
 category: mineral
 description: "The right to adequate magnesium levels: access to testing and supplementation to prevent and correct deficiency — one of the most widespread and systematically underdiagnosed nutritional deficiencies in the Western world."
 status: published
+last_revised: "April 2025"
+researchers: "Jean Durlach · Mildred Seelig · James J. DiNicolantonio · Carolyn Dean · Andrea Rosanoff"
 ---
 
 # Right to Adequate Magnesium Levels

@@ -2,6 +2,8 @@
 layout: default
 title: Case Report — Hypothyroidism
 description: "A person whose hypothyroid symptoms are refused treatment despite an abnormal TSH — analysis of the violation of the right to optimal hormonal levels under the physiological rights framework."
+status: published
+last_revised: "April 2025"
 ---
 
 # Case Report: Hypothyroidism

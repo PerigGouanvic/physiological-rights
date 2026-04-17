@@ -2,6 +2,8 @@
 layout: default
 title: Legal Texts
 description: "References to national and international legal frameworks relevant to the recognition of physiological rights: ICESCR, UDHR, European conventions, and patient rights legislation."
+status: draft
+last_revised: "April 2025"
 ---
 
 # Legal Texts

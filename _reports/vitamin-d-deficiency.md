@@ -2,6 +2,8 @@
 layout: default
 title: Case Report — Vitamin D Deficiency
 description: "Untreated vitamin D deficiency in a northern region — analysis of the refusal of supplementation as a violation of physiological rights."
+status: published
+last_revised: "April 2025"
 ---
 
 # Case Report: Vitamin D Deficiency

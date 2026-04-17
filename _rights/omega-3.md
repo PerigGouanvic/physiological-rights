@@ -5,6 +5,8 @@ name: Omega-3 (EPA/DHA)
 category: macronutrient
 description: "The right to an optimal omega-3 status: access to testing (Omega-3 Index) and supplementation to correct the chronic omega-6/omega-3 imbalance that characterises modern Western diets."
 status: published
+last_revised: "April 2025"
+researchers: "Charles Serhan · William S. Harris · Clemens von Schacky · Joseph Hibbeln · Artemis Simopoulos"
 ---
 
 # Omega-3: the mass nutritional deficiency that industry, medicine, and governments are managing badly
