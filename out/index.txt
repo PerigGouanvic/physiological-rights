@@ -1,10 +1,10 @@
 ---
 layout: none
-permalink: /out/
+permalink: /out.txt
 ---
 # PHYSIOLOGICAL RIGHTS — CONTENT EXPORT
 # Site: https://physiological-rights.org
-# Generated: 2026-05-08 04:13 UTC
+# Generated: 2026-05-08 04:30 UTC
 #
 ========================================================================
 # INSTRUCTIONS FOR THE AI READING THIS FILE

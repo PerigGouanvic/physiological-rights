@@ -23,7 +23,7 @@ def generate_export():
     lines = [
         '---',
         'layout: none',
-        'permalink: /out/',
+        'permalink: /out.txt',
         '---',
         '# PHYSIOLOGICAL RIGHTS — CONTENT EXPORT',
         f'# Site: https://physiological-rights.org',
