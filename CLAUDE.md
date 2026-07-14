@@ -56,10 +56,15 @@ Quand Perig pose une question qui concerne sa santé, il est prioritaire de :
 
 ## Utilisation de la base de connaissance
 
-*À compléter une fois le pipeline en place.* Le plan actuel :
-- Base vectorielle locale (sqlite-vec ou lancedb).
-- Embeddings via API Voyage-3.
-- Recherche hybride sémantique + BM25.
-- Reranking pondéré par les scores d'autorité assignés par Perig.
-- MMR pour la diversité.
-- Accès depuis Claude Code : d'abord un CLI (`kb/scripts/query.py`), puis un serveur MCP quand ce sera stable.
+La KB est exposée à Claude Code via un **serveur MCP** déclaré dans `.mcp.json` à la racine. Deux outils sont disponibles automatiquement dans les conversations sur ce dépôt :
+
+- **`kb_query(query, k, types, mmr_lambda)`** — recherche hybride (embeddings Voyage + BM25 sur FTS5), reranking pondéré par `authority_score`, puis MMR pour la diversité. À invoquer dès qu'une question de Perig touche à un sujet potentiellement documenté dans le corpus.
+- **`kb_list_sources()`** — inventaire (chunks, fichiers, autorité) pour savoir ce qui est indexé avant de requêter.
+
+**Consignes d'usage** :
+- Face à une question clinique ou biologique, appeler `kb_query` **avant** de répondre — même si la réponse « de mémoire » semble évidente. La KB peut contenir des précisions, des séries de cas, ou des rappels d'auteurs de référence que Perig a jugés importants.
+- Signaler explicitement dans la réponse ce qui vient de la KB (avec `source_path`) vs. ce qui vient de connaissances générales.
+- Si un résultat semble marginal ou dominé par un seul texte long, retenter avec `mmr_lambda=0.5` pour forcer plus de diversité.
+- Si Perig cherche à écrire ou raffiner un article public, croiser la KB pour trouver les fils argumentatifs déjà présents dans les autres sections (`_definitions`, `_critique`, `_editorials`).
+
+CLI de secours (identique fonctionnellement) : `kb/.venv/bin/python kb/scripts/query.py "..."`

@@ -83,11 +83,26 @@ source_category: mechanism  # libre — ex: case-series, orthomolecular, overvie
 
 L'`authority_score` multiplie le score de similarité au moment du reranking. C'est le levier principal pour promouvoir certaines sources et déclasser les autres.
 
+## Serveur MCP
+
+Un serveur MCP (`kb/scripts/mcp_server.py`) expose deux outils à Claude Code :
+
+- `kb_query(query, k, types, mmr_lambda)` — même retrieval que le CLI.
+- `kb_list_sources()` — inventaire.
+
+Il est enregistré dans `.mcp.json` à la racine du dépôt. Au premier lancement de Claude Code dans ce dossier, Claude te demandera l'autorisation d'activer le serveur — accepte pour que l'outil soit disponible en conversation.
+
+Test manuel du serveur (facultatif — il communique en JSON-RPC sur stdin) :
+
+```bash
+kb/.venv/bin/python kb/scripts/mcp_server.py
+# Ctrl+C pour quitter
+```
+
 ## État actuel
 
-**v1.1** — hybride dense + BM25, rerank par authority_score, MMR pour la diversité.
+**v1.2** — hybride dense + BM25, rerank par authority_score, MMR, exposition MCP.
 
 **À venir** :
 - Reranker cross-encoder (Voyage rerank ou modèle local) pour affiner le top-K.
 - Support PDF (extraction + chunking) pour ingérer la littérature externe.
-- Serveur MCP pour intégration transparente dans Claude Code (interrogation automatique en conversation).

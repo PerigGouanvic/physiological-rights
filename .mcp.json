@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "physiological-rights-kb": {
+      "type": "stdio",
+      "command": "/home/perig/projects/physiological-rights/kb/.venv/bin/python",
+      "args": [
+        "/home/perig/projects/physiological-rights/kb/scripts/mcp_server.py"
+      ]
+    }
+  }
+}
