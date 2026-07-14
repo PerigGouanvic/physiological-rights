@@ -7,7 +7,6 @@ vendor/
 scripts/__pycache__/
 
 # Personal knowledge base infrastructure (not published)
-_private/
 kb/db/
 kb/sources/
 kb/logs/

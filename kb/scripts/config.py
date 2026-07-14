@@ -16,7 +16,6 @@ DB_DIR = KB_ROOT / "db"
 DB_PATH = DB_DIR / "kb.sqlite"
 SOURCES_DIR = KB_ROOT / "sources"
 LOGS_DIR = KB_ROOT / "logs"
-PRIVATE_DIR = REPO_ROOT / "_private"
 
 load_dotenv(REPO_ROOT / ".env")
 

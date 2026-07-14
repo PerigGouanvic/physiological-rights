@@ -67,8 +67,8 @@ def kb_query(
     conditionally essential compounds, physiological rights, or any
     biological or clinical topic that may be documented in the corpus.
     The KB contains site content (definitions, reports, critique,
-    editorials, resources), personal notes (_private/), and — as ingestion
-    grows — external scientific sources.
+    editorials, resources) and — as ingestion grows — external
+    scientific sources.
 
     Retrieval is hybrid: dense embeddings + BM25 over FTS5, reranked by
     the manually-assigned authority_score, then MMR to enforce source
@@ -79,7 +79,7 @@ def kb_query(
         k: number of results to return. Default 6. Up to ~12 is comfortable.
         types: optional filter by source_type — subset of
             ["definitions", "reports", "critique", "editorials",
-             "resources", "inbox", "private"].
+             "resources", "inbox"].
         mmr_lambda: relevance/diversity trade-off, in [0, 1].
             1.0 = pure relevance (may return near-duplicates from long sources);
             0.5 = strong diversity (surfaces distinct sources);

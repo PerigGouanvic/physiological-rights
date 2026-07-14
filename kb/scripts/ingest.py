@@ -1,19 +1,21 @@
-"""Ingest Markdown files from the repo into the KB.
+"""Ingest Markdown and PDF files from the repo into the KB.
 
 Sources covered:
-- Jekyll collections listed in config.JEKYLL_COLLECTIONS
-- `_private/` (personal notes, not versioned)
+- Jekyll collections listed in config.JEKYLL_COLLECTIONS (markdown, frontmatter)
+- `kb/sources/` (external PDFs, sidecar YAML for metadata)
 
 Behavior:
 - Idempotent: files are hashed; unchanged files are skipped.
 - If a file changed, its previous chunks are deleted and re-ingested.
-- Frontmatter fields recognized: `title`, `authority_score`, `source_category`.
+- Markdown metadata: `title`, `authority_score`, `source_category` in frontmatter.
+- PDF metadata: optional sidecar `<name>.meta.yaml` with the same fields (plus
+  free-form `authors`, `year`, `url`, ...); if absent, defaults are used.
 - Embeddings are batched to Voyage; failures on a batch are logged and skipped.
 
 Usage:
     python ingest.py                    # ingest everything (skips unchanged)
     python ingest.py --force            # re-ingest everything
-    python ingest.py --path _private    # ingest just one folder
+    python ingest.py --path _reports    # ingest just one folder
     python ingest.py --dry-run          # parse + chunk, no API calls, no writes
 """
 
@@ -29,7 +31,9 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 import frontmatter
+import pdfplumber
 import voyageai
+import yaml
 
 from chunker import Chunk, chunk_markdown
 from config import (
@@ -37,8 +41,8 @@ from config import (
     INGEST_BATCH_SIZE,
     JEKYLL_COLLECTIONS,
     LOGS_DIR,
-    PRIVATE_DIR,
     REPO_ROOT,
+    SOURCES_DIR,
     require_voyage_key,
 )
 from schema import init_db
@@ -52,25 +56,31 @@ def _now() -> str:
     return datetime.now(timezone.utc).isoformat(timespec="seconds")
 
 
-def _iter_source_files(only: Path | None = None) -> list[tuple[Path, str]]:
-    """Yield (absolute_path, source_type) for every markdown file to consider."""
-    files: list[tuple[Path, str]] = []
-    roots: list[tuple[Path, str]] = []
+def _iter_source_files(only: Path | None = None) -> list[tuple[Path, str, str]]:
+    """Yield (absolute_path, source_type, kind) tuples.
+
+    kind is either "markdown" or "pdf" and dictates which reader is used.
+    """
+    files: list[tuple[Path, str, str]] = []
+
+    def _scan(root: Path, source_type: str) -> None:
+        if not root.exists():
+            return
+        for path in root.rglob("*.md"):
+            if path.is_file():
+                files.append((path, source_type, "markdown"))
+        for path in root.rglob("*.pdf"):
+            if path.is_file():
+                files.append((path, source_type, "pdf"))
 
     if only is not None:
         target = (REPO_ROOT / only).resolve()
-        roots.append((target, target.name.lstrip("_")))
+        _scan(target, target.name.lstrip("_"))
     else:
         for name in JEKYLL_COLLECTIONS:
-            roots.append((REPO_ROOT / name, name.lstrip("_")))
-        roots.append((PRIVATE_DIR, "private"))
+            _scan(REPO_ROOT / name, name.lstrip("_"))
+        _scan(SOURCES_DIR, "sources-external")
 
-    for root, source_type in roots:
-        if not root.exists():
-            continue
-        for path in root.rglob("*.md"):
-            if path.is_file():
-                files.append((path, source_type))
     return files
 
 
@@ -78,6 +88,43 @@ def _read_markdown(path: Path) -> tuple[dict, str]:
     with path.open("r", encoding="utf-8") as f:
         post = frontmatter.load(f)
     return post.metadata, post.content
+
+
+def _read_pdf(path: Path) -> tuple[dict, str]:
+    """Extract text and metadata from a PDF.
+
+    Metadata precedence: sidecar `<name>.meta.yaml` > embedded PDF metadata >
+    filename-derived defaults. Page breaks are marked in the body as
+    `[page N]` on their own line so the downstream chunker can split cleanly
+    and human readers can locate a snippet.
+    """
+    sidecar = path.with_suffix(".meta.yaml")
+    metadata: dict = {}
+    if sidecar.exists():
+        with sidecar.open("r", encoding="utf-8") as f:
+            loaded = yaml.safe_load(f) or {}
+        if isinstance(loaded, dict):
+            metadata = loaded
+
+    pages: list[str] = []
+    with pdfplumber.open(path) as pdf:
+        pdf_info = pdf.metadata or {}
+        for i, page in enumerate(pdf.pages, start=1):
+            text = page.extract_text() or ""
+            text = text.strip()
+            if text:
+                pages.append(f"[page {i}]\n\n{text}")
+
+    if "title" not in metadata:
+        metadata["title"] = pdf_info.get("Title") or path.stem
+    body = "\n\n".join(pages)
+    return metadata, body
+
+
+def _read_source(path: Path, kind: str) -> tuple[dict, str]:
+    if kind == "pdf":
+        return _read_pdf(path)
+    return _read_markdown(path)
 
 
 def _serialize_vector(vec: list[float]) -> bytes:
@@ -172,17 +219,17 @@ def ingest(only: Path | None = None, force: bool = False, dry_run: bool = False)
         client = voyageai.Client()
 
     files = _iter_source_files(only=only)
-    _log(f"Discovered {len(files)} markdown files", log_path)
+    _log(f"Discovered {len(files)} source files (markdown + pdf)", log_path)
 
     pending: list[dict] = []
     total_chunks_written = 0
     files_ingested = 0
     files_skipped = 0
 
-    for path, source_type in files:
+    for path, source_type, kind in files:
         rel = str(path.relative_to(REPO_ROOT))
         try:
-            metadata, body = _read_markdown(path)
+            metadata, body = _read_source(path, kind)
         except Exception as exc:
             _log(f"SKIP (read error) {rel}: {exc}", log_path)
             continue

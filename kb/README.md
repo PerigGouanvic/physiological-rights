@@ -15,8 +15,8 @@ Voir `CLAUDE.md` (racine du dépôt) pour le concept fondateur (droits physiolog
 | `.venv/` | Environnement Python | non |
 
 Le contenu ingéré vient de :
-- Collections Jekyll : `_definitions/`, `_reports/`, `_critique/`, `_editorials/`, `_resources/`, `_inbox/`
-- Notes personnelles : `_private/` (gitignoré à la racine)
+- Collections Jekyll : `_definitions/`, `_reports/`, `_critique/`, `_editorials/`, `_resources/`, `_inbox/` — markdown avec frontmatter YAML.
+- Sources externes : PDFs dans `kb/sources/` (littérature scientifique, briefings), avec sidecar `<nom>.meta.yaml` pour les métadonnées.
 
 ## Installation
 
@@ -71,7 +71,7 @@ kb/.venv/bin/python kb/scripts/query.py "..." --json
 
 ## Métadonnées côté source
 
-Dans le frontmatter YAML d'un fichier markdown, tu peux préciser :
+**Markdown** : frontmatter YAML en tête de fichier :
 
 ```yaml
 ---
@@ -81,7 +81,25 @@ source_category: mechanism  # libre — ex: case-series, orthomolecular, overvie
 ---
 ```
 
+**PDF** : sidecar `<nom>.meta.yaml` à côté du PDF (mêmes champs, plus libres) :
+
+```yaml
+title: "Potassium Intake of the U.S. Population — NHANES 2017-2018"
+authors: [Hoy MK, Goldman JD, Moshfegh AJ]
+year: 2022
+source_category: population-data
+authority_score: 1.0
+url: https://www.ars.usda.gov/…
+doi: 10.…
+note: |
+  Ce que la source apporte au corpus, en une phrase.
+```
+
+Si le sidecar est absent, l'ingestion utilise les métadonnées internes du PDF (`Title`) puis le nom de fichier comme fallback ; `authority_score` par défaut = 1.0.
+
 L'`authority_score` multiplie le score de similarité au moment du reranking. C'est le levier principal pour promouvoir certaines sources et déclasser les autres.
+
+L'extraction PDF (via `pdfplumber`) insère un marqueur `[page N]` à chaque saut de page, ce qui permet de retracer un extrait vers sa page d'origine.
 
 ## Serveur MCP
 
@@ -101,8 +119,8 @@ kb/.venv/bin/python kb/scripts/mcp_server.py
 
 ## État actuel
 
-**v1.2** — hybride dense + BM25, rerank par authority_score, MMR, exposition MCP.
+**v1.3** — hybride dense + BM25, rerank par authority_score, MMR, exposition MCP, ingestion PDF avec sidecar YAML.
 
 **À venir** :
 - Reranker cross-encoder (Voyage rerank ou modèle local) pour affiner le top-K.
-- Support PDF (extraction + chunking) pour ingérer la littérature externe.
+- Extraction PDF layout-aware pour la littérature multi-colonnes complexe (actuellement `pdfplumber` gère raisonnablement le texte simple).

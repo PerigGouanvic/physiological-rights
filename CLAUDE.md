@@ -31,9 +31,10 @@ Contenu publié (versionné) :
 - `_legal/` — mentions légales
 
 Non-publié (gitignoré) :
-- `_private/` — notes de santé personnelles, plans de traitement, symptomatologie, échanges cliniques.
 - `kb/db/`, `kb/sources/`, `kb/logs/` — infrastructure RAG : base vectorielle locale, sources ingérées (PDF, articles), journaux.
 - `kb/scripts/` reste versionné : c'est le pipeline lui-même.
+
+Le contexte clinique personnel de Perig n'est pas stocké dans le dépôt : il vit dans la mémoire persistante de Claude (`~/.claude/projects/…/memory/`). Voir la note de collaboration correspondante.
 
 ## Posture épistémique
 
