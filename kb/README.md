@@ -50,7 +50,7 @@ Les fichiers sont hashés — relancer sans `--force` ne coûte rien pour ce qui
 ## Requêter
 
 ```bash
-# Recherche hybride (dense + BM25), pondérée par authority_score
+# Recherche hybride (dense + BM25), pondérée par authority_score, MMR pour la diversité
 kb/.venv/bin/python kb/scripts/query.py "cofacteurs thyroïde iode sélénium"
 
 # Plus de résultats
@@ -58,6 +58,12 @@ kb/.venv/bin/python kb/scripts/query.py "..." --k 10
 
 # Filtrer par type de source
 kb/.venv/bin/python kb/scripts/query.py "..." --type reports,critique
+
+# Contrôler la diversité (défaut 0.7 : plutôt relevance ; 0.5 : plus diversifié ; 1.0 : pure relevance)
+kb/.venv/bin/python kb/scripts/query.py "..." --mmr-lambda 0.5
+
+# Désactiver le MMR
+kb/.venv/bin/python kb/scripts/query.py "..." --no-mmr
 
 # JSON pour usage programmatique
 kb/.venv/bin/python kb/scripts/query.py "..." --json
@@ -79,10 +85,9 @@ L'`authority_score` multiplie le score de similarité au moment du reranking. C'
 
 ## État actuel
 
-**v1** — hybride dense + BM25, rerank par authority_score.
+**v1.1** — hybride dense + BM25, rerank par authority_score, MMR pour la diversité.
 
 **À venir** :
-- MMR pour la diversité (éviter 10 chunks quasi-identiques).
-- Reranker cross-encoder (Voyage rerank ou modèle local).
-- Support PDF (extraction + chunking).
-- Serveur MCP pour intégration transparente dans Claude Code.
+- Reranker cross-encoder (Voyage rerank ou modèle local) pour affiner le top-K.
+- Support PDF (extraction + chunking) pour ingérer la littérature externe.
+- Serveur MCP pour intégration transparente dans Claude Code (interrogation automatique en conversation).
