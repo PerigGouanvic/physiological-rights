@@ -5,3 +5,13 @@ Gemfile.lock
 .bundle/
 vendor/
 scripts/__pycache__/
+
+# Personal knowledge base infrastructure (not published)
+_private/
+kb/db/
+kb/sources/
+kb/logs/
+kb/.venv/
+kb/**/__pycache__/
+kb/**/*.pyc
+.env
