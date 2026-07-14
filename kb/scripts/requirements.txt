@@ -1,0 +1,5 @@
+voyageai>=0.3.0
+sqlite-vec>=0.1.6
+python-frontmatter>=1.1.0
+python-dotenv>=1.0.0
+bm25s>=0.2.0

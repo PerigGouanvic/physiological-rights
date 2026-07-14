@@ -1,0 +1,88 @@
+# Base de connaissance (KB) — physiological-rights
+
+Pipeline RAG local pour la recherche personnelle et l'écriture éditoriale.
+
+Voir `CLAUDE.md` (racine du dépôt) pour le concept fondateur (droits physiologiques) et la posture épistémique qui guident l'usage de cette KB.
+
+## Ce qu'il y a ici
+
+| Chemin | Rôle | Versionné ? |
+|--------|------|-------------|
+| `scripts/` | Pipeline Python (config, chunker, ingestion, requête) | oui |
+| `db/kb.sqlite` | Base SQLite (chunks + embeddings via sqlite-vec + FTS5) | non |
+| `sources/` | Sources externes ingérées (PDF, articles) | non |
+| `logs/` | Journaux d'ingestion | non |
+| `.venv/` | Environnement Python | non |
+
+Le contenu ingéré vient de :
+- Collections Jekyll : `_definitions/`, `_reports/`, `_critique/`, `_editorials/`, `_resources/`, `_inbox/`
+- Notes personnelles : `_private/` (gitignoré à la racine)
+
+## Installation
+
+Depuis la racine du dépôt :
+
+```bash
+python3 -m venv kb/.venv
+kb/.venv/bin/pip install -r kb/scripts/requirements.txt
+cp .env.example .env
+# Édite .env pour y mettre VOYAGE_API_KEY
+```
+
+## Ingestion
+
+```bash
+# Ingestion incrémentale (skip les fichiers inchangés)
+kb/.venv/bin/python kb/scripts/ingest.py
+
+# Ré-ingestion complète
+kb/.venv/bin/python kb/scripts/ingest.py --force
+
+# Un seul dossier
+kb/.venv/bin/python kb/scripts/ingest.py --path _reports
+
+# Test à sec (parse + chunk, aucun appel API, aucune écriture DB)
+kb/.venv/bin/python kb/scripts/ingest.py --dry-run
+```
+
+Les fichiers sont hashés — relancer sans `--force` ne coûte rien pour ce qui est déjà indexé.
+
+## Requêter
+
+```bash
+# Recherche hybride (dense + BM25), pondérée par authority_score
+kb/.venv/bin/python kb/scripts/query.py "cofacteurs thyroïde iode sélénium"
+
+# Plus de résultats
+kb/.venv/bin/python kb/scripts/query.py "..." --k 10
+
+# Filtrer par type de source
+kb/.venv/bin/python kb/scripts/query.py "..." --type reports,critique
+
+# JSON pour usage programmatique
+kb/.venv/bin/python kb/scripts/query.py "..." --json
+```
+
+## Métadonnées côté source
+
+Dans le frontmatter YAML d'un fichier markdown, tu peux préciser :
+
+```yaml
+---
+title: "…"
+authority_score: 0.9        # défaut 1.0 — assigné par Perig, pas dérivé du prestige
+source_category: mechanism  # libre — ex: case-series, orthomolecular, overview, regulatory, clinical-experience
+---
+```
+
+L'`authority_score` multiplie le score de similarité au moment du reranking. C'est le levier principal pour promouvoir certaines sources et déclasser les autres.
+
+## État actuel
+
+**v1** — hybride dense + BM25, rerank par authority_score.
+
+**À venir** :
+- MMR pour la diversité (éviter 10 chunks quasi-identiques).
+- Reranker cross-encoder (Voyage rerank ou modèle local).
+- Support PDF (extraction + chunking).
+- Serveur MCP pour intégration transparente dans Claude Code.
