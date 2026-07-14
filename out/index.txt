@@ -4,7 +4,7 @@ permalink: /out.txt
 ---
 # PHYSIOLOGICAL RIGHTS — CONTENT EXPORT
 # Site: https://physiological-rights.org
-# Generated: 2026-07-14 21:48 UTC
+# Generated: 2026-07-14 22:15 UTC
 #
 ========================================================================
 # INSTRUCTIONS FOR THE AI READING THIS FILE
@@ -1963,6 +1963,31 @@ last_revised: "April 2026"
 **Physiological rights** are the rights of every person to have their essential biological parameters measured, maintained, and restored — regardless of whether those parameters fall within the clinical threshold of recognised disease.
 
 They rest on a simple but radical premise: **the human organism has quantifiable needs**. When those needs are chronically unmet — whether through inaccessible testing, unreimbursed correction, or institutional indifference — a rights violation occurs, not merely a clinical gap.
+
+<figure style="margin: 2.5rem 0;">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 460" role="img" aria-labelledby="venn-title venn-desc" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+    <title id="venn-title">Right to food, right to health, and physiological rights</title>
+    <desc id="venn-desc">Two translucent circles represent the right to food and the right to health; they overlap only in a narrow lens. A larger green ellipse — the physiological rights — spans that lens and extends far beyond it into both exclusive zones, visualising the specificity and individual justiciability that neither of the two parent rights delivers on its own.</desc>
+
+    <circle cx="255" cy="255" r="185" fill="#C8C2B6" fill-opacity="0.28" stroke="#7A756D" stroke-width="1.5"/>
+    <circle cx="545" cy="255" r="185" fill="#C8C2B6" fill-opacity="0.28" stroke="#7A756D" stroke-width="1.5"/>
+
+    <ellipse cx="400" cy="280" rx="200" ry="78" fill="#2D6A4F" fill-opacity="0.78" stroke="#1B4332" stroke-width="2.5"/>
+
+    <text x="200" y="42" text-anchor="middle" font-family="'Cormorant Garamond', Georgia, serif" font-size="22" font-weight="600" fill="#1C1A16">Right to food</text>
+    <text x="200" y="62" text-anchor="middle" font-family="'Cormorant Garamond', Georgia, serif" font-size="13" font-style="italic" fill="#4A4640">general frameworks · minimum floor</text>
+
+    <text x="600" y="42" text-anchor="middle" font-family="'Cormorant Garamond', Georgia, serif" font-size="22" font-weight="600" fill="#1C1A16">Right to health</text>
+    <text x="600" y="62" text-anchor="middle" font-family="'Cormorant Garamond', Georgia, serif" font-size="13" font-style="italic" fill="#4A4640">obligation of means · care systems</text>
+
+    <text x="400" y="278" text-anchor="middle" font-family="'Cormorant Garamond', Georgia, serif" font-size="24" font-weight="700" fill="#F5F2EC">Physiological rights</text>
+    <text x="400" y="300" text-anchor="middle" font-family="'Cormorant Garamond', Georgia, serif" font-size="13" font-style="italic" fill="#F5F2EC">clinical specificity · obligation of results</text>
+    <text x="400" y="318" text-anchor="middle" font-family="'Cormorant Garamond', Georgia, serif" font-size="13" font-style="italic" fill="#F5F2EC">individual justiciability</text>
+  </svg>
+  <figcaption style="text-align: center; font-style: italic; color: #4A4640; font-size: 0.9rem; margin-top: 1rem; max-width: 620px; margin-left: auto; margin-right: auto;">
+    The right to food and the right to health overlap only in a narrow, abstract lens. Physiological rights cross that lens and extend well beyond it, occupying the space of clinical specificity and individual justiciability that neither parent framework delivers on its own.
+  </figcaption>
+</figure>
 
 ## What Makes Them Distinct
 
