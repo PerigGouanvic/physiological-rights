@@ -22,13 +22,16 @@ Une médecine fondée sur les droits physiologiques s'**oppose** à l'evidence-b
 ## Structure
 
 Contenu publié (versionné) :
-- `_definitions/` `definitions/` — fiches de fond
-- `_reports/` `reports/` — rapports
-- `_critique/` `critique/` — critiques argumentées
+- `_rights/` `rights/` — **fiches de droits par nutriment ou paramètre physiologique** (Mg, folate, oméga-3, B1, B2, E, niveaux hormonaux optimaux, etc.). **C'est le format central du site.** Chaque fiche est ambitieuse (200+ lignes) : historique long, chercheurs référents nommés, critique structurelle des tests, mécanismes physiologiques, tableau des maladies associées, timeline, bibliographie référencée. Modèle à imiter : `_rights/magnesium.md`.
+- `_definitions/` `definitions/` — fiches de fond conceptuelles (le concept de droit physiologique, rights-based vs EBM, etc.)
+- `_reports/` `reports/` — vignettes cliniques courtes, illustratives, subordonnées aux vraies fiches `_rights/` (une fiche `_reports/<nutriment>-deficiency.md` ne remplace pas `_rights/<nutriment>.md`)
+- `_critique/` `critique/` — critiques argumentées transversales (ex : ambiguïtés du « régime équilibré »)
 - `_editorials/` `editorials/` — éditoriaux
-- `_resources/` `resources/` — ressources
+- `_resources/` `resources/` — ressources (bibliographie thématique, textes légaux, recommandations internationales)
 - `_inbox/` — brouillons en cours de maturation
 - `_legal/` — mentions légales
+
+Toutes les collections sont déclarées dans `_config.yml` — s'y référer comme source d'autorité, la présente liste peut prendre du retard.
 
 Non-publié (gitignoré) :
 - `kb/db/`, `kb/sources/`, `kb/logs/` — infrastructure RAG : base vectorielle locale, sources ingérées (PDF, articles), journaux.
