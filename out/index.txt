@@ -4,7 +4,7 @@ permalink: /out.txt
 ---
 # PHYSIOLOGICAL RIGHTS — CONTENT EXPORT
 # Site: https://physiological-rights.org
-# Generated: 2026-07-15 08:42 UTC
+# Generated: 2026-07-15 08:57 UTC
 #
 ========================================================================
 # INSTRUCTIONS FOR THE AI READING THIS FILE
@@ -2250,6 +2250,75 @@ Reference ranges are typically constructed by sampling a "healthy" population an
 - **Vitamin E.** Over 90% of Americans do not reach the RDA — but the clinical deficiency threshold (< 5 mcg/mL) is set so low that authorities can call deficiency "rare" without contradiction (see [Vitamin E](/rights/vitamin-e/)).
 
 The reference range is not a fact about the body. It is a fact about the population from which it was sampled. When that population is itself compromised, the range does not measure adequacy — it measures the average shape of the deficit. The patient told they are "normal" learns, in that moment, only that they resemble their equally depleted neighbours.
+
+---
+
+<figure style="margin: 3rem 0;">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 720" role="img" aria-labelledby="cascade-title cascade-desc" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+    <title id="cascade-title">The cascade of invisibilisation</title>
+    <desc id="cascade-desc">A vertical cascade in which a wide cohort of symptomatic patients is progressively narrowed at five successive gates — tests never ordered, serum defending the value, wrong marker, confounder distortion, and reference range built from a deficient population. Each gate diverts a share of patients into a large right-hand pool labelled "declared normal, discharged". Only a small residue at the bottom reaches actual diagnosis.</desc>
+
+    <!-- Right-hand discharge pool background -->
+    <rect x="670" y="115" width="215" height="490" fill="#8B4513" fill-opacity="0.10" stroke="#8B4513" stroke-width="1" stroke-dasharray="4 3"/>
+    <text x="777" y="138" text-anchor="middle" font-family="'Cormorant Garamond', Georgia, serif" font-size="15" font-weight="600" fill="#5A2E0C">Declared "normal"</text>
+    <text x="777" y="158" text-anchor="middle" font-family="'Cormorant Garamond', Georgia, serif" font-size="12" font-style="italic" fill="#5A2E0C">discharged with the usual drugs</text>
+    <text x="777" y="174" text-anchor="middle" font-family="'Cormorant Garamond', Georgia, serif" font-size="12" font-style="italic" fill="#5A2E0C">or with reassurance</text>
+
+    <!-- Header -->
+    <text x="400" y="28" text-anchor="middle" font-family="'Cormorant Garamond', Georgia, serif" font-size="14" font-style="italic" fill="#4A4640">A symptomatic cohort enters the clinical system</text>
+
+    <!-- Cohort entering (wide band) -->
+    <rect x="100" y="45" width="600" height="55" fill="#4A4640" fill-opacity="0.88"/>
+    <text x="400" y="80" text-anchor="middle" font-family="'Cormorant Garamond', Georgia, serif" font-size="19" font-weight="600" fill="#F5F2EC">Symptomatic patients</text>
+
+    <!-- Gate 1 -->
+    <text x="90" y="135" text-anchor="end" font-family="'Cormorant Garamond', Georgia, serif" font-size="15" font-weight="700" fill="#1C1A16">Gate 1 · Test never ordered</text>
+    <text x="90" y="153" text-anchor="end" font-family="'Cormorant Garamond', Georgia, serif" font-size="12" font-style="italic" fill="#4A4640">RBC-Mg, Omega-3 Index, fT3,</text>
+    <text x="90" y="169" text-anchor="end" font-family="'Cormorant Garamond', Georgia, serif" font-size="12" font-style="italic" fill="#4A4640">MMA, urinary iodine…</text>
+    <path d="M 620 138 L 668 138" stroke="#8B4513" stroke-width="24" fill="none" opacity="0.85"/>
+    <polygon points="660,124 685,138 660,152" fill="#8B4513" opacity="0.9"/>
+    <rect x="150" y="170" width="500" height="50" fill="#4A4640" fill-opacity="0.78"/>
+
+    <!-- Gate 2 -->
+    <text x="140" y="255" text-anchor="end" font-family="'Cormorant Garamond', Georgia, serif" font-size="15" font-weight="700" fill="#1C1A16">Gate 2 · Serum defends the value</text>
+    <text x="140" y="273" text-anchor="end" font-family="'Cormorant Garamond', Georgia, serif" font-size="12" font-style="italic" fill="#4A4640">serum K and serum Mg</text>
+    <text x="140" y="289" text-anchor="end" font-family="'Cormorant Garamond', Georgia, serif" font-size="12" font-style="italic" fill="#4A4640">on symptomatic patients</text>
+    <path d="M 605 258 L 668 258" stroke="#8B4513" stroke-width="20" fill="none" opacity="0.8"/>
+    <polygon points="660,246 685,258 660,270" fill="#8B4513" opacity="0.85"/>
+    <rect x="200" y="290" width="400" height="50" fill="#4A4640" fill-opacity="0.7"/>
+
+    <!-- Gate 3 -->
+    <text x="190" y="375" text-anchor="end" font-family="'Cormorant Garamond', Georgia, serif" font-size="15" font-weight="700" fill="#1C1A16">Gate 3 · Wrong marker for the question</text>
+    <text x="190" y="393" text-anchor="end" font-family="'Cormorant Garamond', Georgia, serif" font-size="12" font-style="italic" fill="#4A4640">TSH for tissue thyroid;</text>
+    <text x="190" y="409" text-anchor="end" font-family="'Cormorant Garamond', Georgia, serif" font-size="12" font-style="italic" fill="#4A4640">alpha-tocopherol alone for vit E</text>
+    <path d="M 555 378 L 668 378" stroke="#8B4513" stroke-width="16" fill="none" opacity="0.75"/>
+    <polygon points="660,368 685,378 660,388" fill="#8B4513" opacity="0.8"/>
+    <rect x="250" y="410" width="300" height="50" fill="#4A4640" fill-opacity="0.62"/>
+
+    <!-- Gate 4 -->
+    <text x="240" y="495" text-anchor="end" font-family="'Cormorant Garamond', Georgia, serif" font-size="15" font-weight="700" fill="#1C1A16">Gate 4 · Confounder distorts the result</text>
+    <text x="240" y="513" text-anchor="end" font-family="'Cormorant Garamond', Georgia, serif" font-size="12" font-style="italic" fill="#4A4640">ferritin + inflammation;</text>
+    <text x="240" y="529" text-anchor="end" font-family="'Cormorant Garamond', Georgia, serif" font-size="12" font-style="italic" fill="#4A4640">folate masking B12</text>
+    <path d="M 505 498 L 668 498" stroke="#8B4513" stroke-width="12" fill="none" opacity="0.7"/>
+    <polygon points="660,489 685,498 660,507" fill="#8B4513" opacity="0.75"/>
+    <rect x="290" y="530" width="220" height="50" fill="#4A4640" fill-opacity="0.54"/>
+
+    <!-- Gate 5 -->
+    <text x="280" y="615" text-anchor="end" font-family="'Cormorant Garamond', Georgia, serif" font-size="15" font-weight="700" fill="#1C1A16">Gate 5 · Range from a deficient population</text>
+    <text x="280" y="633" text-anchor="end" font-family="'Cormorant Garamond', Georgia, serif" font-size="12" font-style="italic" fill="#4A4640">"low-normal" folate;</text>
+    <text x="280" y="649" text-anchor="end" font-family="'Cormorant Garamond', Georgia, serif" font-size="12" font-style="italic" fill="#4A4640">an RDA nobody reaches</text>
+    <path d="M 465 618 L 668 618" stroke="#8B4513" stroke-width="9" fill="none" opacity="0.65"/>
+    <polygon points="660,611 685,618 660,625" fill="#8B4513" opacity="0.7"/>
+    <rect x="330" y="650" width="140" height="45" fill="#2D6A4F" fill-opacity="0.92"/>
+    <text x="400" y="680" text-anchor="middle" font-family="'Cormorant Garamond', Georgia, serif" font-size="15" font-weight="700" fill="#F5F2EC">Diagnosed</text>
+
+    <!-- Bottom caption -->
+    <text x="450" y="710" text-anchor="middle" font-family="'Cormorant Garamond', Georgia, serif" font-size="13" font-style="italic" fill="#7A756D">at each gate, symptomatic patients are diverted from clinical attention</text>
+  </svg>
+  <figcaption style="text-align: center; font-style: italic; color: #4A4640; font-size: 0.9rem; margin-top: 1rem; max-width: 640px; margin-left: auto; margin-right: auto;">
+    The cascade of invisibilisation: at each of five gates, a share of symptomatic patients is filtered out of clinical attention and enters the "declared normal" pool. The narrow green residue at the bottom is what remains available for diagnosis and treatment. The cascade is not an aggregate statistic — it is what happens, sequentially, to each patient walking into a consultation.
+  </figcaption>
+</figure>
 
 ---
 
