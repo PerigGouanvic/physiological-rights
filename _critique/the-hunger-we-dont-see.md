@@ -2,7 +2,7 @@
 layout: default
 title: The Hunger We Don't See
 description: "A taxonomy of diagnostic failure. Why the medical system misses widespread nutritional depletion — starting with the tests that are never ordered, and continuing with those that measure the wrong compartment, ask the wrong question, are distorted by confounders, or are interpreted against reference ranges built from an already-deficient population."
-status: draft
+status: published
 last_revised: "July 2026"
 ---
 
