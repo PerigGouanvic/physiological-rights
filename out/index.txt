@@ -4,7 +4,7 @@ permalink: /out.txt
 ---
 # PHYSIOLOGICAL RIGHTS — CONTENT EXPORT
 # Site: https://physiological-rights.org
-# Generated: 2026-07-15 08:26 UTC
+# Generated: 2026-07-15 08:27 UTC
 #
 ========================================================================
 # INSTRUCTIONS FOR THE AI READING THIS FILE
@@ -2167,7 +2167,7 @@ Examples to come:
 layout: default
 title: The Hunger We Don't See
 description: "A taxonomy of diagnostic failure. Why the medical system misses widespread nutritional depletion — starting with the tests that are never ordered, and continuing with those that measure the wrong compartment, ask the wrong question, are distorted by confounders, or are interpreted against reference ranges built from an already-deficient population."
-status: draft
+status: published
 last_revised: "July 2026"
 ---
 
