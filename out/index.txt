@@ -4,7 +4,7 @@ permalink: /out.txt
 ---
 # PHYSIOLOGICAL RIGHTS — CONTENT EXPORT
 # Site: https://physiological-rights.org
-# Generated: 2026-07-15 08:27 UTC
+# Generated: 2026-07-15 08:42 UTC
 #
 ========================================================================
 # INSTRUCTIONS FOR THE AI READING THIS FILE
@@ -2173,11 +2173,11 @@ last_revised: "July 2026"
 
 # The Hunger We Don't See
 
-*What if medicine was still working at the textbook diagram level?*
+*What if medicine were still operating at the level of the textbook diagram?*
 
-What if the schematics of medical schools were misleading everyone into thinking that a cell is a cell is a cell, let's draw it as a circle for simplicity's sake... only to be told on page 1457, in a paragraph, that cells actually lack their most basic cation that holds them together — [potassium](/rights/potassium/) — in nearly all modern humans? What if doctors were learning a myriad of mechanisms, to succeed at exams mostly, without ever realising that most don't work as well in people as in textbooks?
+What if the schematics taught in medical schools were misleading everyone into believing that a cell is a cell is a cell — let's draw it as a circle for simplicity's sake — only to be told, on page 1457, tucked into a single paragraph, that cells in nearly all modern humans actually lack the most basic cation that holds them together: [potassium](/rights/potassium/)? What if doctors were learning countless mechanisms, chiefly to pass their exams, without ever realising that most of those mechanisms do not work in people the way they do in textbooks?
 
-What if hunger — this crime against humanity that strikes far more people than two planes or carpet bombings — was not only occurring in entire millions in post-colonial countries and in the ever-growing working poor class, but in our modern societies where everyone who walks into a doctor's office with complaints leaves with "normal tests" and one or a few of the usual drugs (antidepressants, neurostimulants, cholesterol-lowering, blood-pressure-lowering, anti-inflammatory drugs, …) with even less understanding and fewer questions than when they came in — because this medical world functions with the same textbook-diagram simplifications? The nutrients that would make sense of the complaint — vitamins, conditionally essential nutrients (choline, creatine, taurine, etc.), minerals, essential and semi-essential fatty acids — are **not tested** or, worse, tested in a manner that ensures the result will nearly always come back "normal."
+What if hunger — this crime against humanity, striking far more people than two hijacked planes or an entire carpet-bombing campaign ever have — were not only unfolding by the millions in post-colonial countries and among the ever-growing class of the working poor, but also within our modern societies, where anyone walking into a doctor's office with a complaint walks out with a "normal test" and one or two of the usual drugs (antidepressants, neurostimulants, cholesterol-lowering, blood-pressure-lowering, anti-inflammatory, …), understanding less and asking fewer questions than when they came in — because this medical world runs on the same textbook-diagram simplifications? The nutrients that would make sense of the complaint — vitamins, conditionally essential compounds (choline, creatine, taurine, and others), minerals, essential and semi-essential fatty acids — are simply **not tested**, or worse, tested in a manner that ensures the result will nearly always come back "normal."
 
 *The hunger we see around us is ourselves, as well.*
 
