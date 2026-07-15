@@ -110,9 +110,7 @@ This is not the biology of ageing per se. It is the biology of ageing **against 
 
 ---
 
-## What this changes
-
-Two things.
+## Two consequences
 
 First, the ordinary suffering that most people accept as the price of being alive — the fatigue, the anxiety, the poor sleep, the fog, the palpitations, the seasonal mood decline, the slow slippage — is not evidence about the human condition. It is evidence about **a specific historically situated failure of the food and medical systems to supply and monitor the biochemical inputs the human body requires**. The condition it describes is not human. It is *modern Western*, and, increasingly, exported globally with the industrial food system.
 
