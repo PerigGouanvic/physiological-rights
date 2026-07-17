@@ -47,6 +47,8 @@ The iron case is honest in a specific sense: the industries did not need to fabr
 
 **The lesson is not that iron is exceptional. The lesson is that conventional medicine is *capable* of building a functioning nutrient test when the biological necessity and the industrial constituency align.** The obstacle for magnesium, potassium, K2, functional B12 is nowhere technical. The template exists. It has existed for over a century. What is missing, for every one of those nutrients, is a constituency with iron's political weight.
 
+A caveat, not a contradiction: the *panel* exists; the *routine reading* of it in general practice is more often reduced to serum ferritin alone, interpreted against a laboratory reference interval whose lower bound (10 to 15 µg/L) sits inside the population's own deficient tail. The threshold that would catch iron deficiency without anaemia — 30 to 50 µg/L functionally, higher in symptomatic patients — is present in the specialty literature and applied nowhere routinely. The template is honest; its institutionalisation is not. See *[The Ferritin Threshold](/editorials/the-ferritin-threshold/)* for the failure mode that operates even inside the field's honest case.
+
 ---
 
 ## 2. Vitamin D — the degraded version
