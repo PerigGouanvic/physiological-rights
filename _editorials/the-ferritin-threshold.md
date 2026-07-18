@@ -10,7 +10,7 @@ last_revised: "July 2026"
 
 *A ferritin of 4.5 µg/L. A ferritin of 7. A ferritin of 11. A ferritin of 13. All read as "in range" by clinicians reading the reference interval printed on the lab report — often after two, five, ten years of symptoms attributed to anxiety, depression, or the ordinary tiredness of being alive.*
 
-*[Behind Every Test, an Industry](/critique/behind-every-test-an-industry/)* names iron as the case where the medical system gets it right — the bilan martial, a real multi-marker functional assessment, corrected for inflammation by concomitant CRP, capable of answering the question of tissue iron adequacy. That claim stands. It is what makes iron the anchor case of that essay, and it is why the failure this editorial names is subtler, and in its own way more revealing, than the four other cases traced there.
+*[Behind Every Test, an Industry](/critique/behind-every-test-an-industry/)* names iron as the case where the medical system gets it right — iron studies, a real multi-marker functional assessment, corrected for inflammation by concomitant CRP, capable of answering the question of tissue iron adequacy. That claim stands. It is what makes iron the anchor case of that essay, and it is why the failure this editorial names is subtler, and in its own way more revealing, than the four other cases traced there.
 
 The tool is honest. Its routine institutional use is not.
 

@@ -30,7 +30,7 @@ The tools are honest. The routine reading of them is not.
 
 ## Why the honest test is defeated in routine practice
 
-### The multi-marker panel — the *bilan martial*
+### The multi-marker panel — iron studies
 
 Iron is one of the few nutrients for which the medical field has developed, and knows how to use, a **proper multi-marker functional assessment**. The full panel — serum ferritin, serum iron, transferrin, transferrin saturation, soluble transferrin receptor (sTfR), and C-reactive protein (CRP) to correct for the inflammatory rise of ferritin — is capable of answering the question of tissue iron adequacy with a precision that most nutritional assessments cannot approach. As a template of what nutritional testing should look like, the iron panel is the field's honest case.
 
@@ -100,7 +100,7 @@ The list of conditions in which iron deficiency has been documented as a contrib
 
 ### Heavy menstrual bleeding
 
-The population most systematically underdiagnosed is women with heavy menstrual bleeding. The medical literature is explicit that HMB, defined as blood loss exceeding 80 mL per cycle, produces cumulative iron loss that dietary iron alone cannot replace. In practice, most women whose iron reserves are being drained monthly do not receive a bilan martial. They receive an SSRI for the fatigue, a beta-blocker for the palpitations, and reassurance that their haemoglobin is normal.
+The population most systematically underdiagnosed is women with heavy menstrual bleeding. The medical literature is explicit that HMB, defined as blood loss exceeding 80 mL per cycle, produces cumulative iron loss that dietary iron alone cannot replace. In practice, most women whose iron reserves are being drained monthly do not receive full iron studies. They receive an SSRI for the fatigue, a beta-blocker for the palpitations, and reassurance that their haemoglobin is normal.
 
 ### Restless legs and cognitive symptoms
 

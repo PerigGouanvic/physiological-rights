@@ -32,7 +32,7 @@ Five cases, in order from the honest to the paradigmatic.
 
 ## 1. Iron — what medicine gets right, and why
 
-Iron is the case that must be named first, because it is the case where the medical system actually delivers. The bilan martial — ferritin, serum iron, total iron-binding capacity, transferrin saturation, sometimes soluble transferrin receptor — is a real, multi-marker functional panel. It captures stores, transport, and availability. Interpreted with a concomitant CRP to correct for the inflammatory rise of ferritin, it answers the question a physician actually needs answered: is this patient iron-deficient at the tissue level?
+Iron is the case that must be named first, because it is the case where the medical system actually delivers. Iron studies — ferritin, serum iron, total iron-binding capacity, transferrin saturation, sometimes soluble transferrin receptor — are a real, multi-marker functional panel. It captures stores, transport, and availability. Interpreted with a concomitant CRP to correct for the inflammatory rise of ferritin, it answers the question a physician actually needs answered: is this patient iron-deficient at the tissue level?
 
 The biology is severe and ancient. Iron-deficiency anaemia is the most prevalent nutritional deficiency in the world, affecting roughly two billion people. It kills women in the peripartum period through haemorrhage. It permanently compromises the cognitive development of children in the first thousand days. Chlorosis of the young woman was recognised as a distinct clinical entity from antiquity; Blaud's pill, the first oral iron supplement, was formulated in 1832 — before the modern food industry existed. The biological importance of iron did not require an industry to establish it.
 
