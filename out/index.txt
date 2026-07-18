@@ -4,7 +4,7 @@ permalink: /out.txt
 ---
 # PHYSIOLOGICAL RIGHTS — CONTENT EXPORT
 # Site: https://physiological-rights.org
-# Generated: 2026-07-18 01:20 UTC
+# Generated: 2026-07-18 02:15 UTC
 #
 ========================================================================
 # INSTRUCTIONS FOR THE AI READING THIS FILE
@@ -437,7 +437,7 @@ The tools are honest. The routine reading of them is not.
 
 ## Why the honest test is defeated in routine practice
 
-### The multi-marker panel — the *bilan martial*
+### The multi-marker panel — iron studies
 
 Iron is one of the few nutrients for which the medical field has developed, and knows how to use, a **proper multi-marker functional assessment**. The full panel — serum ferritin, serum iron, transferrin, transferrin saturation, soluble transferrin receptor (sTfR), and C-reactive protein (CRP) to correct for the inflammatory rise of ferritin — is capable of answering the question of tissue iron adequacy with a precision that most nutritional assessments cannot approach. As a template of what nutritional testing should look like, the iron panel is the field's honest case.
 
@@ -507,7 +507,7 @@ The list of conditions in which iron deficiency has been documented as a contrib
 
 ### Heavy menstrual bleeding
 
-The population most systematically underdiagnosed is women with heavy menstrual bleeding. The medical literature is explicit that HMB, defined as blood loss exceeding 80 mL per cycle, produces cumulative iron loss that dietary iron alone cannot replace. In practice, most women whose iron reserves are being drained monthly do not receive a bilan martial. They receive an SSRI for the fatigue, a beta-blocker for the palpitations, and reassurance that their haemoglobin is normal.
+The population most systematically underdiagnosed is women with heavy menstrual bleeding. The medical literature is explicit that HMB, defined as blood loss exceeding 80 mL per cycle, produces cumulative iron loss that dietary iron alone cannot replace. In practice, most women whose iron reserves are being drained monthly do not receive full iron studies. They receive an SSRI for the fatigue, a beta-blocker for the palpitations, and reassurance that their haemoglobin is normal.
 
 ### Restless legs and cognitive symptoms
 
@@ -2336,7 +2336,7 @@ Five cases, in order from the honest to the paradigmatic.
 
 ## 1. Iron — what medicine gets right, and why
 
-Iron is the case that must be named first, because it is the case where the medical system actually delivers. The bilan martial — ferritin, serum iron, total iron-binding capacity, transferrin saturation, sometimes soluble transferrin receptor — is a real, multi-marker functional panel. It captures stores, transport, and availability. Interpreted with a concomitant CRP to correct for the inflammatory rise of ferritin, it answers the question a physician actually needs answered: is this patient iron-deficient at the tissue level?
+Iron is the case that must be named first, because it is the case where the medical system actually delivers. Iron studies — ferritin, serum iron, total iron-binding capacity, transferrin saturation, sometimes soluble transferrin receptor — are a real, multi-marker functional panel. It captures stores, transport, and availability. Interpreted with a concomitant CRP to correct for the inflammatory rise of ferritin, it answers the question a physician actually needs answered: is this patient iron-deficient at the tissue level?
 
 The biology is severe and ancient. Iron-deficiency anaemia is the most prevalent nutritional deficiency in the world, affecting roughly two billion people. It kills women in the peripartum period through haemorrhage. It permanently compromises the cognitive development of children in the first thousand days. Chlorosis of the young woman was recognised as a distinct clinical entity from antiquity; Blaud's pill, the first oral iron supplement, was formulated in 1832 — before the modern food industry existed. The biological importance of iron did not require an industry to establish it.
 
@@ -2821,7 +2821,7 @@ last_revised: "July 2026"
 
 *A ferritin of 4.5 µg/L. A ferritin of 7. A ferritin of 11. A ferritin of 13. All read as "in range" by clinicians reading the reference interval printed on the lab report — often after two, five, ten years of symptoms attributed to anxiety, depression, or the ordinary tiredness of being alive.*
 
-*[Behind Every Test, an Industry](/critique/behind-every-test-an-industry/)* names iron as the case where the medical system gets it right — the bilan martial, a real multi-marker functional assessment, corrected for inflammation by concomitant CRP, capable of answering the question of tissue iron adequacy. That claim stands. It is what makes iron the anchor case of that essay, and it is why the failure this editorial names is subtler, and in its own way more revealing, than the four other cases traced there.
+*[Behind Every Test, an Industry](/critique/behind-every-test-an-industry/)* names iron as the case where the medical system gets it right — iron studies, a real multi-marker functional assessment, corrected for inflammation by concomitant CRP, capable of answering the question of tissue iron adequacy. That claim stands. It is what makes iron the anchor case of that essay, and it is why the failure this editorial names is subtler, and in its own way more revealing, than the four other cases traced there.
 
 The tool is honest. Its routine institutional use is not.
 
