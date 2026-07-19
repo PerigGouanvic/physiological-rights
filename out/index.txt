@@ -4,7 +4,7 @@ permalink: /out.txt
 ---
 # PHYSIOLOGICAL RIGHTS — CONTENT EXPORT
 # Site: https://physiological-rights.org
-# Generated: 2026-07-19 18:34 UTC
+# Generated: 2026-07-19 18:36 UTC
 #
 ========================================================================
 # INSTRUCTIONS FOR THE AI READING THIS FILE
@@ -2251,7 +2251,7 @@ What this knowledge is not is *institutionally adopted*. It does not appear in t
 
 Underneath the circle, an industrial logic sorts what enters and what does not. Substances that are patentable and molecules that are novel find funding, regulatory pathways, marketing channels, and eventually guideline adoption. Substances that are native, non-patentable, and bioidentical do not. This is not a conspiracy claim. It is an ordinary consequence of the way medical research is funded, the way regulatory approval is structured, and the way clinical guidelines are formed by professional societies whose continuing medical education is largely paid for by the industries whose products the guidelines will name. The knowledge is orphaned. It exists. It is scientific. It is published. It has no institutional parent.
 
-The physiological right is the demand that this orphaned knowledge be adopted. It is not a demand for a soft alternative medicine. It is a demand that medicine include, in its diagnostic and therapeutic repertoire, the biochemistry that has been developed by its own scientific enterprise but has not been folded into its own clinical practice because the enterprise and the practice are financed on incompatible logics.
+The physiological right is the demand that this orphaned knowledge be adopted, and that medicine include in its diagnostic and therapeutic repertoire the biochemistry that has been developed by its own scientific enterprise but not folded into its own clinical practice because the enterprise and the practice are financed on incompatible logics.
 
 ## IX. The extensible definition of essential
 
@@ -2262,8 +2262,6 @@ The list of what has been called *essential* has changed repeatedly across the t
 The category *conditionally essential* has grown, without ever being formally opened, to include creatine, choline, taurine, glycine, carnitine, coenzyme Q10, N-acetylcysteine and its glutathione precursor role, myo-inositol, alpha-glycerylphosphorylcholine, citicoline, and probably others. What conditionally essential means, when the language is unpacked, is that the substance is *essential to some organisms in some conditions* and not to others. The condition is real, and the population within which the condition holds is not a marginal edge case. Statin users lose endogenous CoQ10 synthesis at rates that the intake from food cannot match. Vegetarians and vegans have low creatine intake and demonstrably lower muscle and brain creatine content, which reverses on supplementation. Pregnant women in North American cohorts consume choline at a fraction of the intake now recognized to support foetal neurodevelopment. The elderly synthesize glutathione less efficiently and lose skeletal muscle protein reserve. The critically ill have plasma glutamine concentrations that fall in proportion to their mortality risk. The category is not exotic. It is populational.
 
 Once the category is opened, a further consequence follows. Essentiality is not a property of a molecule. It is a property of a relationship between an organism, a physiological state, and a metabolic load. What an organism can synthesize is a function of its genotype, its age, its health, its physiological demands, and its exposure to pharmacologic and environmental stressors. A substance becomes essential when the relationship shifts in the direction of insufficient endogenous supply. The concept of the essential nutrient, honestly followed, is inherently extensible. It extends, in principle, to any substance the organism no longer produces in sufficient quantity for the state it is in.
-
-This is not a rhetorical stretch of the concept. It is what the concept says when taken at its word.
 
 ## X. The bioidentical pharmacopoeia
 
