@@ -179,8 +179,6 @@ Hospitals have specialized in a single horizon. They prevent the death that woul
 
 Pauling named the concept on its metabolic face. Galen and eighteen centuries of Western medicine named the concept on its regimen face, under the name of hygiene. Ehrenreich and English and their successors named, on their critical face, the closure of the field that had been half of medicine. This treatise brings them together on the axis of right. What Pauling saw is what the physiological right defends. What Galen taught is what the physiological right restores. What the feminist critique named is what the physiological right redresses. The three converge on a single move, which is the extension of the paradigm the hospital already applies at the last hour to the decades that lead to the last hour.
 
-The sentence with which the treatise ends is the sentence with which it opened. It is meant to be citable and to be remembered.
-
 *All medicine is preventive. Hospitals prevent the death that arrives tonight. No one prevents the decades that lead there.*
 
 The physiological right is what prevents the decades. It is medicine, in the older sense of the word. It is the sense of the word this treatise has argued it is time to recover.
