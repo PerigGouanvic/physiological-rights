@@ -3,7 +3,7 @@ layout: default
 title: Deficiency as a Rights Violation
 description: "When untreated nutritional deficiency constitutes a violation of physiological rights — an obligation of results, not merely of means."
 status: published
-last_revised: "April 2025"
+last_revised: "July 2026"
 ---
 
 # Deficiency as a Rights Violation
@@ -17,3 +17,5 @@ Inaction in the face of deficiency is not neutral. It produces concrete conseque
 This neglect is all the more serious because it is often justified by economic arguments or by the absence of "sufficient evidence." But human rights are not conditional on profitability or the availability of randomised trials. They are absolute.
 
 Physiological rights call for a paradigm shift: recognising that the obligation to actively correct physiological deficiencies is an **obligation of results** — not merely an obligation of means.
+
+In the terms of General Comment 14 on ICESCR Art. 12, the correction of documented deficiencies falls within the **core obligations**, those from which a State cannot exempt itself by invoking resource constraints. See [The Instruments Already Exist](/definitions/the-instruments-already-exist/).

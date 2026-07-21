@@ -68,3 +68,5 @@ Current documented domains include: essential micronutrients (vitamins, minerals
 ## Relation to Existing Rights Frameworks
 
 Physiological rights do not replace existing instruments. They operate as a **concrete layer** beneath the right to health (ICESCR Art. 12), the right to life (ICCPR Art. 6), and the right to benefit from scientific progress (ICESCR Art. 15). Where those instruments speak in systemic and aspirational terms, physiological rights specify what is owed to the individual body — and when that obligation has been breached.
+
+The applicable normative core is the WHO Constitution 1948 (right to the highest *attainable* standard), specified by General Comment 14 (2000) on ICESCR Art. 12, whose AAAQ framework (availability, accessibility, acceptability, quality) and core obligations already contain the material for a physiological reading, and by General Comment 12 (1999) on ICESCR Art. 11, whose definition of food adequacy is calibrated to the individual's nutritional needs. The full doctrinal bridge is developed in [The Instruments Already Exist](/definitions/the-instruments-already-exist/).

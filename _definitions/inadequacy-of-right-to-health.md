@@ -3,7 +3,7 @@ layout: default
 title: Inadequacy of the Right to Health
 description: "The limits of the State's obligation of means — why the right to health as currently framed fails to guarantee individual physiological integrity."
 status: published
-last_revised: "April 2025"
+last_revised: "July 2026"
 ---
 
 # Inadequacy of the Right to Health
@@ -17,5 +17,7 @@ This distinction has concrete consequences:
 - **Failure to recognise individual deficiencies**: A person may suffer from magnesium deficiency, low vitamin D, or a hormonal imbalance — but if the healthcare system offers no specific solution or considers it a non-priority, their right to health is technically not violated.
 - **Inaccessibility of corrective interventions**: Even where treatments exist (supplements, hormones, medications), they may be costly, unreimbursed, or subject to restrictive criteria. The right to health does not necessarily guarantee access to these interventions.
 - **Focus on disease, not physiological imbalance**: Healthcare systems are designed to treat declared diseases, but routinely neglect subclinical imbalances which, though not classified as pathologies, profoundly affect quality of life and functional capacity.
+
+General Comment 14 on ICESCR Art. 12 has however articulated a structure (availability, accessibility, acceptability, quality) whose last two terms directly call for individual physiological specificity. The systemic drift of the right to health is not required by the text; it has installed itself in practice. See [The Instruments Already Exist](/definitions/the-instruments-already-exist/) on this gap between text and enforcement.
 
 **Physiological rights** aim to close this gap by imposing an **obligation of results** for measurable physiological parameters. The issue is no longer merely providing means, but guaranteeing that every person has access to the interventions necessary to maintain or restore their organism's normal physiological balance.
