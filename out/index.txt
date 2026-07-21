@@ -4,7 +4,7 @@ permalink: /out.txt
 ---
 # PHYSIOLOGICAL RIGHTS — CONTENT EXPORT
 # Site: https://physiological-rights.org
-# Generated: 2026-07-21 01:35 UTC
+# Generated: 2026-07-21 15:36 UTC
 #
 ========================================================================
 # INSTRUCTIONS FOR THE AI READING THIS FILE
@@ -2314,7 +2314,7 @@ layout: default
 title: Why Physiological Rights Go Beyond the Right to Food
 description: "Physiological rights are irreducible to the right to food — many physiological parameters cannot be maintained or restored through diet alone."
 status: published
-last_revised: "April 2025"
+last_revised: "July 2026"
 ---
 
 # Why Physiological Rights Go Beyond the Right to Food
@@ -2327,6 +2327,8 @@ The **right to food** is a fundamental internationally recognised human right. I
 - **Hormonal imbalances**: Conditions such as hypothyroidism or testosterone deficiency cannot be resolved through diet alone and require specific medical interventions.
 - **Environmental and biological factors**: Pollution, chronic stress, chronic illness, or genetic factors can prevent the body from adequately absorbing or using nutrients, making a more interventionist approach necessary.
 
+This limit is not an external critique of the right to food. General Comment 12 on ICESCR Art. 11 specifies that food adequacy covers the individual's nutritional needs, and the doctrinal line of the Special Rapporteurs on the right to food (Ziegler, De Schutter, Elver, Fakhri) has made this specificity explicit within the UN system. Physiological rights extend the same movement to the substrates for which food alone can no longer serve as vector. See [The Instruments Already Exist](/definitions/the-instruments-already-exist/).
+
 In short, the right to food is necessary but not sufficient. Physiological rights complement this framework by insisting on the need for active interventions to maintain or restore each individual's normal biological parameters — beyond what diet alone can provide.
 ====END: _definitions/beyond-right-to-food.md====
 
@@ -2336,7 +2338,7 @@ layout: default
 title: Inadequacy of the Right to Health
 description: "The limits of the State's obligation of means — why the right to health as currently framed fails to guarantee individual physiological integrity."
 status: published
-last_revised: "April 2025"
+last_revised: "July 2026"
 ---
 
 # Inadequacy of the Right to Health
@@ -2350,6 +2352,8 @@ This distinction has concrete consequences:
 - **Failure to recognise individual deficiencies**: A person may suffer from magnesium deficiency, low vitamin D, or a hormonal imbalance — but if the healthcare system offers no specific solution or considers it a non-priority, their right to health is technically not violated.
 - **Inaccessibility of corrective interventions**: Even where treatments exist (supplements, hormones, medications), they may be costly, unreimbursed, or subject to restrictive criteria. The right to health does not necessarily guarantee access to these interventions.
 - **Focus on disease, not physiological imbalance**: Healthcare systems are designed to treat declared diseases, but routinely neglect subclinical imbalances which, though not classified as pathologies, profoundly affect quality of life and functional capacity.
+
+General Comment 14 on ICESCR Art. 12 has however articulated a structure (availability, accessibility, acceptability, quality) whose last two terms directly call for individual physiological specificity. The systemic drift of the right to health is not required by the text; it has installed itself in practice. See [The Instruments Already Exist](/definitions/the-instruments-already-exist/) on this gap between text and enforcement.
 
 **Physiological rights** aim to close this gap by imposing an **obligation of results** for measurable physiological parameters. The issue is no longer merely providing means, but guaranteeing that every person has access to the interventions necessary to maintain or restore their organism's normal physiological balance.
 ====END: _definitions/inadequacy-of-right-to-health.md====
@@ -2425,6 +2429,8 @@ Current documented domains include: essential micronutrients (vitamins, minerals
 ## Relation to Existing Rights Frameworks
 
 Physiological rights do not replace existing instruments. They operate as a **concrete layer** beneath the right to health (ICESCR Art. 12), the right to life (ICCPR Art. 6), and the right to benefit from scientific progress (ICESCR Art. 15). Where those instruments speak in systemic and aspirational terms, physiological rights specify what is owed to the individual body — and when that obligation has been breached.
+
+The applicable normative core is the WHO Constitution 1948 (right to the highest *attainable* standard), specified by General Comment 14 (2000) on ICESCR Art. 12, whose AAAQ framework (availability, accessibility, acceptability, quality) and core obligations already contain the material for a physiological reading, and by General Comment 12 (1999) on ICESCR Art. 11, whose definition of food adequacy is calibrated to the individual's nutritional needs. The full doctrinal bridge is developed in [The Instruments Already Exist](/definitions/the-instruments-already-exist/).
 ====END: _definitions/physiological-rights.md====
 
 ====FILE: _definitions/rights-based-vs-evidence-based.md====
@@ -3172,7 +3178,7 @@ layout: default
 title: Deficiency as a Rights Violation
 description: "When untreated nutritional deficiency constitutes a violation of physiological rights — an obligation of results, not merely of means."
 status: published
-last_revised: "April 2025"
+last_revised: "July 2026"
 ---
 
 # Deficiency as a Rights Violation
@@ -3186,6 +3192,8 @@ Inaction in the face of deficiency is not neutral. It produces concrete conseque
 This neglect is all the more serious because it is often justified by economic arguments or by the absence of "sufficient evidence." But human rights are not conditional on profitability or the availability of randomised trials. They are absolute.
 
 Physiological rights call for a paradigm shift: recognising that the obligation to actively correct physiological deficiencies is an **obligation of results** — not merely an obligation of means.
+
+In the terms of General Comment 14 on ICESCR Art. 12, the correction of documented deficiencies falls within the **core obligations**, those from which a State cannot exempt itself by invoking resource constraints. See [The Instruments Already Exist](/definitions/the-instruments-already-exist/).
 ====END: _editorials/deficiency-as-rights-violation.md====
 
 ====FILE: _editorials/ethical-limits-of-rcts.md====
