@@ -578,32 +578,6 @@ header {
 
 .content pre code { border: none; background: none; padding: 0; font-size: 0.85rem; }
 
-/* ── COMMENTS SECTION ── */
-.comments-section {
-  margin-top: 5rem;
-  padding-top: 3rem;
-  border-top: 1px solid var(--rule);
-  max-width: var(--col-width);
-}
-
-.comments-section h2 {
-  font-family: var(--serif);
-  font-weight: 400;
-  font-size: 1.8rem;
-  color: var(--ink);
-  margin: 0 0 0.75rem;
-  padding-top: 0;
-  border-top: none;
-}
-
-.comment-intro {
-  font-family: var(--ui);
-  font-size: 0.85rem;
-  color: var(--ink-light);
-  margin-bottom: 2rem;
-  max-width: var(--col-width);
-}
-
 /* ── INDEX CARDS (used on listing pages) ── */
 .card {
   background: var(--bg-warm);
