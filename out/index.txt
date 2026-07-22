@@ -4,7 +4,7 @@ permalink: /out.txt
 ---
 # PHYSIOLOGICAL RIGHTS — CONTENT EXPORT
 # Site: https://physiological-rights.org
-# Generated: 2026-07-22 04:33 UTC
+# Generated: 2026-07-22 05:04 UTC
 #
 ========================================================================
 # INSTRUCTIONS FOR THE AI READING THIS FILE
@@ -98,7 +98,7 @@ researchers: "Steven Zeisel · Marie Caudill · Kevin Tracey · Richard Wurtman"
 
 Choline was isolated from bile in 1862 by Adolph Strecker and given a name that recorded its origin (*χολή*, bile). For the next hundred and thirty-six years, it circulated in biochemistry textbooks as a component of phosphatidylcholine and acetylcholine, without any official status as a nutrient. It became an essential nutrient in the United States in **1998**, when the Institute of Medicine issued its first Adequate Intake, on the basis of the depletion studies conducted through the 1990s by **Steven Zeisel** at the University of North Carolina. Zeisel and his colleagues had shown that healthy male adults fed a choline-deficient diet for a few weeks developed measurable hepatic dysfunction, reversible on repletion. The reversibility was the criterion. Without adequate choline, the human liver fails within weeks in a controlled experimental setting.
 
-The IOM set the Adequate Intake at 550 mg per day for men and 425 mg per day for women, and raised it to 450 mg during pregnancy. In 2016, the European Food Safety Authority followed with an Adequate Intake of 400 mg per day for adults and 480 mg during pregnancy. In the United States, national dietary survey data from the NHANES cycles show that **fewer than one adult in ten** reaches the AI (Wallace and Fulgoni, *Nutrients* 2016), and the fraction reaching the level suggested by more recent obstetric research is smaller still. A nutrient whose experimentally demonstrated deficit produces measurable organ dysfunction, whose recommendation was set in the closing years of the twentieth century, and whose population intake falls short of that recommendation across an entire continent, is not a marginal question. It is a right in the sense the site uses the word.
+The IOM set the Adequate Intake at 550 mg per day for men and 425 mg per day for women, and raised it to 450 mg during pregnancy. In 2016, the European Food Safety Authority followed with an Adequate Intake of 400 mg per day for adults and 480 mg during pregnancy. In the United States, national dietary survey data from the NHANES cycles show that **fewer than one adult in ten** reaches the AI (Wallace and Fulgoni, *Nutrients* 2016), and the fraction reaching the level suggested by more recent obstetric research is smaller still. A nutrient whose experimentally demonstrated deficit produces measurable organ dysfunction, whose recommendation was set in the closing years of the twentieth century, and whose population intake falls short of that recommendation across an entire continent, is not a marginal question. It is a right in the sense [this site uses the word](/definitions/physiological-rights/).
 
 ---
 
@@ -116,7 +116,7 @@ The liver assembles very-low-density lipoproteins for the export of triglyceride
 
 ### Methyl donation
 
-Choline is oxidized to **betaine**, which donates a methyl group to homocysteine to regenerate methionine. This pathway is one of two remethylation routes in the one-carbon cycle, the other being folate- and vitamin-B12-dependent. When folate and B12 status are marginal, choline becomes the load-bearing methyl donor, and when choline is inadequate, folate and B12 must bear the load alone. The three nutrients are functionally coupled, and a deficit in one increases the required intake of the others. This coupling is entirely absent from routine clinical reasoning, in which homocysteine is rarely measured, folate is treated in isolation, and choline is not on the map.
+Choline is oxidized to **betaine**, which donates a methyl group to homocysteine to regenerate methionine. This pathway is one of two remethylation routes in the one-carbon cycle, the other being [folate](/rights/folate/)- and vitamin-B12-dependent. When folate and B12 status are marginal, choline becomes the load-bearing methyl donor, and when choline is inadequate, folate and B12 must bear the load alone. The three nutrients are functionally coupled, and a deficit in one increases the required intake of the others. This coupling is entirely absent from routine clinical reasoning, in which homocysteine is rarely measured, folate is treated in isolation, and choline is not on the map.
 
 ### Central cholinergic system
 
@@ -150,7 +150,7 @@ The **phosphatidylethanolamine N-methyltransferase (PEMT)** pathway in the liver
 
 ## The parasympathetic nervous system as the compensatory substrate
 
-The list above is already long. The section that follows would justify a fiche of its own. It is placed here because the parasympathetic system is where the material of choline becomes the material of the very capacity the site keeps naming in its editorials: the compensatory reserve that keeps a body whole in conditions the body's environment has not made easy.
+The list above is already long. The section that follows would justify a fiche of its own. It is placed here because the parasympathetic system is where the material of choline becomes the material of the very capacity the site keeps naming in editorials like *[The Tragedy of Diagnosis](/editorials/the-tragedy-of-diagnosis/)* and *[The Life We Call Normal](/editorials/the-life-we-call-normal/)*: the compensatory reserve that keeps a body whole in conditions the body's environment has not made easy.
 
 ### Acetylcholine and the vagus
 
@@ -166,11 +166,11 @@ In 2000, **Kevin Tracey** and colleagues at the Feinstein Institute published in
 
 ### The diffuse signature of dysautonomia
 
-The clinical presentation of impaired parasympathetic function is not a syndrome. It is a distribution of complaints that reach different specialties independently. Palpitations reach cardiology, where the imaging is often normal. Postural intolerance reaches internal medicine or is dismissed. Irritable bowel reaches gastroenterology. Insomnia reaches psychiatry or sleep medicine. Brain fog reaches nobody in particular. Depression and anxiety reach psychiatry, where the diagnosis will be made in the vocabulary of mood disorders rather than of autonomic imbalance. The **Tragedy of Diagnosis** on this site is nowhere more literal than here. A patient with reduced vagal tone will typically be given four or five diagnoses across four or five services, none of them naming the underlying autonomic architecture, and none of them investigating whether the substrate of that architecture is adequate.
+The clinical presentation of impaired parasympathetic function is not a syndrome. It is a distribution of complaints that reach different specialties independently. Palpitations reach cardiology, where the imaging is often normal. Postural intolerance reaches internal medicine or is dismissed. Irritable bowel reaches gastroenterology. Insomnia reaches psychiatry or sleep medicine. Brain fog reaches nobody in particular. Depression and anxiety reach psychiatry, where the diagnosis will be made in the vocabulary of mood disorders rather than of autonomic imbalance. The argument of *[The Tragedy of Diagnosis](/editorials/the-tragedy-of-diagnosis/)* is nowhere more literal than here. A patient with reduced vagal tone will typically be given four or five diagnoses across four or five services, none of them naming the underlying autonomic architecture, and none of them investigating whether the substrate of that architecture is adequate.
 
 ### The industrial mirror of Behind Every Test
 
-A modest industry produces implanted vagus nerve stimulators for epilepsy, treatment-resistant depression, cluster headache, and inflammatory conditions. **LivaNova**, **SetPoint Medical**, **ElectroCore**, and **GammaCore** are its principal actors. The devices work by delivering electrical current to the vagus in order to increase the frequency of vagal firing. What none of them asks, and what no protocol accompanying them requires, is whether the vagus has substrate to release at each stimulated firing. The industrial architecture around the parasympathetic system has captured the nerve as intervention target while leaving the substrate that the nerve releases entirely unaddressed. This is the argument of *Behind Every Test, an Industry*, played back in inversion: where there is an industry aligned with a nutrient, the test is common and the nutrient is measured. Where the industry is aligned with a device that bypasses the nutrient, the nutrient is orphaned.
+A modest industry produces implanted vagus nerve stimulators for epilepsy, treatment-resistant depression, cluster headache, and inflammatory conditions. **LivaNova**, **SetPoint Medical**, **ElectroCore**, and **GammaCore** are its principal actors. The devices work by delivering electrical current to the vagus in order to increase the frequency of vagal firing. What none of them asks, and what no protocol accompanying them requires, is whether the vagus has substrate to release at each stimulated firing. The industrial architecture around the parasympathetic system has captured the nerve as intervention target while leaving the substrate that the nerve releases entirely unaddressed. This is the argument of *[Behind Every Test, an Industry](/critique/behind-every-test-an-industry/)*, played back in inversion: where there is an industry aligned with a nutrient, the test is common and the nutrient is measured. Where the industry is aligned with a device that bypasses the nutrient, the nutrient is orphaned.
 
 ---
 
