@@ -51,11 +51,11 @@ description: "Physiological Rights: the clinical specification of the right to f
 <section class="home-recent">
   <p class="kicker">Recent additions</p>
   <ul class="home-recent-list">
+    <li><span class="home-recent-date">July 2026</span><a href="{{ '/rights/glutathione/' | relative_url }}">Glutathione</a><span class="home-recent-section">Right</span></li>
+    <li><span class="home-recent-date">July 2026</span><a href="{{ '/rights/choline/' | relative_url }}">Choline</a><span class="home-recent-section">Right</span></li>
     <li><span class="home-recent-date">July 2026</span><a href="{{ '/editorials/a-second-medical-nemesis/' | relative_url }}">A Second Medical Nemesis</a><span class="home-recent-section">Editorial</span></li>
-    <li><span class="home-recent-date">July 2026</span><a href="{{ '/editorials/you-are-not-the-exception/' | relative_url }}">You Are Not the Exception</a><span class="home-recent-section">Editorial</span></li>
-    <li><span class="home-recent-date">July 2026</span><a href="{{ '/critique/behind-every-test-an-industry/' | relative_url }}">Behind Every Test, an Industry</a><span class="home-recent-section">Critique</span></li>
-    <li><span class="home-recent-date">July 2026</span><a href="{{ '/editorials/the-life-we-call-normal/' | relative_url }}">The Life We Call Normal</a><span class="home-recent-section">Editorial</span></li>
-    <li><span class="home-recent-date">July 2026</span><a href="{{ '/critique/calibrated-for-nothing/' | relative_url }}">Calibrated for Nothing</a><span class="home-recent-section">Critique</span></li>
+    <li><span class="home-recent-date">July 2026</span><a href="{{ '/editorials/no-one-is-coming/' | relative_url }}">No One Is Coming</a><span class="home-recent-section">Editorial</span></li>
+    <li><span class="home-recent-date">July 2026</span><a href="{{ '/definitions/the-instruments-already-exist/' | relative_url }}">The Instruments Already Exist</a><span class="home-recent-section">Definition</span></li>
   </ul>
   <p class="home-recent-all"><a href="{{ '/editorials/' | relative_url }}">Editorials</a> · <a href="{{ '/critique/' | relative_url }}">Critique</a> · <a href="{{ '/rights/' | relative_url }}">Rights</a> · <a href="{{ '/reports/' | relative_url }}">Case reports</a> · <a href="{{ '/definitions/' | relative_url }}">Definitions</a> · <a href="{{ '/resources/' | relative_url }}">Resources</a></p>
 </section>
