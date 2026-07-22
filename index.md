@@ -11,9 +11,9 @@ description: "Physiological Rights: the clinical specification of the right to f
 
 <section class="home-hero">
   <p class="kicker">Featured</p>
-  <h2 class="home-hero-title"><a href="{{ '/editorials/you-are-not-the-exception/' | relative_url }}">You Are Not the Exception</a></h2>
-  <p class="chapo">The reader who reads these pieces about deficiency and does not, quite, count themselves in. The arithmetic that punches through <em>I feel fine</em>. The ethical difference between diagnosing a named individual and publishing the prior probability that applies to any reader who belongs to the population described.</p>
-  <p class="read-on"><a href="{{ '/editorials/you-are-not-the-exception/' | relative_url }}">Read the piece →</a></p>
+  <h2 class="home-hero-title"><a href="{{ '/definitions/a-litigation-brief/' | relative_url }}">A Litigation Brief for Physiological Rights</a></h2>
+  <p class="chapo">Standing, justiciability, remedies, defenses, precedents, strategy. A proto-brief for jurists prepared to file the claim, anchored on the two sample cases developed on this site (Jane and John), to be adapted by counsel with the jurisdictional expertise the site does not claim.</p>
+  <p class="read-on"><a href="{{ '/definitions/a-litigation-brief/' | relative_url }}">Read the brief →</a></p>
 </section>
 
 <hr class="home-rule">
@@ -22,26 +22,26 @@ description: "Physiological Rights: the clinical specification of the right to f
 
   <article class="home-rubrique">
     <p class="kicker">Editorial</p>
-    <h3><a href="{{ '/editorials/the-life-we-call-normal/' | relative_url }}">The Life We Call Normal</a></h3>
-    <p class="chapo">A composite of shortfalls that most Western adults carry, and mistake for the human condition. Why the fatigue, anxiety, poor sleep, brain fog, and slow slippage we accept as ordinary life are the phenotypic expression of a nutritional network in failure.</p>
+    <h3><a href="{{ '/editorials/the-tragedy-of-diagnosis/' | relative_url }}">The Tragedy of Diagnosis</a></h3>
+    <p class="chapo">The moment a diagnosis is delivered, a field of gravity forms around it. Three propositions travel with the label; the pre-symptomatic question stops being asked; the compensatory investigation closes. What physiological rights owes the diagnosed, and why the right becomes more urgent, not less, once the label is applied.</p>
   </article>
 
   <article class="home-rubrique">
-    <p class="kicker">Critique</p>
-    <h3><a href="{{ '/critique/calibrated-for-nothing/' | relative_url }}">Calibrated for Nothing</a></h3>
-    <p class="chapo">Why most personal trials of supplementation return nothing, and why the field's synthesis of its own literature does too. The null trial is not evidence about the person. It is what a trial with the wrong dose, wrong form, wrong schedule, and wrong observation window produces.</p>
+    <p class="kicker">Model case</p>
+    <h3><a href="{{ '/critique/ferritin-24-a-model-case/' | relative_url }}">Ferritin 24: Jane</a></h3>
+    <p class="chapo">Jane, 38, teacher, fatigued for eighteen months. Three consultations, no ferritin ordered. When the value came back at 24 μg/L, it was flagged normal on a reference range that treats iron depletion as normal by construction. A composite patient, drawn from documented practice, and the claim she would plead.</p>
+  </article>
+
+  <article class="home-rubrique">
+    <p class="kicker">Model case</p>
+    <h3><a href="{{ '/critique/john-68-a-model-case/' | relative_url }}">John, 68: An Alzheimer's Diagnosis</a></h3>
+    <p class="chapo">An early Alzheimer's diagnosis and six parameters no consultation ordered. What the literature says about each in isolation, what the composite correction would produce, and the funding architecture that arranges for the composite evidence to remain thin. For jurists, and for anyone who has been told nothing more can be done.</p>
   </article>
 
   <article class="home-rubrique">
     <p class="kicker">A specific right</p>
     <h3><a href="{{ '/rights/iron/' | relative_url }}">Iron</a></h3>
     <p class="chapo">The most honest test in nutritional medicine, defeated by the number chosen to interpret it. Access to a proper multi-marker assessment, read against thresholds that reflect tissue function rather than the bottom of the local population's distribution.</p>
-  </article>
-
-  <article class="home-rubrique">
-    <p class="kicker">Critique</p>
-    <h3><a href="{{ '/critique/behind-every-test-an-industry/' | relative_url }}">Behind Every Test, an Industry</a></h3>
-    <p class="chapo">Why the medical system measures the nutrients it measures. Behind every routinely ordered nutrient test, and behind every routinely fortified nutrient, stands a food industry aligned with that specific molecule. Industries do not invent biological priorities; they select the ones that align with their products.</p>
   </article>
 
 </section>
@@ -51,11 +51,11 @@ description: "Physiological Rights: the clinical specification of the right to f
 <section class="home-recent">
   <p class="kicker">Recent additions</p>
   <ul class="home-recent-list">
+    <li><span class="home-recent-date">July 2026</span><a href="{{ '/editorials/a-second-medical-nemesis/' | relative_url }}">A Second Medical Nemesis</a><span class="home-recent-section">Editorial</span></li>
+    <li><span class="home-recent-date">July 2026</span><a href="{{ '/editorials/you-are-not-the-exception/' | relative_url }}">You Are Not the Exception</a><span class="home-recent-section">Editorial</span></li>
+    <li><span class="home-recent-date">July 2026</span><a href="{{ '/critique/behind-every-test-an-industry/' | relative_url }}">Behind Every Test, an Industry</a><span class="home-recent-section">Critique</span></li>
+    <li><span class="home-recent-date">July 2026</span><a href="{{ '/editorials/the-life-we-call-normal/' | relative_url }}">The Life We Call Normal</a><span class="home-recent-section">Editorial</span></li>
     <li><span class="home-recent-date">July 2026</span><a href="{{ '/critique/calibrated-for-nothing/' | relative_url }}">Calibrated for Nothing</a><span class="home-recent-section">Critique</span></li>
-    <li><span class="home-recent-date">July 2026</span><a href="{{ '/rights/iron/' | relative_url }}">Iron</a><span class="home-recent-section">Right</span></li>
-    <li><span class="home-recent-date">July 2026</span><a href="{{ '/editorials/the-ferritin-threshold/' | relative_url }}">The Ferritin Threshold</a><span class="home-recent-section">Editorial</span></li>
-    <li><span class="home-recent-date">July 2026</span><a href="{{ '/critique/the-hunger-we-dont-see/' | relative_url }}">The Hunger We Don't See</a><span class="home-recent-section">Critique</span></li>
-    <li><span class="home-recent-date">July 2026</span><a href="{{ '/critique/false-negative-serum-potassium/' | relative_url }}">The False Negative of Serum Potassium</a><span class="home-recent-section">Critique</span></li>
   </ul>
   <p class="home-recent-all"><a href="{{ '/editorials/' | relative_url }}">Editorials</a> · <a href="{{ '/critique/' | relative_url }}">Critique</a> · <a href="{{ '/rights/' | relative_url }}">Rights</a> · <a href="{{ '/reports/' | relative_url }}">Case reports</a> · <a href="{{ '/definitions/' | relative_url }}">Definitions</a> · <a href="{{ '/resources/' | relative_url }}">Resources</a></p>
 </section>
