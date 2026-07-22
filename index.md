@@ -44,6 +44,12 @@ description: "Physiological Rights: the clinical specification of the right to f
     <p class="chapo">The most honest test in nutritional medicine, defeated by the number chosen to interpret it. Access to a proper multi-marker assessment, read against thresholds that reflect tissue function rather than the bottom of the local population's distribution.</p>
   </article>
 
+  <article class="home-rubrique">
+    <p class="kicker">A specific right</p>
+    <h3><a href="{{ '/rights/choline/' | relative_url }}">Choline</a></h3>
+    <p class="chapo">A molecule officially recognized as essential only in 1998, met by fewer than one adult in ten, absent from food guides, absent from routine testing. The material substrate of membranes, hepatic lipid export, methyl donation, biliary flow, renal osmoregulation, and the parasympathetic nervous system.</p>
+  </article>
+
 </section>
 
 <hr class="home-rule">
