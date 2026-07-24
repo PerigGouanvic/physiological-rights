@@ -46,3 +46,4 @@ exclude:
   - README.md
   - node_modules/
   - scripts/
+  - _audit/

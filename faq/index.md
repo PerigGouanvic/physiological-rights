@@ -55,9 +55,9 @@ It means your values fall inside a statistical range built from the sampled popu
 - [The life we call normal](/editorials/the-life-we-call-normal/)
 - [The tragedy of diagnosis](/editorials/the-tragedy-of-diagnosis/)
 
-### My potassium is "normal" but I have palpitations. Why?
+### My potassium is "normal" but I have palpitations. Why might that be?
 
-Because serum potassium is a poor proxy for intracellular potassium. Roughly ninety-eight percent of the body's potassium is inside cells; the two percent circulating in serum is tightly buffered by mechanisms that will strip potassium from tissue to preserve the plasma reading long after the tissue is depleted. A myocardium that has been under-replete for years can produce palpitations while the serum test reads reassuringly. Magnesium deficit sits next to this: without adequate magnesium, the ROMK channel cannot retain the potassium the cell needs.
+Palpitations have many possible causes: thyroid dysfunction, iron-deficiency anaemia, primary arrhythmias, stimulant or medication effects, dehydration, and anxiety among them. The point this resource makes is narrower. It is that serum potassium, when it is used to rule out an electrolyte cause, is a poor proxy for intracellular potassium. Roughly ninety-eight percent of the body's potassium is inside cells; the two percent circulating in serum is tightly buffered by mechanisms that will strip potassium from tissue to preserve the plasma reading long after the tissue is depleted. So a serum potassium in range does not exclude chronic intracellular depletion, and the depletion, when present, is one etiology worth investigating alongside the others. Magnesium sits next to this: without adequate magnesium, the ROMK channel cannot retain the potassium the cell needs, so the two deficits tend to travel together.
 
 - [The false negative of serum potassium](/critique/false-negative-serum-potassium/)
 - [Potassium](/rights/potassium/)
