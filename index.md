@@ -6,13 +6,13 @@ description: "Physiological Rights: the clinical specification of the right to f
 
 <section class="home-manifesto">
   <h1>Physiological Rights</h1>
-  <p>The right to food exists in international law. Its clinical specification does not. This site is the specification: the physiological parameters every body needs, the tests that would detect their absence, and the thresholds set to make the absence invisible.</p>
+  <p>The right to food exists in international law. Its clinical specification does not. This resource is the specification: the physiological parameters every body needs, the tests that would detect their absence, and the thresholds set to make the absence invisible.</p>
 </section>
 
 <section class="home-hero">
   <p class="kicker">Featured</p>
   <h2 class="home-hero-title"><a href="{{ '/definitions/a-litigation-brief/' | relative_url }}">A Litigation Brief for Physiological Rights</a></h2>
-  <p class="chapo">Standing, justiciability, remedies, defenses, precedents, strategy. A proto-brief for jurists prepared to file the claim, anchored on the two sample cases developed on this site (Jane and John), to be adapted by counsel with the jurisdictional expertise the site does not claim.</p>
+  <p class="chapo">Standing, justiciability, remedies, defenses, precedents, strategy. A proto-brief for jurists prepared to file the claim, anchored on the two sample cases developed in these pages (Jane and John), to be adapted by counsel with the jurisdictional expertise the resource does not claim.</p>
   <p class="read-on"><a href="{{ '/definitions/a-litigation-brief/' | relative_url }}">Read the brief →</a></p>
 </section>
 

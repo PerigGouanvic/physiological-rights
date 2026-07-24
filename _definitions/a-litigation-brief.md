@@ -1,16 +1,16 @@
 ---
 layout: default
 title: A Litigation Brief for Physiological Rights
-description: "How the claim is filed. Standing, justiciability, remedies, and the defenses to expect. Anchored on the two sample cases already developed (Ferritin 24, John, 68) and on the doctrinal ground of The Instruments Already Exist. A working document for jurists, to be adapted by counsel with the jurisdictional expertise the site does not claim."
+description: "How the claim is filed. Standing, justiciability, remedies, and the defenses to expect. Anchored on the two sample cases already developed (Ferritin 24, John, 68) and on the doctrinal ground of The Instruments Already Exist. A working document for jurists, to be adapted by counsel with the jurisdictional expertise the resource does not claim."
 status: published
 last_revised: "July 2026"
 ---
 
 # A Litigation Brief for Physiological Rights
 
-*How the claim is filed. Standing, justiciability, remedies, and the defenses to expect. Anchored on the two sample cases (Ferritin 24, John, 68) and on the doctrinal ground of The Instruments Already Exist. A working document for jurists, to be adapted by counsel with the jurisdictional expertise the site does not claim.*
+*How the claim is filed. Standing, justiciability, remedies, and the defenses to expect. Anchored on the two sample cases (Ferritin 24, John, 68) and on the doctrinal ground of The Instruments Already Exist. A working document for jurists, to be adapted by counsel with the jurisdictional expertise the resource does not claim.*
 
-The site is written by a clinician-adjacent researcher, not by a jurist. This document is a proto-brief, offered as material for those who do the doctrinal and litigation work. Nothing here substitutes for the jurisdictional adaptation, procedural drafting, and strategic assessment that only counsel with a live matter can supply. What is offered is a map of the claim, its defensible perimeter, the defenses that will be raised against it, and the precedent architecture already in place to support it.
+This resource is written by a clinician-adjacent researcher, not by a jurist. This document is a proto-brief, offered as material for those who do the doctrinal and litigation work. Nothing here substitutes for the jurisdictional adaptation, procedural drafting, and strategic assessment that only counsel with a live matter can supply. What is offered is a map of the claim, its defensible perimeter, the defenses that will be raised against it, and the precedent architecture already in place to support it.
 
 The two sample cases anchor the argument in patients whose files a jurist can visualise. [Ferritin 24: A Model Case](/critique/ferritin-24-a-model-case/) develops the ordinary iron-insufficiency case in a menstruating woman whose parameter was never ordered. [John, 68: A Model Case](/critique/john-68-a-model-case/) develops the multi-parameter cognitive-decline case in an elderly man whose six substrate deficits were never examined and whose "early Alzheimer's" diagnosis rested on that omission. The doctrinal foundation is developed in [The Instruments Already Exist](/definitions/the-instruments-already-exist/). The polemical position is developed in [Rights-Based Medicine vs Evidence-Based Medicine](/definitions/rights-based-vs-evidence-based/).
 
@@ -176,6 +176,6 @@ The following precedents form the architecture on which the physiological rights
 
 This document is a beginning. Every element in it is available for adaptation by counsel with knowledge of the specific jurisdiction, the specific court, the specific procedural rules, and the specific factual configuration of a live matter. Nothing here forecloses the strategic choices that must be made in the drafting room and the courtroom.
 
-The physiological substrate has been done, or is being done, in the [rights](/rights/) collection of this site. The doctrinal ground is developed in [The Instruments Already Exist](/definitions/the-instruments-already-exist/). The sample cases give the operational shape. What remains is the work of counsel who will translate this material into filings that a court can act on.
+The physiological substrate has been done, or is being done, in the [rights](/rights/) collection of this resource. The doctrinal ground is developed in [The Instruments Already Exist](/definitions/the-instruments-already-exist/). The sample cases give the operational shape. What remains is the work of counsel who will translate this material into filings that a court can act on.
 
 The invitation is direct. The instruments exist. The claim is defensible. The precedents are in place. What has been missing is the ally who will file. This document is written to lower one of the barriers between the argument and the filing. The others fall to the jurists who take it up.

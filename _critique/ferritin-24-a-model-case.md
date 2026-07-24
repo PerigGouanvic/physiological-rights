@@ -1,14 +1,14 @@
 ---
 layout: default
 title: "Ferritin 24: A Model Case"
-description: "A composite patient, drawn from documented practice. What she was owed, what she received, what she would plead, and where she would win. A working brief for jurists reading this site."
+description: "A composite patient, drawn from documented practice. What she was owed, what she received, what she would plead, and where she would win. A working brief for jurists reading this resource."
 status: published
 last_revised: "July 2026"
 ---
 
 # Ferritin 24: A Model Case
 
-*A composite patient, drawn from documented practice. What she was owed, what she received, what she would plead, and where she would win. A working brief for jurists reading this site.*
+*A composite patient, drawn from documented practice. What she was owed, what she received, what she would plead, and where she would win. A working brief for jurists reading this resource.*
 
 Jane is thirty-eight. She teaches. She has two children. For eighteen months she has been fatigued in a way that sleep does not address. She has palpitations at rest. Her thinking has slowed enough that she notices. Her hair is thinner than it was two years ago. She wakes tired. She works. She waits.
 
@@ -100,6 +100,6 @@ The jurisdictional map is not a prediction of outcomes. It is a map of the doctr
 
 Ferritin 24 was chosen because it is pedestrian. Jane's file is not a rare disease at the frontier of pharmacogenomics. It is not a contested condition with an ambiguous evidence base. It is not a case that turns on interpretation of a disputed guideline. It is the ordinary case: a symptomatic person whose physiological substrate is measurably below the range at which her body works, whose measurement is available, whose correction is available, whose right to that correction sits inside instruments already ratified by the States in which she lives.
 
-If the physiological rights argument cannot carry Jane's case, it cannot carry any case. If it can carry Jane's, the class of cases it carries is vast. There are hundreds of millions of Janes. Their files are open in every clinic in the world. The doctrinal work required to move from one Jane to the population of Janes is the work this site is written to invite.
+If the physiological rights argument cannot carry Jane's case, it cannot carry any case. If it can carry Jane's, the class of cases it carries is vast. There are hundreds of millions of Janes. Their files are open in every clinic in the world. The doctrinal work required to move from one Jane to the population of Janes is the work this resource is written to invite.
 
 Jane is a composite. Every element of her file is drawn from documented clinical practice. Nothing about her is invented except the combination of the details into one person. She could be filed tomorrow. The instruments already exist. The frame within which her claim becomes visible already exists. What is missing is the ally who will file her.

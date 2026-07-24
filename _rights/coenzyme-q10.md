@@ -66,7 +66,7 @@ A shuttle whose concentration falls does not produce an acute failure. It produc
 
 None of this fails visibly. All of it costs. The costs accumulate on the decade rather than the month, and they show up as the diffuse phenomena a modern medical vocabulary attributes to "aging": reduced VO2max, exercise intolerance, muscle fatigue, cognitive slowing, cardiac reserve loss. These are not diagnoses. They are the accumulated interest on a buffered deficit.
 
-The founding case of this site was a woman whose serum potassium was normal while her tissue potassium was collapsed, and whose symptoms tracked the tissue value that no test measured. The coenzyme Q10 case is that argument extended to the mitochondrial membrane. **The compartment that matters is not the compartment that is sampled.** The homeostatic buffering is not a nuisance to be corrected for. It is the reason the deficit is invisible. And when the drug that causes the deficit was designed to treat cardiovascular disease, the buffered organ is the heart.
+The founding case of this resource was a woman whose serum potassium was normal while her tissue potassium was collapsed, and whose symptoms tracked the tissue value that no test measured. The coenzyme Q10 case is that argument extended to the mitochondrial membrane. **The compartment that matters is not the compartment that is sampled.** The homeostatic buffering is not a nuisance to be corrected for. It is the reason the deficit is invisible. And when the drug that causes the deficit was designed to treat cardiovascular disease, the buffered organ is the heart.
 
 ---
 

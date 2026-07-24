@@ -1,14 +1,14 @@
 ---
 layout: default
 title: "John, 68: A Model Case"
-description: "A composite patient with an 'early Alzheimer's' diagnosis, and the six parameters no consultation ordered. What the literature says about each in isolation, what the composite trials suggest, what the correction produces, and the funding architecture that arranges for the composite evidence to remain thin. A working brief for jurists reading this site."
+description: "A composite patient with an 'early Alzheimer's' diagnosis, and the six parameters no consultation ordered. What the literature says about each in isolation, what the composite trials suggest, what the correction produces, and the funding architecture that arranges for the composite evidence to remain thin. A working brief for jurists reading this resource."
 status: published
 last_revised: "July 2026"
 ---
 
 # John, 68: A Model Case
 
-*A composite patient with an "early Alzheimer's" diagnosis, and the six parameters no consultation ordered. What the literature says about each in isolation, what the composite trials suggest, what the correction produces, and the funding architecture that arranges for the composite evidence to remain thin. A working brief for jurists reading this site.*
+*A composite patient with an "early Alzheimer's" diagnosis, and the six parameters no consultation ordered. What the literature says about each in isolation, what the composite trials suggest, what the correction produces, and the funding architecture that arranges for the composite evidence to remain thin. A working brief for jurists reading this resource.*
 
 John is sixty-eight. He retired three years ago from an engineering firm at which he had worked since his twenties. His wife noticed, two years before the referral, that he was misplacing appointments. His son noticed, six months before the referral, that he was losing words in mid-sentence and repeating the same anecdote across a dinner. His gait, which had been steady all his life, became unsteady on descending stairs. He began to nap in the afternoon in a way he had not before. He began to sit for long periods without speaking. His wife, who had watched her mother go through the same trajectory a decade earlier, made the referral.
 
@@ -183,4 +183,4 @@ The horizon is wide because the human cost of not opening it is unbearable, and 
 
 John is a composite. Every element of his file, from the biochemistry to the outcome, is drawn from documented clinical practice and from the peer-reviewed literature identified above. Nothing about him is invented except the combination of the elements in one person. He could be filed tomorrow. He could be filed a hundred thousand times tomorrow, if anyone chose to file him. The instruments already exist. The evidence, on each axis and in the composite, is neither absent nor decisive but points consistently in one direction. What is missing is the frame within which the direction is legally acknowledged.
 
-That frame is what this site is written to invite.
+That frame is what this resource is written to invite.
