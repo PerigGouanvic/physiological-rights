@@ -4,7 +4,7 @@ permalink: /out.txt
 ---
 # PHYSIOLOGICAL RIGHTS — CONTENT EXPORT
 # Site: https://physiological-rights.org
-# Generated: 2026-07-27 18:27 UTC
+# Generated: 2026-07-27 19:21 UTC
 #
 ========================================================================
 # INSTRUCTIONS FOR THE AI READING THIS FILE
@@ -3268,9 +3268,9 @@ Western tradition has thought this exact difficulty. It has thought it, moreover
 
 ### The care of self, from antiquity
 
-The Greek *epimeleia heautou*, care of the self, was for the philosophical schools of antiquity a practice, not a sentiment. Socrates in the *Apology* names it as the responsibility Athens ought to be inculcating in its youth. The Stoics, from Epictetus to Marcus Aurelius, made it the axis of an entire moral life. Pierre Hadot, in *Philosophy as a Way of Life*, retraced the ancient sense of *exercices spirituels*, a paradox to modern ears because these exercises are spiritual only in the sense that they concern the soul's orientation toward what is. They comprise the examination of conscience, meditation on the goods, regulation of impressions, attention to the passing state of the body. Michel Foucault, in *L'Herméneutique du sujet* (Collège de France, 1981-1982), gave this tradition its most patient modern reading. He distinguished the care of self, which is a continuous practice, from the delphic *know thyself*, which is a moment of knowledge. The first is primary. It is the constant orientation of a life to itself as an object of attention and cultivation.
+The Greek *epimeleia heautou*, care of the self, was for the philosophical schools of antiquity a practice, not a sentiment. Socrates in the *Apology* names it as the responsibility Athens ought to be inculcating in its youth. The Stoics, from Epictetus to Marcus Aurelius, made it the axis of an entire moral life. Pierre Hadot, in *Philosophy as a Way of Life*, retraced the ancient sense of *spiritual exercises*, a paradox to modern ears because these exercises are spiritual only in the sense that they concern the soul's orientation toward what is. They comprise the examination of conscience, meditation on the goods, regulation of impressions, attention to the passing state of the body. Michel Foucault, in *The Hermeneutics of the Subject* (Collège de France, 1981-1982), gave this tradition its most patient modern reading. He distinguished the care of self, which is a continuous practice, from the delphic *know thyself*, which is a moment of knowledge. The first is primary. It is the constant orientation of a life to itself as an object of attention and cultivation.
 
-This tradition is Western, philosophical, pre-Christian, laïcised in advance. It is, in a very direct sense, the antique word for what the physiological right today asks to be installed as a right. This resource has already given the mythological figure of that practice its place under her Greek name, Hygeia, and traced her eclipse by Panacea, the promise of the remedy that cures all (see [*All Medicine Is Preventive*](/definitions/all-medicine-is-preventive/), § III). The philosophical figure is *epimeleia heautou*. The two meet on the same ground.
+This tradition is Western, philosophical, pre-Christian, secular before secularism. It is, in a very direct sense, the antique word for what the physiological right today asks to be installed as a right. This resource has already given the mythological figure of that practice its place under her Greek name, Hygeia, and traced her eclipse by Panacea, the promise of the remedy that cures all (see [*All Medicine Is Preventive*](/definitions/all-medicine-is-preventive/), § III). The philosophical figure is *epimeleia heautou*. The two meet on the same ground.
 
 ### The conatus, from Spinoza
 
@@ -3286,7 +3286,7 @@ The formulation is significant for the secular reader because it borrows nothing
 
 ### The person as end, from Kant
 
-Kant, in the *Groundwork of the Metaphysics of Morals*, wrote the formula that a laïque tradition of rationalist derivation has never contested. Act so as to treat humanity, whether in your own person or in that of any other, always at the same time as an end, and never merely as a means. To treat the body one inhabits as an instrument of production, to be run below the ranges its own tissues require, is a violation of this imperative applied to oneself. The imperative is not affect. It is a demand of reason on itself. It obliges the rationalist reader as fully as any of the more recent formulations.
+Kant, in the *Groundwork of the Metaphysics of Morals*, wrote the formula that a secular tradition of rationalist derivation has never contested. Act so as to treat humanity, whether in your own person or in that of any other, always at the same time as an end, and never merely as a means. To treat the body one inhabits as an instrument of production, to be run below the ranges its own tissues require, is a violation of this imperative applied to oneself. The imperative is not affect. It is a demand of reason on itself. It obliges the rationalist reader as fully as any of the more recent formulations.
 
 Kantian *Achtung*, respect, is not a sentiment. It is the recognition, by reason, of the dignity of the rational being. Applied reflexively, it becomes the ground of a self-treatment that no failure of feeling can excuse.
 
