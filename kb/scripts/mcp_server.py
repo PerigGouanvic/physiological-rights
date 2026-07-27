@@ -2,10 +2,12 @@
 
 Registered via `.mcp.json` at the repo root. When Claude Code starts in this
 project it will (after user approval) launch this server over stdio and gain
-two tools:
+four tools:
 
-- `kb_query`      — hybrid retrieval (dense + BM25 + MMR + authority weight)
-- `kb_list_sources` — inventory of what's currently indexed
+- `kb_query`         — hybrid retrieval over the indexed corpus (Jekyll + sources)
+- `kb_list_sources`  — inventory of what's currently indexed
+- `kb_reddit_search` — grep-like regex search over the Reddit dumps (streaming, no index, no embedding cost)
+- `kb_reddit_sources` — inventory of downloaded Reddit dumps
 """
 
 from __future__ import annotations
@@ -30,6 +32,7 @@ from query import (  # noqa: E402
     _hybrid_rerank,
     _mmr_select,
 )
+from reddit_search import list_reddit_sources, search_reddit  # noqa: E402
 from schema import init_db  # noqa: E402
 
 
@@ -180,6 +183,79 @@ def kb_list_sources() -> dict[str, Any]:
             for r in sources_rows
         ],
     }
+
+
+@mcp.tool()
+def kb_reddit_search(
+    pattern: str,
+    subs: list[str] | None = None,
+    kinds: list[str] | None = None,
+    limit: int = 20,
+    min_len: int = 200,
+    min_score: int = 0,
+    context: int = 120,
+    case_sensitive: bool = False,
+    sort_by: str = "date",
+) -> list[dict[str, Any]]:
+    """Regex-search the raw Reddit corpus in kb/reddit/ (streaming, no index).
+
+    Use this to find lived-experience testimony from patients and
+    self-experimenters — reports of what a nutrient did or did not do, how
+    a symptom presented, what a doctor said, what a lab test showed. Reddit
+    is anecdotal by nature; treat hits as leads and testimony, not evidence.
+
+    The Reddit corpus is NOT in the vector KB. This tool streams the
+    compressed dumps and matches a Python regex against the post title
+    and body (or comment body). No API cost, no embedding.
+
+    Cost note: a scan without `subs` walks the entire ~3 GB corpus and
+    can take minutes. Always pass `subs` when you can name the relevant
+    subreddits.
+
+    Args:
+        pattern: Python regex, case-insensitive by default.
+            Examples: "K2 arrhythmia", "\\bTSH\\b", "normal.{0,20}test".
+        subs: subreddit names to restrict the scan (highly recommended).
+            Example: ["MTHFR", "B12_Deficiency", "POTS"].
+        kinds: "posts" and/or "comments". Default ["posts"]. Comments
+            are only available for a few subs (see `kb_reddit_sources`).
+        limit: maximum hits to return. Default 20.
+        min_len: skip posts/comments shorter than this (chars). Default 200.
+        min_score: skip items with Reddit score below this. Default 0.
+        context: characters around each match in the snippet. Default 120.
+        case_sensitive: default False.
+        sort_by: "date" (newest first), "score", or "num_comments". Default "date".
+
+    Returns:
+        List of hit dicts: sub, kind, date, score, num_comments, title,
+        body_len, snippet, permalink.
+    """
+    kinds_tuple = tuple(kinds) if kinds else ("posts",)
+    return search_reddit(
+        pattern,
+        subs=subs,
+        kinds=kinds_tuple,
+        limit=limit,
+        min_len=min_len,
+        min_score=min_score,
+        context=context,
+        case_sensitive=case_sensitive,
+        sort_by=sort_by,
+    )
+
+
+@mcp.tool()
+def kb_reddit_sources() -> list[dict[str, Any]]:
+    """Inventory of the Reddit dumps available for `kb_reddit_search`.
+
+    Returns one entry per (subreddit, kind) file with size in MB and last
+    modification date. Use this to know which subs are downloaded and how
+    much material each one holds before choosing `subs` for a search.
+
+    Returns:
+        List of dicts: sub, kind, size_mb, modified.
+    """
+    return list_reddit_sources()
 
 
 if __name__ == "__main__":
