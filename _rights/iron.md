@@ -172,6 +172,8 @@ Cook's work at the University of Kansas in the 1970s established the correlation
 
 Beard's twenty years of work at Penn State documented that iron deficiency in developmental windows produces cognitive and behavioural effects that persist after biochemical repletion: a finding that transforms the threshold question from a question of adult symptom control into a question of generational damage.
 
+An honest multi-marker panel, read against a threshold set at the bottom of a deficient population's own distribution, delivers a false reassurance to a substantial fraction of the people it examines. Iron status, read at a threshold that reflects tissue function, is a right in the sense [this resource uses the word](/definitions/physiological-rights/).
+
 ---
 
 ## Timeline: an honest tool, dishonestly read

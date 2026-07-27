@@ -161,6 +161,8 @@ The international MaGNet network demonstrated that current thresholds (often 0.7
 
 Recommendation: set the minimum threshold at **0.85 mmol/L**.
 
+A century of warnings, a nutrient whose deficit the routine test hides by construction, and a food supply whose magnesium content has fallen against a background of intensifying medical demand: magnesium is a right in the sense [this resource uses the word](/definitions/physiological-rights/).
+
 ---
 
 ## Timeline: a century of inaction

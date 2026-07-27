@@ -272,6 +272,8 @@ RDAs are expressed solely in mg of alpha-tocopherol. Tocotrienols, gamma- and de
 
 Vitamin E is not a nutrient that science has fully explored. It is a nutrient of which science has explored only **one eighth of the territory** — and concluded, on the basis of that partial exploration, that the rest did not exist. Biological complexity does not disappear when we refuse to measure it. It simply manifests as "unexplained" diseases.
 
+Access to the full family (mixed tocopherols and tocotrienols), to a measurement that names gamma-tocopherol rather than only alpha, and to a recommendation that reflects the biology of eight molecules rather than one: this is a right in the sense [this resource uses the word](/definitions/physiological-rights/).
+
 ---
 
 ## References

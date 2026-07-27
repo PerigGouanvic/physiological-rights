@@ -259,7 +259,7 @@ Clinical advantages:
 
 An Omega-3 Index test (available by mail order from [OmegaQuant](https://omegaquant.com) or through certain private Canadian and European laboratories) can reveal within weeks whether cell membranes are being built under the right conditions — or whether they have been functioning in degraded mode for years, without anyone having looked.
 
-Within the framework of the Right to Physiological Integrity, this grounds a **right to an optimal EPA and DHA status**: the right to recognition of functional deficiency, access to relevant membrane tests, and access to clean, affordable marine omega-3 sources for all.
+Within the framework of the [physiological rights](/definitions/physiological-rights/) this resource defends, this grounds a **right to an optimal EPA and DHA status**: the right to recognition of functional deficiency, access to relevant membrane tests, and access to clean, affordable marine omega-3 sources for all.
 
 ---
 

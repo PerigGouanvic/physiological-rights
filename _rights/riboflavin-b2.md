@@ -172,7 +172,7 @@ For people unknowingly carrying an MTHFR variant, or simply following a modern d
 > *"A latent subclinical riboflavin deficiency can result in a significant clinical phenotype when combined with inborn genetic disturbances or environmental and physiological factors like infections, exercise, diet, aging and pregnancy."*
 > — International Journal of Molecular Sciences, 2020[^1]
 
-Within the framework of the Right to Physiological Integrity, this grounds a **right to an optimal riboflavin status**: the right to recognition of subclinical deficiency, to relevant tests including EGRAC, and to safe, low-cost supplementation strategies to correct a deficit that, today, hides in plain sight.
+Within the framework of the [physiological rights](/definitions/physiological-rights/) this resource defends, this grounds a **right to an optimal riboflavin status**: the right to recognition of subclinical deficiency, to relevant tests including EGRAC, and to safe, low-cost supplementation strategies to correct a deficit that, today, hides in plain sight.
 
 ---
 

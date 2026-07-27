@@ -225,6 +225,8 @@ Biochemist at the *Metabolic Genomics Laboratory* (Arkansas Children's Hospital)
 
 > *"Maternal genetic variants that compromise intrauterine availability of folate derivatives could alter fetal cell trajectories and disrupt normal neurodevelopment."*[^72]
 
+Access to the biologically active form (5-MTHF), functional assessment of the methyl cycle rather than reflex serum folate, and recognition that "the folate problem is solved" applied only to the visible obstetric endpoint: this is a right in the sense [this resource uses the word](/definitions/physiological-rights/).
+
 ---
 
 ## Timeline: from discovery to the illusion of resolution

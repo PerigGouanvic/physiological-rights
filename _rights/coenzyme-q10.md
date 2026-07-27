@@ -162,7 +162,7 @@ The right to adequate coenzyme Q10 is not the right to a supplement. It is the r
 **In population practice:**
 - Recognition, in the same language as [The Life We Call Normal](/editorials/the-life-we-call-normal/) and [The Tragedy of Diagnosis](/editorials/the-tragedy-of-diagnosis/), that the buffered deficit is not the absence of harm. It is the accumulation of harm at an interest rate the current instruments do not read.
 
-The right is the right to have the mechanism of one's medication matched by the substrate that the mechanism removes. It is a right the pharmaceutical architecture has known since 1990 and has chosen, at every step of its distribution to forty million people, to leave unmet.
+The right is the [right](/definitions/physiological-rights/) to have the mechanism of one's medication matched by the substrate that the mechanism removes. It is a right the pharmaceutical architecture has known since 1990 and has chosen, at every step of its distribution to forty million people, to leave unmet.
 
 ---
 

@@ -190,7 +190,7 @@ The **right to adequate potassium status** entails:
 5. **Public reimbursement** of dietary potassium repletion — through subsidised whole foods, KCl-enriched salts, and clinically supervised supplementation — where dietary reach is insufficient.
 6. **Recognition of iatrogenic depletion** as an obligation of prescribers: any prescription of thiazide or loop diuretics, in particular, should be accompanied by a structured assessment of potassium and magnesium status, not by a reflex serum K measurement.
 
-The physiological right is to a **stock** the body can draw on — the intracellular pool of a nutrient that the entire electrical and osmotic architecture of the organism depends on. It is not to the maintenance of a laboratory value that the body defends precisely by depleting that stock.
+The [physiological right](/definitions/physiological-rights/) is to a **stock** the body can draw on — the intracellular pool of a nutrient that the entire electrical and osmotic architecture of the organism depends on. It is not to the maintenance of a laboratory value that the body defends precisely by depleting that stock.
 
 ---
 

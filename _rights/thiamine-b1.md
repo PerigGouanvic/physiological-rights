@@ -113,7 +113,7 @@ Specific forms (benfotiamine, TTFD) can optimise tissue or neurological penetrat
 
 > *"Treatment with intravenous thiamine resulted in partial or complete recovery from the symptoms (cardiac, neurologic, and metabolic disorders) for most patients."*[^10]
 
-Within the framework of the Right to Physiological Integrity, this grounds a **right to an optimal thiamine status**: the right to recognition of subclinical deficiency, access to relevant tests where available, and safe, low-cost supplementation strategies to correct a deficit that today is, quite literally, hiding in plain sight.
+Within the framework of the [physiological rights](/definitions/physiological-rights/) this resource defends, this grounds a **right to an optimal thiamine status**: the right to recognition of subclinical deficiency, access to relevant tests where available, and safe, low-cost supplementation strategies to correct a deficit that today is, quite literally, hiding in plain sight.
 
 ---
 

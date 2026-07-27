@@ -125,7 +125,7 @@ None of these is on the panel a general practitioner orders. The functional inde
 
 ## What the right to glutathione requires
 
-- Recognition that a right to an endogenous molecule the body cannot receive from outside is operationally the right to its **substrates and cofactors**: cysteine (via NAC or diet), glycine, selenium, riboflavin. The classical objection that glutathione cannot be supplemented is not against the right, it is the form of the right.
+- Recognition that a [right to an endogenous molecule the body cannot receive from outside](/definitions/physiological-rights/) is operationally the right to its **substrates and cofactors**: cysteine (via NAC or diet), glycine, selenium, riboflavin. The classical objection that glutathione cannot be supplemented is not against the right, it is the form of the right.
 - Access to functional measurement (RBC GSH, GSH/GSSG ratio, pyroglutamate) in the assessment of chronic disease, fatigue, cognitive complaints, and iatrogenic exposure.
 - Consideration of glutathione substrate status in chronic acetaminophen users, patients on multiple xenobiotic-conjugating drugs, and populations with high environmental oxidant burden. See *[Behind Every Test, an Industry](/critique/behind-every-test-an-industry/)* for the structural logic of why the substrates of an endogenous tripeptide, with no industry aligned with a testable end-product, remain outside the routine panel.
 - Inclusion of glutathione substrate provision in the trajectory of aging, on the strength of the Sekhar body of work, as a modifiable component of what this resource names in *[The Life We Call Normal](/editorials/the-life-we-call-normal/)*.
