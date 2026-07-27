@@ -4,7 +4,7 @@ permalink: /out.txt
 ---
 # PHYSIOLOGICAL RIGHTS — CONTENT EXPORT
 # Site: https://physiological-rights.org
-# Generated: 2026-07-27 23:02 UTC
+# Generated: 2026-07-27 23:09 UTC
 #
 ========================================================================
 # INSTRUCTIONS FOR THE AI READING THIS FILE
@@ -391,7 +391,7 @@ The right to adequate coenzyme Q10 is not the right to a supplement. It is the r
 **In population practice:**
 - Recognition, in the same language as [The Life We Call Normal](/editorials/the-life-we-call-normal/) and [The Tragedy of Diagnosis](/editorials/the-tragedy-of-diagnosis/), that the buffered deficit is not the absence of harm. It is the accumulation of harm at an interest rate the current instruments do not read.
 
-The right is the right to have the mechanism of one's medication matched by the substrate that the mechanism removes. It is a right the pharmaceutical architecture has known since 1990 and has chosen, at every step of its distribution to forty million people, to leave unmet.
+The right is the [right](/definitions/physiological-rights/) to have the mechanism of one's medication matched by the substrate that the mechanism removes. It is a right the pharmaceutical architecture has known since 1990 and has chosen, at every step of its distribution to forty million people, to leave unmet.
 
 ---
 
@@ -654,6 +654,8 @@ Biochemist at the *Metabolic Genomics Laboratory* (Arkansas Children's Hospital)
 
 > *"Maternal genetic variants that compromise intrauterine availability of folate derivatives could alter fetal cell trajectories and disrupt normal neurodevelopment."*[^72]
 
+Access to the biologically active form (5-MTHF), functional assessment of the methyl cycle rather than reflex serum folate, and recognition that "the folate problem is solved" applied only to the visible obstetric endpoint: this is a right in the sense [this resource uses the word](/definitions/physiological-rights/).
+
 ---
 
 ## Timeline: from discovery to the illusion of resolution
@@ -883,7 +885,7 @@ None of these is on the panel a general practitioner orders. The functional inde
 
 ## What the right to glutathione requires
 
-- Recognition that a right to an endogenous molecule the body cannot receive from outside is operationally the right to its **substrates and cofactors**: cysteine (via NAC or diet), glycine, selenium, riboflavin. The classical objection that glutathione cannot be supplemented is not against the right, it is the form of the right.
+- Recognition that a [right to an endogenous molecule the body cannot receive from outside](/definitions/physiological-rights/) is operationally the right to its **substrates and cofactors**: cysteine (via NAC or diet), glycine, selenium, riboflavin. The classical objection that glutathione cannot be supplemented is not against the right, it is the form of the right.
 - Access to functional measurement (RBC GSH, GSH/GSSG ratio, pyroglutamate) in the assessment of chronic disease, fatigue, cognitive complaints, and iatrogenic exposure.
 - Consideration of glutathione substrate status in chronic acetaminophen users, patients on multiple xenobiotic-conjugating drugs, and populations with high environmental oxidant burden. See *[Behind Every Test, an Industry](/critique/behind-every-test-an-industry/)* for the structural logic of why the substrates of an endogenous tripeptide, with no industry aligned with a testable end-product, remain outside the routine panel.
 - Inclusion of glutathione substrate provision in the trajectory of aging, on the strength of the Sekhar body of work, as a modifiable component of what this resource names in *[The Life We Call Normal](/editorials/the-life-we-call-normal/)*.
@@ -1079,6 +1081,8 @@ Cook's work at the University of Kansas in the 1970s established the correlation
 ### John L. Beard: Iron and the brain
 
 Beard's twenty years of work at Penn State documented that iron deficiency in developmental windows produces cognitive and behavioural effects that persist after biochemical repletion: a finding that transforms the threshold question from a question of adult symptom control into a question of generational damage.
+
+An honest multi-marker panel, read against a threshold set at the bottom of a deficient population's own distribution, delivers a false reassurance to a substantial fraction of the people it examines. Iron status, read at a threshold that reflects tissue function, is a right in the sense [this resource uses the word](/definitions/physiological-rights/).
 
 ---
 
@@ -1288,6 +1292,8 @@ The international MaGNet network demonstrated that current thresholds (often 0.7
 > *"Widely varying serum magnesium reference ranges render our use of this important medical tool imprecise, minimizing impacts of low magnesium status or hypomagnesemia as a marker of disease risk."*
 
 Recommendation: set the minimum threshold at **0.85 mmol/L**.
+
+A century of warnings, a nutrient whose deficit the routine test hides by construction, and a food supply whose magnesium content has fallen against a background of intensifying medical demand: magnesium is a right in the sense [this resource uses the word](/definitions/physiological-rights/).
 
 ---
 
@@ -1509,7 +1515,7 @@ DEXA is reimbursed for osteoporosis in most jurisdictions, and the same scan tha
 
 ### The right invoked here
 
-Under the physiological-rights framework this resource defends, the right to adequate muscle mass is the right of the person concerned to have this parameter measured at ages where correction is tractable, named against a threshold of function rather than a threshold of clinical catastrophe, and, where deficient, actually restored to a normative range under an intervention adequate to the deficit. The instruments already exist to support the claim. The right to health under Article 12 of the *International Covenant on Economic, Social and Cultural Rights*, read through General Comment 14 of the Committee on Economic, Social and Cultural Rights, obliges the state to provide the conditions under which physiological adequacy is attainable. The self-care doctrine articulated in the Alma-Ata Declaration and in the WHO Self-Care Interventions programme protects the subject who acts on their own body when the standard of care declines to do so. The vocabulary under which this right is currently unarticulated is the missing element, and the argument this resource is building is that its articulation is a matter of naming rather than of doctrine.
+Under the [physiological-rights framework](/definitions/physiological-rights/) this resource defends, the right to adequate muscle mass is the right of the person concerned to have this parameter measured at ages where correction is tractable, named against a threshold of function rather than a threshold of clinical catastrophe, and, where deficient, actually restored to a normative range under an intervention adequate to the deficit. The instruments already exist to support the claim. The right to health under Article 12 of the *International Covenant on Economic, Social and Cultural Rights*, read through General Comment 14 of the Committee on Economic, Social and Cultural Rights, obliges the state to provide the conditions under which physiological adequacy is attainable. The self-care doctrine articulated in the Alma-Ata Declaration and in the WHO Self-Care Interventions programme protects the subject who acts on their own body when the standard of care declines to do so. The vocabulary under which this right is currently unarticulated is the missing element, and the argument this resource is building is that its articulation is a matter of naming rather than of doctrine.
 
 ---
 
@@ -1825,7 +1831,7 @@ Clinical advantages:
 
 An Omega-3 Index test (available by mail order from [OmegaQuant](https://omegaquant.com) or through certain private Canadian and European laboratories) can reveal within weeks whether cell membranes are being built under the right conditions — or whether they have been functioning in degraded mode for years, without anyone having looked.
 
-Within the framework of the Right to Physiological Integrity, this grounds a **right to an optimal EPA and DHA status**: the right to recognition of functional deficiency, access to relevant membrane tests, and access to clean, affordable marine omega-3 sources for all.
+Within the framework of the [physiological rights](/definitions/physiological-rights/) this resource defends, this grounds a **right to an optimal EPA and DHA status**: the right to recognition of functional deficiency, access to relevant membrane tests, and access to clean, affordable marine omega-3 sources for all.
 
 ---
 
@@ -2374,7 +2380,7 @@ The **right to adequate potassium status** entails:
 5. **Public reimbursement** of dietary potassium repletion — through subsidised whole foods, KCl-enriched salts, and clinically supervised supplementation — where dietary reach is insufficient.
 6. **Recognition of iatrogenic depletion** as an obligation of prescribers: any prescription of thiazide or loop diuretics, in particular, should be accompanied by a structured assessment of potassium and magnesium status, not by a reflex serum K measurement.
 
-The physiological right is to a **stock** the body can draw on — the intracellular pool of a nutrient that the entire electrical and osmotic architecture of the organism depends on. It is not to the maintenance of a laboratory value that the body defends precisely by depleting that stock.
+The [physiological right](/definitions/physiological-rights/) is to a **stock** the body can draw on — the intracellular pool of a nutrient that the entire electrical and osmotic architecture of the organism depends on. It is not to the maintenance of a laboratory value that the body defends precisely by depleting that stock.
 
 ---
 
@@ -2579,7 +2585,7 @@ For people unknowingly carrying an MTHFR variant, or simply following a modern d
 > *"A latent subclinical riboflavin deficiency can result in a significant clinical phenotype when combined with inborn genetic disturbances or environmental and physiological factors like infections, exercise, diet, aging and pregnancy."*
 > — International Journal of Molecular Sciences, 2020[^1]
 
-Within the framework of the Right to Physiological Integrity, this grounds a **right to an optimal riboflavin status**: the right to recognition of subclinical deficiency, to relevant tests including EGRAC, and to safe, low-cost supplementation strategies to correct a deficit that, today, hides in plain sight.
+Within the framework of the [physiological rights](/definitions/physiological-rights/) this resource defends, this grounds a **right to an optimal riboflavin status**: the right to recognition of subclinical deficiency, to relevant tests including EGRAC, and to safe, low-cost supplementation strategies to correct a deficit that, today, hides in plain sight.
 
 ---
 
@@ -2726,7 +2732,7 @@ Specific forms (benfotiamine, TTFD) can optimise tissue or neurological penetrat
 
 > *"Treatment with intravenous thiamine resulted in partial or complete recovery from the symptoms (cardiac, neurologic, and metabolic disorders) for most patients."*[^10]
 
-Within the framework of the Right to Physiological Integrity, this grounds a **right to an optimal thiamine status**: the right to recognition of subclinical deficiency, access to relevant tests where available, and safe, low-cost supplementation strategies to correct a deficit that today is, quite literally, hiding in plain sight.
+Within the framework of the [physiological rights](/definitions/physiological-rights/) this resource defends, this grounds a **right to an optimal thiamine status**: the right to recognition of subclinical deficiency, access to relevant tests where available, and safe, low-cost supplementation strategies to correct a deficit that today is, quite literally, hiding in plain sight.
 
 ---
 
@@ -3038,6 +3044,8 @@ RDAs are expressed solely in mg of alpha-tocopherol. Tocotrienols, gamma- and de
 - Develop and validate functional biomarkers (urinary metabolites, membrane markers) as has been done for vitamin D (25-OH) and omega-3 (erythrocyte index)[^1]
 
 Vitamin E is not a nutrient that science has fully explored. It is a nutrient of which science has explored only **one eighth of the territory** — and concluded, on the basis of that partial exploration, that the rest did not exist. Biological complexity does not disappear when we refuse to measure it. It simply manifests as "unexplained" diseases.
+
+Access to the full family (mixed tocopherols and tocotrienols), to a measurement that names gamma-tocopherol rather than only alpha, and to a recommendation that reflects the biology of eight molecules rather than one: this is a right in the sense [this resource uses the word](/definitions/physiological-rights/).
 
 ---
 
