@@ -163,6 +163,19 @@
         </div>
         {% endif %}
 
+        {% assign this_url = page.url | absolute_url | url_encode %}
+        <div class="aside-section aside-translate">
+            <h3>Read in</h3>
+            <p class="translate-langs">
+                <a href="https://translate.google.com/translate?sl=en&amp;tl=fr&amp;u={{ this_url }}" target="_blank" rel="noopener nofollow">FR</a> ·
+                <a href="https://translate.google.com/translate?sl=en&amp;tl=es&amp;u={{ this_url }}" target="_blank" rel="noopener nofollow">ES</a> ·
+                <a href="https://translate.google.com/translate?sl=en&amp;tl=pt&amp;u={{ this_url }}" target="_blank" rel="noopener nofollow">PT</a> ·
+                <a href="https://translate.google.com/translate?sl=en&amp;tl=de&amp;u={{ this_url }}" target="_blank" rel="noopener nofollow">DE</a> ·
+                <a href="https://translate.google.com/translate?sl=en&amp;tl=it&amp;u={{ this_url }}" target="_blank" rel="noopener nofollow">IT</a>
+            </p>
+            <p class="translate-note">Machine translation via Google. The English version prevails.</p>
+        </div>
+
         {% if page.path %}
         <div class="aside-section">
             <a class="aside-edit" href="https://github.com/PerigGouanvic/physiological-rights/edit/main/{{ page.path }}" target="_blank" rel="noopener">✎ Edit on GitHub</a>
@@ -219,6 +232,19 @@
             <p>{{ page.researchers }}</p>
         </div>
         {% endif %}
+
+        {% assign this_url_mob = page.url | absolute_url | url_encode %}
+        <div class="aside-section aside-translate">
+            <h3>Read in</h3>
+            <p class="translate-langs">
+                <a href="https://translate.google.com/translate?sl=en&amp;tl=fr&amp;u={{ this_url_mob }}" target="_blank" rel="noopener nofollow">FR</a> ·
+                <a href="https://translate.google.com/translate?sl=en&amp;tl=es&amp;u={{ this_url_mob }}" target="_blank" rel="noopener nofollow">ES</a> ·
+                <a href="https://translate.google.com/translate?sl=en&amp;tl=pt&amp;u={{ this_url_mob }}" target="_blank" rel="noopener nofollow">PT</a> ·
+                <a href="https://translate.google.com/translate?sl=en&amp;tl=de&amp;u={{ this_url_mob }}" target="_blank" rel="noopener nofollow">DE</a> ·
+                <a href="https://translate.google.com/translate?sl=en&amp;tl=it&amp;u={{ this_url_mob }}" target="_blank" rel="noopener nofollow">IT</a>
+            </p>
+            <p class="translate-note">Machine translation via Google. The English version prevails.</p>
+        </div>
 
         {% if page.path %}
         <div class="aside-section">

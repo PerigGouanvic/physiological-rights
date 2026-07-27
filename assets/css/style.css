@@ -338,6 +338,33 @@ header {
   text-decoration: none;
 }
 
+.aside-translate .translate-langs {
+  font-family: var(--ui);
+  font-size: 0.82rem;
+  letter-spacing: 0.03em;
+  color: var(--ink-mid);
+  margin-bottom: 0.6rem;
+}
+
+.aside-translate .translate-langs a {
+  color: var(--ink-mid);
+  text-decoration: none;
+  padding: 0 0.15rem;
+}
+
+.aside-translate .translate-langs a:hover {
+  color: var(--ink);
+  text-decoration: underline;
+}
+
+.aside-translate .translate-note {
+  font-family: var(--ui);
+  font-size: 0.7rem;
+  font-style: italic;
+  color: var(--ink-light);
+  line-height: 1.4;
+}
+
 .toc-list {
   list-style: none;
   display: flex;
