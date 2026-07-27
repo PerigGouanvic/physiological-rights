@@ -103,19 +103,90 @@ L'extraction PDF (via `pdfplumber`) insère un marqueur `[page N]` à chaque sau
 
 ## Serveur MCP
 
-Un serveur MCP (`kb/scripts/mcp_server.py`) expose deux outils à Claude Code :
+Un serveur MCP (`kb/scripts/mcp_server.py`) expose quatre outils à Claude Code :
 
-- `kb_query(query, k, types, mmr_lambda)` — même retrieval que le CLI.
-- `kb_list_sources()` — inventaire.
+- `kb_query(query, k, types, mmr_lambda)` — recherche hybride sur le corpus indexé (Jekyll + PDF).
+- `kb_list_sources()` — inventaire de la KB vectorielle.
+- `kb_reddit_search(pattern, subs, kinds, min_len, min_score, ...)` — grep regex sur les dumps Reddit (voir section suivante).
+- `kb_reddit_sources()` — inventaire des dumps Reddit téléchargés.
 
-Il est enregistré dans `.mcp.json` à la racine du dépôt. Au premier lancement de Claude Code dans ce dossier, Claude te demandera l'autorisation d'activer le serveur — accepte pour que l'outil soit disponible en conversation.
+Il est enregistré dans `.mcp.json` à la racine du dépôt. Au premier lancement de Claude Code dans ce dossier, Claude te demandera l'autorisation d'activer le serveur — accepte pour que l'outil soit disponible en conversation. Les outils ne se rechargent pas à chaud : si tu modifies le serveur, quitte et relance la session Claude Code.
 
-Test manuel du serveur (facultatif — il communique en JSON-RPC sur stdin) :
+Test manuel du serveur (facultatif, communique en JSON-RPC sur stdin) :
 
 ```bash
 kb/.venv/bin/python kb/scripts/mcp_server.py
 # Ctrl+C pour quitter
 ```
+
+## Corpus Reddit (`kb/reddit/`)
+
+### Pourquoi ce corpus existe
+
+La littérature académique dit peu sur le vécu clinique de la carence, du surdosage, du symptôme qui bouge quand on prend telle substance. Reddit héberge, à défaut de mieux, un laboratoire d'auto-expérimentation à grande échelle : des dizaines de milliers de personnes racontent, souvent avec précision, ce qui a marché et ce qui n'a pas marché sur elles.
+
+Ce corpus n'est pas une preuve. C'est du **témoignage** et de la **piste**. Sa valeur pour ce projet :
+
+- **Sourcer une anecdote clinique** pour une pièce éditoriale (« des personnes rapportent que… »).
+- **Repérer des patterns convergents** — quand vingt témoignages disent la même chose sur le potassium et les arythmies, ça pointe vers quelque chose que le sérique ne voit pas.
+- **Cartographier ce qui manque au diagnostic** — les personnes qui écrivent « mon médecin a dit que c'était normal alors que j'étais dans cet état » sont exactement le corpus que le site conceptualise.
+
+À manier avec la posture épistémique du dépôt (voir `CLAUDE.md`) : le témoignage anecdotique n'est pas subordonné à la revue par les pairs, il l'informe. Il n'est pas non plus une conclusion en soi.
+
+### Ce qui est disponible
+
+- 67 subreddits, ~3.3 GB compressés, téléchargés en juillet 2026 via l'API Arctic Shift.
+- Posts pour tous, **commentaires** pour 4 subs seulement (`B12_Deficiency`, `CFS`, `MTHFR`, plus un). Les threads complets ne sont donc pas là pour la majorité.
+- Le corpus n'est pas dans la KB vectorielle. Pas d'embeddings, pas de recherche sémantique. Uniquement du matching regex sur le texte brut.
+- Coût : **zéro**. Aucun appel API en interrogation.
+
+Pour l'inventaire à jour : demande à Claude « fais un `kb_reddit_sources` » ou lance `kb/.venv/bin/python kb/scripts/reddit_search.py --help`.
+
+### Comment m'en servir en session Claude Code
+
+Tu n'as pas besoin de connaître l'API du tool. Tu demandes en langage naturel, Claude appelle l'outil pour toi. Exemples de formulations qui marchent :
+
+| Ce que tu tapes | Ce que Claude appelle |
+|-----------------|-----------------------|
+| « Cherche dans Reddit les témoignages de palpitations sous magnésium, dans les subs Magnesium et Supplements » | `kb_reddit_search("palpitat", subs=["Magnesium","Supplements"], min_len=400)` |
+| « Trouve les meilleurs posts de r/MTHFR sur le methylfolate » | `kb_reddit_search("methylfolate", subs=["MTHFR"], sort_by="score", min_score=10)` |
+| « Cherche dans les subs thyroïde les gens à qui on a dit que leur TSH était normale » | `kb_reddit_search("TSH.*normal", subs=["Hypothyroidism","Hashimotos","StopTheThyroidMadness"], min_len=500)` |
+| « Quels subs sont téléchargés ? » | `kb_reddit_sources()` |
+
+Trois consignes qui rendent les résultats bons :
+
+1. **Toujours nommer les subs** quand tu peux. Un scan sans `subs` traverse 3 GB et prend plusieurs minutes.
+2. **Filtrer sur `min_len` et `min_score`** pour éliminer les one-liners et les posts sans engagement. Défauts : 200 chars, score 0. Monter à 400/5 change tout.
+3. **Écrire une regex assez précise** pour ne pas ramener 500 résultats. `\bK2\b` est mieux que `K2`. `palpitat` capte palpitations/palpitating/palpitate.
+
+### Corpus dense vs corpus large
+
+Subs à haute densité physiologique (recommandés pour la plupart des recherches) :
+
+`MTHFR`, `B12_Deficiency`, `Magnesium`, `VitaminD`, `Iron`, `Zinc`, `Selenium`, `Copper`, `Iodine`, `Choline`, `Boron`, `methylation`, `omega3`, `Hypothyroidism`, `Hashimotos`, `Hyperthyroidism`, `thyroidhealth`, `StopTheThyroidMadness`, `AdrenalFatigue`, `PCOS`, `Menopause`, `PMDD`, `HypothalamicAmenorrhea`, `Testosterone`, `POTS`, `dysautonomia`, `Fibromyalgia`, `CFS`, `MCAS`, `Histamine`, `HistamineIntolerance`, `RestlessLegs`, `Migraine`, `ehlersdanlos`, `Nootropics`, `StackAdvice`, `Peptides`, `Biohackers`, `Supplements`, `SelfHacking`, `QuantifiedSelf`, `DrWillPowers`, `PSSD`, `Anemic`, `AskDocs`, `FamilyMedicine`, `DiagnoseMe`, `medicine`, `FamilyMedicine`.
+
+Subs à densité diffuse (à éviter sauf recherche spécifique) : `depression`, `Anxiety`, `ADHD`, `keto`, `Fitness`, `bodybuilding`, `tinnitus`, `insomnia`, `medical_advice`. Ils ont beaucoup de volume mais peu de spécificité nutritionnelle.
+
+### Ce que ce corpus ne fait PAS
+
+- Pas de recherche sémantique. Si tu cherches « perte de muscle chez la femme âgée obèse », le tool ne comprendra rien. Il faut passer des termes concrets (« sarcopenic obesity », « lost muscle mass », etc.).
+- Pas de threads. Sauf pour les 4 subs qui ont des comments, tu vois les posts isolés.
+- Pas de dédoublonnage entre subs. Les cross-posts apparaissent plusieurs fois.
+- Non incrémental. Le dernier téléchargement date du 21 juillet 2026. Pour actualiser un sub :
+
+```bash
+kb/.venv/bin/python kb/scripts/reddit_download.py <sub> --resume
+```
+
+### CLI de secours (identique à l'outil MCP)
+
+```bash
+kb/.venv/bin/python kb/scripts/reddit_search.py "palpitat" --subs Magnesium,Supplements --min-len 400 --min-score 5 --sort-by score --limit 10
+```
+
+### Chantier dormant : ingestion vectorielle
+
+`kb/scripts/ingest_reddit.py` sait chunker + embedder les dumps Reddit vers la KB SQLite. Coût estimé : $1 (filtres stricts) à $30 (passe intégrale) en voyage-3. Reporté tant que le grep suffit.
 
 ## État actuel
 
