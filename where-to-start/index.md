@@ -13,6 +13,21 @@ last_revised: "July 2026"
 
 ---
 
+## How the resource is organised
+
+The resource is divided into a set of stable collections, each with its own list page and a distinct editorial function.
+
+- **[Rights](/rights/)** are the central form. Each entry is a full-length article devoted to a single nutrient or physiological parameter (magnesium, potassium, iron, folate, choline, glutathione, coenzyme Q10, riboflavin B2, vitamin E, omega-3, optimal hormonal levels, muscle mass, and the list is growing). Every entry follows the same structure: historical context, the researchers who named the deficit, a critique of the current thresholds, the mechanism, the associated conditions, and a referenced bibliography. If you take away one collection from the resource, it is this one.
+- **[Definitions](/definitions/)** hold the conceptual ground: what a physiological right is, how it relates to the right to food and the right to health, which international instruments already carry the doctrine, what a litigation brief for the right would look like, and what philosophical footing is being assumed.
+- **[Critique](/critique/)** develops the transversal disagreements with the mainstream frame: how reference ranges are constructed on a depleted population, why "balanced diet" is an ambiguous phrase, why the pharmacological-versus-vitamin dose split tracks the syringe more than the physiology, and what a supplement label is legally forbidden to say. It also carries two composite model cases (Jane, ferritin 24; John, 68, an early Alzheimer's diagnosis) that walk a specific claim through a specific consultation.
+- **[Editorials](/editorials/)** are the argumentative pieces: political framings, positions taken, and the register in which the resource speaks directly rather than exposes doctrine.
+- **[Case reports](/reports/)** are shorter clinical vignettes subordinated to the Rights fiches. Where a Rights entry lays out the full architecture of the parameter, a report shows what the deficit looks like in an ordinary consultation.
+- **[Resources](/resources/)** collect the primary material referenced across the resource: international instruments, WHO recommendations, foundational papers, thematic bibliographies.
+
+The paths below draw from all of them.
+
+---
+
 ## For jurists
 
 The doctrinal path. It starts at the term (what claim is actually being made), moves through the international instruments already in place, reaches the doctrinal core of General Comment 14, and ends at the litigation architecture.
