@@ -4,7 +4,7 @@ permalink: /out.txt
 ---
 # PHYSIOLOGICAL RIGHTS — CONTENT EXPORT
 # Site: https://physiological-rights.org
-# Generated: 2026-07-28 00:55 UTC
+# Generated: 2026-07-28 02:31 UTC
 #
 ========================================================================
 # INSTRUCTIONS FOR THE AI READING THIS FILE
@@ -77,14 +77,27 @@ permalink: /out.txt
 
 ====FILE: _rights/choline.md====
 ---
-layout: default
-title: Right to Adequate Choline
-name: Choline
 category: conditionally essential nutrient
-description: "The right to adequate choline: a molecule officially recognized as essential only in 1998, met by fewer than one adult in ten, absent from food guides, absent from routine testing, and the material substrate of membranes, hepatic lipid export, methyl donation, biliary flow, renal osmoregulation, and the parasympathetic nervous system."
+description: 'The right to adequate choline: a molecule officially recognized as essential
+  only in 1998, met by fewer than one adult in ten, absent from food guides, absent
+  from routine testing, and the material substrate of membranes, hepatic lipid export,
+  methyl donation, biliary flow, renal osmoregulation, and the parasympathetic nervous
+  system.'
+last_revised: July 2026
+layout: default
+name: Choline
+related:
+- title: The Hunger We Don't See
+  url: /critique/the-hunger-we-dont-see/
+- title: The Life We Call Normal
+  url: /editorials/the-life-we-call-normal/
+- title: All Medicine Is Preventive
+  url: /definitions/all-medicine-is-preventive/
+- title: Behind Every Test, an Industry
+  url: /critique/behind-every-test-an-industry/
+researchers: Steven Zeisel · Marie Caudill · Kevin Tracey · Richard Wurtman
 status: published
-last_revised: "July 2026"
-researchers: "Steven Zeisel · Marie Caudill · Kevin Tracey · Richard Wurtman"
+title: Right to Adequate Choline
 ---
 
 # Right to Adequate Choline
@@ -228,14 +241,28 @@ Plasma free choline is a poor reflector of tissue status. Whole blood choline is
 
 ====FILE: _rights/coenzyme-q10.md====
 ---
-layout: default
-title: Right to Adequate Coenzyme Q10
-name: Coenzyme Q10
 category: conditionally essential nutrient / mitochondrial cofactor
-description: "The right to adequate coenzyme Q10: a lipophilic quinone the body synthesizes on the same branched pathway as cholesterol, so a drug taken by forty million people to lower cholesterol depletes it by construction. Recognized as a target for co-supplementation in the 1989 Merck patents that were never developed, still not standard of care, still called a supplement of unproven benefit."
+description: 'The right to adequate coenzyme Q10: a lipophilic quinone the body synthesizes
+  on the same branched pathway as cholesterol, so a drug taken by forty million people
+  to lower cholesterol depletes it by construction. Recognized as a target for co-supplementation
+  in the 1989 Merck patents that were never developed, still not standard of care,
+  still called a supplement of unproven benefit.'
+last_revised: July 2026
+layout: default
+name: Coenzyme Q10
+related:
+- title: 'John, 68: A Model Case'
+  url: /critique/john-68-a-model-case/
+- title: Right to Adequate Glutathione
+  url: /rights/glutathione/
+- title: Right to Adequate Muscle Mass
+  url: /rights/muscle-mass/
+- title: Calibrated for Nothing
+  url: /critique/calibrated-for-nothing/
+researchers: Karl Folkers · Peter Langsjoen · Svend Aage Mortensen · Franklin Rosenfeldt
+  · Maciej Banach · Beatrice Golomb
 status: published
-last_revised: "July 2026"
-researchers: "Karl Folkers · Peter Langsjoen · Svend Aage Mortensen · Franklin Rosenfeldt · Maciej Banach · Beatrice Golomb"
+title: Right to Adequate Coenzyme Q10
 ---
 
 # Right to Adequate Coenzyme Q10
@@ -428,14 +455,25 @@ US Patent 4,933,165 (1990). Combination formulation.
 
 ====FILE: _rights/folate.md====
 ---
-layout: default
-title: Right to Adequate Folate Levels
-name: Folate / folic acid (B9)
 category: vitamin
-description: "The right to adequate folate levels: access to testing and appropriate supplementation, with recognition of MTHFR polymorphisms that affect conversion of synthetic folic acid to the active form."
+description: 'The right to adequate folate levels: access to testing and appropriate
+  supplementation, with recognition of MTHFR polymorphisms that affect conversion
+  of synthetic folic acid to the active form.'
+last_revised: July 2026
+layout: default
+name: Folate / folic acid (B9)
+related:
+- title: Right to Optimal Thiamine (Vitamin B1) Status
+  url: /rights/thiamine-b1/
+- title: Right to Optimal Vitamin E Status (Full Spectrum)
+  url: /rights/vitamin-e/
+- title: Right to Optimal Riboflavin (Vitamin B2) Status
+  url: /rights/riboflavin-b2/
+- title: Right to Optimal Omega-3 Status (EPA/DHA)
+  url: /rights/omega-3/
+researchers: Patrick Stover · Joel Mason · Jacob Selhub · Lucy Wills
 status: published
-last_revised: "July 2026"
-researchers: "Patrick Stover · Joel Mason · Jacob Selhub · Lucy Wills"
+title: Right to Adequate Folate Levels
 ---
 
 # Right to Adequate Folate Levels
@@ -761,14 +799,29 @@ Access to the biologically active form (5-MTHF), functional assessment of the me
 
 ====FILE: _rights/glutathione.md====
 ---
-layout: default
-title: Right to Adequate Glutathione
-name: Glutathione
 category: endogenous tripeptide / cellular metabolite
-description: "The right to adequate glutathione: the master antioxidant of the cell is a tripeptide the body synthesizes and destroys internally, at concentrations no oral supplement can reproduce. The right therefore falls on the substrates: cysteine (via N-acetylcysteine), glycine, selenium, riboflavin. The clinical infrastructure that would measure, provision, and monitor these substrates does not exist in ordinary medicine, and the trajectory that follows their insufficiency is the trajectory of much of chronic disease and aging."
+description: 'The right to adequate glutathione: the master antioxidant of the cell
+  is a tripeptide the body synthesizes and destroys internally, at concentrations
+  no oral supplement can reproduce. The right therefore falls on the substrates: cysteine
+  (via N-acetylcysteine), glycine, selenium, riboflavin. The clinical infrastructure
+  that would measure, provision, and monitor these substrates does not exist in ordinary
+  medicine, and the trajectory that follows their insufficiency is the trajectory
+  of much of chronic disease and aging.'
+last_revised: July 2026
+layout: default
+name: Glutathione
+related:
+- title: Right to Adequate Coenzyme Q10
+  url: /rights/coenzyme-q10/
+- title: All Medicine Is Preventive
+  url: /definitions/all-medicine-is-preventive/
+- title: The Life We Call Normal
+  url: /editorials/the-life-we-call-normal/
+- title: Two Doses, One Molecule
+  url: /critique/two-doses-one-molecule/
+researchers: Alton Meister · Rajagopal Sekhar · Leonore Herzenberg · S. Jill James
 status: published
-last_revised: "July 2026"
-researchers: "Alton Meister · Rajagopal Sekhar · Leonore Herzenberg · S. Jill James"
+title: Right to Adequate Glutathione
 ---
 
 # Right to Adequate Glutathione
@@ -911,14 +964,28 @@ None of these is on the panel a general practitioner orders. The functional inde
 
 ====FILE: _rights/iron.md====
 ---
-layout: default
-title: Right to Adequate Iron Status
-name: Iron
 category: mineral
-description: "The right to adequate iron status: access to a proper multi-marker assessment (ferritin, transferrin saturation, soluble transferrin receptor, CRP for inflammatory correction) read against thresholds that reflect tissue function rather than the bottom of the local population's distribution. The most honest test in modern nutritional medicine, defeated by the number chosen to interpret it."
+description: 'The right to adequate iron status: access to a proper multi-marker assessment
+  (ferritin, transferrin saturation, soluble transferrin receptor, CRP for inflammatory
+  correction) read against thresholds that reflect tissue function rather than the
+  bottom of the local population''s distribution. The most honest test in modern nutritional
+  medicine, defeated by the number chosen to interpret it.'
+last_revised: July 2026
+layout: default
+name: Iron
+related:
+- title: The Ferritin Threshold
+  url: /editorials/the-ferritin-threshold/
+- title: 'Ferritin 24: A Model Case'
+  url: /critique/ferritin-24-a-model-case/
+- title: Behind Every Test, an Industry
+  url: /critique/behind-every-test-an-industry/
+- title: The Life We Call Normal
+  url: /editorials/the-life-we-call-normal/
+researchers: Michael Auerbach · Sant-Rayn Pasricha · Clara Camaschella · Tomas Ganz
+  · Elizabeta Nemeth · Zuguo Mei · James D. Cook · John L. Beard
 status: published
-last_revised: "July 2026"
-researchers: "Michael Auerbach · Sant-Rayn Pasricha · Clara Camaschella · Tomas Ganz · Elizabeta Nemeth · Zuguo Mei · James D. Cook · John L. Beard"
+title: Right to Adequate Iron Status
 ---
 
 # Right to Adequate Iron Status
@@ -1135,14 +1202,26 @@ An honest multi-marker panel, read against a threshold set at the bottom of a de
 
 ====FILE: _rights/magnesium.md====
 ---
-layout: default
-title: Right to Adequate Magnesium Levels
-name: Magnesium
 category: mineral
-description: "The right to adequate magnesium levels: access to testing and supplementation to prevent and correct one of the most widespread and systematically underdiagnosed nutritional deficiencies in the Western world."
+description: 'The right to adequate magnesium levels: access to testing and supplementation
+  to prevent and correct one of the most widespread and systematically underdiagnosed
+  nutritional deficiencies in the Western world.'
+last_revised: July 2026
+layout: default
+name: Magnesium
+related:
+- title: The Life We Call Normal
+  url: /editorials/the-life-we-call-normal/
+- title: The Hunger We Don't See
+  url: /critique/the-hunger-we-dont-see/
+- title: The Ambiguities of "Balanced Diet"
+  url: /critique/balanced-diet-ambiguities/
+- title: Behind Every Test, an Industry
+  url: /critique/behind-every-test-an-industry/
+researchers: Jean Durlach · Mildred Seelig · James J. DiNicolantonio · Carolyn Dean
+  · Andrea Rosanoff
 status: published
-last_revised: "July 2026"
-researchers: "Jean Durlach · Mildred Seelig · James J. DiNicolantonio · Carolyn Dean · Andrea Rosanoff"
+title: Right to Adequate Magnesium Levels
 ---
 
 # Right to Adequate Magnesium Levels
@@ -1356,14 +1435,29 @@ A century of warnings, a nutrient whose deficit the routine test hides by constr
 
 ====FILE: _rights/muscle-mass.md====
 ---
-layout: default
-title: Right to Adequate Muscle Mass
-name: Muscle Mass
 category: physiological parameter
-description: "The right to adequate muscle mass: access to measurement, to a threshold of function rather than a threshold of late geriatric pathology, and to the interventions that actually restore the tissue when it is depleted. Muscle mass is a measurable structural parameter with normative values for age and sex, with cascading consequences on metabolism, autonomy, and longevity, and yet it is measured almost nowhere in ordinary care."
+description: 'The right to adequate muscle mass: access to measurement, to a threshold
+  of function rather than a threshold of late geriatric pathology, and to the interventions
+  that actually restore the tissue when it is depleted. Muscle mass is a measurable
+  structural parameter with normative values for age and sex, with cascading consequences
+  on metabolism, autonomy, and longevity, and yet it is measured almost nowhere in
+  ordinary care.'
+last_revised: July 2026
+layout: default
+name: Muscle Mass
+related:
+- title: 'Sarcopenic Obesity: The Strength They Measure, the Mass They Miss'
+  url: /critique/strength-they-measure-mass-they-miss/
+- title: Right to Optimal Hormonal Levels
+  url: /rights/optimal-hormonal-levels/
+- title: Right to Adequate Coenzyme Q10
+  url: /rights/coenzyme-q10/
+- title: All Medicine Is Preventive
+  url: /definitions/all-medicine-is-preventive/
+researchers: Irwin H. Rosenberg · Alfonso J. Cruz-Jentoft · Richard N. Baumgartner
+  · Robert R. Wolfe · William J. Evans · Roger A. Fielding · Anne B. Newman
 status: published
-last_revised: "July 2026"
-researchers: "Irwin H. Rosenberg · Alfonso J. Cruz-Jentoft · Richard N. Baumgartner · Robert R. Wolfe · William J. Evans · Roger A. Fielding · Anne B. Newman"
+title: Right to Adequate Muscle Mass
 ---
 
 # Right to Adequate Muscle Mass
@@ -1577,14 +1671,26 @@ The claim of the present page is, in one sense, the extension of Mayer's argumen
 
 ====FILE: _rights/omega-3.md====
 ---
-layout: default
-title: Right to Optimal Omega-3 Status (EPA/DHA)
-name: Omega-3 (EPA/DHA)
 category: macronutrient
-description: "The right to an optimal omega-3 status: access to testing (Omega-3 Index) and supplementation to correct the chronic omega-6/omega-3 imbalance that characterises modern Western diets."
+description: 'The right to an optimal omega-3 status: access to testing (Omega-3 Index)
+  and supplementation to correct the chronic omega-6/omega-3 imbalance that characterises
+  modern Western diets.'
+last_revised: July 2026
+layout: default
+name: Omega-3 (EPA/DHA)
+related:
+- title: Right to Adequate Folate Levels
+  url: /rights/folate/
+- title: Right to Optimal Thiamine (Vitamin B1) Status
+  url: /rights/thiamine-b1/
+- title: Right to Optimal Vitamin E Status (Full Spectrum)
+  url: /rights/vitamin-e/
+- title: Right to Optimal Riboflavin (Vitamin B2) Status
+  url: /rights/riboflavin-b2/
+researchers: Charles Serhan · William S. Harris · Clemens von Schacky · Joseph Hibbeln
+  · Artemis Simopoulos
 status: published
-last_revised: "July 2026"
-researchers: "Charles Serhan · William S. Harris · Clemens von Schacky · Joseph Hibbeln · Artemis Simopoulos"
+title: Right to Optimal Omega-3 Status (EPA/DHA)
 ---
 
 # Omega-3: the mass nutritional deficiency that industry, medicine, and governments are managing badly
@@ -1887,14 +1993,29 @@ Within the framework of the [physiological rights](/definitions/physiological-ri
 
 ====FILE: _rights/optimal-hormonal-levels.md====
 ---
-layout: default
-title: Right to Optimal Hormonal Levels
-name: Optimal Hormonal Levels
 category: hormonal parameters
-description: "The right to optimal hormonal levels: a landscape of five endocrine axes (thyroid, female sex hormones, andropause, cortisol, insulin) surveyed through what medicine does well, does badly, and does not do at all. The reference range built from a population itself compromised is mistaken for a target of function, and the tests that would name the deficit exist and are not ordered."
+description: 'The right to optimal hormonal levels: a landscape of five endocrine
+  axes (thyroid, female sex hormones, andropause, cortisol, insulin) surveyed through
+  what medicine does well, does badly, and does not do at all. The reference range
+  built from a population itself compromised is mistaken for a target of function,
+  and the tests that would name the deficit exist and are not ordered.'
+last_revised: July 2026
+layout: default
+name: Optimal Hormonal Levels
+related:
+- title: The Blunder They Called a Refutation
+  url: /critique/the-blunder-they-called-a-refutation/
+- title: The Hunger We Don't See
+  url: /critique/the-hunger-we-dont-see/
+- title: Right to Adequate Muscle Mass
+  url: /rights/muscle-mass/
+- title: All Medicine Is Preventive
+  url: /definitions/all-medicine-is-preventive/
+researchers: Broda O. Barnes · Antonio C. Bianco · JoAnn E. Manson · Jerilynn C. Prior
+  · Alexander Vermeulen · Shalender Bhasin · Hans Selye · Joseph R. Kraft · Gerald
+  M. Reaven · Benjamin Bikman
 status: published
-last_revised: "July 2026"
-researchers: "Broda O. Barnes · Antonio C. Bianco · JoAnn E. Manson · Jerilynn C. Prior · Alexander Vermeulen · Shalender Bhasin · Hans Selye · Joseph R. Kraft · Gerald M. Reaven · Benjamin Bikman"
+title: Right to Optimal Hormonal Levels
 ---
 
 # Right to Optimal Hormonal Levels
@@ -2197,14 +2318,27 @@ The landscape assembled here is provisional. Each of the five axes deserves the 
 
 ====FILE: _rights/potassium.md====
 ---
-layout: default
-title: Right to Adequate Potassium Status
-name: Potassium
 category: mineral
-description: "The right to adequate potassium status: recognition that a homeostatically defended serum value systematically hides tissue depletion, that dietary intake is only one input to the tissue balance, and that access to a food environment matching evolutionary physiology is a matter of preventable cardiovascular mortality."
+description: 'The right to adequate potassium status: recognition that a homeostatically
+  defended serum value systematically hides tissue depletion, that dietary intake
+  is only one input to the tissue balance, and that access to a food environment matching
+  evolutionary physiology is a matter of preventable cardiovascular mortality.'
+last_revised: July 2026
+layout: default
+name: Potassium
+related:
+- title: 'The False Negative: Serum Potassium and the Compartment It Cannot See'
+  url: /critique/false-negative-serum-potassium/
+- title: The Hunger We Don't See
+  url: /critique/the-hunger-we-dont-see/
+- title: The Life We Call Normal
+  url: /editorials/the-life-we-call-normal/
+- title: Behind Every Test, an Industry
+  url: /critique/behind-every-test-an-industry/
+researchers: George Meneely · Walter Kempner · Lot Page · Graham MacGregor · Feng
+  He · Paul Whelton · Horacio Adrogué · Tommaso Filippini
 status: published
-last_revised: "July 2026"
-researchers: "George Meneely · Walter Kempner · Lot Page · Graham MacGregor · Feng He · Paul Whelton · Horacio Adrogué · Tommaso Filippini"
+title: Right to Adequate Potassium Status
 ---
 
 # Right to Adequate Potassium Status
@@ -2422,14 +2556,25 @@ The [physiological right](/definitions/physiological-rights/) is to a **stock** 
 
 ====FILE: _rights/riboflavin-b2.md====
 ---
-layout: default
-title: Right to Optimal Riboflavin (Vitamin B2) Status
-name: Vitamin B2 (riboflavin)
 category: vitamin
-description: "The right to an optimal riboflavin status: recognition of widespread subclinical deficiency and its role in mitochondrial function, FAD/FMN cofactor production, and MTHFR enzyme activity."
+description: 'The right to an optimal riboflavin status: recognition of widespread
+  subclinical deficiency and its role in mitochondrial function, FAD/FMN cofactor
+  production, and MTHFR enzyme activity.'
+last_revised: July 2026
+layout: default
+name: Vitamin B2 (riboflavin)
+related:
+- title: Right to Adequate Folate Levels
+  url: /rights/folate/
+- title: Right to Optimal Thiamine (Vitamin B1) Status
+  url: /rights/thiamine-b1/
+- title: Right to Optimal Vitamin E Status (Full Spectrum)
+  url: /rights/vitamin-e/
+- title: Right to Optimal Omega-3 Status (EPA/DHA)
+  url: /rights/omega-3/
+researchers: Helene McNulty · Kathleen Sheridan · Anne Molloy · Chandler Marrs
 status: published
-last_revised: "July 2026"
-researchers: "Helene McNulty · Kathleen Sheridan · Anne Molloy · Chandler Marrs"
+title: Right to Optimal Riboflavin (Vitamin B2) Status
 ---
 
 # Vitamin B2 (riboflavin): the mirage of safety
@@ -2628,14 +2773,25 @@ Within the framework of the [physiological rights](/definitions/physiological-ri
 
 ====FILE: _rights/thiamine-b1.md====
 ---
-layout: default
-title: Right to Optimal Thiamine (Vitamin B1) Status
-name: Vitamin B1 (thiamine)
 category: vitamin
-description: "The right to an optimal thiamine status: recognition of functional deficiency beyond frank beriberi, including high-dose thiamine therapy for conditions such as dysautonomia and Parkinson's disease."
+description: 'The right to an optimal thiamine status: recognition of functional deficiency
+  beyond frank beriberi, including high-dose thiamine therapy for conditions such
+  as dysautonomia and Parkinson''s disease.'
+last_revised: July 2026
+layout: default
+name: Vitamin B1 (thiamine)
+related:
+- title: Right to Adequate Folate Levels
+  url: /rights/folate/
+- title: Right to Optimal Vitamin E Status (Full Spectrum)
+  url: /rights/vitamin-e/
+- title: Right to Optimal Riboflavin (Vitamin B2) Status
+  url: /rights/riboflavin-b2/
+- title: Right to Optimal Omega-3 Status (EPA/DHA)
+  url: /rights/omega-3/
+researchers: Derrick Lonsdale · Chandler Marrs · Elliot Overton
 status: published
-last_revised: "July 2026"
-researchers: "Derrick Lonsdale · Chandler Marrs · Elliot Overton"
+title: Right to Optimal Thiamine (Vitamin B1) Status
 ---
 
 # Thiamine deficiency: the silent epidemic of the modern world
@@ -2782,15 +2938,27 @@ Within the framework of the [physiological rights](/definitions/physiological-ri
 
 ====FILE: _rights/vitamin-e.md====
 ---
-layout: default
-title: Right to Optimal Vitamin E Status (Full Spectrum)
-name: Vitamin E (complete family)
 category: vitamin
+description: Vitamin E is not a molecule but a family of eight compounds. For decades,
+  official science, medicine, and industry have recognised only one member. This reductionism
+  has produced inadequate recommendations, potentially harmful supplements, and a
+  massive underestimate of actual deficiency.
+last_revised: July 2026
+layout: default
+name: Vitamin E (complete family)
+related:
+- title: Right to Adequate Folate Levels
+  url: /rights/folate/
+- title: Right to Optimal Thiamine (Vitamin B1) Status
+  url: /rights/thiamine-b1/
+- title: Right to Optimal Omega-3 Status (EPA/DHA)
+  url: /rights/omega-3/
+- title: Right to Optimal Riboflavin (Vitamin B2) Status
+  url: /rights/riboflavin-b2/
+researchers: Maret Traber · Barrie Tan · Chandan K. Sen · Qing Jiang
 severity: high
-description: "Vitamin E is not a molecule but a family of eight compounds. For decades, official science, medicine, and industry have recognised only one member. This reductionism has produced inadequate recommendations, potentially harmful supplements, and a massive underestimate of actual deficiency."
 status: published
-last_revised: "July 2026"
-researchers: "Maret Traber · Barrie Tan · Chandan K. Sen · Qing Jiang"
+title: Right to Optimal Vitamin E Status (Full Spectrum)
 ---
 
 # The Vitamin Es: The Silent Epidemic of a Poorly Defined Deficiency
@@ -3125,11 +3293,24 @@ Access to the full family (mixed tocopherols and tocotrienols), to a measurement
 
 ====FILE: _definitions/a-litigation-brief.md====
 ---
+description: How the claim is filed. Standing, justiciability, remedies, and the defenses
+  to expect. Anchored on the two sample cases already developed (Ferritin 24, John,
+  68) and on the doctrinal ground of The Instruments Already Exist. A working document
+  for jurists, to be adapted by counsel with the jurisdictional expertise the resource
+  does not claim.
+last_revised: July 2026
 layout: default
-title: A Litigation Brief for Physiological Rights
-description: "How the claim is filed. Standing, justiciability, remedies, and the defenses to expect. Anchored on the two sample cases already developed (Ferritin 24, John, 68) and on the doctrinal ground of The Instruments Already Exist. A working document for jurists, to be adapted by counsel with the jurisdictional expertise the resource does not claim."
+related:
+- title: 'Ferritin 24: A Model Case'
+  url: /critique/ferritin-24-a-model-case/
+- title: The Instruments Already Exist
+  url: /definitions/the-instruments-already-exist/
+- title: Deficiency as a Rights Violation
+  url: /editorials/deficiency-as-rights-violation/
+- title: 'John, 68: A Model Case'
+  url: /critique/john-68-a-model-case/
 status: published
-last_revised: "July 2026"
+title: A Litigation Brief for Physiological Rights
 ---
 
 # A Litigation Brief for Physiological Rights
@@ -3309,12 +3490,26 @@ The invitation is direct. The instruments exist. The claim is defensible. The pr
 
 ====FILE: _definitions/all-medicine-is-preventive.md====
 ---
-layout: default
-title: "All Medicine Is Preventive"
-description: "Physiological rights address what medicine will not prevent. Modern hospitals have specialized in the prevention of one particular outcome, the death that arrives tonight, and have left the prevention of every other outcome without a physician. A treatise on how the emergency ward's practice of last resort names, without saying so, the paradigm this resource defends, and on the extension of that practice to the decades that precede the emergency."
-status: published
-last_revised: "July 2026"
+description: Physiological rights address what medicine will not prevent. Modern hospitals
+  have specialized in the prevention of one particular outcome, the death that arrives
+  tonight, and have left the prevention of every other outcome without a physician.
+  A treatise on how the emergency ward's practice of last resort names, without saying
+  so, the paradigm this resource defends, and on the extension of that practice to
+  the decades that precede the emergency.
 featured: true
+last_revised: July 2026
+layout: default
+related:
+- title: Right to Optimal Hormonal Levels
+  url: /rights/optimal-hormonal-levels/
+- title: Calibrated for Nothing
+  url: /critique/calibrated-for-nothing/
+- title: Two Doses, One Molecule
+  url: /critique/two-doses-one-molecule/
+- title: No One Is Coming
+  url: /editorials/no-one-is-coming/
+status: published
+title: All Medicine Is Preventive
 ---
 
 # All Medicine Is Preventive
@@ -3494,11 +3689,21 @@ The physiological right is what prevents the decades. It is medicine, in the old
 
 ====FILE: _definitions/beyond-right-to-food.md====
 ---
+description: Physiological rights are irreducible to the right to food — many physiological
+  parameters cannot be maintained or restored through diet alone.
+last_revised: July 2026
 layout: default
-title: Why Physiological Rights Go Beyond the Right to Food
-description: "Physiological rights are irreducible to the right to food — many physiological parameters cannot be maintained or restored through diet alone."
+related:
+- title: Physiological Rights
+  url: /definitions/physiological-rights/
+- title: The Ambiguities of "Balanced Diet"
+  url: /critique/balanced-diet-ambiguities/
+- title: The Instruments Already Exist
+  url: /definitions/the-instruments-already-exist/
+- title: Inadequacy of the Right to Health
+  url: /definitions/inadequacy-of-right-to-health/
 status: published
-last_revised: "July 2026"
+title: Why Physiological Rights Go Beyond the Right to Food
 ---
 
 # Why Physiological Rights Go Beyond the Right to Food
@@ -3518,12 +3723,25 @@ In short, the right to food is necessary but not sufficient. Physiological right
 
 ====FILE: _definitions/care-of-self-as-ground.md====
 ---
-layout: default
-title: "The Care of Self as Ground of the Physiological Right"
-description: "The right to physiological integrity does not rest on the love a person happens to feel for their own life. It rests on an older ground, laid down in the antique practice of the care of self, in Spinoza's conatus, in Jonas's responsibility to the vulnerable, and in Kant's rule that no person shall be treated as a mere means. A secular foundation for a right that must hold when affect fails."
-status: published
-last_revised: "July 2026"
+description: The right to physiological integrity does not rest on the love a person
+  happens to feel for their own life. It rests on an older ground, laid down in the
+  antique practice of the care of self, in Spinoza's conatus, in Jonas's responsibility
+  to the vulnerable, and in Kant's rule that no person shall be treated as a mere
+  means. A secular foundation for a right that must hold when affect fails.
 featured: true
+last_revised: July 2026
+layout: default
+related:
+- title: Self-Medication as a Codified Right
+  url: /definitions/self-medication-as-a-codified-right/
+- title: Practicing the Physiological Right in an Ordinary Life
+  url: /editorials/practicing-the-right-in-an-ordinary-life/
+- title: All Medicine Is Preventive
+  url: /definitions/all-medicine-is-preventive/
+- title: Physiological Rights
+  url: /definitions/physiological-rights/
+status: published
+title: The Care of Self as Ground of the Physiological Right
 ---
 
 # The Care of Self as Ground of the Physiological Right
@@ -3587,11 +3805,21 @@ To care for one's physiological integrity is neither a luxury, nor a caprice, no
 
 ====FILE: _definitions/inadequacy-of-right-to-health.md====
 ---
+description: The limits of the State's obligation of means — why the right to health
+  as currently framed fails to guarantee individual physiological integrity.
+last_revised: July 2026
 layout: default
-title: Inadequacy of the Right to Health
-description: "The limits of the State's obligation of means — why the right to health as currently framed fails to guarantee individual physiological integrity."
+related:
+- title: Physiological Rights
+  url: /definitions/physiological-rights/
+- title: The Instruments Already Exist
+  url: /definitions/the-instruments-already-exist/
+- title: Deficiency as a Rights Violation
+  url: /editorials/deficiency-as-rights-violation/
+- title: Why Physiological Rights Go Beyond the Right to Food
+  url: /definitions/beyond-right-to-food/
 status: published
-last_revised: "July 2026"
+title: Inadequacy of the Right to Health
 ---
 
 # Inadequacy of the Right to Health
@@ -3613,11 +3841,22 @@ General Comment 14 on ICESCR Art. 12 has however articulated a structure (availa
 
 ====FILE: _definitions/physiological-rights.md====
 ---
+description: The full set of essential physiological needs that must be actively met
+  to enable a person to live fully — a concrete, measurable complement to the right
+  to health.
+last_revised: July 2026
 layout: default
-title: Physiological Rights
-description: "The full set of essential physiological needs that must be actively met to enable a person to live fully — a concrete, measurable complement to the right to health."
+related:
+- title: Inadequacy of the Right to Health
+  url: /definitions/inadequacy-of-right-to-health/
+- title: The Instruments Already Exist
+  url: /definitions/the-instruments-already-exist/
+- title: Why Physiological Rights Go Beyond the Right to Food
+  url: /definitions/beyond-right-to-food/
+- title: Deficiency as a Rights Violation
+  url: /editorials/deficiency-as-rights-violation/
 status: published
-last_revised: "July 2026"
+title: Physiological Rights
 ---
 
 # Physiological Rights: Definition and Scope
@@ -3688,11 +3927,23 @@ The applicable normative core is the WHO Constitution 1948 (right to the highest
 
 ====FILE: _definitions/rights-based-vs-evidence-based.md====
 ---
+description: Why 'there is no evidence' is not a scientific verdict but a discretionary
+  refusal. The COVID demonstration of the fracture line, the funding loop that makes
+  the demand for evidence self-fulfilling, and the two questions rights-based medicine
+  hands back to those who invoke it.
+last_revised: July 2026
 layout: default
-title: Rights-Based Medicine vs Evidence-Based Medicine
-description: "Why 'there is no evidence' is not a scientific verdict but a discretionary refusal. The COVID demonstration of the fracture line, the funding loop that makes the demand for evidence self-fulfilling, and the two questions rights-based medicine hands back to those who invoke it."
+related:
+- title: The Ethical Limits of Randomised Controlled Trials
+  url: /editorials/ethical-limits-of-rcts/
+- title: 'John, 68: A Model Case'
+  url: /critique/john-68-a-model-case/
+- title: All Medicine Is Preventive
+  url: /definitions/all-medicine-is-preventive/
+- title: A Litigation Brief for Physiological Rights
+  url: /definitions/a-litigation-brief/
 status: published
-last_revised: "July 2026"
+title: Rights-Based Medicine vs Evidence-Based Medicine
 ---
 
 # Rights-Based Medicine vs Evidence-Based Medicine
@@ -3782,11 +4033,25 @@ Rights-based medicine is not the opposite of evidence-based medicine. It is the 
 
 ====FILE: _definitions/self-medication-as-a-codified-right.md====
 ---
+description: 'Auto-soin, in its full sense, is not a fallback the medical system can
+  refuse to acknowledge. It is codified in Alma-Ata, the WHO Self-Care Interventions
+  programme, the doctrine of informed consent, and the international right to health.
+  It is also the prerequisite of any coherent claim to physiological rights: a subject
+  whose intervention on their own body cannot be legitimated cannot be the bearer
+  of a right to have that body measured or restored.'
+last_revised: July 2026
 layout: default
-title: Self-Medication as a Codified Right
-description: "Auto-soin, in its full sense, is not a fallback the medical system can refuse to acknowledge. It is codified in Alma-Ata, the WHO Self-Care Interventions programme, the doctrine of informed consent, and the international right to health. It is also the prerequisite of any coherent claim to physiological rights: a subject whose intervention on their own body cannot be legitimated cannot be the bearer of a right to have that body measured or restored."
+related:
+- title: The Care of Self as Ground of the Physiological Right
+  url: /definitions/care-of-self-as-ground/
+- title: The Instruments Already Exist
+  url: /definitions/the-instruments-already-exist/
+- title: The Store That Sells the Right
+  url: /editorials/the-store-that-sells-the-right/
+- title: Physiological Rights
+  url: /definitions/physiological-rights/
 status: published
-last_revised: "July 2026"
+title: Self-Medication as a Codified Right
 ---
 
 # Self-Medication as a Codified Right
@@ -3864,11 +4129,24 @@ The door is there. It has been in the international instruments for half a centu
 
 ====FILE: _definitions/the-instruments-already-exist.md====
 ---
+description: 'Physiological rights within the WHO Constitution, the ICESCR, and their
+  General Comments. A legal reader''s entry point. Two precedents of operationalisation
+  from international health and humanitarian law: antiretrovirals for HIV and nutritional
+  thresholds in emergency response. The doctrinal work required is not the invention
+  of new rights but the extension of instruments that were written to be extended.'
+last_revised: July 2026
 layout: default
-title: The Instruments Already Exist
-description: "Physiological rights within the WHO Constitution, the ICESCR, and their General Comments. A legal reader's entry point. Two precedents of operationalisation from international health and humanitarian law: antiretrovirals for HIV and nutritional thresholds in emergency response. The doctrinal work required is not the invention of new rights but the extension of instruments that were written to be extended."
+related:
+- title: Physiological Rights
+  url: /definitions/physiological-rights/
+- title: A Litigation Brief for Physiological Rights
+  url: /definitions/a-litigation-brief/
+- title: Deficiency as a Rights Violation
+  url: /editorials/deficiency-as-rights-violation/
+- title: Why Physiological Rights Go Beyond the Right to Food
+  url: /definitions/beyond-right-to-food/
 status: published
-last_revised: "July 2026"
+title: The Instruments Already Exist
 ---
 
 # The Instruments Already Exist
@@ -3932,11 +4210,22 @@ This resource is written by a clinician-adjacent researcher, not by a jurist. It
 
 ====FILE: _critique/balanced-diet-ambiguities.md====
 ---
+description: Why population-average dietary recommendations are insufficient to guarantee
+  physiological integrity at the individual level — magnesium, vitamin D, omega-3,
+  and other examples.
+last_revised: April 2025
 layout: default
-title: The Ambiguities of "Balanced Diet"
-description: "Why population-average dietary recommendations are insufficient to guarantee physiological integrity at the individual level — magnesium, vitamin D, omega-3, and other examples."
+related:
+- title: Why Physiological Rights Go Beyond the Right to Food
+  url: /definitions/beyond-right-to-food/
+- title: Right to Adequate Magnesium Levels
+  url: /rights/magnesium/
+- title: Why There Is No Universally Good Food
+  url: /critique/no-universal-good-food/
+- title: No One Is Coming
+  url: /editorials/no-one-is-coming/
 status: published
-last_revised: "April 2025"
+title: The Ambiguities of "Balanced Diet"
 ---
 
 # The Ambiguities of "Balanced Diet"
@@ -3967,11 +4256,25 @@ Even a perfectly balanced diet cannot rapidly correct an already-established def
 
 ====FILE: _critique/behind-every-test-an-industry.md====
 ---
+description: Why the medical system measures the nutrients it measures. Behind every
+  routinely ordered nutrient test — and behind every routinely fortified nutrient
+  — stands a food industry aligned with that specific molecule. Industries do not
+  invent biological priorities ex nihilo; they select, among genuine ones, those that
+  align with their products, and amplify their cultural, institutional, and diagnostic
+  centrality — while allowing others to remain invisible.
+last_revised: July 2026
 layout: default
-title: Behind Every Test, an Industry
-description: "Why the medical system measures the nutrients it measures. Behind every routinely ordered nutrient test — and behind every routinely fortified nutrient — stands a food industry aligned with that specific molecule. Industries do not invent biological priorities ex nihilo; they select, among genuine ones, those that align with their products, and amplify their cultural, institutional, and diagnostic centrality — while allowing others to remain invisible."
+related:
+- title: The Hunger We Don't See
+  url: /critique/the-hunger-we-dont-see/
+- title: The Ferritin Threshold
+  url: /editorials/the-ferritin-threshold/
+- title: The Life We Call Normal
+  url: /editorials/the-life-we-call-normal/
+- title: Right to Adequate Iron Status
+  url: /rights/iron/
 status: published
-last_revised: "July 2026"
+title: Behind Every Test, an Industry
 ---
 
 # Behind Every Test, an Industry
@@ -4153,11 +4456,24 @@ The right to physiological integrity is the right to a map drawn against the act
 
 ====FILE: _critique/calibrated-for-nothing.md====
 ---
+description: Why most personal trials of supplementation return nothing, and why the
+  field's synthesis of its own literature does too. The apparent contradiction between
+  the reader who tried and felt no change, and the documented rapid responses across
+  nearly every essential nutrient. The reader's null trial is not a counter-example.
+  It is what a trial calibrated for null produces. The anatomy of that calibration.
+last_revised: July 2026
 layout: default
-title: Calibrated for Nothing
-description: "Why most personal trials of supplementation return nothing, and why the field's synthesis of its own literature does too. The apparent contradiction between the reader who tried and felt no change, and the documented rapid responses across nearly every essential nutrient. The reader's null trial is not a counter-example. It is what a trial calibrated for null produces. The anatomy of that calibration."
+related:
+- title: Two Doses, One Molecule
+  url: /critique/two-doses-one-molecule/
+- title: All Medicine Is Preventive
+  url: /definitions/all-medicine-is-preventive/
+- title: 'John, 68: A Model Case'
+  url: /critique/john-68-a-model-case/
+- title: Rights-Based Medicine vs Evidence-Based Medicine
+  url: /definitions/rights-based-vs-evidence-based/
 status: published
-last_revised: "July 2026"
+title: Calibrated for Nothing
 ---
 
 # Calibrated for Nothing
@@ -4271,11 +4587,22 @@ The null personal trial is evidence of one thing, and it is not the biological u
 
 ====FILE: _critique/false-negative-serum-potassium.md====
 ---
+description: Chronic tissue potassium depletion masked by a homeostatically defended
+  serum value — analysis of a diagnostic tool used against its own physiology under
+  the physiological rights framework.
+last_revised: July 2026
 layout: default
-title: "The False Negative: Serum Potassium and the Compartment It Cannot See"
-description: "Chronic tissue potassium depletion masked by a homeostatically defended serum value — analysis of a diagnostic tool used against its own physiology under the physiological rights framework."
+related:
+- title: Right to Adequate Potassium Status
+  url: /rights/potassium/
+- title: The Hunger We Don't See
+  url: /critique/the-hunger-we-dont-see/
+- title: The Life We Call Normal
+  url: /editorials/the-life-we-call-normal/
+- title: Two Doses, One Molecule
+  url: /critique/two-doses-one-molecule/
 status: published
-last_revised: "July 2026"
+title: 'The False Negative: Serum Potassium and the Compartment It Cannot See'
 ---
 
 # The False Negative: Serum Potassium and the Compartment It Cannot See
@@ -4293,11 +4620,22 @@ last_revised: "July 2026"
 
 ====FILE: _critique/ferritin-24-a-model-case.md====
 ---
+description: A composite patient, drawn from documented practice. What she was owed,
+  what she received, what she would plead, and where she would win. A working brief
+  for jurists reading this resource.
+last_revised: July 2026
 layout: default
-title: "Ferritin 24: A Model Case"
-description: "A composite patient, drawn from documented practice. What she was owed, what she received, what she would plead, and where she would win. A working brief for jurists reading this resource."
+related:
+- title: A Litigation Brief for Physiological Rights
+  url: /definitions/a-litigation-brief/
+- title: 'John, 68: A Model Case'
+  url: /critique/john-68-a-model-case/
+- title: The Ferritin Threshold
+  url: /editorials/the-ferritin-threshold/
+- title: Right to Adequate Iron Status
+  url: /rights/iron/
 status: published
-last_revised: "July 2026"
+title: 'Ferritin 24: A Model Case'
 ---
 
 # Ferritin 24: A Model Case
@@ -4401,11 +4739,24 @@ Jane is a composite. Every element of her file is drawn from documented clinical
 
 ====FILE: _critique/john-68-a-model-case.md====
 ---
+description: A composite patient with an 'early Alzheimer's' diagnosis, and the six
+  parameters no consultation ordered. What the literature says about each in isolation,
+  what the composite trials suggest, what the correction produces, and the funding
+  architecture that arranges for the composite evidence to remain thin. A working
+  brief for jurists reading this resource.
+last_revised: July 2026
 layout: default
-title: "John, 68: A Model Case"
-description: "A composite patient with an 'early Alzheimer's' diagnosis, and the six parameters no consultation ordered. What the literature says about each in isolation, what the composite trials suggest, what the correction produces, and the funding architecture that arranges for the composite evidence to remain thin. A working brief for jurists reading this resource."
+related:
+- title: 'Ferritin 24: A Model Case'
+  url: /critique/ferritin-24-a-model-case/
+- title: The Hunger We Don't See
+  url: /critique/the-hunger-we-dont-see/
+- title: A Litigation Brief for Physiological Rights
+  url: /definitions/a-litigation-brief/
+- title: The Life We Call Normal
+  url: /editorials/the-life-we-call-normal/
 status: published
-last_revised: "July 2026"
+title: 'John, 68: A Model Case'
 ---
 
 # John, 68: A Model Case
@@ -4590,11 +4941,22 @@ That frame is what this resource is written to invite.
 
 ====FILE: _critique/limits-of-healthy-eating.md====
 ---
+description: 'Why the nutritional value of a food is never absolute — it depends on
+  the individual''s physiological context. Spinach, dairy, nuts: examples of foods
+  that are beneficial for some and harmful for others.'
+last_revised: April 2025
 layout: default
-title: The Limits of "Healthy Eating"
-description: "Why the nutritional value of a food is never absolute — it depends on the individual's physiological context. Spinach, dairy, nuts: examples of foods that are beneficial for some and harmful for others."
+related:
+- title: Why There Is No Universally Good Food
+  url: /critique/no-universal-good-food/
+- title: Why Physiological Rights Go Beyond the Right to Food
+  url: /definitions/beyond-right-to-food/
+- title: Behind Every Test, an Industry
+  url: /critique/behind-every-test-an-industry/
+- title: The Ambiguities of "Balanced Diet"
+  url: /critique/balanced-diet-ambiguities/
 status: published
-last_revised: "April 2025"
+title: The Limits of "Healthy Eating"
 ---
 
 # The Limits of "Healthy Eating"
@@ -4614,11 +4976,22 @@ Rather than promoting universally "healthy" foods, it would be more relevant to 
 
 ====FILE: _critique/no-universal-good-food.md====
 ---
+description: Individual biological variability, nutrient-pathology interactions, and
+  the importance of ratios such as omega-6/omega-3 and calcium/magnesium — why no
+  food is intrinsically good or bad.
+last_revised: April 2025
 layout: default
-title: Why There Is No Universally Good Food
-description: "Individual biological variability, nutrient-pathology interactions, and the importance of ratios such as omega-6/omega-3 and calcium/magnesium — why no food is intrinsically good or bad."
+related:
+- title: The Limits of "Healthy Eating"
+  url: /critique/limits-of-healthy-eating/
+- title: Why Physiological Rights Go Beyond the Right to Food
+  url: /definitions/beyond-right-to-food/
+- title: The Life We Call Normal
+  url: /editorials/the-life-we-call-normal/
+- title: The Ambiguities of "Balanced Diet"
+  url: /critique/balanced-diet-ambiguities/
 status: published
-last_revised: "April 2025"
+title: Why There Is No Universally Good Food
 ---
 
 # Why There Is No Universally Good Food
@@ -4652,11 +5025,23 @@ Beyond the presence of a single nutrient, it is often the ratio between differen
 
 ====FILE: _critique/otherwise-healthy.md====
 ---
+description: Two moments of institutional erasure. The biochemistry diagram in medical
+  school, and the 'otherwise healthy' participant in the clinical trial. Together
+  they produce a body that has never been seen in the clinic, and a discipline that
+  has agreed to see it instead.
+last_revised: July 2026
 layout: default
-title: Otherwise Healthy
-description: "Two moments of institutional erasure. The biochemistry diagram in medical school, and the 'otherwise healthy' participant in the clinical trial. Together they produce a body that has never been seen in the clinic, and a discipline that has agreed to see it instead."
+related:
+- title: The Hunger We Don't See
+  url: /critique/the-hunger-we-dont-see/
+- title: 'John, 68: A Model Case'
+  url: /critique/john-68-a-model-case/
+- title: Rights-Based Medicine vs Evidence-Based Medicine
+  url: /definitions/rights-based-vs-evidence-based/
+- title: All Medicine Is Preventive
+  url: /definitions/all-medicine-is-preventive/
 status: published
-last_revised: "July 2026"
+title: Otherwise Healthy
 ---
 
 # Otherwise Healthy
@@ -4750,11 +5135,25 @@ Examples to come:
 
 ====FILE: _critique/strength-they-measure-mass-they-miss.md====
 ---
+description: With age, most bodies lose skeletal muscle and lay down adipose tissue
+  in its place. When both processes cross their thresholds together, the condition
+  is named sarcopenic obesity. The literature on resistance training measures strength
+  gains and calls them the effect. It almost never asks whether the muscle mass returned
+  to normal. When one recent trial did ask, more than a third of participants left
+  the diagnostic category.
+last_revised: July 2026
 layout: default
-title: "Sarcopenic Obesity: The Strength They Measure, the Mass They Miss"
-description: "With age, most bodies lose skeletal muscle and lay down adipose tissue in its place. When both processes cross their thresholds together, the condition is named sarcopenic obesity. The literature on resistance training measures strength gains and calls them the effect. It almost never asks whether the muscle mass returned to normal. When one recent trial did ask, more than a third of participants left the diagnostic category."
+related:
+- title: Right to Adequate Muscle Mass
+  url: /rights/muscle-mass/
+- title: Calibrated for Nothing
+  url: /critique/calibrated-for-nothing/
+- title: Right to Optimal Hormonal Levels
+  url: /rights/optimal-hormonal-levels/
+- title: Right to Adequate Coenzyme Q10
+  url: /rights/coenzyme-q10/
 status: published
-last_revised: "July 2026"
+title: 'Sarcopenic Obesity: The Strength They Measure, the Mass They Miss'
 ---
 
 # Sarcopenic Obesity: The Strength They Measure, the Mass They Miss
@@ -4832,11 +5231,26 @@ The physiological right at issue, the right of the person concerned to have thei
 
 ====FILE: _critique/the-blunder-they-called-a-refutation.md====
 ---
+description: How evidence-based medicine tested two patented molecules and proudly
+  buried a physiology. The Women's Health Initiative is taught as the founding refutation
+  of hormone replacement, the case that disciplined biology with evidence. What it
+  actually administered was Premarin, a horse-urine extract, and Provera, a patented
+  synthetic progestin. Neither is what the ovary produces. Neither is what any physiological
+  hypothesis of replacement was proposing. The exemplar refuted a scarecrow made of
+  patents, and generations of women paid for the confusion.
+last_revised: July 2026
 layout: default
-title: The Blunder They Called a Refutation
-description: "How evidence-based medicine tested two patented molecules and proudly buried a physiology. The Women's Health Initiative is taught as the founding refutation of hormone replacement, the case that disciplined biology with evidence. What it actually administered was Premarin, a horse-urine extract, and Provera, a patented synthetic progestin. Neither is what the ovary produces. Neither is what any physiological hypothesis of replacement was proposing. The exemplar refuted a scarecrow made of patents, and generations of women paid for the confusion."
+related:
+- title: Right to Optimal Hormonal Levels
+  url: /rights/optimal-hormonal-levels/
+- title: All Medicine Is Preventive
+  url: /definitions/all-medicine-is-preventive/
+- title: Rights-Based Medicine vs Evidence-Based Medicine
+  url: /definitions/rights-based-vs-evidence-based/
+- title: 'John, 68: A Model Case'
+  url: /critique/john-68-a-model-case/
 status: published
-last_revised: "July 2026"
+title: The Blunder They Called a Refutation
 ---
 
 # The Blunder They Called a Refutation
@@ -4906,11 +5320,25 @@ The exemplar taught two generations of physicians to be sceptical of restoring w
 
 ====FILE: _critique/the-fall-of-hygiene.md====
 ---
+description: The word hygiene once named the daily specification of what a body needed
+  to remain whole, the regimen of what one took in and how one lived. In little more
+  than a century it came to designate only the interruption of contamination. The
+  reduction is measurable in ordinary language today, and it is one of the cleanest
+  examples of how a paradigm shift in medicine narrows what its inheritors can even
+  think.
+last_revised: July 2026
 layout: default
-title: "The Fall of Hygiene"
-description: "The word hygiene once named the daily specification of what a body needed to remain whole, the regimen of what one took in and how one lived. In little more than a century it came to designate only the interruption of contamination. The reduction is measurable in ordinary language today, and it is one of the cleanest examples of how a paradigm shift in medicine narrows what its inheritors can even think."
+related:
+- title: All Medicine Is Preventive
+  url: /definitions/all-medicine-is-preventive/
+- title: The Care of Self as Ground of the Physiological Right
+  url: /definitions/care-of-self-as-ground/
+- title: Practicing the Physiological Right in an Ordinary Life
+  url: /editorials/practicing-the-right-in-an-ordinary-life/
+- title: Self-Medication as a Codified Right
+  url: /definitions/self-medication-as-a-codified-right/
 status: published
-last_revised: "July 2026"
+title: The Fall of Hygiene
 ---
 
 # The Fall of Hygiene
@@ -4954,11 +5382,24 @@ The resource this critique belongs to takes the second path, without giving up o
 
 ====FILE: _critique/the-hunger-we-dont-see.md====
 ---
+description: A taxonomy of diagnostic failure. Why the medical system misses widespread
+  nutritional depletion — starting with the tests that are never ordered, and continuing
+  with those that measure the wrong compartment, ask the wrong question, are distorted
+  by confounders, or are interpreted against reference ranges built from an already-deficient
+  population.
+last_revised: July 2026
 layout: default
-title: The Hunger We Don't See
-description: "A taxonomy of diagnostic failure. Why the medical system misses widespread nutritional depletion — starting with the tests that are never ordered, and continuing with those that measure the wrong compartment, ask the wrong question, are distorted by confounders, or are interpreted against reference ranges built from an already-deficient population."
+related:
+- title: Behind Every Test, an Industry
+  url: /critique/behind-every-test-an-industry/
+- title: The Life We Call Normal
+  url: /editorials/the-life-we-call-normal/
+- title: 'The False Negative: Serum Potassium and the Compartment It Cannot See'
+  url: /critique/false-negative-serum-potassium/
+- title: 'John, 68: A Model Case'
+  url: /critique/john-68-a-model-case/
 status: published
-last_revised: "July 2026"
+title: The Hunger We Don't See
 ---
 
 # The Hunger We Don't See
@@ -5085,11 +5526,26 @@ The hunger we see around us is ourselves, as well. And it will remain invisible 
 
 ====FILE: _critique/two-doses-one-molecule.md====
 ---
+description: 'The received distinction between ''nutritional'' and ''pharmacological''
+  doses of the same nutrient functions as gatekeeping more than physiology. Medicine''s
+  own protocols use these substrates at ten to five hundred times the RDA when repletion
+  is needed. The reason it must: loss channels are unmetered while gain channels are
+  transporter-limited, tissues restore more slowly than plasma, and deficits reinforce
+  each other. It is easier to lose a molecule than to regain it. A right that ends
+  at the RDA is a right to prevention among the never-depleted, not to restoration.'
+last_revised: July 2026
 layout: default
-title: Two Doses, One Molecule
-description: "The received distinction between 'nutritional' and 'pharmacological' doses of the same nutrient functions as gatekeeping more than physiology. Medicine's own protocols use these substrates at ten to five hundred times the RDA when repletion is needed. The reason it must: loss channels are unmetered while gain channels are transporter-limited, tissues restore more slowly than plasma, and deficits reinforce each other. It is easier to lose a molecule than to regain it. A right that ends at the RDA is a right to prevention among the never-depleted, not to restoration."
+related:
+- title: Calibrated for Nothing
+  url: /critique/calibrated-for-nothing/
+- title: All Medicine Is Preventive
+  url: /definitions/all-medicine-is-preventive/
+- title: The Life We Call Normal
+  url: /editorials/the-life-we-call-normal/
+- title: Self-Medication as a Codified Right
+  url: /definitions/self-medication-as-a-codified-right/
 status: published
-last_revised: "July 2026"
+title: Two Doses, One Molecule
 ---
 
 # Two Doses, One Molecule
@@ -5199,11 +5655,25 @@ Medicine already knows this. Its own protocols admit it every time a syringe is 
 
 ====FILE: _critique/what-the-label-cannot-say.md====
 ---
+description: The bottle cannot tell you what the Cochrane review already says. A tour
+  of the labeling regime that manufactures the phrase 'insufficient evidence for supplementation'
+  by criminalizing the citation of the evidence that has, despite everything, been
+  generated. DSHEA, EFSA, Canadian NHPR, Australian TGA, Japanese FOSHU and FFC, and
+  the Codex Alimentarius floor. What this resource can say, because it has nothing
+  to sell.
+last_revised: July 2026
 layout: default
-title: What the Label Cannot Say
-description: "The bottle cannot tell you what the Cochrane review already says. A tour of the labeling regime that manufactures the phrase 'insufficient evidence for supplementation' by criminalizing the citation of the evidence that has, despite everything, been generated. DSHEA, EFSA, Canadian NHPR, Australian TGA, Japanese FOSHU and FFC, and the Codex Alimentarius floor. What this resource can say, because it has nothing to sell."
+related:
+- title: Rights-Based Medicine vs Evidence-Based Medicine
+  url: /definitions/rights-based-vs-evidence-based/
+- title: Calibrated for Nothing
+  url: /critique/calibrated-for-nothing/
+- title: A Litigation Brief for Physiological Rights
+  url: /definitions/a-litigation-brief/
+- title: 'John, 68: A Model Case'
+  url: /critique/john-68-a-model-case/
 status: published
-last_revised: "July 2026"
+title: What the Label Cannot Say
 ---
 
 # What the Label Cannot Say
@@ -5325,11 +5795,23 @@ A right that cannot be named cannot be claimed. **This resource is where the cla
 
 ====FILE: _editorials/a-second-medical-nemesis.md====
 ---
+description: From Pauling's orthomolecular hypothesis through Ames's triage theory
+  to the podcast economy that carried the intuition and depoliticised it. Ivan Illich's
+  frame extended to the expropriation of the physiological substrate, and the return
+  of that substrate to the person it belongs to.
+last_revised: July 2026
 layout: default
-title: "A Second Medical Nemesis"
-description: "From Pauling's orthomolecular hypothesis through Ames's triage theory to the podcast economy that carried the intuition and depoliticised it. Ivan Illich's frame extended to the expropriation of the physiological substrate, and the return of that substrate to the person it belongs to."
+related:
+- title: All Medicine Is Preventive
+  url: /definitions/all-medicine-is-preventive/
+- title: The Store That Sells the Right
+  url: /editorials/the-store-that-sells-the-right/
+- title: No One Is Coming
+  url: /editorials/no-one-is-coming/
+- title: Self-Medication as a Codified Right
+  url: /definitions/self-medication-as-a-codified-right/
 status: published
-last_revised: "July 2026"
+title: A Second Medical Nemesis
 ---
 
 # A Second Medical Nemesis
@@ -5439,11 +5921,22 @@ The chapter Illich did not write, because his epoch could not yet write it, ends
 
 ====FILE: _editorials/deficiency-as-rights-violation.md====
 ---
+description: When an uncorrected, measurable nutritional deficit constitutes a violation
+  of the right to health under ICESCR Article 12, read against the core obligations
+  doctrine of General Comment 14 §43.
+last_revised: July 2026
 layout: default
-title: Deficiency as a Rights Violation
-description: "When an uncorrected, measurable nutritional deficit constitutes a violation of the right to health under ICESCR Article 12, read against the core obligations doctrine of General Comment 14 §43."
+related:
+- title: The Invisible Medical Emergency
+  url: /editorials/the-invisible-medical-emergency/
+- title: Physiological Rights
+  url: /definitions/physiological-rights/
+- title: The Instruments Already Exist
+  url: /definitions/the-instruments-already-exist/
+- title: A Litigation Brief for Physiological Rights
+  url: /definitions/a-litigation-brief/
 status: published
-last_revised: "July 2026"
+title: Deficiency as a Rights Violation
 ---
 
 # Deficiency as a Rights Violation
@@ -5461,11 +5954,23 @@ The doctrinal architecture has been in place since 2000. See [The Instruments Al
 
 ====FILE: _editorials/ethical-limits-of-rcts.md====
 ---
+description: Why the placebo arm and the wait for trial closure cannot be sustained
+  against the Nuremberg Code, Declaration of Helsinki §33, and the precautionary principle
+  of TFUE Article 191 when the deficit is measurable and the corrective substrate
+  is known.
+last_revised: July 2026
 layout: default
-title: The Ethical Limits of Randomised Controlled Trials
-description: "Why the placebo arm and the wait for trial closure cannot be sustained against the Nuremberg Code, Declaration of Helsinki §33, and the precautionary principle of TFUE Article 191 when the deficit is measurable and the corrective substrate is known."
+related:
+- title: Rights-Based Medicine vs Evidence-Based Medicine
+  url: /definitions/rights-based-vs-evidence-based/
+- title: Deficiency as a Rights Violation
+  url: /editorials/deficiency-as-rights-violation/
+- title: A Litigation Brief for Physiological Rights
+  url: /definitions/a-litigation-brief/
+- title: The Instruments Already Exist
+  url: /definitions/the-instruments-already-exist/
 status: published
-last_revised: "July 2026"
+title: The Ethical Limits of Randomised Controlled Trials
 ---
 
 # The Ethical Limits of Randomised Controlled Trials
@@ -5493,11 +5998,25 @@ Read together, the Nuremberg Code, Helsinki §33, and Article 191 TFUE describe 
 
 ====FILE: _editorials/no-one-is-coming.md====
 ---
+description: Why physiological rights will not be defended by any of the guilds that
+  surround them, and why the defence must be legal. The medical community, the wellness
+  industry, the nutritionists, the pharmaceutical industry, public health, the universities,
+  and the science communicators are each, in different ways, integral to the structure
+  that produces the invisibility of physiological deficit. They will not defend what
+  they are structurally arranged to hide.
+last_revised: July 2026
 layout: default
-title: No One Is Coming
-description: "Why physiological rights will not be defended by any of the guilds that surround them, and why the defence must be legal. The medical community, the wellness industry, the nutritionists, the pharmaceutical industry, public health, the universities, and the science communicators are each, in different ways, integral to the structure that produces the invisibility of physiological deficit. They will not defend what they are structurally arranged to hide."
+related:
+- title: All Medicine Is Preventive
+  url: /definitions/all-medicine-is-preventive/
+- title: The Instruments Already Exist
+  url: /definitions/the-instruments-already-exist/
+- title: Rights-Based Medicine vs Evidence-Based Medicine
+  url: /definitions/rights-based-vs-evidence-based/
+- title: Behind Every Test, an Industry
+  url: /critique/behind-every-test-an-industry/
 status: published
-last_revised: "July 2026"
+title: No One Is Coming
 ---
 
 # No One Is Coming
@@ -5563,11 +6082,24 @@ The jurist is the only actor whose professional survival does not require defere
 
 ====FILE: _editorials/practicing-the-right-in-an-ordinary-life.md====
 ---
+description: For the reader who has read the arguments, agreed with them, and still
+  forgets. The founding pieces of this resource have retired the reasons for shame.
+  What remains is the ordinary practice of a right that no one holds cleanly, and
+  no one is expected to hold cleanly. Three practical levers, and a defence of the
+  imperfect practice as the practice.
+last_revised: July 2026
 layout: default
-title: "Practicing the Physiological Right in an Ordinary Life"
-description: "For the reader who has read the arguments, agreed with them, and still forgets. The founding pieces of this resource have retired the reasons for shame. What remains is the ordinary practice of a right that no one holds cleanly, and no one is expected to hold cleanly. Three practical levers, and a defence of the imperfect practice as the practice."
+related:
+- title: The Care of Self as Ground of the Physiological Right
+  url: /definitions/care-of-self-as-ground/
+- title: Self-Medication as a Codified Right
+  url: /definitions/self-medication-as-a-codified-right/
+- title: All Medicine Is Preventive
+  url: /definitions/all-medicine-is-preventive/
+- title: You Are Not the Exception
+  url: /editorials/you-are-not-the-exception/
 status: published
-last_revised: "July 2026"
+title: Practicing the Physiological Right in an Ordinary Life
 ---
 
 # Practicing the Physiological Right in an Ordinary Life
@@ -5652,11 +6184,23 @@ Fund research on individualised physiological norms, rather than simple populati
 
 ====FILE: _editorials/the-ferritin-threshold.md====
 ---
+description: The test iron medicine got right, and the number that unmakes it. Why
+  the routine reading of ferritin at the bottom of the population distribution defeats
+  the very tool 'Behind Every Test, an Industry' names as the field's honest case,
+  and why that failure mode is a physiological rights question.
+last_revised: July 2026
 layout: default
-title: The Ferritin Threshold
-description: "The test iron medicine got right, and the number that unmakes it. Why the routine reading of ferritin at the bottom of the population distribution defeats the very tool 'Behind Every Test, an Industry' names as the field's honest case, and why that failure mode is a physiological rights question."
+related:
+- title: Right to Adequate Iron Status
+  url: /rights/iron/
+- title: Behind Every Test, an Industry
+  url: /critique/behind-every-test-an-industry/
+- title: 'Ferritin 24: A Model Case'
+  url: /critique/ferritin-24-a-model-case/
+- title: The Hunger We Don't See
+  url: /critique/the-hunger-we-dont-see/
 status: published
-last_revised: "July 2026"
+title: The Ferritin Threshold
 ---
 
 # The Ferritin Threshold
@@ -5720,11 +6264,21 @@ The right to a threshold that reflects biological need is a physiological right 
 
 ====FILE: _editorials/the-invisible-medical-emergency.md====
 ---
+description: Chronic physiological deficits as a rights matter under General Comment
+  14 §43 core obligations and the primary-health-care doctrine of the Alma-Ata Declaration.
+last_revised: July 2026
 layout: default
-title: The Invisible Medical Emergency
-description: "Chronic physiological deficits as a rights matter under General Comment 14 §43 core obligations and the primary-health-care doctrine of the Alma-Ata Declaration."
+related:
+- title: Deficiency as a Rights Violation
+  url: /editorials/deficiency-as-rights-violation/
+- title: The Instruments Already Exist
+  url: /definitions/the-instruments-already-exist/
+- title: Physiological Rights
+  url: /definitions/physiological-rights/
+- title: The Ethical Limits of Randomised Controlled Trials
+  url: /editorials/ethical-limits-of-rcts/
 status: published
-last_revised: "July 2026"
+title: The Invisible Medical Emergency
 ---
 
 # The Invisible Medical Emergency
@@ -5742,11 +6296,24 @@ Physiological rights ask that medical urgency be defined by what is measurable i
 
 ====FILE: _editorials/the-life-we-call-normal.md====
 ---
+description: A composite of shortfalls that most Western adults carry — and mistake
+  for the human condition. Why the fatigue, anxiety, poor sleep, brain fog, and slow
+  slippage we accept as ordinary life are the phenotypic expression of a nutritional
+  network in failure, and how the same underlying deficit expresses itself differently
+  in each person.
+last_revised: July 2026
 layout: default
-title: The Life We Call Normal
-description: "A composite of shortfalls that most Western adults carry — and mistake for the human condition. Why the fatigue, anxiety, poor sleep, brain fog, and slow slippage we accept as ordinary life are the phenotypic expression of a nutritional network in failure, and how the same underlying deficit expresses itself differently in each person."
+related:
+- title: The Hunger We Don't See
+  url: /critique/the-hunger-we-dont-see/
+- title: Behind Every Test, an Industry
+  url: /critique/behind-every-test-an-industry/
+- title: Right to Adequate Magnesium Levels
+  url: /rights/magnesium/
+- title: 'John, 68: A Model Case'
+  url: /critique/john-68-a-model-case/
 status: published
-last_revised: "July 2026"
+title: The Life We Call Normal
 ---
 
 # The Life We Call Normal
@@ -5864,11 +6431,22 @@ The physiological rights framework holds that everyone (not the person who can a
 
 ====FILE: _editorials/the-store-that-sells-the-right.md====
 ---
+description: The supplement store as the functional counterpart of medical-mainstream
+  refusal. What is monetized when what should be a right becomes an income, and what
+  Pauling saw the community he helped create do with his own recommendations.
+last_revised: July 2026
 layout: default
-title: The Store That Sells the Right
-description: "The supplement store as the functional counterpart of medical-mainstream refusal. What is monetized when what should be a right becomes an income, and what Pauling saw the community he helped create do with his own recommendations."
+related:
+- title: Self-Medication as a Codified Right
+  url: /definitions/self-medication-as-a-codified-right/
+- title: All Medicine Is Preventive
+  url: /definitions/all-medicine-is-preventive/
+- title: A Second Medical Nemesis
+  url: /editorials/a-second-medical-nemesis/
+- title: What the Label Cannot Say
+  url: /critique/what-the-label-cannot-say/
 status: published
-last_revised: "July 2026"
+title: The Store That Sells the Right
 ---
 
 # The Store That Sells the Right
@@ -5944,11 +6522,23 @@ If this text has a punchline, it is that the physiological-rights argument canno
 
 ====FILE: _editorials/the-tragedy-of-diagnosis.md====
 ---
+description: The diagnosis is not tragic. The gravity it installs around the person
+  who receives it is. The question that would open the compensatory investigation
+  stops being asked. What physiological rights owes the diagnosed, and why the right
+  becomes more urgent, not less, once the label is applied.
+last_revised: July 2026
 layout: default
-title: "The Tragedy of Diagnosis"
-description: "The diagnosis is not tragic. The gravity it installs around the person who receives it is. The question that would open the compensatory investigation stops being asked. What physiological rights owes the diagnosed, and why the right becomes more urgent, not less, once the label is applied."
+related:
+- title: 'John, 68: A Model Case'
+  url: /critique/john-68-a-model-case/
+- title: 'Ferritin 24: A Model Case'
+  url: /critique/ferritin-24-a-model-case/
+- title: No One Is Coming
+  url: /editorials/no-one-is-coming/
+- title: Right to Optimal Hormonal Levels
+  url: /rights/optimal-hormonal-levels/
 status: published
-last_revised: "July 2026"
+title: The Tragedy of Diagnosis
 ---
 
 # The Tragedy of Diagnosis
@@ -6090,12 +6680,24 @@ The right does not expire at the label. It becomes more urgent at the label. Tha
 
 ====FILE: _editorials/you-are-not-the-exception.md====
 ---
-layout: default
-title: You Are Not the Exception
-description: "The reader who reads these pieces about deficiency and does not, quite, count themselves in. The arithmetic that punches through 'I feel fine.' The ethical difference between diagnosing a named individual and publishing the prior probability that applies to any reader who belongs to the population described."
-status: published
-last_revised: "July 2026"
+description: The reader who reads these pieces about deficiency and does not, quite,
+  count themselves in. The arithmetic that punches through 'I feel fine.' The ethical
+  difference between diagnosing a named individual and publishing the prior probability
+  that applies to any reader who belongs to the population described.
 featured: true
+last_revised: July 2026
+layout: default
+related:
+- title: The Life We Call Normal
+  url: /editorials/the-life-we-call-normal/
+- title: The Hunger We Don't See
+  url: /critique/the-hunger-we-dont-see/
+- title: The Ferritin Threshold
+  url: /editorials/the-ferritin-threshold/
+- title: 'John, 68: A Model Case'
+  url: /critique/john-68-a-model-case/
+status: published
+title: You Are Not the Exception
 ---
 
 # You Are Not the Exception
