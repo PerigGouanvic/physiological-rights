@@ -2,6 +2,8 @@
 layout: default
 title: Home
 description: "Physiological Rights: the clinical specification of the right to food. The physiological parameters every body needs, the tests that would detect their absence, and the thresholds set to make the absence invisible."
+status: published
+last_revised: "July 2026"
 ---
 
 <section class="home-manifesto">
@@ -57,11 +59,12 @@ description: "Physiological Rights: the clinical specification of the right to f
 <section class="home-recent">
   <p class="kicker">Recent additions</p>
   <ul class="home-recent-list">
-    <li><span class="home-recent-date">July 2026</span><a href="{{ '/rights/glutathione/' | relative_url }}">Glutathione</a><span class="home-recent-section">Right</span></li>
-    <li><span class="home-recent-date">July 2026</span><a href="{{ '/rights/choline/' | relative_url }}">Choline</a><span class="home-recent-section">Right</span></li>
-    <li><span class="home-recent-date">July 2026</span><a href="{{ '/editorials/a-second-medical-nemesis/' | relative_url }}">A Second Medical Nemesis</a><span class="home-recent-section">Editorial</span></li>
-    <li><span class="home-recent-date">July 2026</span><a href="{{ '/editorials/no-one-is-coming/' | relative_url }}">No One Is Coming</a><span class="home-recent-section">Editorial</span></li>
-    <li><span class="home-recent-date">July 2026</span><a href="{{ '/definitions/the-instruments-already-exist/' | relative_url }}">The Instruments Already Exist</a><span class="home-recent-section">Definition</span></li>
+    <li><span class="home-recent-date">July 2026</span><a href="{{ '/rights/muscle-mass/' | relative_url }}">Muscle Mass</a><span class="home-recent-section">Right</span></li>
+    <li><span class="home-recent-date">July 2026</span><a href="{{ '/editorials/practicing-the-right-in-an-ordinary-life/' | relative_url }}">Practicing the Physiological Right in an Ordinary Life</a><span class="home-recent-section">Editorial</span></li>
+    <li><span class="home-recent-date">July 2026</span><a href="{{ '/definitions/self-medication-as-a-codified-right/' | relative_url }}">Self-Medication as a Codified Right</a><span class="home-recent-section">Definition</span></li>
+    <li><span class="home-recent-date">July 2026</span><a href="{{ '/critique/two-doses-one-molecule/' | relative_url }}">Two Doses, One Molecule</a><span class="home-recent-section">Critique</span></li>
+    <li><span class="home-recent-date">July 2026</span><a href="{{ '/faq/' | relative_url }}">A reader-facing FAQ</a><span class="home-recent-section">FAQ</span></li>
+    <li><span class="home-recent-date">July 2026</span><a href="{{ '/critique/the-blunder-they-called-a-refutation/' | relative_url }}">The Blunder They Called a Refutation</a><span class="home-recent-section">Critique</span></li>
   </ul>
   <p class="home-recent-all"><a href="{{ '/editorials/' | relative_url }}">Editorials</a> · <a href="{{ '/critique/' | relative_url }}">Critique</a> · <a href="{{ '/rights/' | relative_url }}">Rights</a> · <a href="{{ '/reports/' | relative_url }}">Case reports</a> · <a href="{{ '/definitions/' | relative_url }}">Definitions</a> · <a href="{{ '/resources/' | relative_url }}">Resources</a></p>
 </section>

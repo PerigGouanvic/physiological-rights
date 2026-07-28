@@ -5,7 +5,7 @@ name: Omega-3 (EPA/DHA)
 category: macronutrient
 description: "The right to an optimal omega-3 status: access to testing (Omega-3 Index) and supplementation to correct the chronic omega-6/omega-3 imbalance that characterises modern Western diets."
 status: published
-last_revised: "April 2025"
+last_revised: "July 2026"
 researchers: "Charles Serhan · William S. Harris · Clemens von Schacky · Joseph Hibbeln · Artemis Simopoulos"
 ---
 
@@ -13,9 +13,9 @@ researchers: "Charles Serhan · William S. Harris · Clemens von Schacky · Jose
 
 ## The dual architectural and diplomatic role
 
-Each of your 37 trillion cells is surrounded by a membrane. This membrane is not a rigid wall: it is a **living, liquid, dynamic film**, whose fluidity depends directly on its fatty acid composition. Long-chain omega-3 fatty acids — EPA and DHA — are curved, flexible molecules. Incorporated into membranes, they ensure that receptors move correctly within them, that ion channels open and close at the right moment, that chemical signals pass with precision. A membrane poor in omega-3 is like a window whose mechanism is rusting — it can still open, but with delay, incompletely, at an angle.[^1][^2]
+Each of your 37 trillion cells is surrounded by a membrane. This membrane is not a rigid wall: it is a **living, liquid, dynamic film**, whose fluidity depends directly on its fatty acid composition. Long-chain omega-3 fatty acids (EPA and DHA) are curved, flexible molecules. Incorporated into membranes, they ensure that receptors move correctly within them, that ion channels open and close at the right moment, that chemical signals pass with fidelity. A membrane poor in omega-3 is like a window whose mechanism is rusting: it can still open, but with delay, incompletely, at an angle.[^1][^2]
 
-The second role of omega-3 is that of **inflammation diplomat**. From EPA and DHA, the body manufactures molecules called **resolvins, protectins, and maresins** — specialised pro-resolving mediators. These molecules do not inhibit inflammation as a classical anti-inflammatory would: they **actively signal the end of hostilities**, order the clearance of cellular debris, and organise tissue repair. Without them, inflammation resolves incompletely — and becomes chronic.[^3]
+The second role of omega-3 is that of **inflammation diplomat**. From EPA and DHA, the body manufactures molecules called **resolvins, protectins, and maresins**: specialised pro-resolving mediators. These molecules do not inhibit inflammation as a classical anti-inflammatory would: they **actively signal the end of hostilities**, order the clearance of cellular debris, and organise tissue repair. Without them, inflammation resolves incompletely, and becomes chronic.[^3]
 
 ---
 
@@ -25,9 +25,9 @@ This is the first great mystification of modern nutritional discourse, relayed b
 
 Omega-3 fatty acids come in three main forms:
 
-- **ALA** (alpha-linolenic acid): 18 carbons — present in flaxseeds, walnuts, canola, and hemp oils
-- **EPA** (eicosapentaenoic acid): 20 carbons — present in fatty fish, seafood, fish oils
-- **DHA** (docosahexaenoic acid): 22 carbons — same marine sources, major constituent of the brain, retina, and sperm
+- **ALA** (alpha-linolenic acid): 18 carbons, present in flaxseeds, walnuts, canola, and hemp oils
+- **EPA** (eicosapentaenoic acid): 20 carbons, present in fatty fish, seafood, fish oils
+- **DHA** (docosahexaenoic acid): 22 carbons, same marine sources, major constituent of the brain, retina, and sperm
 
 The plant industry's argument is that since ALA is the "precursor" of EPA and DHA, consuming flaxseed oil or walnuts is equivalent to consuming "complete" omega-3. This is **biologically misleading**.
 
@@ -40,18 +40,18 @@ The plant industry's argument is that since ALA is the "precursor" of EPA and DH
 
 [^4][^5][^6]
 
-For an adult man, consuming 10 g of flaxseed oil (approximately 5 g of ALA) may produce only **5 to 50 mg of DHA** — while the brain alone consumes hundreds of milligrams per day to maintain its neuronal membranes. This conversion is furthermore extremely variable between individuals and strongly **suppressed** in the presence of a high omega-6/omega-3 ratio, which is precisely the characteristic of Western diet.[^7]
+For an adult man, consuming 10 g of flaxseed oil (approximately 5 g of ALA) may produce only **5 to 50 mg of DHA**, while the brain alone consumes hundreds of milligrams per day to maintain its neuronal membranes. This conversion is furthermore extremely variable between individuals and strongly **suppressed** in the presence of a high omega-6/omega-3 ratio, the defining characteristic of Western diet.[^7]
 
 > *"Humans cannot effectively convert ALA (the shortest-chain omega-3, found in some plant, nut and seed oils) into DHA (a longer-chain omega-3 found in fish and seafood) in sufficient quantities to achieve optimal tissue DHA levels."* — FABRI Research Library[^8]
 
-A December 2025 study (*News-Medical*) shows that under strict control of omega-6 intake, ALA supplementation can significantly raise erythrocyte EPA — but the determining factor remains the **baseline omega-3 status**, not the quantity of ALA ingested. This result, even if optimistic, does not change the fundamental equation: an unsupplemented vegan diet is nearly structurally deficient in cerebral DHA.[^9]
+A December 2025 study (*News-Medical*) shows that under strict control of omega-6 intake, ALA supplementation can significantly raise erythrocyte EPA, but the determining factor remains the **baseline omega-3 status**, not the quantity of ALA ingested. This result, even if optimistic, does not change the fundamental equation: an unsupplemented vegan diet is nearly structurally deficient in cerebral DHA.[^9]
 
 **What the industry does:**
 - Labels products "rich in omega-3" as soon as they contain ALA (flaxseed oil added to cereals, omega-3 in vegan biscuits)
 - Uses the term "omega-3" generically, without distinguishing ALA, EPA, and DHA
 - Promotes vegan diets as nutritionally complete for omega-3 without supplementation
 
-Result: millions of people — vegetarians, vegans, consumers of "omega-3-enriched" plant foods — believe themselves protected while they may be in **chronic functional deficiency in DHA and EPA**.[^6]
+Result: millions of people (vegetarians, vegans, consumers of "omega-3-enriched" plant foods) believe themselves protected while they may be in **chronic functional deficiency in DHA and EPA**.[^6]
 
 ---
 
@@ -63,11 +63,11 @@ The paradox of government recommendations on fish consumption illustrates how **
 
 The fatty fish richest in EPA and DHA are indeed contaminated to varying degrees by: **methylmercury** (neurotoxic, teratogenic), **PCBs** (endocrine disruptors), **dioxins**, and **PFAS** depending on species and fishing zones.
 
-The typical institutional response — Health Canada, the FDA, the WHO — consists of setting mercury thresholds and issuing consumption advisories for pregnant women and children.[^10]
+The typical institutional response (Health Canada, the FDA, the WHO) consists of setting mercury thresholds and issuing consumption advisories for pregnant women and children.[^10]
 
 ### What these recommendations avoid saying
 
-Health Canada explicitly recognizes in its 2007 assessment that *"the beneficial nutrients of selenium and omega-3 fatty acids […] may to some extent counteract the adverse effects of methylmercury."* In other words, authorities know the problem is not binary — but consumption recommendations remain constructed on **risk alone**.[^11][^10]
+Health Canada explicitly recognizes in its 2007 assessment that *"the beneficial nutrients of selenium and omega-3 fatty acids […] may to some extent counteract the adverse effects of methylmercury."* In other words, authorities know the problem is not binary, but consumption recommendations remain constructed on **risk alone**.[^11][^10]
 
 An analysis published in *Environmental Health Perspectives* (2011) is direct:
 
@@ -75,17 +75,17 @@ An analysis published in *Environmental Health Perspectives* (2011) is direct:
 
 ### The avoided political question
 
-No national health authority asks: **why are fish contaminated and what is being done about it?** Recommendations are addressed to the individual consumer — *"eat less of this fish"* — rather than targeting polluting industries or developing clean supply chains. The **burden of risk is transferred to the citizen** rather than to the polluters.
+No national health authority asks: **why are fish contaminated and what is being done about it?** Recommendations are addressed to the individual consumer (*"eat less of this fish"*) rather than targeting polluting industries or developing clean supply chains. The **burden of risk is transferred to the citizen** rather than to the polluters.
 
 ---
 
 ## The silent revolution of cultivated algae
 
-The most elegant solution to this dilemma exists and is rapidly developing — but remains virtually invisible in official recommendations.
+The most elegant solution to this dilemma exists and is rapidly developing, but remains virtually invisible in official recommendations.
 
 **The fundamental fact**: fish do not *produce* omega-3. They **accumulate** them by eating marine microalgae. It is these microalgae that synthesise EPA and DHA from scratch.[^12]
 
-Marine microalgae — notably *Schizochytrium*, *Nannochloropsis*, *Isochrysis*, and *Phaeodactylum* — can be cultivated in **closed bioreactors**, in sterile conditions, without seawater or a polluted food chain.[^13]
+Marine microalgae (notably *Schizochytrium*, *Nannochloropsis*, *Isochrysis*, and *Phaeodactylum*) can be cultivated in **closed bioreactors**, in sterile conditions, without seawater or a polluted food chain.[^13]
 
 **Documented advantages:**
 - **Zero mercury**, zero PCBs, zero dioxins, zero PFAS[^14]
@@ -106,7 +106,7 @@ Companies such as **Corbion** (AlgaPrime™ DHA), **DSM-Firmenich**, and **Algam
 
 This is the domain where the gap between science and medical practice is widest.
 
-Since the pioneering work of Dr **Charles Serhan** (Harvard Medical School) in the 2000s, we have known that EPA and DHA are not merely "passive anti-inflammatories" — they are the **active precursors** of a cascade of pro-resolving lipid mediators:
+Since the pioneering work of Dr **Charles Serhan** (Harvard Medical School) in the 2000s, we have known that EPA and DHA are not merely "passive anti-inflammatories": they are the **active precursors** of a cascade of pro-resolving lipid mediators:
 
 - **E-series resolvins** (from EPA): RvE1, RvE2, RvE3
 - **D-series resolvins** (from DHA): RvD1 to RvD6
@@ -117,7 +117,7 @@ These molecules instruct macrophages to **switch phenotype** (from pro-inflammat
 
 > *"Resolvins are thought to be the active metabolites of ω-3 PUFA, and are responsible for facilitating the resolving phase of acute inflammation. Clinically, resolvins have been associated with resolution of acute kidney injury, acute lung injury, micro and macro vascular response to injury, and inhibition of microglia-activated inflammation in neurodegenerative disorders."* — PMC[^3]
 
-**The concrete clinical problem**: medicine measures inflammation with CRP, IL-6, erythrocyte sedimentation rate — markers of the inflammatory *state*. It does not measure **resolution mediators** (resolvins, protectins, maresins), which would inform on the *resolving capacity* of the organism. A patient with a normal CRP but defective inflammatory resolution can maintain a chronic low-grade inflammation totally invisible in standard blood panels.
+**The concrete clinical problem**: medicine measures inflammation with CRP, IL-6, erythrocyte sedimentation rate, markers of the inflammatory *state*. It does not measure **resolution mediators** (resolvins, protectins, maresins), which would inform on the *resolving capacity* of the organism. A patient with a normal CRP but defective inflammatory resolution can maintain a chronic low-grade inflammation totally invisible in standard blood panels.
 
 ---
 
@@ -127,7 +127,7 @@ These molecules instruct macrophages to **switch phenotype** (from pro-inflammat
 
 Developed in 2004 by Dr **William S. Harris** (University of South Dakota, founder of OmegaQuant) and Dr **Clemens von Schacky**, the Omega-3 Index measures the percentage of EPA+DHA in the **membranes of red blood cells** relative to total fatty acids.[^17][^18]
 
-It represents a marker of **tissue incorporation** of omega-3 over the 3 to 4 months preceding the blood draw — the equivalent of HbA1c for glucose.
+It represents a marker of **tissue incorporation** of omega-3 over the 3 to 4 months preceding the blood draw, the equivalent of HbA1c for glucose.
 
 | Zone | Index | Significance |
 |---|---|---|
@@ -137,7 +137,7 @@ It represents a marker of **tissue incorporation** of omega-3 over the 3 to 4 mo
 
 [^19][^20][^17]
 
-The average American sits at **4 to 5%** — while the optimal cardioprotective target is 8 to 12%. Similar data exist for Canadian and European populations.[^2]
+The average American sits at **4 to 5%**, while the optimal cardioprotective target is 8 to 12%. Similar data exist for Canadian and European populations.[^2]
 
 A pooled analysis of **17 studies covering 42,000 adults** in 10 countries showed that individuals with the highest EPA+DHA concentrations had:
 - **18% reduction in all-cause mortality**
@@ -146,27 +146,29 @@ A pooled analysis of **17 studies covering 42,000 adults** in 10 countries showe
 
 A US study (US Physicians Health Study) showed that men with the highest index at baseline had a **90% reduction in the risk of sudden cardiac death**.[^22]
 
-### What mainstream medicine measures — or rather, doesn't
+### What mainstream medicine measures, or rather, doesn't
 
-In a standard blood panel, **no physician** orders an Omega-3 Index. The measurement of membrane fatty acids is in the standard protocols of no specialty — neither cardiology, neurology, psychiatry, rheumatology, nor gastroenterology.[^23]
+In a standard blood panel, **no physician** orders an Omega-3 Index. The measurement of membrane fatty acids is in the standard protocols of no specialty: neither cardiology, neurology, psychiatry, rheumatology, nor gastroenterology.[^23]
 
 Dr Harris himself stated plainly:
 
 > *"Omega-3s tend to be ignored by the medical community because they belong to the world of nutrition."*[^2]
 
 **Available but not routinely used tests:**
-- **Omega-3 Index** (EPA+DHA % in red blood cells) — OmegaQuant, Labcorp, and certain specialised Canadian and European laboratories
-- **Complete membrane fatty acid profile** — omega-6/omega-3 ratio, arachidonic acid (AA) levels, DGLA
-- **EPA/AA ratio** — particularly informative for cardiovascular risk and systemic inflammatory status[^24]
-- **SPM measurement** (resolvins, protectins) — available in research, not yet in routine clinical settings
+- **Omega-3 Index** (EPA+DHA % in red blood cells): OmegaQuant, Labcorp, and certain specialised Canadian and European laboratories
+- **Complete membrane fatty acid profile**: omega-6/omega-3 ratio, arachidonic acid (AA) levels, DGLA
+- **EPA/AA ratio**: particularly informative for cardiovascular risk and systemic inflammatory status[^24]
+- **SPM measurement** (resolvins, protectins): available in research, not yet in routine clinical settings
 
 ---
 
 ## Conditions where the science-medicine gap is glaring
 
+Association is not causation. An omega-3 deficit is one etiology among several to explore for each of the conditions below, not the sole one. What the sections that follow document is that no routine clinical panel measures omega-3 status when the presentation would warrant it, so the deficit is never named even where it is a modifiable factor.
+
 ### Psychiatry: solid evidence, persistent indifference
 
-DHA is the **major lipid constituent of the prefrontal cortex and grey matter** — it represents 40% of polyunsaturated fatty acids in neuronal brain membranes.[^1]
+DHA is the **major lipid constituent of the prefrontal cortex and grey matter**: it represents 40% of polyunsaturated fatty acids in neuronal brain membranes.[^1]
 
 Established data:
 - Depressed patients have **reduced EPA and DHA membrane levels** in their red blood cells and platelets
@@ -177,7 +179,7 @@ Established data:
 
 > *"Epidemiological studies indicate an association between depression and low dietary intake of omega-3 fatty acids, and biochemical studies have shown reduced levels of omega-3 fatty acids in red blood cell membranes in both depressive and schizophrenic patients."* — PubMed[^1]
 
-In mainstream psychiatry, no blood panel measures omega-3. Patients receive antidepressants, antipsychotics, and mood stabilisers without their DHA/EPA status ever having been assessed — and without EPA supplementation being offered as an adjunct, despite the evidence.[^29][^30]
+In mainstream psychiatry, no blood panel measures omega-3. Patients receive antidepressants, antipsychotics, and mood stabilisers without their DHA/EPA status ever having been assessed, and without EPA supplementation being offered as an adjunct, despite the evidence.[^29][^30]
 
 ### Cardiovascular disease: the paradox of negative studies
 
@@ -185,7 +187,7 @@ Randomized trials on fish oils have sometimes produced negative results (ORIGIN 
 
 What these studies failed to measure: **the baseline Omega-3 Index**. If participants start with an index of 6–7% (typical European or Japanese population), modest supplementation will make little difference. The absence of baseline status measurement is the main reason for contradictory results in the cardiovascular literature.[^21][^24]
 
-**REDUCE-IT (2019)** — with 4 g/day of pure EPA (icosapentaenoic acid at high dose, Vascepa) in hypertriglyceridemic patients — showed a **25% reduction in major cardiovascular events**, leading the FDA to approve Vascepa for this indication.[^31]
+**REDUCE-IT (2019)**, with 4 g/day of pure EPA (icosapentaenoic acid at high dose, Vascepa) in hypertriglyceridemic patients, showed a **25% reduction in major cardiovascular events**, leading the FDA to approve Vascepa for this indication.[^31]
 
 ### Autoimmune diseases: the VITAL data
 
@@ -193,9 +195,9 @@ The **VITAL** randomized trial (25,871 participants, median follow-up 5.3 years)
 
 - **Vitamin D3 alone**: 22% reduction (p=0.05)
 - **Omega-3 alone**: 15% reduction (trend, p=0.19)
-- **Vitamin D3 + omega-3 combined**: **31% reduction** (p=0.03 — significant)
+- **Vitamin D3 + omega-3 combined**: **31% reduction** (p=0.03, significant)
 
-The authors highlight a **time effect** for omega-3: the benefit appears to grow with duration, consistent with the notion that progressive membrane incorporation is the active mechanism. A dose of 1,000 mg/day is also low — protection would likely be more pronounced with doses targeting an index of 8%.[^32]
+The authors highlight a **time effect** for omega-3: the benefit appears to grow with duration, consistent with the notion that progressive membrane incorporation is the active mechanism. A dose of 1,000 mg/day is also low; protection would likely be more pronounced with doses targeting an index of 8%.[^32]
 
 ### Other documented domains
 
@@ -213,7 +215,7 @@ The authors highlight a **time effect** for omega-3: the benefit appears to grow
 
 ## Why medicine does not act: institutional mechanisms
 
-**1. The absence of a lucrative patent.** Omega-3 fatty acids are natural molecules that cannot be patented in their standard dietary form. The pharmaceutical industry has no interest in funding mega-trials on fish oil or algae oil. The trials that have been funded were primarily by companies such as **AMARIN** (for its patentable purified EPA, Vascepa) — hence the bias toward expensive molecules rather than accessible dietary oils.[^31]
+**1. The absence of a lucrative patent.** Omega-3 fatty acids are natural molecules that cannot be patented in their standard dietary form. The pharmaceutical industry has no interest in funding mega-trials on fish oil or algae oil. The trials that have been funded were primarily by companies such as **AMARIN** (for its patentable purified EPA, Vascepa), hence the bias toward expensive molecules rather than accessible dietary oils.[^31]
 
 **2. Medicine of unmeasured biomarkers.** Medicine treats what it measures. Cholesterol is measured → statins are prescribed. The omega-3 index is not in blood panels → omega-3 are not prescribed. This is a pure vicious cycle.
 
@@ -229,13 +231,13 @@ The authors highlight a **time effect** for omega-3: the benefit appears to grow
 - **Dr Clemens von Schacky, MD** (Ludwig-Maximilian University, Munich; director of Omegametrix): co-developer of the Omega-3 Index, author of the LURIC study on omega-3 and sudden cardiac death.[^17]
 - **Dr Charles N. Serhan, PhD** (Harvard Medical School): discoverer of resolvins, protectins, and maresins. His work has revolutionized the understanding of inflammation resolution.[^16][^3]
 - **Dr Joseph Hibbeln, MD** (NIH): specialist in the link between omega-3 and psychiatric disorders, violence, and suicide; international epidemiological studies on fatty fish consumption and depression prevalence.[^1]
-- **Dr Artemis Simopoulos, MD** (Center for Genetics, Nutrition and Health): specialist in the omega-6/omega-3 ratio — ancestrally 1:1 to 4:1, today **15:1 to 20:1** in Western diets.[^31]
+- **Dr Artemis Simopoulos, MD** (Center for Genetics, Nutrition and Health): specialist in the omega-6/omega-3 ratio, ancestrally 1:1 to 4:1, today **15:1 to 20:1** in Western diets.[^31]
 
 ---
 
 ## What the state of the oceans requires us to reconsider
 
-The contamination of wild fish is not an immutable constant — it is the result of specific industrial policies. Small fatty fish (sardines, anchovies, herring, mackerel) have far lower contaminant bioaccumulation than large predators (bluefin tuna, swordfish, shark) and remain the best dietary sources of EPA and DHA with a favourable risk-benefit ratio for the vast majority of the population.[^38][^10]
+The contamination of wild fish is not an immutable constant: it is the result of specific industrial policies. Small fatty fish (sardines, anchovies, herring, mackerel) have far lower contaminant bioaccumulation than large predators (bluefin tuna, swordfish, shark) and remain the best dietary sources of EPA and DHA with a favourable risk-benefit ratio for the vast majority of the population.[^38][^10]
 
 The systemic solution requires three simultaneous approaches:
 1. **Active ocean decontamination** and strict regulation of industrial mercury discharges
@@ -257,7 +259,7 @@ Clinical advantages:
 
 > *"Every cell in your body has omega-3 in its membranes. If omega-3s are chronically low, your body wears out faster."* — Dr William Harris[^2]
 
-An Omega-3 Index test (available by mail order from [OmegaQuant](https://omegaquant.com) or through certain private Canadian and European laboratories) can reveal within weeks whether cell membranes are being built under the right conditions — or whether they have been functioning in degraded mode for years, without anyone having looked.
+An Omega-3 Index test (available by mail order from [OmegaQuant](https://omegaquant.com) or through certain private Canadian and European laboratories) can reveal within weeks whether cell membranes are being built under the right conditions, or whether they have been functioning in degraded mode for years, without anyone having looked.
 
 Within the framework of the [physiological rights](/definitions/physiological-rights/) this resource defends, this grounds a **right to an optimal EPA and DHA status**: the right to recognition of functional deficiency, access to relevant membrane tests, and access to clean, affordable marine omega-3 sources for all.
 

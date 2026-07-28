@@ -3,6 +3,7 @@ layout: default
 title: Practical Illustrations
 description: "Concrete examples illustrating the limits of general nutritional recommendations against individual physiological needs — deficiencies despite balanced diets, superfoods, and mismatched profiles."
 status: draft
+search_exclude: true
 last_revised: "April 2025"
 ---
 

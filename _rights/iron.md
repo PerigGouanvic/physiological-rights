@@ -52,7 +52,7 @@ See *[The Ferritin Threshold](/editorials/the-ferritin-threshold/)* for the full
 
 Iron deficiency anaemia is the recognised endpoint: haemoglobin falls, the complete blood count declares itself, the reticulocyte response confirms. Iron deficiency **without** anaemia (IDWA) is what the routine panel does not name. Ferritin can be at 8 µg/L while haemoglobin still reads 130 g/L. Stores are depleted; compensatory erythropoiesis is still holding. The patient is severely deficient in the sense that matters biologically (reduced tissue iron for oxidative phosphorylation, for dopaminergic neurotransmission, for thyroid peroxidase, for immune function), while the anaemia panel returns "normal."
 
-The clinical presentation of IDWA is precisely what primary care most consistently attributes to something else: unexplained tiredness disproportionate to activity, hair loss, restless legs at night, tachycardia and palpitations, brain fog, cold extremities, breathlessness on stairs, brittle nails, unusual cravings for ice or earth (pagophagia, geophagia). The populations most affected are menstruating women (particularly those with heavy menstrual bleeding), endurance athletes, regular blood donors, patients with coeliac or inflammatory bowel disease, and adolescents through their growth spurt.
+The clinical presentation of IDWA is what primary care most consistently attributes to something else: unexplained tiredness disproportionate to activity, hair loss, restless legs at night, tachycardia and palpitations, brain fog, cold extremities, breathlessness on stairs, brittle nails, unusual cravings for ice or earth (pagophagia, geophagia). The populations most affected are menstruating women (particularly those with heavy menstrual bleeding), endurance athletes, regular blood donors, patients with coeliac or inflammatory bowel disease, and adolescents through their growth spurt.
 
 ---
 
@@ -85,6 +85,8 @@ The relationship between iron and infection is not linear. **Eugene Weinberg**, 
 ## A staggering inventory of associated conditions
 
 The list of conditions in which iron deficiency has been documented as a contributor is long enough to be received as implausible. Each association is peer-reviewed.
+
+Association is not causation. An iron deficit is one etiology among several to explore for each of the conditions below, not the sole one. What the inventory documents is that current standard care rarely puts a complete iron panel on the workup when the presentation would warrant it, so the deficit is never named even where it is a modifiable factor.
 
 | System affected | Conditions associated with iron deficiency |
 |---|---|

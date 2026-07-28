@@ -122,7 +122,7 @@ The right this page defends is not a right to a specific protocol. It is a right
 
 ## Experts, in their own words
 
-### Irwin H. Rosenberg — the founder
+### Irwin H. Rosenberg: the founder
 
 Rosenberg's 1997 *Journal of Nutrition* paper on the origins and clinical relevance of sarcopenia contains the sentence that has been the epigraph of the field ever since:
 
@@ -130,19 +130,19 @@ Rosenberg's 1997 *Journal of Nutrition* paper on the origins and clinical releva
 
 He had already introduced the term nine years earlier at a conference on Health and Aging, and had allowed it to be published in the *American Journal of Clinical Nutrition* proceedings in 1989. Almost forty years later, the term has entered international consensus, and the routine physical examination has not.
 
-### Alfonso J. Cruz-Jentoft — the operationalizer
+### Alfonso J. Cruz-Jentoft: the operationalizer
 
 Chair of the European Working Group on Sarcopenia in Older People through both the 2010 and 2019 consensus statements, Cruz-Jentoft is the person most responsible for turning Rosenberg's naming into a clinical instrument. His 2019 revision (*Age and Ageing*, 48:16-31) placed low muscle strength at the front of the diagnostic algorithm, treating low muscle mass as confirmatory, on the pragmatic reasoning that grip strength can be measured everywhere and DEXA cannot. The choice is defensible operationally and reveals the underlying constraint: the diagnostic algorithm is calibrated to what routine care will actually measure, not to what the physiology would call for.
 
-### Richard N. Baumgartner — the metrician
+### Richard N. Baumgartner: the metrician
 
 Baumgartner's 1998 *American Journal of Epidemiology* paper on the epidemiology of sarcopenia in New Mexico produced the appendicular skeletal muscle mass index (ASMI) and the population-based cutoffs that anchored the field for two decades. His work is the reason the current diagnostic algorithms have numerical thresholds at all.
 
-### Robert R. Wolfe — the metabolist
+### Robert R. Wolfe: the metabolist
 
 Wolfe's 2006 paper in *American Journal of Clinical Nutrition*, *The underappreciated role of muscle in health and disease*, is the argumentative core of the case for muscle as a metabolic and not merely a locomotor organ. His subsequent work at the University of Arkansas for Medical Sciences on protein turnover, on the amino acid response to feeding, and on the pathophysiology of anabolic resistance in ageing has provided the mechanistic foundation for the protein-intake recommendations that the geriatric nutrition community has been building since.
 
-### William J. Evans, Roger A. Fielding, Anne B. Newman — the field-builders
+### William J. Evans, Roger A. Fielding, Anne B. Newman: the field-builders
 
 Evans (Berkeley and Duke), Fielding (Tufts), and Newman (Pittsburgh) are three of the researchers who translated Rosenberg's concept into a clinical field over the following three decades, through the Health ABC cohort, the LIFE trial (Fielding as PI), and the successive editions of geriatric nutrition guidelines. Their combined bibliography is one of the pillars on which any serious contemporary muscle-mass literature rests.
 
@@ -194,7 +194,7 @@ The claim of the present page is, in one sense, the extension of Mayer's argumen
 | 2022 | ESPEN/EASO consensus on sarcopenic obesity | The co-occurrence acquires a definition, a quarter-century after the phenotype was named |
 | 2025 | Polo-Ferrero et al.: 35.7% remission of sarcopenic obesity criteria under power training | The binary endpoint is posed for the first time in the sarcopenic-obesity literature |
 | 2026 | Ma et al. umbrella review in *Frontiers in Nutrition* on 33 primary trials | The binary endpoint is still not extracted at the umbrella level |
-| — | — | No national public health framework treats muscle mass as an explicit objective |
+| – | – | No national public health framework treats muscle mass as an explicit objective |
 
 ---
 
@@ -215,4 +215,4 @@ The claim of the present page is, in one sense, the extension of Mayer's argumen
 13. Donini LM, Busetto L, Bischoff SC, et al. *Definition and Diagnostic Criteria for Sarcopenic Obesity: ESPEN and EASO Consensus Statement.* Obesity Facts. 2022;15(3):321-335. [PubMed 35196654](https://pubmed.ncbi.nlm.nih.gov/35196654/)
 14. Polo-Ferrero L, Martin MJ, Puente-González AS, Barbero-Iglesias FJ, González-Manzano S, Méndez-Sánchez R. *Efficacy of Power Training on Sarcopenic Obesity in Community-Dwelling Older Women: A 32-Week Randomized Clinical Trial.* Nutrients. 2025. [PubMed 40507091](https://pubmed.ncbi.nlm.nih.gov/40507091/)
 15. Ma X, Sun G, Liu C, Yan X, Liang W, Ma Z. *Exercise-based interventions for sarcopenic obesity in middle-aged and older adults: an umbrella review of systematic reviews with pairwise meta-analyses and network meta-analyses.* Frontiers in Nutrition. 2026. [doi:10.3389/fnut.2026.1859967](https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1859967/full)
-16. Mayer J. *Les droits physiologiques de l'homme.* Address to the Société française de nutrition, 1979. Republished in this resource: [Physiologie et condition humaine — J. Mayer (1979)](/resources/01f26f96/)
+16. Mayer J. *Les droits physiologiques de l'homme.* Address to the Société française de nutrition, 1979. Republished in this resource: [Physiologie et condition humaine, J. Mayer (1979)](/resources/01f26f96/)

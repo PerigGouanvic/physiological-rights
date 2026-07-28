@@ -24,7 +24,7 @@ A food can be beneficial for a healthy person but problematic for someone with a
 
 For example:
 - **Fructose-rich fruits**: Generally considered healthy. However, for a person with insulin resistance or metabolic syndrome, excess fructose can worsen their situation.
-- **Soy**: Often seen as a healthy meat alternative, it contains phytoestrogens that can disrupt hormonal balance in some individuals — particularly those with thyroid conditions.
+- **Soy**: Often seen as a healthy meat alternative, it contains phytoestrogens that can disrupt hormonal balance in some individuals, particularly those with thyroid conditions.
 
 ### The Importance of Nutrient Ratios
 

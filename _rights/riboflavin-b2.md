@@ -5,7 +5,7 @@ name: Vitamin B2 (riboflavin)
 category: vitamin
 description: "The right to an optimal riboflavin status: recognition of widespread subclinical deficiency and its role in mitochondrial function, FAD/FMN cofactor production, and MTHFR enzyme activity."
 status: published
-last_revised: "April 2025"
+last_revised: "July 2026"
 researchers: "Helene McNulty · Kathleen Sheridan · Anne Molloy · Chandler Marrs"
 ---
 
@@ -15,15 +15,15 @@ researchers: "Helene McNulty · Kathleen Sheridan · Anne Molloy · Chandler Mar
 
 Riboflavin is the precursor of two fundamental coenzymes: **FMN** (flavin mononucleotide) and **FAD** (flavin adenine dinucleotide). These two molecules participate in dozens of oxidation-reduction reactions in the mitochondria, the respiratory chain, the synthesis of steroid hormones, iron mobilisation, and the folate cycle.[^1][^2]
 
-Imagine it this way: a cellular assembly line where workers must constantly deposit and collect loads (electrons) from one station to another. B2 is this universal shuttle worker. If it is missing from its post, **the entire production line slows** — without any specific alarm going off, because each station adapts as best it can. This is precisely what makes subclinical B2 deficiency so difficult to spot.[^3]
+Imagine it this way: a cellular assembly line where workers must constantly deposit and collect loads (electrons) from one station to another. B2 is this universal shuttle worker. If it is missing from its post, **the entire production line slows**, without any specific alarm going off, because each station adapts as best it can. This is exactly what makes subclinical B2 deficiency so difficult to spot.[^3]
 
 ---
 
 ## A century of ignored warnings
 
-Riboflavin was isolated in 1926–1933 (independently by Warburg, Kuhn, and several teams), and *ariboflavinosis* — the clinical form of deficiency — was already well described in the 1940s in rural populations of Asia, Africa, and Central America.[^4]
+Riboflavin was isolated in 1926–1933 (independently by Warburg, Kuhn, and several teams), and *ariboflavinosis* (the clinical form of deficiency) was already well described in the 1940s in rural populations of Asia, Africa, and Central America.[^4]
 
-After flour fortification in the 1950s–60s, Western health authorities classified the problem as "solved." Yet surveys in the following decades continued to document a persistent prevalence of subclinical deficiency among adolescent girls, the elderly, and vegetarians — data largely ignored.[^5]
+After flour fortification in the 1950s–60s, Western health authorities classified the problem as "solved." Yet surveys in the following decades continued to document a persistent prevalence of subclinical deficiency among adolescent girls, the elderly, and vegetarians: data largely ignored.[^5]
 
 In **2020**, a major review in the *International Journal of Molecular Sciences* concluded:
 
@@ -33,13 +33,13 @@ In **2023**, the *Annual Review of Nutrition* stated:
 
 > *"Subclinical deficiency may be much more widespread, including in high-income countries, but typically goes undetected because riboflavin biomarkers are rarely measured in human studies."*[^3]
 
-The pattern is well known: scientific finding, institutional forgetting, rediscovery — and in between, generations of undiagnosed patients.
+The pattern is well known: scientific finding, institutional forgetting, rediscovery, and in between, generations of undiagnosed patients.
 
 ---
 
 ## B2 is not "easy to obtain"
 
-The standard discourse is that B2 is abundantly found in dairy products, meat, eggs, and fortified cereals. Technically true — but several structural features of modern diets work against it:
+The standard discourse is that B2 is abundantly found in dairy products, meat, eggs, and fortified cereals. Technically true, but several structural features of modern diets work against it:
 
 - **Extreme photosensitivity**: milk exposed to light (transparent bottles, supermarket shelves) loses a significant fraction of its B2 content[^1]
 - **Prolonged cooking**: degrades riboflavin, particularly in boiled vegetables
@@ -58,9 +58,9 @@ The real data, where they have been measured, are alarming.
 - **United Kingdom**: 59% of boys aged 2–6 and 78% of boys aged 7–10 had insufficient B2 status; **95% of girls aged 15–18** had insufficient intake[^7]
 - **Europe**: 7 to 20% of adults deficient, up to **27% in the United States**[^7]
 - **Italy**: approximately 20% of the elderly with subclinical deficiency[^8]
-- **Canada** (young women): only 7% had intakes below the recommended threshold — but **40% had biochemical deficiency measured** by EGRAC ≥ 1.40, despite apparently adequate dietary intakes[^9]
+- **Canada** (young women): only 7% had intakes below the recommended threshold, but **40% had biochemical deficiency measured** by EGRAC ≥ 1.40, despite apparently adequate dietary intakes[^9]
 
-That last figure is particularly revealing: it shows the gap between measured dietary intake and real biochemical status — theoretical intakes do not predict actual cellular utilization.
+That last figure is particularly revealing: it shows the gap between measured dietary intake and real biochemical status. Theoretical intakes do not predict actual cellular utilization.
 
 > *"Subclinical deficiency may be much more widespread, including in high-income countries, but typically goes undetected because riboflavin biomarkers are rarely measured in human studies. There are adverse health consequences of low and deficient riboflavin status throughout the life cycle, including anemia and hypertension, that could contribute substantially to the global burden of disease."*
 > — Annual Review of Nutrition, 2023[^3]
@@ -77,27 +77,27 @@ Three genes encode riboflavin transporters (RFVT1, RFVT2, RFVT3):[^10]
 - **SLC52A2** (RFVT2): expressed in the brain and nervous system, responsible for intracerebral transport
 - **SLC52A1** (RFVT1): involved in placental transport
 
-Loss-of-function mutations in SLC52A2 and SLC52A3 cause **RTD** (*Riboflavin Transporter Deficiency*) — formerly known as Brown-Vialetto-Van Laere and Fazio-Londe syndromes — a progressive neurodegenerative disease. Crucially: blood B2 levels may appear **normal** even when nerve cells are deprived of riboflavin, because the defective transporter blocks intracellular entry.[^11][^10]
+Loss-of-function mutations in SLC52A2 and SLC52A3 cause **RTD** (*Riboflavin Transporter Deficiency*), formerly known as Brown-Vialetto-Van Laere and Fazio-Londe syndromes: a progressive neurodegenerative disease. Crucially: blood B2 levels may appear **normal** even when nerve cells are deprived of riboflavin, because the defective transporter blocks intracellular entry.[^11][^10]
 
 > *"When a variant occurs in any of these three [transporter] genes, the resulting transporter protein may be abnormal, inefficient or entirely absent. This defect prevents riboflavin from crossing cell membranes, so even if blood levels of vitamin B2 appear normal, cells become starved of this vital nutrient."*
 > — NORD (National Organization for Rare Disorders)[^10]
 
 ### The MTHFR 677C>T polymorphism: a major risk multiplier
 
-The **MTHFR 677C>T polymorphism affects 30 to 60% of the population** depending on ethnicity — making it one of the most clinically relevant genetic interactions linked to B2.
+The **MTHFR 677C>T polymorphism affects 30 to 60% of the population** depending on ethnicity, making it one of the most clinically relevant genetic interactions linked to B2.
 
-The MTHFR enzyme (methylenetetrahydrofolate reductase) is **riboflavin-dependent**: it needs FAD (derived from B2) as a cofactor to function. The 677C>T variant modifies the enzyme's structure, reducing its affinity for FAD. Result: in carriers (heterozygous CT or homozygous TT), **the MTHFR enzyme functions poorly — particularly when riboflavin status is low**.[^12][^13][^14]
+The MTHFR enzyme (methylenetetrahydrofolate reductase) is **riboflavin-dependent**: it needs FAD (derived from B2) as a cofactor to function. The 677C>T variant modifies the enzyme's structure, reducing its affinity for FAD. Result: in carriers (heterozygous CT or homozygous TT), **the MTHFR enzyme functions poorly, particularly when riboflavin status is low**.[^12][^13][^14]
 
 The consequences are serious:
 
 - Accumulation of **homocysteine** (cardiovascular, thrombotic, and neurotoxic risk factor)[^15][^12]
 - Methylation defect (insufficient production of 5-methyltetrahydrofolate → neurotransmitters, DNA repair, detoxification)
 - Riboflavin supplementation (1.6 mg/day) reduces homocysteine by **22 to 40%** in TT genotype carriers with low B2 status[^12]
-- In these individuals, **folate supplementation alone is insufficient** — without adequate B2, the enzyme remains defective regardless of the folate dose[^13]
+- In these individuals, **folate supplementation alone is insufficient**: without adequate B2, the enzyme remains defective regardless of the folate dose[^13]
 
 > *"MTHFR is therefore a riboflavin-dependent enzyme, and the less riboflavin available, the less functional it becomes. People with the MTHFR 677CT mutation had high homocysteine levels only if they had low riboflavin levels."*[^12]
 
-In practice, millions of people carrying the MTHFR polymorphism and taking methylated folate supplements are not getting the expected results — simply because their underlying B2 deficiency has not been identified and corrected.
+In practice, millions of people carrying the MTHFR polymorphism and taking methylated folate supplements are not getting the expected results, simply because their underlying B2 deficiency has not been identified and corrected.
 
 ---
 
@@ -109,7 +109,7 @@ In practice, millions of people carrying the MTHFR polymorphism and taking methy
 
 **Thyroid and adrenal glands**: B2 regulates the synthesis of thyroid and adrenal hormones; deficiency increases the risk of thyroid disease, and symptoms of dysthyroidism may in fact reflect riboflavin deficiency.[^2]
 
-**Cardiovascular disease and hypertension**: via homocysteine accumulation in MTHFR carriers, riboflavin deficiency directly increases cardiovascular risk — a documented mechanism rarely mentioned in clinical consultations.[^17]
+**Cardiovascular disease and hypertension**: via homocysteine accumulation in MTHFR carriers, riboflavin deficiency directly increases cardiovascular risk, a documented mechanism rarely mentioned in clinical consultations.[^17]
 
 **Other frequent confusions**: cataracts and glaucoma, peripheral neuropathies (often attributed to diabetes or B12 without measuring B2), chronic fatigue, and depression.
 
@@ -121,12 +121,12 @@ In practice, millions of people carrying the MTHFR polymorphism and taking methy
 
 Standard laboratory measurement reflects **intakes from the preceding 48–72 hours**, not tissue stores. A meal rich in dairy products before the blood draw can artificially normalize results.[^18]
 
-### EGRAC — the reference functional test
+### EGRAC: the reference functional test
 
 EGRAC (erythrocyte glutathione reductase activation coefficient) is the functional equivalent of the ETKAC test for other B vitamins. Its important limitations:[^19][^20]
 
-- **Unusable** in people with G6PD deficiency (common in some African, Mediterranean, and Asian populations) — this deficiency artificially increases the enzyme's affinity for FAD, giving a **falsely normal** result
-- **Lack of international standardization** of thresholds (IOM considers EGRAC <1.2 as acceptable, 1.2–1.4 as low, >1.4 as deficient — but these thresholds are contested)
+- **Unusable** in people with G6PD deficiency (common in some African, Mediterranean, and Asian populations): this deficiency artificially increases the enzyme's affinity for FAD, giving a **falsely normal** result
+- **Lack of international standardization** of thresholds (IOM considers EGRAC <1.2 as acceptable, 1.2–1.4 as low, >1.4 as deficient, but these thresholds are contested)
 - In RTD cases, cells can be **starved of B2 with a normal EGRAC** because the defect lies downstream of transport, not in the circulating quantity[^10]
 
 ---
@@ -149,7 +149,7 @@ The paradox is clear: recommendations are formulated in mg/day as if absorption,
 
 Unlike some other nutrients, B2 does not yet have a major public-facing figure. The most active academic researchers include:
 
-- **Prof Helene McNulty** (Ulster University, Northern Ireland): world specialist in the riboflavin–MTHFR–blood pressure interaction; author of several key studies on B2 supplementation in MTHFR carriers[^22]
+- **Prof Helene McNulty** (Ulster University, Northern Ireland): world specialist in the riboflavin/MTHFR/blood pressure interaction; author of several key studies on B2 supplementation in MTHFR carriers[^22]
 - **Prof Kathleen Sheridan & Dr Anne Molloy** (Trinity College Dublin): work on B2, folate, homocysteine, and methylation[^12]
 - **Team of Lena Brundin** (Sweden): work on RTD and neuroprotection with high-dose riboflavin[^11]
 - **HormonesMatter.com** (Chandler Marrs): also publishes articles on B2 in relation to mitochondrial cofactors
@@ -165,7 +165,7 @@ For carriers of the MTHFR 677 TT polymorphism, correcting low B2 status can:
 - Reduce the cardiovascular risk associated with the polymorphism
 - Improve overall methylation (mood, cognition, detoxification)
 
-For migraineurs with mitochondrial dysfunction, **400 mg/day of riboflavin** has an efficacy profile comparable to prophylactic medications — with zero serious side effects.[^16]
+For migraineurs with mitochondrial dysfunction, **400 mg/day of riboflavin** has an efficacy profile comparable to prophylactic medications, with zero serious side effects.[^16]
 
 For people unknowingly carrying an MTHFR variant, or simply following a modern diet poor in dairy products and offal, **1.6 to 3 mg/day of riboflavin** can represent a significant metabolic shift.
 

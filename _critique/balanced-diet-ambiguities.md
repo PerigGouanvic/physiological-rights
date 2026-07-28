@@ -29,4 +29,4 @@ This is due to several factors:
 
 Even a perfectly balanced diet cannot rapidly correct an already-established deficiency. A person suffering from severe hypomagnesaemia cannot simply eat magnesium-rich foods; targeted, monitored supplementation may be necessary.
 
-**Physiological rights** challenge the idea that a "balanced diet" is sufficient to guarantee physiological integrity. They argue for an individualised approach — based on the assessment and active correction of physiological parameters — rather than the blind application of general recommendations.
+**Physiological rights** challenge the idea that a "balanced diet" is sufficient to guarantee physiological integrity. They argue for an individualised approach, based on the assessment and active correction of physiological parameters, rather than the blind application of general recommendations.

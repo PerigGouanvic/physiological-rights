@@ -2,7 +2,7 @@
 title: Constats d'audit — juillet 2026
 status: internal
 created: 2026-07-24
-last_revised: 2026-07-24
+last_revised: 2026-07-27
 scope: constats issus de la passe AUDIT-CHARTER (Sections 1–3)
 ---
 
@@ -37,7 +37,7 @@ Tous les liens markdown internes du corpus ont été vérifiés contre les perma
 
 ### 1. `_rights/optimal-hormonal-levels.md` est un stub, référencé comme s'il faisait autorité
 
-Verdict : [ ] OK  [ ] Plus tard  [ ] Non  [ ] À discuter  [ ] Déjà fait
+Verdict : [x] OK  [ ] Plus tard  [ ] Non  [ ] À discuter  [ ] Déjà fait
 
 - **Lieu :** `_rights/optimal-hormonal-levels.md` (fichier entier) ; référencé depuis `faq/index.md:89` comme l'un des douze substrats, et depuis l'index des Rights.
 - **Nature :** La page est `status: draft`, fait 47 lignes, contient cinq sections courtes (Thyroid, Sex, Adrenal, Insulin, Individual physiology), et ne porte pas les champs de frontmatter `name:` / `category:` / `researchers:` présents sur les onze autres fiches `_rights/`. Il lui manque aussi la section historique, la section chercheurs référents, le tableau des maladies associées, la timeline, et la bibliographie que fournit le gabarit de référence (`_rights/magnesium.md`). Or la FAQ, dans sa réponse à « Which nutrients are documented here? », la nomme parmi les douze substrats documentés.
@@ -49,7 +49,7 @@ _Notes :_
 
 ### 2. Onze fiches `_rights/` sur douze ne renvoient pas à la définition-mère
 
-Verdict : [ ] OK  [ ] Plus tard  [ ] Non  [ ] À discuter  [ ] Déjà fait
+Verdict : [x] OK  [ ] Plus tard  [ ] Non  [ ] À discuter  [ ] Déjà fait
 
 - **Lieu :** `_rights/` — tous les fichiers sauf `choline.md`.
 - **Nature :** Le constat #2 de la charte (recency bias dans la sélection de liens) a un cousin structurel : seul `_rights/choline.md` renvoie à `/definitions/physiological-rights/`. Un lecteur qui arrive sur une fiche nutriment via la recherche n'a pas de chemin en un clic vers la définition de « droit » telle que la ressource l'entend. La charte §2, item 5 le prédit exactement.
@@ -61,7 +61,7 @@ _Notes :_
 
 ### 3. `_rights/vitamin-e.md` porte un `status: documented` non standard
 
-Verdict : [ ] OK  [ ] Plus tard  [ ] Non  [ ] À discuter  [ ] Déjà fait
+Verdict : [x] OK  [ ] Plus tard  [ ] Non  [ ] À discuter  [ ] Déjà fait
 
 - **Lieu :** `_rights/vitamin-e.md`, frontmatter.
 - **Nature :** Toutes les autres fiches `_rights/` conformes au gabarit utilisent `status: published`. `vitamin-e.md` utilise `status: documented`, valeur qui n'est employée nulle part ailleurs dans `_rights/`. La même valeur non standard apparaît sur `_resources/01f26f96.md` (Mayer 1979), où elle peut se défendre pour un document-source ; sur une fiche `_rights/`, elle passe pour un oubli.
@@ -73,7 +73,7 @@ _Notes :_
 
 ### 4. Le gabarit de référence `_rights/magnesium.md` porte `last_revised: April 2025`
 
-Verdict : [ ] OK  [ ] Plus tard  [ ] Non  [ ] À discuter  [ ] Déjà fait
+Verdict : [x] OK  [ ] Plus tard  [ ] Non  [ ] À discuter  [ ] Déjà fait
 
 - **Lieu :** frontmatter de `_rights/magnesium.md`, et par extension chaque fiche `_rights/` qui lit encore `last_revised: April 2025` : `potassium.md`, `iron.md`, `folate.md`, `omega-3.md`, `riboflavin-b2.md`, `thiamine-b1.md`, `vitamin-e.md`.
 - **Nature :** Ces pages ont été touchées substantiellement pendant le travail éditorial de 2026 (pivot juriste, cross-linking, ajustements de citations), mais leur `last_revised` lit toujours *April 2025*. Signal trompeur pour le lecteur qui scanne la date pour jauger la fraîcheur. La charte §2, item 9 le prédit exactement.
@@ -85,7 +85,7 @@ _Notes :_
 
 ### 5. La collection `_reports/` est orpheline dans l'architecture actuelle
 
-Verdict : [ ] OK  [ ] Plus tard  [ ] Non  [ ] À discuter  [ ] Déjà fait
+Verdict : [x] OK  [ ] Plus tard  [ ] Non  [ ] À discuter  [ ] Déjà fait
 
 - **Lieu :** `_reports/hypothyroidism.md`, `_reports/magnesium-deficiency.md`, `_reports/vitamin-d-deficiency.md`.
 - **Nature :** Les trois rapports sont `last_revised: April 2025`, courts, et non liés depuis la FAQ, la page d'accueil ou l'index des Rights. `CLAUDE.md` subordonne explicitement `_reports/` à `_rights/` (un `_reports/<nutriment>-deficiency.md` « ne remplace pas `_rights/<nutriment>.md` »), mais le corpus actuel a fait grossir les fiches `_rights/` sans jamais câbler les rapports dedans. La collection est publiquement indexée par `search.json` mais n'a pas de fonction éditoriale.
@@ -97,7 +97,7 @@ _Notes :_
 
 ### 6. Trois pages `_resources/` sont des stubs `status: draft` indexés comme publiés
 
-Verdict : [ ] OK  [ ] Plus tard  [ ] Non  [ ] À discuter  [ ] Déjà fait
+Verdict : [x] OK  [ ] Plus tard  [ ] Non  [ ] À discuter  [ ] Déjà fait
 
 - **Lieu :** `_resources/legal-texts.md`, `_resources/international-recommendations.md`, `_resources/thematic-bibliography.md`.
 - **Nature :** Chacune est un stub avec titre et note seulement. Les trois sont liées depuis la FAQ (`faq/index.md:121–122` lie `legal-texts` et `international-recommendations` ; la bibliographie thématique est liée depuis plusieurs bibliographies `_rights/`). Un lecteur qui clique arrive sur une page vide. Elles sont aussi indexées par `search.json` puisque ni `hidden` ni `search_exclude` n'y sont posés.
@@ -109,7 +109,7 @@ _Notes :_
 
 ### 7. Deux pages `_legal/` sont des stubs
 
-Verdict : [ ] OK  [ ] Plus tard  [ ] Non  [ ] À discuter  [ ] Déjà fait
+Verdict : [ ] OK  [ ] Plus tard  [ ] Non  [x] À discuter  [ ] Déjà fait
 
 - **Lieu :** `_legal/legal-notice.md`, `_legal/accessibility.md`.
 - **Nature :** Les deux fichiers existent sans frontmatter `status` et ne contiennent qu'un texte de remplacement. Une ressource qui argumente pour un cadre fondé sur les droits et qui se présente sur la force de sa propre conformité déclarative ne devrait pas tourner avec une mention légale vide et une déclaration d'accessibilité vide.
@@ -117,11 +117,11 @@ Verdict : [ ] OK  [ ] Plus tard  [ ] Non  [ ] À discuter  [ ] Déjà fait
 - **Priorité :** moyenne (mention légale), basse (accessibilité, si la ressource reste un travail de bénévolat mono-auteur)
 - **Dépend de :** —
 
-_Notes :_
+_Notes :_ En attente de tes choix éditeur/hébergeur/licence pour la mention légale ; l'accessibilité demande une vraie passe (WAVE, axe, navigation clavier) avant peuplement (voir #24).
 
 ### 8. `_critique/practical-illustrations.md` est un stub `status: draft`
 
-Verdict : [ ] OK  [ ] Plus tard  [ ] Non  [ ] À discuter  [ ] Déjà fait
+Verdict : [x] OK  [ ] Plus tard  [ ] Non  [ ] À discuter  [ ] Déjà fait
 
 - **Lieu :** `_critique/practical-illustrations.md`.
 - **Nature :** Le fichier est un stub. Indexé par `search.json` mais non lié depuis aucune page publiée.
@@ -135,7 +135,7 @@ _Notes :_
 
 ### 9. Page d'accueil et page About n'ont ni `status` ni `last_revised`
 
-Verdict : [ ] OK  [ ] Plus tard  [ ] Non  [ ] À discuter  [ ] Déjà fait
+Verdict : [x] OK  [ ] Plus tard  [ ] Non  [ ] À discuter  [ ] Déjà fait
 
 - **Lieu :** `index.md`, `about/index.md`.
 - **Nature :** Les deux sont effectivement des pages « publiées » de porte d'entrée, mais elles ne portent ni `status` ni `last_revised`. Elles échappent donc aux conventions de frontmatter que suit le reste du corpus. Un audit futur ou un contributeur ne peut pas savoir, à partir du seul frontmatter, quand la sélection « Recent additions » de l'accueil a été mise à jour pour la dernière fois.
@@ -147,7 +147,7 @@ _Notes :_
 
 ### 10. `_definitions/physiological-rights.md` porte `last_revised: April 2026`
 
-Verdict : [ ] OK  [ ] Plus tard  [ ] Non  [ ] À discuter  [ ] Déjà fait
+Verdict : [x] OK  [ ] Plus tard  [ ] Non  [ ] À discuter  [ ] Déjà fait
 
 - **Lieu :** frontmatter de `_definitions/physiological-rights.md`.
 - **Nature :** La définition-mère de la ressource est datée de trois mois avant le pivot juriste du 20 juillet 2026. Si elle a depuis été relue à l'aune de ce pivot et jugée toujours adéquate, la date devrait refléter cette passe. Si elle n'a pas été relue, c'est en soi un constat : la définition mérite d'être réexaminée contre le cadre juriste que la ressource a adopté.
@@ -159,7 +159,7 @@ _Notes :_
 
 ### 11. `search.json` indexe les drafts et les stubs
 
-Verdict : [ ] OK  [ ] Plus tard  [ ] Non  [ ] À discuter  [ ] Déjà fait
+Verdict : [x] OK  [ ] Plus tard  [ ] Non  [ ] À discuter  [ ] Déjà fait
 
 - **Lieu :** template `search.json` (racine) ; déclenché par chaque fichier qui n'a pas `search_exclude: true` tout en étant `status: draft` ou stub.
 - **Nature :** La boucle Liquid dans `search.json` pousse tout document qui n'est ni `hidden` ni `search_exclude`. Les stubs et drafts (`_resources/legal-texts.md`, `_resources/international-recommendations.md`, `_resources/thematic-bibliography.md`, `_critique/practical-illustrations.md`, `_rights/optimal-hormonal-levels.md`) sont donc remontés dans la boîte de recherche du header.
@@ -173,7 +173,7 @@ _Notes :_
 
 ### 12. Passe em-dash : 550 occurrences dans le contenu publié
 
-Verdict : [ ] OK  [ ] Plus tard  [ ] Non  [ ] À discuter  [ ] Déjà fait
+Verdict : [x] OK  [ ] Plus tard  [ ] Non  [ ] À discuter  [ ] Déjà fait
 
 - **Lieu :** transversal. Top des occurrences par fichier : `_rights/vitamin-e.md` (52), `_rights/magnesium.md` (48), `_rights/folate.md` (44), `_critique/behind-every-test-an-industry.md` (44), `_rights/potassium.md` (40), `_rights/omega-3.md` (37), `_critique/the-hunger-we-dont-see.md` (27), `_editorials/the-life-we-call-normal.md` (25), `_rights/riboflavin-b2.md` (20). Tous les autres fichiers sous 20.
 - **Nature :** La mémoire `feedback_no_em_dashes.md` est sans ambiguïté : zéro em-dash dans le texte que j'écris. La règle a été formalisée pendant juillet 2026 ; le contenu antérieur en contient encore. 550 occurrences dans 35 fichiers, c'est l'inventaire actuel.
@@ -185,7 +185,7 @@ _Notes :_
 
 ### 13. Passe « precise / precisely / more precise »
 
-Verdict : [ ] OK  [ ] Plus tard  [ ] Non  [ ] À discuter  [ ] Déjà fait
+Verdict : [x] OK  [ ] Plus tard  [ ] Non  [ ] À discuter  [ ] Déjà fait
 
 - **Lieu :** `_rights/riboflavin-b2.md:18`, `_rights/potassium.md:193`, `_rights/folate.md:165`, `_rights/omega-3.md:43`, `_rights/iron.md:55`, `_editorials/the-life-we-call-normal.md:26,31`, `_editorials/the-ferritin-threshold.md:33`, `_critique/behind-every-test-an-industry.md:161`, `_critique/false-negative-serum-potassium.md:19`, `_critique/calibrated-for-nothing.md:41`.
 - **Nature :** La mémoire `feedback_no_word_precise.md` bannit le mot comme intensificateur vide et tic d'auto-satisfaction IA. Onze occurrences dans neuf fichiers publiés.
@@ -197,7 +197,7 @@ _Notes :_
 
 ### 14. « The point is that … is not X but Y » dans the-life-we-call-normal
 
-Verdict : [ ] OK  [ ] Plus tard  [ ] Non  [ ] À discuter  [ ] Déjà fait
+Verdict : [x] OK  [ ] Plus tard  [ ] Non  [ ] À discuter  [ ] Déjà fait
 
 - **Lieu :** `_editorials/the-life-we-call-normal.md:61`.
 - **Nature :** Deux patterns bannis dans la même phrase : le méta-cadrage « The point is … » (voisin de la famille bannie « What this changes / means / matters ») et le décoratif « not X but Y » (mémoire `feedback_trust_the_implicit.md`). Le reste de la pièce est par ailleurs cohérent en voix.
@@ -211,7 +211,7 @@ _Notes :_
 
 ### 15. Vieux `_editorials/` encore calibrés pour le lecteur généraliste d'avant le pivot
 
-Verdict : [ ] OK  [ ] Plus tard  [ ] Non  [ ] À discuter  [ ] Déjà fait
+Verdict : [ ] OK  [x] Plus tard  [ ] Non  [ ] À discuter  [ ] Déjà fait
 
 - **Lieu :** `_editorials/deficiency-as-rights-violation.md`, `_editorials/the-invisible-medical-emergency.md`, `_editorials/ethical-limits-of-rcts.md`, `_editorials/proposed-reforms.md` (tous `last_revised: April 2025`).
 - **Nature :** Ces pièces précèdent le pivot du 20 juillet 2026 vers un lectorat juriste (mémoire `project_pivot_jurist_audience.md`). Leur registre est militant-généraliste plutôt que juriste-orienté ; par exemple, `deficiency-as-rights-violation.md` ouvre sur l'assertion que « human rights are … absolute » sans qualification, ce qu'un lecteur juriste va rejeter avant de continuer sa lecture. La charte est claire : ne pas récrire pendant l'audit ; le constat est qu'il faut des pièces-ponts ou une reprise en session dédiée.
@@ -223,7 +223,7 @@ _Notes :_
 
 ### 16. `deficiency-as-rights-violation.md` : cadrage absolutiste qui va se faire rejeter par un juriste
 
-Verdict : [ ] OK  [ ] Plus tard  [ ] Non  [ ] À discuter  [ ] Déjà fait
+Verdict : [ ] OK  [x] Plus tard  [ ] Non  [ ] À discuter  [ ] Déjà fait
 
 - **Lieu :** `_editorials/deficiency-as-rights-violation.md` (section d'ouverture).
 - **Nature :** La pièce affirme que les droits humains sont absolus dans un registre qu'un lecteur juriste formé au droit ECHR / ICCPR / ICESCR va traiter comme inexact pour les droits socio-économiques (qui sont de réalisation progressive, sous condition de moyens maximums disponibles selon l'article 2 ICESCR). Ce cadrage active la méfiance juriste dès la porte d'entrée.
@@ -237,7 +237,7 @@ _Notes :_
 
 ### 17. Tableaux « associated conditions » dans `_rights/` : audit du dérapage causal
 
-Verdict : [ ] OK  [ ] Plus tard  [ ] Non  [ ] À discuter  [ ] Déjà fait
+Verdict : [x] OK  [ ] Plus tard  [ ] Non  [ ] À discuter  [ ] Déjà fait
 
 - **Lieu :** `_rights/magnesium.md` (section maladies associées), et sections équivalentes de `_rights/potassium.md`, `_rights/iron.md`, `_rights/folate.md`, `_rights/riboflavin-b2.md`, `_rights/thiamine-b1.md`, `_rights/vitamin-e.md`, `_rights/omega-3.md`, `_rights/choline.md`, `_rights/glutathione.md`, `_rights/coenzyme-q10.md`.
 - **Nature :** Le constat #1 de la charte (cas palpitations / potassium) a des cousins dans les tableaux « associated conditions » de la plupart des pages `_rights/`. Un lecteur qui parcourt le tableau peut glisser de « condition X est associée au déficit Y » à « condition X est causée par le déficit Y ». Les tableaux ont besoin d'une phrase de tête ou de pied qui nomme explicitement, une fois, le cadre « association ≠ causation ».
@@ -245,13 +245,13 @@ Verdict : [ ] OK  [ ] Plus tard  [ ] Non  [ ] À discuter  [ ] Déjà fait
 - **Priorité :** moyenne
 - **Dépend de :** —
 
-_Notes :_
+_Notes :_ Phrase de cadrage ajoutée sur `magnesium.md`, `iron.md`, `potassium.md`, `folate.md`, `omega-3.md`. `muscle-mass.md` et `optimal-hormonal-levels.md` portaient déjà un cadrage équivalent (respectivement lignes 79 et 191/207). Non appliqué à `choline.md`, `glutathione.md`, `riboflavin-b2.md`, `thiamine-b1.md`, `vitamin-e.md`, `coenzyme-q10.md` : ces fiches n'ont pas de tableau discret d'associations condition ↔ nutriment, mais des sections de mécanisme (pleiotropie) ou de cas ciblé (SAMS pour Q10). Le risque de glissement causal ne se pose pas de la même façon ; à revoir si un tableau est ajouté.
 
 ## Page d'accueil et orientation à l'entrée (Charte §3, item 18)
 
 ### 18. « Recent additions » de la page d'accueil est obsolète par rapport aux publications de juillet 2026
 
-Verdict : [ ] OK  [ ] Plus tard  [ ] Non  [ ] À discuter  [ ] Déjà fait
+Verdict : [x] OK  [ ] Plus tard  [ ] Non  [ ] À discuter  [ ] Déjà fait
 
 - **Lieu :** `index.md`, section « Recent additions ».
 - **Nature :** La liste est en dur et n'inclut pas les pièces récemment publiées ou substantiellement révisées de juillet 2026 (Self-Medication as a Codified Right, The Blunder They Called a Refutation, A Litigation Brief, Two Doses One Molecule, et la FAQ elle-même). Elle ne reflète pas non plus le décompte de douze substrats revendiqué dans la FAQ.
@@ -263,7 +263,7 @@ _Notes :_
 
 ### 19. Page d'accueil et FAQ s'accordent sur « twelve substrates » : vérifier le compte
 
-Verdict : [ ] OK  [ ] Plus tard  [ ] Non  [ ] À discuter  [ ] Déjà fait
+Verdict : [x] OK  [ ] Plus tard  [ ] Non  [ ] À discuter  [ ] Déjà fait
 
 - **Lieu :** `index.md`, `faq/index.md:89`.
 - **Nature :** La FAQ nomme douze substrats (magnésium, potassium, fer, folate, choline, glutathion, coenzyme Q10, riboflavine, thiamine, vitamine E, oméga-3, niveaux hormonaux optimaux). Si `optimal-hormonal-levels.md` est retirée ou mise en attente (constat #1), le compte tombe à onze et la FAQ doit être mise à jour dans la même édition.
@@ -277,7 +277,7 @@ _Notes :_
 
 ### 20. Le rapport hypothyroïdie cite des cibles TSH spécifiques sans source
 
-Verdict : [ ] OK  [ ] Plus tard  [ ] Non  [ ] À discuter  [ ] Déjà fait
+Verdict : [ ] OK  [x] Plus tard  [ ] Non  [ ] À discuter  [ ] Déjà fait
 
 - **Lieu :** `_reports/hypothyroidism.md` (énoncé de la fourchette cible).
 - **Nature :** Le rapport énonce une fourchette TSH optimale (à peu près 1–2 mIU/L) sans citer la source. Le chiffre est défendable dans la littérature endocrinologique, mais la convention de la ressource est de citer chaque seuil numérique. Signalé comme cousin basse priorité de l'audit numérique plus large.
@@ -291,7 +291,7 @@ _Notes :_
 
 ### 21. « Supplement » vs « substrat à dose pharmacologique » : vérifier l'absence de confusion
 
-Verdict : [ ] OK  [ ] Plus tard  [ ] Non  [ ] À discuter  [ ] Déjà fait
+Verdict : [ ] OK  [x] Plus tard  [ ] Non  [ ] À discuter  [ ] Déjà fait
 
 - **Lieu :** transversal, notamment `_editorials/the-store-that-sells-the-right/`, `_critique/two-doses-one-molecule.md`, `_definitions/self-medication-as-a-codified-right.md`, et la FAQ.
 - **Nature :** L'argument de la ressource repose sur une distinction nette entre (a) « supplement » comme catégorie réglementaire-et-marketing et (b) le substrat lui-même administré à une dose physiologiquement motivée. La distinction est tirée proprement dans `two-doses-one-molecule.md` et dans `self-medication-as-a-codified-right.md`, mais les éditoriaux plus anciens (avril 2025), antérieurs au travail de juillet 2026, peuvent les confondre.
@@ -303,7 +303,7 @@ _Notes :_
 
 ### 22. « Deficit » vs « insufficiency » : vérifier la cohérence du vocabulaire
 
-Verdict : [ ] OK  [ ] Plus tard  [ ] Non  [ ] À discuter  [ ] Déjà fait
+Verdict : [ ] OK  [x] Plus tard  [ ] Non  [ ] À discuter  [ ] Déjà fait
 
 - **Lieu :** transversal.
 - **Nature :** Certaines pages utilisent « deficit » et « insufficiency » de manière interchangeable ; d'autres réservent « deficit » à la déplétion biochimiquement définie et « insufficiency » à un état sous-optimal qui n'atteint pas encore le seuil du déficit (la discussion ferritine 30 / ferritine 50 est le cas paradigmatique). L'argument de la ressource gagne à avoir une convention stable.
@@ -317,7 +317,7 @@ _Notes :_
 
 ### 23. Aucune image Open Graph configurée
 
-Verdict : [ ] OK  [ ] Plus tard  [ ] Non  [ ] À discuter  [ ] Déjà fait
+Verdict : [ ] OK  [ ] Plus tard  [ ] Non  [x] À discuter  [ ] Déjà fait
 
 - **Lieu :** transversal ; `_config.yml`, `_includes/head.html` (s'il existe).
 - **Nature :** `jekyll-seo-tag` est installé et les `description` par page sont présentes, mais il n'y a pas de frontmatter `image` ni de défaut OG au niveau du site. Les aperçus sociaux tomberont sur des cartes texte simples. La charte (§3, item 19) demande si c'est un choix conscient.
@@ -325,11 +325,11 @@ Verdict : [ ] OK  [ ] Plus tard  [ ] Non  [ ] À discuter  [ ] Déjà fait
 - **Priorité :** basse
 - **Dépend de :** —
 
-_Notes :_
+_Notes :_ À trancher : est-ce que la ressource veut se présenter via un aperçu graphique sur les réseaux sociaux, ou est-ce que la carte texte convient à la posture éditoriale ? Si carte visuelle : je peux générer une carte typographique par défaut au nom de la ressource.
 
 ### 24. La déclaration d'accessibilité est vide
 
-Verdict : [ ] OK  [ ] Plus tard  [ ] Non  [ ] À discuter  [ ] Déjà fait
+Verdict : [ ] OK  [x] Plus tard  [ ] Non  [ ] À discuter  [ ] Déjà fait
 
 - **Lieu :** `_legal/accessibility.md`.
 - **Nature :** Voir constat #7. Renvoie aussi à la charte §3, item 20 (accessibilité) : ordre des titres, textes alternatifs sur les images, contraste sur la couleur d'accent utilisée pour les badges de résultats de recherche, navigation clavier du panneau de recherche. Cet audit n'a pas fait de passe accessibilité complète, il n'a signalé que la déclaration vide.
@@ -343,7 +343,7 @@ _Notes :_
 
 ### 25. Phrases-concepts récurrentes non liées à leur critique-mère au premier usage
 
-Verdict : [ ] OK  [ ] Plus tard  [ ] Non  [ ] À discuter  [ ] Déjà fait
+Verdict : [x] OK  [ ] Plus tard  [ ] Non  [ ] À discuter  [ ] Déjà fait
 
 - **Lieu :** transversal. Exemple : « the false negative of serum potassium » apparaît dans `_rights/potassium.md`, `faq/index.md`, `_editorials/`, et ailleurs, mais toutes les occurrences ne renvoient pas à `_critique/false-negative-serum-potassium.md` au premier usage. Phrases similaires : « the ferritin threshold », « otherwise healthy », « calibrated for nothing », « two doses, one molecule ».
 - **Nature :** Un lecteur qui rencontre la phrase pour la première fois sur une page donnée devrait avoir un chemin en un clic vers la critique qui la développe. Le cross-linking actuel est inégal.
@@ -357,7 +357,7 @@ _Notes :_
 
 ### 26. Le style de citation varie entre les bibliographies `_rights/`
 
-Verdict : [ ] OK  [ ] Plus tard  [ ] Non  [ ] À discuter  [ ] Déjà fait
+Verdict : [ ] OK  [x] Plus tard  [ ] Non  [ ] À discuter  [ ] Déjà fait
 
 - **Lieu :** `_rights/*.md` (sections bibliographie).
 - **Nature :** Certaines bibliographies utilisent des références en notes de bas de page avec ancres numériques (par exemple `_rights/folate.md`) ; d'autres utilisent des citations en ligne ; la présence de DOI est inégale ; l'ordre des noms d'auteurs n'est pas uniforme. La charte (§3, item 23) demande de la cohérence.

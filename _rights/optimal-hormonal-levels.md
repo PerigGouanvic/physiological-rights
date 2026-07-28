@@ -304,4 +304,4 @@ The landscape assembled here is provisional. Each of the five axes deserves the 
 20. Reaven GM. *Banting Lecture 1988. Role of insulin resistance in human disease.* Diabetes. 1988;37(12):1595-1607. [PubMed 3056758](https://pubmed.ncbi.nlm.nih.gov/3056758/)
 21. Bikman B. *Why We Get Sick: The Hidden Epidemic at the Root of Most Chronic Disease and How to Fight It.* BenBella Books, 2020.
 22. Crofts C, Zinn C, Wheldon M, Schofield G. *Hyperinsulinemia: a unifying theory of chronic disease?* Diabesity. 2015;1(4):34-43.
-23. Mayer J. *Les droits physiologiques de l'homme.* Address to the Société française de nutrition, 1979. Republished in this resource: [Physiologie et condition humaine — J. Mayer (1979)](/resources/01f26f96/)
+23. Mayer J. *Les droits physiologiques de l'homme.* Address to the Société française de nutrition, 1979. Republished in this resource: [Physiologie et condition humaine, J. Mayer (1979)](/resources/01f26f96/)

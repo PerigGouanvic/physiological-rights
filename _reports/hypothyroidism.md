@@ -2,7 +2,8 @@
 layout: default
 title: Case Report — Hypothyroidism
 description: "A person whose hypothyroid symptoms are refused treatment despite an abnormal TSH — analysis of the violation of the right to optimal hormonal levels under the physiological rights framework."
-status: published
+status: draft
+search_exclude: true
 last_revised: "April 2025"
 ---
 
@@ -16,4 +17,4 @@ last_revised: "April 2025"
 
 **Consequences**: Without treatment, the individual continues to suffer from debilitating symptoms that affect their capacity to work, engage socially, and live fully. Quality of life is severely reduced.
 
-**Proposed solution**: Physiological rights advocate an individualised approach to hypothyroidism, where treatment is based on symptoms and optimal hormonal levels for each individual — not on rigid laboratory reference ranges.
+**Proposed solution**: Physiological rights advocate an individualised approach to hypothyroidism, where treatment is based on symptoms and optimal hormonal levels for each individual, not on rigid laboratory reference ranges.

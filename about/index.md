@@ -2,6 +2,8 @@
 layout: default
 title: About
 description: "About this project and the concept of physiological rights."
+status: published
+last_revised: "July 2026"
 ---
 
 ## A term inherited, not invented

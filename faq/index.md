@@ -86,7 +86,7 @@ The phrase carries an ambiguity that has done substantial harm. In principle it 
 
 ### Which nutrients are documented here?
 
-Twelve substrates so far, each with its own page: magnesium, potassium, iron, folate, choline, glutathione, coenzyme Q10, riboflavin (B2), thiamine (B1), vitamin E, omega-3, and a page on optimal hormonal levels. Each page follows the same structure: historical context, the researchers who named the deficit, a critique of the current thresholds, the mechanism, associated conditions, and a referenced bibliography.
+Eleven substrates so far, each with its own page: magnesium, potassium, iron, folate, choline, glutathione, coenzyme Q10, riboflavin (B2), thiamine (B1), vitamin E, and omega-3. Two structural physiological parameters follow the same format alongside the substrates: optimal hormonal levels across the five axes, and muscle mass. Each page carries the same structure: historical context, the researchers who named the deficit or the parameter, a critique of the current thresholds, the mechanism, associated conditions, and a referenced bibliography.
 
 - [The full Rights index](/rights/)
 
@@ -118,8 +118,6 @@ The right to health under the International Covenant on Economic, Social and Cul
 
 - [The instruments already exist](/definitions/the-instruments-already-exist/)
 - [Self-medication as a codified right](/definitions/self-medication-as-a-codified-right/)
-- [Legal texts](/resources/legal-texts/)
-- [International recommendations](/resources/international-recommendations/)
 - [Jean Mayer, "Les droits physiologiques de l'homme" (1979)](/resources/01f26f96/)
 
 ### Can a physiological right be justiciable?

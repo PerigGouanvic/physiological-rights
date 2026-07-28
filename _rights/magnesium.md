@@ -3,9 +3,9 @@ layout: default
 title: Right to Adequate Magnesium Levels
 name: Magnesium
 category: mineral
-description: "The right to adequate magnesium levels: access to testing and supplementation to prevent and correct deficiency — one of the most widespread and systematically underdiagnosed nutritional deficiencies in the Western world."
+description: "The right to adequate magnesium levels: access to testing and supplementation to prevent and correct one of the most widespread and systematically underdiagnosed nutritional deficiencies in the Western world."
 status: published
-last_revised: "April 2025"
+last_revised: "July 2026"
 researchers: "Jean Durlach · Mildred Seelig · James J. DiNicolantonio · Carolyn Dean · Andrea Rosanoff"
 ---
 
@@ -22,7 +22,7 @@ The history of magnesium deficiency is the history of a slow-motion scandal. As 
 
 In **1971**, Professor **Jean Durlach** (1925–2017), of the Université Pierre et Marie Curie in Paris, organized the first International Symposium on Magnesium in Vittel and founded the **SDRM** (*Société pour le Développement de la Recherche sur le Magnésium*). In **1980**, Dr **Mildred Seelig** published her monumental work *Magnesium Deficiency in the Pathogenesis of Disease*, in which she meticulously documented the role of magnesium deficiency in cardiovascular, renal, neuromuscular, and immune diseases.
 
-In **2018**, DiNicolantonio and colleagues published in *Open Heart* (BMJ) a paper whose title says it all: *"Subclinical magnesium deficiency: a principal driver of cardiovascular disease and a public health crisis."* In **2025**, a global review published in the *International Journal of Vitamin and Nutrition Research* confirmed that **2.4 billion people** — 31% of the world's population — still do not meet the recommended magnesium intake. A century of warnings. And the world keeps sleeping.
+In **2018**, DiNicolantonio and colleagues published in *Open Heart* (BMJ) a paper whose title says it all: *"Subclinical magnesium deficiency: a principal driver of cardiovascular disease and a public health crisis."* In **2025**, a global review published in the *International Journal of Vitamin and Nutrition Research* confirmed that **2.4 billion people**, 31% of the world's population, still do not meet the recommended magnesium intake. A century of warnings. And the world keeps sleeping.
 
 ---
 
@@ -30,7 +30,7 @@ In **2018**, DiNicolantonio and colleagues published in *Open Heart* (BMJ) a pap
 
 ### The pool and the tap
 
-To understand the testing problem, imagine the body as a large house with an enormous underground pool (the cells, bones, muscles) and a tiny tap running outside (the blood). The standard blood test — **serum magnesium** — only measures the water from the tap. Yet **less than 1% of total body magnesium** circulates in the blood. The remaining 99% is locked inside cells, bones, and muscles.
+To understand the testing problem, imagine the body as a large house with an enormous underground pool (the cells, bones, muscles) and a tiny tap running outside (the blood). The standard blood test, **serum magnesium**, only measures the water from the tap. Yet **less than 1% of total body magnesium** circulates in the blood. The remaining 99% is locked inside cells, bones, and muscles.
 
 Worse still: the body is programmed to maintain a "normal" blood level at all costs. When blood magnesium begins to fall, the organism **draws on its bone and muscle reserves** to refill the tap. Result: a person can be **profoundly deficient** in their cells, bones, and muscles, and yet show a "normal" result on their blood test.
 
@@ -42,11 +42,11 @@ Dr Schwalfenberg, of the University of Alberta, puts it plainly:
 
 One study of patients being treated for hypertension showed that **80% of them** had magnesium depletion confirmed by a loading test, even though their blood magnesium was **normal or even elevated**. Among patients hospitalized in intensive care units, **half** are deficient in intracellular magnesium despite a normal serum result.
 
-A finding published in 2010 shows that of laboratory analyses ordered, **only 10% of cases of hypomagnesaemia** were detected at the physician's request — the remaining 90% were found incidentally during routine tests. In other words, physicians are not even looking.
+A finding published in 2010 shows that of laboratory analyses ordered, **only 10% of cases of hypomagnesaemia** were detected at the physician's request; the remaining 90% were found incidentally during routine tests. In other words, physicians are not even looking.
 
-### Real tests exist — but are not used
+### Real tests exist, but are not used
 
-More reliable tools exist: the **magnesium loading test** (intravenous injection followed by urinary collection), **erythrocyte (red blood cell) magnesium**, **mononuclear cell magnesium**, **muscle biopsy**, and **NMR spectroscopy**. But these tests are more expensive, more complex, and above all — they are **not routinely available** to most clinicians. The result is a vicious circle: you cannot diagnose what you are not looking for, with a tool that shows nothing anyway.
+More reliable tools exist: the **magnesium loading test** (intravenous injection followed by urinary collection), **erythrocyte (red blood cell) magnesium**, **mononuclear cell magnesium**, **muscle biopsy**, and **NMR spectroscopy**. But these tests are more expensive, more complex, and above all, they are **not routinely available** to most clinicians. The result is a vicious circle: you cannot diagnose what you are not looking for, with a tool that shows nothing anyway.
 
 ---
 
@@ -56,13 +56,13 @@ More reliable tools exist: the **magnesium loading test** (intravenous injection
 
 The phrase "magnesium is involved in more than 300 enzymatic reactions" has become a mindlessly repeated mantra. But it is **outdated**. Current enzyme databases show that magnesium is a direct cofactor for **more than 600 enzymes** and a necessary activator for **200 additional enzymes**. A total of more than 800 enzymatic systems that depend on this single mineral. It is also estimated that **3,571 human proteins** potentially bind magnesium.
 
-To put this in perspective: without enzymes, DNA and RNA synthesis would take **78 million years**; the production of haemoglobin, **2.3 billion years** — half the age of the Earth. Enzymes are the accelerators of all the chemistry of life. And magnesium is the key that starts an enormous number of these accelerators.
+To put this in perspective: without enzymes, DNA and RNA synthesis would take **78 million years**; the production of haemoglobin, **2.3 billion years**, half the age of the Earth. Enzymes are the accelerators of all the chemistry of life. And magnesium is the key that starts an enormous number of these accelerators.
 
 ### ATP: the currency of life's energy
 
-**ATP** (adenosine triphosphate) is the molecule that every cell in the body uses as its "energy currency." Every time a muscle contracts, a neuron transmits a signal, a cell divides, or a protein is manufactured — it is ATP that provides the necessary energy.
+**ATP** (adenosine triphosphate) is the molecule that every cell in the body uses as its "energy currency." Every time a muscle contracts, a neuron transmits a signal, a cell divides, or a protein is manufactured, it is ATP that provides the necessary energy.
 
-Here is the crucial fact that almost no one communicates to the general public: **ATP does not exist in its active form without magnesium**. The ATP molecule is unstable on its own. To function, it must bind to a magnesium ion, forming the **Mg-ATP complex**. This form — and only this form — is biologically active and usable by the body. All energy-requiring reactions in the body have an **absolute requirement for magnesium**:
+Here is the crucial fact that almost no one communicates to the general public: **ATP does not exist in its active form without magnesium**. The ATP molecule is unstable on its own. To function, it must bind to a magnesium ion, forming the **Mg-ATP complex**. This form, and only this form, is biologically active and usable by the body. All energy-requiring reactions in the body have an **absolute requirement for magnesium**:
 
 > *"All enzymatic reactions involving ATP have an absolute requirement for magnesium."*
 
@@ -73,6 +73,8 @@ Imagine ATP as a banknote. Without magnesium, this note is not recognized by the
 ## A staggering inventory of associated diseases
 
 The list of medical conditions linked to magnesium deficiency is so long that it becomes difficult to believe. Yet each of these associations is documented in peer-reviewed scientific literature.
+
+An association is not a causal claim. A magnesium deficit is one etiology among several to explore for each of the conditions below, not the sole one. What the inventory shows is that the routine serum test does not name the deficit when it is present, so the etiology never enters the differential.
 
 | System affected | Conditions associated with Mg deficiency |
 |---|---|
@@ -97,11 +99,11 @@ Magnesium is involved in insulin signalling and glucose metabolism. An increase 
 
 ### Bone health
 
-Magnesium is a structural component of hydroxyapatite, the primary bone mineral. It is also **essential for the activation of vitamin D**: without sufficient magnesium, vitamin D cannot be converted to its active form — a phenomenon called "magnesium-dependent vitamin D resistance." Children with rickets who did not respond to massive doses of vitamin D have been cured by magnesium supplementation.
+Magnesium is a structural component of hydroxyapatite, the primary bone mineral. It is also **essential for the activation of vitamin D**: without sufficient magnesium, vitamin D cannot be converted to its active form, a phenomenon called "magnesium-dependent vitamin D resistance." Children with rickets who did not respond to massive doses of vitamin D have been cured by magnesium supplementation.
 
 ### Mental health and neurological function
 
-Magnesium is necessary for the conversion of tryptophan to serotonin (the "feel-good" neurotransmitter). It is also a natural antagonist of NMDA receptors — the same mechanism of action as ketamine, now used as an emergency antidepressant.
+Magnesium is necessary for the conversion of tryptophan to serotonin (the "feel-good" neurotransmitter). It is also a natural antagonist of NMDA receptors, the same mechanism of action as ketamine, now used as an emergency antidepressant.
 
 ---
 
@@ -121,13 +123,13 @@ In Israel, a study by the Taub Center calculated that simply adding magnesium to
 
 Many commonly prescribed medications **worsen** magnesium deficiency: proton pump inhibitors (PPIs), thiazide and loop diuretics, certain antibiotics, immunosuppressants, chemotherapy agents, corticosteroids, oral contraceptives. Dr Carolyn Dean describes a typical scenario:
 
-> A stressed patient consults for symptoms that are in fact those of magnesium deficiency (fatigue, insomnia, tension); a diuretic is prescribed that drains even more magnesium; at the next appointment, cholesterol is elevated (magnesium regulates the HMG-CoA reductase enzyme); a statin is added; then a diabetes medication — and the patient ends up on five medications, each worsening the original problem.
+> A stressed patient consults for symptoms that are in fact those of magnesium deficiency (fatigue, insomnia, tension); a diuretic is prescribed that drains even more magnesium; at the next appointment, cholesterol is elevated (magnesium regulates the HMG-CoA reductase enzyme); a statin is added; then a diabetes medication, and the patient ends up on five medications, each worsening the original problem.
 
 ---
 
-## What the experts say — in their own words
+## What the experts say, in their own words
 
-### Dr Mildred S. Seelig (1920–2004) — The pioneer
+### Dr Mildred S. Seelig (1920–2004): The pioneer
 
 Professor of nutrition and preventive medicine, Mildred Seelig devoted more than 40 years to documenting the impact of magnesium deficiency. Her 1980 work, *Magnesium Deficiency in the Pathogenesis of Disease*, remains a foundational reference:
 
@@ -135,7 +137,7 @@ Professor of nutrition and preventive medicine, Mildred Seelig devoted more than
 
 **That warning was issued more than 45 years ago.**
 
-### Prof Jean Durlach (1925–2017) — The founder
+### Prof Jean Durlach (1925–2017): The founder
 
 French neurologist and biochemist, Durlach created the international scientific infrastructure for the study of magnesium. He wrote in 2004:
 
@@ -143,7 +145,7 @@ French neurologist and biochemist, Durlach created the international scientific 
 
 **He issued warnings for more than 45 years. He died in 2017 without the world having acted.**
 
-### Dr James J. DiNicolantonio — The call for urgency
+### Dr James J. DiNicolantonio: The call for urgency
 
 Preventive cardiology researcher at Saint Luke's Mid America Heart Institute, DiNicolantonio classified subclinical magnesium deficiency as a **public health crisis** in 2018:
 
@@ -153,7 +155,7 @@ Preventive cardiology researcher at Saint Luke's Mid America Heart Institute, Di
 
 Their 2017 review, *The Importance of Magnesium in Clinical Healthcare*, demonstrates that **Level I evidence** (the highest in evidence-based medicine) supports the use of magnesium in the prevention and treatment of migraine, metabolic syndrome, diabetes, hyperlipidaemia, asthma, premenstrual syndrome, pre-eclampsia, and various arrhythmias. Despite this, the knowledge does not translate into clinical practice.
 
-### The MaGNet Network — Reference values are wrong
+### The MaGNet Network: Reference values are wrong
 
 The international MaGNet network demonstrated that current thresholds (often 0.70–0.75 mmol/L) are **too low** to detect subclinical deficit. Their recommendation published in *Advances in Nutrition* (2022):
 
@@ -169,7 +171,7 @@ A century of warnings, a nutrient whose deficit the routine test hides by constr
 
 | Year | Event | Outcome |
 |---|---|---|
-| 1926 | Magnesium recognized as essential | — |
+| 1926 | Magnesium recognized as essential | – |
 | 1936 | US Senate warns of demineralized soils | No systemic action |
 | 1971 | First international magnesium symposium | Research advances; clinical practice does not follow |
 | 1980 | Seelig publishes her foundational work | Ignored by mainstream medicine |

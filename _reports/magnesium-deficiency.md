@@ -2,7 +2,8 @@
 layout: default
 title: Case Report — Magnesium Deficiency
 description: "A mild magnesium deficiency ignored despite disabling symptoms (fatigue, cramps, anxiety) — analysis of the refusal of treatment under the physiological rights framework."
-status: published
+status: draft
+search_exclude: true
 last_revised: "April 2025"
 ---
 

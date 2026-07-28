@@ -16,4 +16,4 @@ Why? Because healthcare systems are designed to respond to acute pathologies, no
 
 **Physiological rights** aim to change this perspective. They recognise that medical urgency is not limited to situations of immediate life or death, but includes any situation where a measurable physiological imbalance severely affects a person's capacity to live fully.
 
-Ignoring these invisible emergencies is not only a medical failure — it is a violation of fundamental human rights.
+Ignoring these invisible emergencies is not only a medical failure: it is a violation of fundamental human rights.

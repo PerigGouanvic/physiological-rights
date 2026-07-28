@@ -5,7 +5,7 @@ name: Vitamin B1 (thiamine)
 category: vitamin
 description: "The right to an optimal thiamine status: recognition of functional deficiency beyond frank beriberi, including high-dose thiamine therapy for conditions such as dysautonomia and Parkinson's disease."
 status: published
-last_revised: "April 2025"
+last_revised: "July 2026"
 researchers: "Derrick Lonsdale · Chandler Marrs · Elliot Overton"
 ---
 
@@ -13,7 +13,7 @@ researchers: "Derrick Lonsdale · Chandler Marrs · Elliot Overton"
 
 ## B1: an energy conductor
 
-Imagine that every cell in your body is a factory running on electricity. Thiamine (B1) is not the fuel — it is the electrical transformer that makes the fuel usable. Without it, the mitochondrial power plant slows, overruns, or partially breaks down, depending on the organs affected.[^1]
+Imagine that every cell in your body is a factory running on electricity. Thiamine (B1) is not the fuel: it is the electrical transformer that makes the fuel usable. Without it, the mitochondrial power plant slows, overruns, or partially breaks down, depending on the organs affected.[^1]
 
 More concretely: thiamine is the limiting cofactor of three fundamental enzymes of energy metabolism: pyruvate dehydrogenase, alpha-ketoglutarate dehydrogenase, and transketolase.[^2][^3]
 
@@ -25,7 +25,7 @@ Thiamine deficiency has been known since the era of beriberi linked to polished 
 
 From the 1970s–2000s, Dr Derrick Lonsdale published dozens of papers showing that subclinical thiamine deficiency is widespread in the United States and linked to behavioural disorders, developmental problems, and chronic disease, while remaining largely ignored.[^7]
 
-In 2021, a review in *Nutrients* (*Hiding in Plain Sight: Modern Thiamine Deficiency*) emphasized that no current data on thiamine deficiency rates in the United States is available — not because the problem has been resolved, but simply because thiamine is not being measured.[^2]
+In 2021, a review in *Nutrients* (*Hiding in Plain Sight: Modern Thiamine Deficiency*) emphasized that no current data on thiamine deficiency rates in the United States is available, not because the problem has been resolved, but simply because thiamine is not being measured.[^2]
 
 > *"TD is believed to be rare in developed, food-secure countries […] As a result of this perception, thiamine is not consistently assessed in healthcare practice or in the nutritional surveys that guide policy."*[^2]
 
@@ -43,7 +43,7 @@ Body stores cover only 2–3 weeks, with a half-life of 9 to 18 days, so any inc
 
 Thiamine is indispensable to carbohydrate metabolism: several key steps of glycolysis and the Krebs cycle are B1-dependent.[^2][^3]
 
-The higher the diet in refined carbohydrates, the greater the thiamine requirement — creating a double trap: ultra-processed foods are both poor in B1 and major consumers of B1.[^2][^3]
+The higher the diet in refined carbohydrates, the greater the thiamine requirement, creating a double trap: ultra-processed foods are both poor in B1 and major consumers of B1.[^2][^3]
 
 > *"Among the most common contributors to thiamine deficiency is the regular consumption of a high carbohydrate/highly processed food diet."*[^3]
 

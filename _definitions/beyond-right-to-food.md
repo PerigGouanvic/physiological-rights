@@ -18,4 +18,4 @@ The **right to food** is a fundamental internationally recognised human right. I
 
 This limit is not an external critique of the right to food. General Comment 12 on ICESCR Art. 11 specifies that food adequacy covers the individual's nutritional needs, and the doctrinal line of the Special Rapporteurs on the right to food (Ziegler, De Schutter, Elver, Fakhri) has made this specificity explicit within the UN system. Physiological rights extend the same movement to the substrates for which food alone can no longer serve as vector. See [The Instruments Already Exist](/definitions/the-instruments-already-exist/).
 
-In short, the right to food is necessary but not sufficient. Physiological rights complement this framework by insisting on the need for active interventions to maintain or restore each individual's normal biological parameters — beyond what diet alone can provide.
+In short, the right to food is necessary but not sufficient. Physiological rights complement this framework by insisting on the need for active interventions to maintain or restore each individual's normal biological parameters, beyond what diet alone can provide.
