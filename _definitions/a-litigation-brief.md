@@ -1,9 +1,22 @@
 ---
+description: How the claim is filed. Standing, justiciability, remedies, and the defenses
+  to expect. Anchored on the two sample cases already developed (Ferritin 24, John,
+  68) and on the doctrinal ground of The Instruments Already Exist. A working document
+  for jurists, to be adapted by counsel with the jurisdictional expertise the resource
+  does not claim.
+last_revised: July 2026
 layout: default
-title: A Litigation Brief for Physiological Rights
-description: "How the claim is filed. Standing, justiciability, remedies, and the defenses to expect. Anchored on the two sample cases already developed (Ferritin 24, John, 68) and on the doctrinal ground of The Instruments Already Exist. A working document for jurists, to be adapted by counsel with the jurisdictional expertise the resource does not claim."
+related:
+- title: 'Ferritin 24: A Model Case'
+  url: /critique/ferritin-24-a-model-case/
+- title: The Instruments Already Exist
+  url: /definitions/the-instruments-already-exist/
+- title: Deficiency as a Rights Violation
+  url: /editorials/deficiency-as-rights-violation/
+- title: 'John, 68: A Model Case'
+  url: /critique/john-68-a-model-case/
 status: published
-last_revised: "July 2026"
+title: A Litigation Brief for Physiological Rights
 ---
 
 # A Litigation Brief for Physiological Rights

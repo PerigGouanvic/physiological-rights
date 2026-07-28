@@ -1,9 +1,20 @@
 ---
+description: Individual biological variability, nutrient-pathology interactions, and
+  the importance of ratios such as omega-6/omega-3 and calcium/magnesium — why no
+  food is intrinsically good or bad.
+last_revised: April 2025
 layout: default
-title: Why There Is No Universally Good Food
-description: "Individual biological variability, nutrient-pathology interactions, and the importance of ratios such as omega-6/omega-3 and calcium/magnesium — why no food is intrinsically good or bad."
+related:
+- title: The Limits of "Healthy Eating"
+  url: /critique/limits-of-healthy-eating/
+- title: Why Physiological Rights Go Beyond the Right to Food
+  url: /definitions/beyond-right-to-food/
+- title: The Life We Call Normal
+  url: /editorials/the-life-we-call-normal/
+- title: The Ambiguities of "Balanced Diet"
+  url: /critique/balanced-diet-ambiguities/
 status: published
-last_revised: "April 2025"
+title: Why There Is No Universally Good Food
 ---
 
 # Why There Is No Universally Good Food

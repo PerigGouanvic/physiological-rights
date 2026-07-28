@@ -1,9 +1,21 @@
 ---
+description: The test iron medicine got right, and the number that unmakes it. Why
+  the routine reading of ferritin at the bottom of the population distribution defeats
+  the very tool 'Behind Every Test, an Industry' names as the field's honest case,
+  and why that failure mode is a physiological rights question.
+last_revised: July 2026
 layout: default
-title: The Ferritin Threshold
-description: "The test iron medicine got right, and the number that unmakes it. Why the routine reading of ferritin at the bottom of the population distribution defeats the very tool 'Behind Every Test, an Industry' names as the field's honest case, and why that failure mode is a physiological rights question."
+related:
+- title: Right to Adequate Iron Status
+  url: /rights/iron/
+- title: Behind Every Test, an Industry
+  url: /critique/behind-every-test-an-industry/
+- title: 'Ferritin 24: A Model Case'
+  url: /critique/ferritin-24-a-model-case/
+- title: The Hunger We Don't See
+  url: /critique/the-hunger-we-dont-see/
 status: published
-last_revised: "July 2026"
+title: The Ferritin Threshold
 ---
 
 # The Ferritin Threshold

@@ -1,10 +1,23 @@
 ---
-layout: default
-title: "The Care of Self as Ground of the Physiological Right"
-description: "The right to physiological integrity does not rest on the love a person happens to feel for their own life. It rests on an older ground, laid down in the antique practice of the care of self, in Spinoza's conatus, in Jonas's responsibility to the vulnerable, and in Kant's rule that no person shall be treated as a mere means. A secular foundation for a right that must hold when affect fails."
-status: published
-last_revised: "July 2026"
+description: The right to physiological integrity does not rest on the love a person
+  happens to feel for their own life. It rests on an older ground, laid down in the
+  antique practice of the care of self, in Spinoza's conatus, in Jonas's responsibility
+  to the vulnerable, and in Kant's rule that no person shall be treated as a mere
+  means. A secular foundation for a right that must hold when affect fails.
 featured: true
+last_revised: July 2026
+layout: default
+related:
+- title: Self-Medication as a Codified Right
+  url: /definitions/self-medication-as-a-codified-right/
+- title: Practicing the Physiological Right in an Ordinary Life
+  url: /editorials/practicing-the-right-in-an-ordinary-life/
+- title: All Medicine Is Preventive
+  url: /definitions/all-medicine-is-preventive/
+- title: Physiological Rights
+  url: /definitions/physiological-rights/
+status: published
+title: The Care of Self as Ground of the Physiological Right
 ---
 
 # The Care of Self as Ground of the Physiological Right

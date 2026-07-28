@@ -1,12 +1,24 @@
 ---
-layout: default
-title: Right to Adequate Magnesium Levels
-name: Magnesium
 category: mineral
-description: "The right to adequate magnesium levels: access to testing and supplementation to prevent and correct one of the most widespread and systematically underdiagnosed nutritional deficiencies in the Western world."
+description: 'The right to adequate magnesium levels: access to testing and supplementation
+  to prevent and correct one of the most widespread and systematically underdiagnosed
+  nutritional deficiencies in the Western world.'
+last_revised: July 2026
+layout: default
+name: Magnesium
+related:
+- title: The Life We Call Normal
+  url: /editorials/the-life-we-call-normal/
+- title: The Hunger We Don't See
+  url: /critique/the-hunger-we-dont-see/
+- title: The Ambiguities of "Balanced Diet"
+  url: /critique/balanced-diet-ambiguities/
+- title: Behind Every Test, an Industry
+  url: /critique/behind-every-test-an-industry/
+researchers: Jean Durlach · Mildred Seelig · James J. DiNicolantonio · Carolyn Dean
+  · Andrea Rosanoff
 status: published
-last_revised: "July 2026"
-researchers: "Jean Durlach · Mildred Seelig · James J. DiNicolantonio · Carolyn Dean · Andrea Rosanoff"
+title: Right to Adequate Magnesium Levels
 ---
 
 # Right to Adequate Magnesium Levels

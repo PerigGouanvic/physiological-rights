@@ -1,9 +1,20 @@
 ---
+description: Why population-average dietary recommendations are insufficient to guarantee
+  physiological integrity at the individual level — magnesium, vitamin D, omega-3,
+  and other examples.
+last_revised: April 2025
 layout: default
-title: The Ambiguities of "Balanced Diet"
-description: "Why population-average dietary recommendations are insufficient to guarantee physiological integrity at the individual level — magnesium, vitamin D, omega-3, and other examples."
+related:
+- title: Why Physiological Rights Go Beyond the Right to Food
+  url: /definitions/beyond-right-to-food/
+- title: Right to Adequate Magnesium Levels
+  url: /rights/magnesium/
+- title: Why There Is No Universally Good Food
+  url: /critique/no-universal-good-food/
+- title: No One Is Coming
+  url: /editorials/no-one-is-coming/
 status: published
-last_revised: "April 2025"
+title: The Ambiguities of "Balanced Diet"
 ---
 
 # The Ambiguities of "Balanced Diet"

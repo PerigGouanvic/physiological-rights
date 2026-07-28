@@ -1,9 +1,24 @@
 ---
+description: 'The received distinction between ''nutritional'' and ''pharmacological''
+  doses of the same nutrient functions as gatekeeping more than physiology. Medicine''s
+  own protocols use these substrates at ten to five hundred times the RDA when repletion
+  is needed. The reason it must: loss channels are unmetered while gain channels are
+  transporter-limited, tissues restore more slowly than plasma, and deficits reinforce
+  each other. It is easier to lose a molecule than to regain it. A right that ends
+  at the RDA is a right to prevention among the never-depleted, not to restoration.'
+last_revised: July 2026
 layout: default
-title: Two Doses, One Molecule
-description: "The received distinction between 'nutritional' and 'pharmacological' doses of the same nutrient functions as gatekeeping more than physiology. Medicine's own protocols use these substrates at ten to five hundred times the RDA when repletion is needed. The reason it must: loss channels are unmetered while gain channels are transporter-limited, tissues restore more slowly than plasma, and deficits reinforce each other. It is easier to lose a molecule than to regain it. A right that ends at the RDA is a right to prevention among the never-depleted, not to restoration."
+related:
+- title: Calibrated for Nothing
+  url: /critique/calibrated-for-nothing/
+- title: All Medicine Is Preventive
+  url: /definitions/all-medicine-is-preventive/
+- title: The Life We Call Normal
+  url: /editorials/the-life-we-call-normal/
+- title: Self-Medication as a Codified Right
+  url: /definitions/self-medication-as-a-codified-right/
 status: published
-last_revised: "July 2026"
+title: Two Doses, One Molecule
 ---
 
 # Two Doses, One Molecule

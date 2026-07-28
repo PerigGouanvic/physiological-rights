@@ -1,12 +1,25 @@
 ---
-layout: default
-title: Right to Adequate Potassium Status
-name: Potassium
 category: mineral
-description: "The right to adequate potassium status: recognition that a homeostatically defended serum value systematically hides tissue depletion, that dietary intake is only one input to the tissue balance, and that access to a food environment matching evolutionary physiology is a matter of preventable cardiovascular mortality."
+description: 'The right to adequate potassium status: recognition that a homeostatically
+  defended serum value systematically hides tissue depletion, that dietary intake
+  is only one input to the tissue balance, and that access to a food environment matching
+  evolutionary physiology is a matter of preventable cardiovascular mortality.'
+last_revised: July 2026
+layout: default
+name: Potassium
+related:
+- title: 'The False Negative: Serum Potassium and the Compartment It Cannot See'
+  url: /critique/false-negative-serum-potassium/
+- title: The Hunger We Don't See
+  url: /critique/the-hunger-we-dont-see/
+- title: The Life We Call Normal
+  url: /editorials/the-life-we-call-normal/
+- title: Behind Every Test, an Industry
+  url: /critique/behind-every-test-an-industry/
+researchers: George Meneely · Walter Kempner · Lot Page · Graham MacGregor · Feng
+  He · Paul Whelton · Horacio Adrogué · Tommaso Filippini
 status: published
-last_revised: "July 2026"
-researchers: "George Meneely · Walter Kempner · Lot Page · Graham MacGregor · Feng He · Paul Whelton · Horacio Adrogué · Tommaso Filippini"
+title: Right to Adequate Potassium Status
 ---
 
 # Right to Adequate Potassium Status

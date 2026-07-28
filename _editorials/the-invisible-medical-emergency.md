@@ -1,9 +1,19 @@
 ---
+description: Chronic physiological deficits as a rights matter under General Comment
+  14 §43 core obligations and the primary-health-care doctrine of the Alma-Ata Declaration.
+last_revised: July 2026
 layout: default
-title: The Invisible Medical Emergency
-description: "Chronic physiological deficits as a rights matter under General Comment 14 §43 core obligations and the primary-health-care doctrine of the Alma-Ata Declaration."
+related:
+- title: Deficiency as a Rights Violation
+  url: /editorials/deficiency-as-rights-violation/
+- title: The Instruments Already Exist
+  url: /definitions/the-instruments-already-exist/
+- title: Physiological Rights
+  url: /definitions/physiological-rights/
+- title: The Ethical Limits of Randomised Controlled Trials
+  url: /editorials/ethical-limits-of-rcts/
 status: published
-last_revised: "July 2026"
+title: The Invisible Medical Emergency
 ---
 
 # The Invisible Medical Emergency

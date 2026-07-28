@@ -1,9 +1,22 @@
 ---
+description: For the reader who has read the arguments, agreed with them, and still
+  forgets. The founding pieces of this resource have retired the reasons for shame.
+  What remains is the ordinary practice of a right that no one holds cleanly, and
+  no one is expected to hold cleanly. Three practical levers, and a defence of the
+  imperfect practice as the practice.
+last_revised: July 2026
 layout: default
-title: "Practicing the Physiological Right in an Ordinary Life"
-description: "For the reader who has read the arguments, agreed with them, and still forgets. The founding pieces of this resource have retired the reasons for shame. What remains is the ordinary practice of a right that no one holds cleanly, and no one is expected to hold cleanly. Three practical levers, and a defence of the imperfect practice as the practice."
+related:
+- title: The Care of Self as Ground of the Physiological Right
+  url: /definitions/care-of-self-as-ground/
+- title: Self-Medication as a Codified Right
+  url: /definitions/self-medication-as-a-codified-right/
+- title: All Medicine Is Preventive
+  url: /definitions/all-medicine-is-preventive/
+- title: You Are Not the Exception
+  url: /editorials/you-are-not-the-exception/
 status: published
-last_revised: "July 2026"
+title: Practicing the Physiological Right in an Ordinary Life
 ---
 
 # Practicing the Physiological Right in an Ordinary Life

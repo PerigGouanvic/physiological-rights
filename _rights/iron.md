@@ -1,12 +1,26 @@
 ---
-layout: default
-title: Right to Adequate Iron Status
-name: Iron
 category: mineral
-description: "The right to adequate iron status: access to a proper multi-marker assessment (ferritin, transferrin saturation, soluble transferrin receptor, CRP for inflammatory correction) read against thresholds that reflect tissue function rather than the bottom of the local population's distribution. The most honest test in modern nutritional medicine, defeated by the number chosen to interpret it."
+description: 'The right to adequate iron status: access to a proper multi-marker assessment
+  (ferritin, transferrin saturation, soluble transferrin receptor, CRP for inflammatory
+  correction) read against thresholds that reflect tissue function rather than the
+  bottom of the local population''s distribution. The most honest test in modern nutritional
+  medicine, defeated by the number chosen to interpret it.'
+last_revised: July 2026
+layout: default
+name: Iron
+related:
+- title: The Ferritin Threshold
+  url: /editorials/the-ferritin-threshold/
+- title: 'Ferritin 24: A Model Case'
+  url: /critique/ferritin-24-a-model-case/
+- title: Behind Every Test, an Industry
+  url: /critique/behind-every-test-an-industry/
+- title: The Life We Call Normal
+  url: /editorials/the-life-we-call-normal/
+researchers: Michael Auerbach · Sant-Rayn Pasricha · Clara Camaschella · Tomas Ganz
+  · Elizabeta Nemeth · Zuguo Mei · James D. Cook · John L. Beard
 status: published
-last_revised: "July 2026"
-researchers: "Michael Auerbach · Sant-Rayn Pasricha · Clara Camaschella · Tomas Ganz · Elizabeta Nemeth · Zuguo Mei · James D. Cook · John L. Beard"
+title: Right to Adequate Iron Status
 ---
 
 # Right to Adequate Iron Status

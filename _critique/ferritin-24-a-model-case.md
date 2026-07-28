@@ -1,9 +1,20 @@
 ---
+description: A composite patient, drawn from documented practice. What she was owed,
+  what she received, what she would plead, and where she would win. A working brief
+  for jurists reading this resource.
+last_revised: July 2026
 layout: default
-title: "Ferritin 24: A Model Case"
-description: "A composite patient, drawn from documented practice. What she was owed, what she received, what she would plead, and where she would win. A working brief for jurists reading this resource."
+related:
+- title: A Litigation Brief for Physiological Rights
+  url: /definitions/a-litigation-brief/
+- title: 'John, 68: A Model Case'
+  url: /critique/john-68-a-model-case/
+- title: The Ferritin Threshold
+  url: /editorials/the-ferritin-threshold/
+- title: Right to Adequate Iron Status
+  url: /rights/iron/
 status: published
-last_revised: "July 2026"
+title: 'Ferritin 24: A Model Case'
 ---
 
 # Ferritin 24: A Model Case

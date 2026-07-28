@@ -1,9 +1,20 @@
 ---
+description: The supplement store as the functional counterpart of medical-mainstream
+  refusal. What is monetized when what should be a right becomes an income, and what
+  Pauling saw the community he helped create do with his own recommendations.
+last_revised: July 2026
 layout: default
-title: The Store That Sells the Right
-description: "The supplement store as the functional counterpart of medical-mainstream refusal. What is monetized when what should be a right becomes an income, and what Pauling saw the community he helped create do with his own recommendations."
+related:
+- title: Self-Medication as a Codified Right
+  url: /definitions/self-medication-as-a-codified-right/
+- title: All Medicine Is Preventive
+  url: /definitions/all-medicine-is-preventive/
+- title: A Second Medical Nemesis
+  url: /editorials/a-second-medical-nemesis/
+- title: What the Label Cannot Say
+  url: /critique/what-the-label-cannot-say/
 status: published
-last_revised: "July 2026"
+title: The Store That Sells the Right
 ---
 
 # The Store That Sells the Right

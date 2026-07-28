@@ -1,9 +1,21 @@
 ---
+description: From Pauling's orthomolecular hypothesis through Ames's triage theory
+  to the podcast economy that carried the intuition and depoliticised it. Ivan Illich's
+  frame extended to the expropriation of the physiological substrate, and the return
+  of that substrate to the person it belongs to.
+last_revised: July 2026
 layout: default
-title: "A Second Medical Nemesis"
-description: "From Pauling's orthomolecular hypothesis through Ames's triage theory to the podcast economy that carried the intuition and depoliticised it. Ivan Illich's frame extended to the expropriation of the physiological substrate, and the return of that substrate to the person it belongs to."
+related:
+- title: All Medicine Is Preventive
+  url: /definitions/all-medicine-is-preventive/
+- title: The Store That Sells the Right
+  url: /editorials/the-store-that-sells-the-right/
+- title: No One Is Coming
+  url: /editorials/no-one-is-coming/
+- title: Self-Medication as a Codified Right
+  url: /definitions/self-medication-as-a-codified-right/
 status: published
-last_revised: "July 2026"
+title: A Second Medical Nemesis
 ---
 
 # A Second Medical Nemesis

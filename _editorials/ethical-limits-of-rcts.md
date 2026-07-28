@@ -1,9 +1,21 @@
 ---
+description: Why the placebo arm and the wait for trial closure cannot be sustained
+  against the Nuremberg Code, Declaration of Helsinki §33, and the precautionary principle
+  of TFUE Article 191 when the deficit is measurable and the corrective substrate
+  is known.
+last_revised: July 2026
 layout: default
-title: The Ethical Limits of Randomised Controlled Trials
-description: "Why the placebo arm and the wait for trial closure cannot be sustained against the Nuremberg Code, Declaration of Helsinki §33, and the precautionary principle of TFUE Article 191 when the deficit is measurable and the corrective substrate is known."
+related:
+- title: Rights-Based Medicine vs Evidence-Based Medicine
+  url: /definitions/rights-based-vs-evidence-based/
+- title: Deficiency as a Rights Violation
+  url: /editorials/deficiency-as-rights-violation/
+- title: A Litigation Brief for Physiological Rights
+  url: /definitions/a-litigation-brief/
+- title: The Instruments Already Exist
+  url: /definitions/the-instruments-already-exist/
 status: published
-last_revised: "July 2026"
+title: The Ethical Limits of Randomised Controlled Trials
 ---
 
 # The Ethical Limits of Randomised Controlled Trials

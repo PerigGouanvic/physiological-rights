@@ -1,12 +1,27 @@
 ---
-layout: default
-title: Right to Adequate Glutathione
-name: Glutathione
 category: endogenous tripeptide / cellular metabolite
-description: "The right to adequate glutathione: the master antioxidant of the cell is a tripeptide the body synthesizes and destroys internally, at concentrations no oral supplement can reproduce. The right therefore falls on the substrates: cysteine (via N-acetylcysteine), glycine, selenium, riboflavin. The clinical infrastructure that would measure, provision, and monitor these substrates does not exist in ordinary medicine, and the trajectory that follows their insufficiency is the trajectory of much of chronic disease and aging."
+description: 'The right to adequate glutathione: the master antioxidant of the cell
+  is a tripeptide the body synthesizes and destroys internally, at concentrations
+  no oral supplement can reproduce. The right therefore falls on the substrates: cysteine
+  (via N-acetylcysteine), glycine, selenium, riboflavin. The clinical infrastructure
+  that would measure, provision, and monitor these substrates does not exist in ordinary
+  medicine, and the trajectory that follows their insufficiency is the trajectory
+  of much of chronic disease and aging.'
+last_revised: July 2026
+layout: default
+name: Glutathione
+related:
+- title: Right to Adequate Coenzyme Q10
+  url: /rights/coenzyme-q10/
+- title: All Medicine Is Preventive
+  url: /definitions/all-medicine-is-preventive/
+- title: The Life We Call Normal
+  url: /editorials/the-life-we-call-normal/
+- title: Two Doses, One Molecule
+  url: /critique/two-doses-one-molecule/
+researchers: Alton Meister · Rajagopal Sekhar · Leonore Herzenberg · S. Jill James
 status: published
-last_revised: "July 2026"
-researchers: "Alton Meister · Rajagopal Sekhar · Leonore Herzenberg · S. Jill James"
+title: Right to Adequate Glutathione
 ---
 
 # Right to Adequate Glutathione

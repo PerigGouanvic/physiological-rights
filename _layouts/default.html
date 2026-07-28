@@ -164,6 +164,17 @@
         </div>
         {% endif %}
 
+        {% if page.related %}
+        <div class="aside-section">
+            <h3>Related</h3>
+            <ul class="aside-related">
+                {% for item in page.related %}
+                <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
+                {% endfor %}
+            </ul>
+        </div>
+        {% endif %}
+
         {% assign this_url = page.url | absolute_url | url_encode %}
         <div class="aside-section aside-translate">
             <h3>Read in</h3>
@@ -231,6 +242,17 @@
         <div class="aside-section">
             <h3>Key figures</h3>
             <p>{{ page.researchers }}</p>
+        </div>
+        {% endif %}
+
+        {% if page.related %}
+        <div class="aside-section">
+            <h3>Related</h3>
+            <ul class="aside-related">
+                {% for item in page.related %}
+                <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
+                {% endfor %}
+            </ul>
         </div>
         {% endif %}
 

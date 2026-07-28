@@ -1,9 +1,23 @@
 ---
+description: Why physiological rights will not be defended by any of the guilds that
+  surround them, and why the defence must be legal. The medical community, the wellness
+  industry, the nutritionists, the pharmaceutical industry, public health, the universities,
+  and the science communicators are each, in different ways, integral to the structure
+  that produces the invisibility of physiological deficit. They will not defend what
+  they are structurally arranged to hide.
+last_revised: July 2026
 layout: default
-title: No One Is Coming
-description: "Why physiological rights will not be defended by any of the guilds that surround them, and why the defence must be legal. The medical community, the wellness industry, the nutritionists, the pharmaceutical industry, public health, the universities, and the science communicators are each, in different ways, integral to the structure that produces the invisibility of physiological deficit. They will not defend what they are structurally arranged to hide."
+related:
+- title: All Medicine Is Preventive
+  url: /definitions/all-medicine-is-preventive/
+- title: The Instruments Already Exist
+  url: /definitions/the-instruments-already-exist/
+- title: Rights-Based Medicine vs Evidence-Based Medicine
+  url: /definitions/rights-based-vs-evidence-based/
+- title: Behind Every Test, an Industry
+  url: /critique/behind-every-test-an-industry/
 status: published
-last_revised: "July 2026"
+title: No One Is Coming
 ---
 
 # No One Is Coming

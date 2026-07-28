@@ -1,9 +1,20 @@
 ---
+description: The full set of essential physiological needs that must be actively met
+  to enable a person to live fully — a concrete, measurable complement to the right
+  to health.
+last_revised: July 2026
 layout: default
-title: Physiological Rights
-description: "The full set of essential physiological needs that must be actively met to enable a person to live fully — a concrete, measurable complement to the right to health."
+related:
+- title: Inadequacy of the Right to Health
+  url: /definitions/inadequacy-of-right-to-health/
+- title: The Instruments Already Exist
+  url: /definitions/the-instruments-already-exist/
+- title: Why Physiological Rights Go Beyond the Right to Food
+  url: /definitions/beyond-right-to-food/
+- title: Deficiency as a Rights Violation
+  url: /editorials/deficiency-as-rights-violation/
 status: published
-last_revised: "July 2026"
+title: Physiological Rights
 ---
 
 # Physiological Rights: Definition and Scope

@@ -1,9 +1,21 @@
 ---
+description: Two moments of institutional erasure. The biochemistry diagram in medical
+  school, and the 'otherwise healthy' participant in the clinical trial. Together
+  they produce a body that has never been seen in the clinic, and a discipline that
+  has agreed to see it instead.
+last_revised: July 2026
 layout: default
-title: Otherwise Healthy
-description: "Two moments of institutional erasure. The biochemistry diagram in medical school, and the 'otherwise healthy' participant in the clinical trial. Together they produce a body that has never been seen in the clinic, and a discipline that has agreed to see it instead."
+related:
+- title: The Hunger We Don't See
+  url: /critique/the-hunger-we-dont-see/
+- title: 'John, 68: A Model Case'
+  url: /critique/john-68-a-model-case/
+- title: Rights-Based Medicine vs Evidence-Based Medicine
+  url: /definitions/rights-based-vs-evidence-based/
+- title: All Medicine Is Preventive
+  url: /definitions/all-medicine-is-preventive/
 status: published
-last_revised: "July 2026"
+title: Otherwise Healthy
 ---
 
 # Otherwise Healthy

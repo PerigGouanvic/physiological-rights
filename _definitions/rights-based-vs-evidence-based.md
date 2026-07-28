@@ -1,9 +1,21 @@
 ---
+description: Why 'there is no evidence' is not a scientific verdict but a discretionary
+  refusal. The COVID demonstration of the fracture line, the funding loop that makes
+  the demand for evidence self-fulfilling, and the two questions rights-based medicine
+  hands back to those who invoke it.
+last_revised: July 2026
 layout: default
-title: Rights-Based Medicine vs Evidence-Based Medicine
-description: "Why 'there is no evidence' is not a scientific verdict but a discretionary refusal. The COVID demonstration of the fracture line, the funding loop that makes the demand for evidence self-fulfilling, and the two questions rights-based medicine hands back to those who invoke it."
+related:
+- title: The Ethical Limits of Randomised Controlled Trials
+  url: /editorials/ethical-limits-of-rcts/
+- title: 'John, 68: A Model Case'
+  url: /critique/john-68-a-model-case/
+- title: All Medicine Is Preventive
+  url: /definitions/all-medicine-is-preventive/
+- title: A Litigation Brief for Physiological Rights
+  url: /definitions/a-litigation-brief/
 status: published
-last_revised: "July 2026"
+title: Rights-Based Medicine vs Evidence-Based Medicine
 ---
 
 # Rights-Based Medicine vs Evidence-Based Medicine

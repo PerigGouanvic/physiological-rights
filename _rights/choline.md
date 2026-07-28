@@ -1,12 +1,25 @@
 ---
-layout: default
-title: Right to Adequate Choline
-name: Choline
 category: conditionally essential nutrient
-description: "The right to adequate choline: a molecule officially recognized as essential only in 1998, met by fewer than one adult in ten, absent from food guides, absent from routine testing, and the material substrate of membranes, hepatic lipid export, methyl donation, biliary flow, renal osmoregulation, and the parasympathetic nervous system."
+description: 'The right to adequate choline: a molecule officially recognized as essential
+  only in 1998, met by fewer than one adult in ten, absent from food guides, absent
+  from routine testing, and the material substrate of membranes, hepatic lipid export,
+  methyl donation, biliary flow, renal osmoregulation, and the parasympathetic nervous
+  system.'
+last_revised: July 2026
+layout: default
+name: Choline
+related:
+- title: The Hunger We Don't See
+  url: /critique/the-hunger-we-dont-see/
+- title: The Life We Call Normal
+  url: /editorials/the-life-we-call-normal/
+- title: All Medicine Is Preventive
+  url: /definitions/all-medicine-is-preventive/
+- title: Behind Every Test, an Industry
+  url: /critique/behind-every-test-an-industry/
+researchers: Steven Zeisel · Marie Caudill · Kevin Tracey · Richard Wurtman
 status: published
-last_revised: "July 2026"
-researchers: "Steven Zeisel · Marie Caudill · Kevin Tracey · Richard Wurtman"
+title: Right to Adequate Choline
 ---
 
 # Right to Adequate Choline

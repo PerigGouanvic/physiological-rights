@@ -1,9 +1,20 @@
 ---
+description: When an uncorrected, measurable nutritional deficit constitutes a violation
+  of the right to health under ICESCR Article 12, read against the core obligations
+  doctrine of General Comment 14 §43.
+last_revised: July 2026
 layout: default
-title: Deficiency as a Rights Violation
-description: "When an uncorrected, measurable nutritional deficit constitutes a violation of the right to health under ICESCR Article 12, read against the core obligations doctrine of General Comment 14 §43."
+related:
+- title: The Invisible Medical Emergency
+  url: /editorials/the-invisible-medical-emergency/
+- title: Physiological Rights
+  url: /definitions/physiological-rights/
+- title: The Instruments Already Exist
+  url: /definitions/the-instruments-already-exist/
+- title: A Litigation Brief for Physiological Rights
+  url: /definitions/a-litigation-brief/
 status: published
-last_revised: "July 2026"
+title: Deficiency as a Rights Violation
 ---
 
 # Deficiency as a Rights Violation

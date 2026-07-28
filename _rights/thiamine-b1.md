@@ -1,12 +1,23 @@
 ---
-layout: default
-title: Right to Optimal Thiamine (Vitamin B1) Status
-name: Vitamin B1 (thiamine)
 category: vitamin
-description: "The right to an optimal thiamine status: recognition of functional deficiency beyond frank beriberi, including high-dose thiamine therapy for conditions such as dysautonomia and Parkinson's disease."
+description: 'The right to an optimal thiamine status: recognition of functional deficiency
+  beyond frank beriberi, including high-dose thiamine therapy for conditions such
+  as dysautonomia and Parkinson''s disease.'
+last_revised: July 2026
+layout: default
+name: Vitamin B1 (thiamine)
+related:
+- title: Right to Adequate Folate Levels
+  url: /rights/folate/
+- title: Right to Optimal Vitamin E Status (Full Spectrum)
+  url: /rights/vitamin-e/
+- title: Right to Optimal Riboflavin (Vitamin B2) Status
+  url: /rights/riboflavin-b2/
+- title: Right to Optimal Omega-3 Status (EPA/DHA)
+  url: /rights/omega-3/
+researchers: Derrick Lonsdale · Chandler Marrs · Elliot Overton
 status: published
-last_revised: "July 2026"
-researchers: "Derrick Lonsdale · Chandler Marrs · Elliot Overton"
+title: Right to Optimal Thiamine (Vitamin B1) Status
 ---
 
 # Thiamine deficiency: the silent epidemic of the modern world

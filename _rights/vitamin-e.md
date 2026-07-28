@@ -1,13 +1,25 @@
 ---
-layout: default
-title: Right to Optimal Vitamin E Status (Full Spectrum)
-name: Vitamin E (complete family)
 category: vitamin
+description: Vitamin E is not a molecule but a family of eight compounds. For decades,
+  official science, medicine, and industry have recognised only one member. This reductionism
+  has produced inadequate recommendations, potentially harmful supplements, and a
+  massive underestimate of actual deficiency.
+last_revised: July 2026
+layout: default
+name: Vitamin E (complete family)
+related:
+- title: Right to Adequate Folate Levels
+  url: /rights/folate/
+- title: Right to Optimal Thiamine (Vitamin B1) Status
+  url: /rights/thiamine-b1/
+- title: Right to Optimal Omega-3 Status (EPA/DHA)
+  url: /rights/omega-3/
+- title: Right to Optimal Riboflavin (Vitamin B2) Status
+  url: /rights/riboflavin-b2/
+researchers: Maret Traber · Barrie Tan · Chandan K. Sen · Qing Jiang
 severity: high
-description: "Vitamin E is not a molecule but a family of eight compounds. For decades, official science, medicine, and industry have recognised only one member. This reductionism has produced inadequate recommendations, potentially harmful supplements, and a massive underestimate of actual deficiency."
 status: published
-last_revised: "July 2026"
-researchers: "Maret Traber · Barrie Tan · Chandan K. Sen · Qing Jiang"
+title: Right to Optimal Vitamin E Status (Full Spectrum)
 ---
 
 # The Vitamin Es: The Silent Epidemic of a Poorly Defined Deficiency

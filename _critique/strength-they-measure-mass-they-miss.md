@@ -1,9 +1,23 @@
 ---
+description: With age, most bodies lose skeletal muscle and lay down adipose tissue
+  in its place. When both processes cross their thresholds together, the condition
+  is named sarcopenic obesity. The literature on resistance training measures strength
+  gains and calls them the effect. It almost never asks whether the muscle mass returned
+  to normal. When one recent trial did ask, more than a third of participants left
+  the diagnostic category.
+last_revised: July 2026
 layout: default
-title: "Sarcopenic Obesity: The Strength They Measure, the Mass They Miss"
-description: "With age, most bodies lose skeletal muscle and lay down adipose tissue in its place. When both processes cross their thresholds together, the condition is named sarcopenic obesity. The literature on resistance training measures strength gains and calls them the effect. It almost never asks whether the muscle mass returned to normal. When one recent trial did ask, more than a third of participants left the diagnostic category."
+related:
+- title: Right to Adequate Muscle Mass
+  url: /rights/muscle-mass/
+- title: Calibrated for Nothing
+  url: /critique/calibrated-for-nothing/
+- title: Right to Optimal Hormonal Levels
+  url: /rights/optimal-hormonal-levels/
+- title: Right to Adequate Coenzyme Q10
+  url: /rights/coenzyme-q10/
 status: published
-last_revised: "July 2026"
+title: 'Sarcopenic Obesity: The Strength They Measure, the Mass They Miss'
 ---
 
 # Sarcopenic Obesity: The Strength They Measure, the Mass They Miss

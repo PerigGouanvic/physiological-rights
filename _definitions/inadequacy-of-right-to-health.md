@@ -1,9 +1,19 @@
 ---
+description: The limits of the State's obligation of means — why the right to health
+  as currently framed fails to guarantee individual physiological integrity.
+last_revised: July 2026
 layout: default
-title: Inadequacy of the Right to Health
-description: "The limits of the State's obligation of means — why the right to health as currently framed fails to guarantee individual physiological integrity."
+related:
+- title: Physiological Rights
+  url: /definitions/physiological-rights/
+- title: The Instruments Already Exist
+  url: /definitions/the-instruments-already-exist/
+- title: Deficiency as a Rights Violation
+  url: /editorials/deficiency-as-rights-violation/
+- title: Why Physiological Rights Go Beyond the Right to Food
+  url: /definitions/beyond-right-to-food/
 status: published
-last_revised: "July 2026"
+title: Inadequacy of the Right to Health
 ---
 
 # Inadequacy of the Right to Health

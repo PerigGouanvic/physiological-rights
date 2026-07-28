@@ -1,12 +1,24 @@
 ---
-layout: default
-title: Right to Optimal Omega-3 Status (EPA/DHA)
-name: Omega-3 (EPA/DHA)
 category: macronutrient
-description: "The right to an optimal omega-3 status: access to testing (Omega-3 Index) and supplementation to correct the chronic omega-6/omega-3 imbalance that characterises modern Western diets."
+description: 'The right to an optimal omega-3 status: access to testing (Omega-3 Index)
+  and supplementation to correct the chronic omega-6/omega-3 imbalance that characterises
+  modern Western diets.'
+last_revised: July 2026
+layout: default
+name: Omega-3 (EPA/DHA)
+related:
+- title: Right to Adequate Folate Levels
+  url: /rights/folate/
+- title: Right to Optimal Thiamine (Vitamin B1) Status
+  url: /rights/thiamine-b1/
+- title: Right to Optimal Vitamin E Status (Full Spectrum)
+  url: /rights/vitamin-e/
+- title: Right to Optimal Riboflavin (Vitamin B2) Status
+  url: /rights/riboflavin-b2/
+researchers: Charles Serhan · William S. Harris · Clemens von Schacky · Joseph Hibbeln
+  · Artemis Simopoulos
 status: published
-last_revised: "July 2026"
-researchers: "Charles Serhan · William S. Harris · Clemens von Schacky · Joseph Hibbeln · Artemis Simopoulos"
+title: Right to Optimal Omega-3 Status (EPA/DHA)
 ---
 
 # Omega-3: the mass nutritional deficiency that industry, medicine, and governments are managing badly

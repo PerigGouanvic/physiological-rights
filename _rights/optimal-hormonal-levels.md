@@ -1,12 +1,27 @@
 ---
-layout: default
-title: Right to Optimal Hormonal Levels
-name: Optimal Hormonal Levels
 category: hormonal parameters
-description: "The right to optimal hormonal levels: a landscape of five endocrine axes (thyroid, female sex hormones, andropause, cortisol, insulin) surveyed through what medicine does well, does badly, and does not do at all. The reference range built from a population itself compromised is mistaken for a target of function, and the tests that would name the deficit exist and are not ordered."
+description: 'The right to optimal hormonal levels: a landscape of five endocrine
+  axes (thyroid, female sex hormones, andropause, cortisol, insulin) surveyed through
+  what medicine does well, does badly, and does not do at all. The reference range
+  built from a population itself compromised is mistaken for a target of function,
+  and the tests that would name the deficit exist and are not ordered.'
+last_revised: July 2026
+layout: default
+name: Optimal Hormonal Levels
+related:
+- title: The Blunder They Called a Refutation
+  url: /critique/the-blunder-they-called-a-refutation/
+- title: The Hunger We Don't See
+  url: /critique/the-hunger-we-dont-see/
+- title: Right to Adequate Muscle Mass
+  url: /rights/muscle-mass/
+- title: All Medicine Is Preventive
+  url: /definitions/all-medicine-is-preventive/
+researchers: Broda O. Barnes · Antonio C. Bianco · JoAnn E. Manson · Jerilynn C. Prior
+  · Alexander Vermeulen · Shalender Bhasin · Hans Selye · Joseph R. Kraft · Gerald
+  M. Reaven · Benjamin Bikman
 status: published
-last_revised: "July 2026"
-researchers: "Broda O. Barnes · Antonio C. Bianco · JoAnn E. Manson · Jerilynn C. Prior · Alexander Vermeulen · Shalender Bhasin · Hans Selye · Joseph R. Kraft · Gerald M. Reaven · Benjamin Bikman"
+title: Right to Optimal Hormonal Levels
 ---
 
 # Right to Optimal Hormonal Levels

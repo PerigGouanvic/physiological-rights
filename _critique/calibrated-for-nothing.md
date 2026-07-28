@@ -1,9 +1,22 @@
 ---
+description: Why most personal trials of supplementation return nothing, and why the
+  field's synthesis of its own literature does too. The apparent contradiction between
+  the reader who tried and felt no change, and the documented rapid responses across
+  nearly every essential nutrient. The reader's null trial is not a counter-example.
+  It is what a trial calibrated for null produces. The anatomy of that calibration.
+last_revised: July 2026
 layout: default
-title: Calibrated for Nothing
-description: "Why most personal trials of supplementation return nothing, and why the field's synthesis of its own literature does too. The apparent contradiction between the reader who tried and felt no change, and the documented rapid responses across nearly every essential nutrient. The reader's null trial is not a counter-example. It is what a trial calibrated for null produces. The anatomy of that calibration."
+related:
+- title: Two Doses, One Molecule
+  url: /critique/two-doses-one-molecule/
+- title: All Medicine Is Preventive
+  url: /definitions/all-medicine-is-preventive/
+- title: 'John, 68: A Model Case'
+  url: /critique/john-68-a-model-case/
+- title: Rights-Based Medicine vs Evidence-Based Medicine
+  url: /definitions/rights-based-vs-evidence-based/
 status: published
-last_revised: "July 2026"
+title: Calibrated for Nothing
 ---
 
 # Calibrated for Nothing

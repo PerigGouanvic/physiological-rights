@@ -1,12 +1,26 @@
 ---
-layout: default
-title: Right to Adequate Coenzyme Q10
-name: Coenzyme Q10
 category: conditionally essential nutrient / mitochondrial cofactor
-description: "The right to adequate coenzyme Q10: a lipophilic quinone the body synthesizes on the same branched pathway as cholesterol, so a drug taken by forty million people to lower cholesterol depletes it by construction. Recognized as a target for co-supplementation in the 1989 Merck patents that were never developed, still not standard of care, still called a supplement of unproven benefit."
+description: 'The right to adequate coenzyme Q10: a lipophilic quinone the body synthesizes
+  on the same branched pathway as cholesterol, so a drug taken by forty million people
+  to lower cholesterol depletes it by construction. Recognized as a target for co-supplementation
+  in the 1989 Merck patents that were never developed, still not standard of care,
+  still called a supplement of unproven benefit.'
+last_revised: July 2026
+layout: default
+name: Coenzyme Q10
+related:
+- title: 'John, 68: A Model Case'
+  url: /critique/john-68-a-model-case/
+- title: Right to Adequate Glutathione
+  url: /rights/glutathione/
+- title: Right to Adequate Muscle Mass
+  url: /rights/muscle-mass/
+- title: Calibrated for Nothing
+  url: /critique/calibrated-for-nothing/
+researchers: Karl Folkers · Peter Langsjoen · Svend Aage Mortensen · Franklin Rosenfeldt
+  · Maciej Banach · Beatrice Golomb
 status: published
-last_revised: "July 2026"
-researchers: "Karl Folkers · Peter Langsjoen · Svend Aage Mortensen · Franklin Rosenfeldt · Maciej Banach · Beatrice Golomb"
+title: Right to Adequate Coenzyme Q10
 ---
 
 # Right to Adequate Coenzyme Q10

@@ -1,9 +1,20 @@
 ---
+description: 'Why the nutritional value of a food is never absolute — it depends on
+  the individual''s physiological context. Spinach, dairy, nuts: examples of foods
+  that are beneficial for some and harmful for others.'
+last_revised: April 2025
 layout: default
-title: The Limits of "Healthy Eating"
-description: "Why the nutritional value of a food is never absolute — it depends on the individual's physiological context. Spinach, dairy, nuts: examples of foods that are beneficial for some and harmful for others."
+related:
+- title: Why There Is No Universally Good Food
+  url: /critique/no-universal-good-food/
+- title: Why Physiological Rights Go Beyond the Right to Food
+  url: /definitions/beyond-right-to-food/
+- title: Behind Every Test, an Industry
+  url: /critique/behind-every-test-an-industry/
+- title: The Ambiguities of "Balanced Diet"
+  url: /critique/balanced-diet-ambiguities/
 status: published
-last_revised: "April 2025"
+title: The Limits of "Healthy Eating"
 ---
 
 # The Limits of "Healthy Eating"

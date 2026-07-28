@@ -1,9 +1,23 @@
 ---
+description: The bottle cannot tell you what the Cochrane review already says. A tour
+  of the labeling regime that manufactures the phrase 'insufficient evidence for supplementation'
+  by criminalizing the citation of the evidence that has, despite everything, been
+  generated. DSHEA, EFSA, Canadian NHPR, Australian TGA, Japanese FOSHU and FFC, and
+  the Codex Alimentarius floor. What this resource can say, because it has nothing
+  to sell.
+last_revised: July 2026
 layout: default
-title: What the Label Cannot Say
-description: "The bottle cannot tell you what the Cochrane review already says. A tour of the labeling regime that manufactures the phrase 'insufficient evidence for supplementation' by criminalizing the citation of the evidence that has, despite everything, been generated. DSHEA, EFSA, Canadian NHPR, Australian TGA, Japanese FOSHU and FFC, and the Codex Alimentarius floor. What this resource can say, because it has nothing to sell."
+related:
+- title: Rights-Based Medicine vs Evidence-Based Medicine
+  url: /definitions/rights-based-vs-evidence-based/
+- title: Calibrated for Nothing
+  url: /critique/calibrated-for-nothing/
+- title: A Litigation Brief for Physiological Rights
+  url: /definitions/a-litigation-brief/
+- title: 'John, 68: A Model Case'
+  url: /critique/john-68-a-model-case/
 status: published
-last_revised: "July 2026"
+title: What the Label Cannot Say
 ---
 
 # What the Label Cannot Say

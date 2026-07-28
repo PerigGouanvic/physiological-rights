@@ -1,9 +1,23 @@
 ---
+description: 'Auto-soin, in its full sense, is not a fallback the medical system can
+  refuse to acknowledge. It is codified in Alma-Ata, the WHO Self-Care Interventions
+  programme, the doctrine of informed consent, and the international right to health.
+  It is also the prerequisite of any coherent claim to physiological rights: a subject
+  whose intervention on their own body cannot be legitimated cannot be the bearer
+  of a right to have that body measured or restored.'
+last_revised: July 2026
 layout: default
-title: Self-Medication as a Codified Right
-description: "Auto-soin, in its full sense, is not a fallback the medical system can refuse to acknowledge. It is codified in Alma-Ata, the WHO Self-Care Interventions programme, the doctrine of informed consent, and the international right to health. It is also the prerequisite of any coherent claim to physiological rights: a subject whose intervention on their own body cannot be legitimated cannot be the bearer of a right to have that body measured or restored."
+related:
+- title: The Care of Self as Ground of the Physiological Right
+  url: /definitions/care-of-self-as-ground/
+- title: The Instruments Already Exist
+  url: /definitions/the-instruments-already-exist/
+- title: The Store That Sells the Right
+  url: /editorials/the-store-that-sells-the-right/
+- title: Physiological Rights
+  url: /definitions/physiological-rights/
 status: published
-last_revised: "July 2026"
+title: Self-Medication as a Codified Right
 ---
 
 # Self-Medication as a Codified Right

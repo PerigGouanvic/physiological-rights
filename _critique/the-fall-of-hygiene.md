@@ -1,9 +1,23 @@
 ---
+description: The word hygiene once named the daily specification of what a body needed
+  to remain whole, the regimen of what one took in and how one lived. In little more
+  than a century it came to designate only the interruption of contamination. The
+  reduction is measurable in ordinary language today, and it is one of the cleanest
+  examples of how a paradigm shift in medicine narrows what its inheritors can even
+  think.
+last_revised: July 2026
 layout: default
-title: "The Fall of Hygiene"
-description: "The word hygiene once named the daily specification of what a body needed to remain whole, the regimen of what one took in and how one lived. In little more than a century it came to designate only the interruption of contamination. The reduction is measurable in ordinary language today, and it is one of the cleanest examples of how a paradigm shift in medicine narrows what its inheritors can even think."
+related:
+- title: All Medicine Is Preventive
+  url: /definitions/all-medicine-is-preventive/
+- title: The Care of Self as Ground of the Physiological Right
+  url: /definitions/care-of-self-as-ground/
+- title: Practicing the Physiological Right in an Ordinary Life
+  url: /editorials/practicing-the-right-in-an-ordinary-life/
+- title: Self-Medication as a Codified Right
+  url: /definitions/self-medication-as-a-codified-right/
 status: published
-last_revised: "July 2026"
+title: The Fall of Hygiene
 ---
 
 # The Fall of Hygiene

@@ -1,12 +1,23 @@
 ---
-layout: default
-title: Right to Adequate Folate Levels
-name: Folate / folic acid (B9)
 category: vitamin
-description: "The right to adequate folate levels: access to testing and appropriate supplementation, with recognition of MTHFR polymorphisms that affect conversion of synthetic folic acid to the active form."
+description: 'The right to adequate folate levels: access to testing and appropriate
+  supplementation, with recognition of MTHFR polymorphisms that affect conversion
+  of synthetic folic acid to the active form.'
+last_revised: July 2026
+layout: default
+name: Folate / folic acid (B9)
+related:
+- title: Right to Optimal Thiamine (Vitamin B1) Status
+  url: /rights/thiamine-b1/
+- title: Right to Optimal Vitamin E Status (Full Spectrum)
+  url: /rights/vitamin-e/
+- title: Right to Optimal Riboflavin (Vitamin B2) Status
+  url: /rights/riboflavin-b2/
+- title: Right to Optimal Omega-3 Status (EPA/DHA)
+  url: /rights/omega-3/
+researchers: Patrick Stover · Joel Mason · Jacob Selhub · Lucy Wills
 status: published
-last_revised: "July 2026"
-researchers: "Patrick Stover · Joel Mason · Jacob Selhub · Lucy Wills"
+title: Right to Adequate Folate Levels
 ---
 
 # Right to Adequate Folate Levels

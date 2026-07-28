@@ -1,12 +1,27 @@
 ---
-layout: default
-title: Right to Adequate Muscle Mass
-name: Muscle Mass
 category: physiological parameter
-description: "The right to adequate muscle mass: access to measurement, to a threshold of function rather than a threshold of late geriatric pathology, and to the interventions that actually restore the tissue when it is depleted. Muscle mass is a measurable structural parameter with normative values for age and sex, with cascading consequences on metabolism, autonomy, and longevity, and yet it is measured almost nowhere in ordinary care."
+description: 'The right to adequate muscle mass: access to measurement, to a threshold
+  of function rather than a threshold of late geriatric pathology, and to the interventions
+  that actually restore the tissue when it is depleted. Muscle mass is a measurable
+  structural parameter with normative values for age and sex, with cascading consequences
+  on metabolism, autonomy, and longevity, and yet it is measured almost nowhere in
+  ordinary care.'
+last_revised: July 2026
+layout: default
+name: Muscle Mass
+related:
+- title: 'Sarcopenic Obesity: The Strength They Measure, the Mass They Miss'
+  url: /critique/strength-they-measure-mass-they-miss/
+- title: Right to Optimal Hormonal Levels
+  url: /rights/optimal-hormonal-levels/
+- title: Right to Adequate Coenzyme Q10
+  url: /rights/coenzyme-q10/
+- title: All Medicine Is Preventive
+  url: /definitions/all-medicine-is-preventive/
+researchers: Irwin H. Rosenberg · Alfonso J. Cruz-Jentoft · Richard N. Baumgartner
+  · Robert R. Wolfe · William J. Evans · Roger A. Fielding · Anne B. Newman
 status: published
-last_revised: "July 2026"
-researchers: "Irwin H. Rosenberg · Alfonso J. Cruz-Jentoft · Richard N. Baumgartner · Robert R. Wolfe · William J. Evans · Roger A. Fielding · Anne B. Newman"
+title: Right to Adequate Muscle Mass
 ---
 
 # Right to Adequate Muscle Mass

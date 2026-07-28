@@ -1,9 +1,22 @@
 ---
+description: A composite patient with an 'early Alzheimer's' diagnosis, and the six
+  parameters no consultation ordered. What the literature says about each in isolation,
+  what the composite trials suggest, what the correction produces, and the funding
+  architecture that arranges for the composite evidence to remain thin. A working
+  brief for jurists reading this resource.
+last_revised: July 2026
 layout: default
-title: "John, 68: A Model Case"
-description: "A composite patient with an 'early Alzheimer's' diagnosis, and the six parameters no consultation ordered. What the literature says about each in isolation, what the composite trials suggest, what the correction produces, and the funding architecture that arranges for the composite evidence to remain thin. A working brief for jurists reading this resource."
+related:
+- title: 'Ferritin 24: A Model Case'
+  url: /critique/ferritin-24-a-model-case/
+- title: The Hunger We Don't See
+  url: /critique/the-hunger-we-dont-see/
+- title: A Litigation Brief for Physiological Rights
+  url: /definitions/a-litigation-brief/
+- title: The Life We Call Normal
+  url: /editorials/the-life-we-call-normal/
 status: published
-last_revised: "July 2026"
+title: 'John, 68: A Model Case'
 ---
 
 # John, 68: A Model Case

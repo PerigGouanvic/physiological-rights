@@ -1,9 +1,22 @@
 ---
+description: A composite of shortfalls that most Western adults carry — and mistake
+  for the human condition. Why the fatigue, anxiety, poor sleep, brain fog, and slow
+  slippage we accept as ordinary life are the phenotypic expression of a nutritional
+  network in failure, and how the same underlying deficit expresses itself differently
+  in each person.
+last_revised: July 2026
 layout: default
-title: The Life We Call Normal
-description: "A composite of shortfalls that most Western adults carry — and mistake for the human condition. Why the fatigue, anxiety, poor sleep, brain fog, and slow slippage we accept as ordinary life are the phenotypic expression of a nutritional network in failure, and how the same underlying deficit expresses itself differently in each person."
+related:
+- title: The Hunger We Don't See
+  url: /critique/the-hunger-we-dont-see/
+- title: Behind Every Test, an Industry
+  url: /critique/behind-every-test-an-industry/
+- title: Right to Adequate Magnesium Levels
+  url: /rights/magnesium/
+- title: 'John, 68: A Model Case'
+  url: /critique/john-68-a-model-case/
 status: published
-last_revised: "July 2026"
+title: The Life We Call Normal
 ---
 
 # The Life We Call Normal

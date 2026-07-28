@@ -1,10 +1,24 @@
 ---
-layout: default
-title: "All Medicine Is Preventive"
-description: "Physiological rights address what medicine will not prevent. Modern hospitals have specialized in the prevention of one particular outcome, the death that arrives tonight, and have left the prevention of every other outcome without a physician. A treatise on how the emergency ward's practice of last resort names, without saying so, the paradigm this resource defends, and on the extension of that practice to the decades that precede the emergency."
-status: published
-last_revised: "July 2026"
+description: Physiological rights address what medicine will not prevent. Modern hospitals
+  have specialized in the prevention of one particular outcome, the death that arrives
+  tonight, and have left the prevention of every other outcome without a physician.
+  A treatise on how the emergency ward's practice of last resort names, without saying
+  so, the paradigm this resource defends, and on the extension of that practice to
+  the decades that precede the emergency.
 featured: true
+last_revised: July 2026
+layout: default
+related:
+- title: Right to Optimal Hormonal Levels
+  url: /rights/optimal-hormonal-levels/
+- title: Calibrated for Nothing
+  url: /critique/calibrated-for-nothing/
+- title: Two Doses, One Molecule
+  url: /critique/two-doses-one-molecule/
+- title: No One Is Coming
+  url: /editorials/no-one-is-coming/
+status: published
+title: All Medicine Is Preventive
 ---
 
 # All Medicine Is Preventive

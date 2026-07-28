@@ -1,9 +1,23 @@
 ---
+description: Why the medical system measures the nutrients it measures. Behind every
+  routinely ordered nutrient test — and behind every routinely fortified nutrient
+  — stands a food industry aligned with that specific molecule. Industries do not
+  invent biological priorities ex nihilo; they select, among genuine ones, those that
+  align with their products, and amplify their cultural, institutional, and diagnostic
+  centrality — while allowing others to remain invisible.
+last_revised: July 2026
 layout: default
-title: Behind Every Test, an Industry
-description: "Why the medical system measures the nutrients it measures. Behind every routinely ordered nutrient test — and behind every routinely fortified nutrient — stands a food industry aligned with that specific molecule. Industries do not invent biological priorities ex nihilo; they select, among genuine ones, those that align with their products, and amplify their cultural, institutional, and diagnostic centrality — while allowing others to remain invisible."
+related:
+- title: The Hunger We Don't See
+  url: /critique/the-hunger-we-dont-see/
+- title: The Ferritin Threshold
+  url: /editorials/the-ferritin-threshold/
+- title: The Life We Call Normal
+  url: /editorials/the-life-we-call-normal/
+- title: Right to Adequate Iron Status
+  url: /rights/iron/
 status: published
-last_revised: "July 2026"
+title: Behind Every Test, an Industry
 ---
 
 # Behind Every Test, an Industry

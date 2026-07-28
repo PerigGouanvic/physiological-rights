@@ -1,10 +1,22 @@
 ---
-layout: default
-title: You Are Not the Exception
-description: "The reader who reads these pieces about deficiency and does not, quite, count themselves in. The arithmetic that punches through 'I feel fine.' The ethical difference between diagnosing a named individual and publishing the prior probability that applies to any reader who belongs to the population described."
-status: published
-last_revised: "July 2026"
+description: The reader who reads these pieces about deficiency and does not, quite,
+  count themselves in. The arithmetic that punches through 'I feel fine.' The ethical
+  difference between diagnosing a named individual and publishing the prior probability
+  that applies to any reader who belongs to the population described.
 featured: true
+last_revised: July 2026
+layout: default
+related:
+- title: The Life We Call Normal
+  url: /editorials/the-life-we-call-normal/
+- title: The Hunger We Don't See
+  url: /critique/the-hunger-we-dont-see/
+- title: The Ferritin Threshold
+  url: /editorials/the-ferritin-threshold/
+- title: 'John, 68: A Model Case'
+  url: /critique/john-68-a-model-case/
+status: published
+title: You Are Not the Exception
 ---
 
 # You Are Not the Exception

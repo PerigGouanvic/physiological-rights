@@ -1,12 +1,23 @@
 ---
-layout: default
-title: Right to Optimal Riboflavin (Vitamin B2) Status
-name: Vitamin B2 (riboflavin)
 category: vitamin
-description: "The right to an optimal riboflavin status: recognition of widespread subclinical deficiency and its role in mitochondrial function, FAD/FMN cofactor production, and MTHFR enzyme activity."
+description: 'The right to an optimal riboflavin status: recognition of widespread
+  subclinical deficiency and its role in mitochondrial function, FAD/FMN cofactor
+  production, and MTHFR enzyme activity.'
+last_revised: July 2026
+layout: default
+name: Vitamin B2 (riboflavin)
+related:
+- title: Right to Adequate Folate Levels
+  url: /rights/folate/
+- title: Right to Optimal Thiamine (Vitamin B1) Status
+  url: /rights/thiamine-b1/
+- title: Right to Optimal Vitamin E Status (Full Spectrum)
+  url: /rights/vitamin-e/
+- title: Right to Optimal Omega-3 Status (EPA/DHA)
+  url: /rights/omega-3/
+researchers: Helene McNulty · Kathleen Sheridan · Anne Molloy · Chandler Marrs
 status: published
-last_revised: "July 2026"
-researchers: "Helene McNulty · Kathleen Sheridan · Anne Molloy · Chandler Marrs"
+title: Right to Optimal Riboflavin (Vitamin B2) Status
 ---
 
 # Vitamin B2 (riboflavin): the mirage of safety

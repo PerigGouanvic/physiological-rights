@@ -1,9 +1,24 @@
 ---
+description: How evidence-based medicine tested two patented molecules and proudly
+  buried a physiology. The Women's Health Initiative is taught as the founding refutation
+  of hormone replacement, the case that disciplined biology with evidence. What it
+  actually administered was Premarin, a horse-urine extract, and Provera, a patented
+  synthetic progestin. Neither is what the ovary produces. Neither is what any physiological
+  hypothesis of replacement was proposing. The exemplar refuted a scarecrow made of
+  patents, and generations of women paid for the confusion.
+last_revised: July 2026
 layout: default
-title: The Blunder They Called a Refutation
-description: "How evidence-based medicine tested two patented molecules and proudly buried a physiology. The Women's Health Initiative is taught as the founding refutation of hormone replacement, the case that disciplined biology with evidence. What it actually administered was Premarin, a horse-urine extract, and Provera, a patented synthetic progestin. Neither is what the ovary produces. Neither is what any physiological hypothesis of replacement was proposing. The exemplar refuted a scarecrow made of patents, and generations of women paid for the confusion."
+related:
+- title: Right to Optimal Hormonal Levels
+  url: /rights/optimal-hormonal-levels/
+- title: All Medicine Is Preventive
+  url: /definitions/all-medicine-is-preventive/
+- title: Rights-Based Medicine vs Evidence-Based Medicine
+  url: /definitions/rights-based-vs-evidence-based/
+- title: 'John, 68: A Model Case'
+  url: /critique/john-68-a-model-case/
 status: published
-last_revised: "July 2026"
+title: The Blunder They Called a Refutation
 ---
 
 # The Blunder They Called a Refutation

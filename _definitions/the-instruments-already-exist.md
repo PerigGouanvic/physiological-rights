@@ -1,9 +1,22 @@
 ---
+description: 'Physiological rights within the WHO Constitution, the ICESCR, and their
+  General Comments. A legal reader''s entry point. Two precedents of operationalisation
+  from international health and humanitarian law: antiretrovirals for HIV and nutritional
+  thresholds in emergency response. The doctrinal work required is not the invention
+  of new rights but the extension of instruments that were written to be extended.'
+last_revised: July 2026
 layout: default
-title: The Instruments Already Exist
-description: "Physiological rights within the WHO Constitution, the ICESCR, and their General Comments. A legal reader's entry point. Two precedents of operationalisation from international health and humanitarian law: antiretrovirals for HIV and nutritional thresholds in emergency response. The doctrinal work required is not the invention of new rights but the extension of instruments that were written to be extended."
+related:
+- title: Physiological Rights
+  url: /definitions/physiological-rights/
+- title: A Litigation Brief for Physiological Rights
+  url: /definitions/a-litigation-brief/
+- title: Deficiency as a Rights Violation
+  url: /editorials/deficiency-as-rights-violation/
+- title: Why Physiological Rights Go Beyond the Right to Food
+  url: /definitions/beyond-right-to-food/
 status: published
-last_revised: "July 2026"
+title: The Instruments Already Exist
 ---
 
 # The Instruments Already Exist

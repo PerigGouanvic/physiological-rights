@@ -1,9 +1,21 @@
 ---
+description: The diagnosis is not tragic. The gravity it installs around the person
+  who receives it is. The question that would open the compensatory investigation
+  stops being asked. What physiological rights owes the diagnosed, and why the right
+  becomes more urgent, not less, once the label is applied.
+last_revised: July 2026
 layout: default
-title: "The Tragedy of Diagnosis"
-description: "The diagnosis is not tragic. The gravity it installs around the person who receives it is. The question that would open the compensatory investigation stops being asked. What physiological rights owes the diagnosed, and why the right becomes more urgent, not less, once the label is applied."
+related:
+- title: 'John, 68: A Model Case'
+  url: /critique/john-68-a-model-case/
+- title: 'Ferritin 24: A Model Case'
+  url: /critique/ferritin-24-a-model-case/
+- title: No One Is Coming
+  url: /editorials/no-one-is-coming/
+- title: Right to Optimal Hormonal Levels
+  url: /rights/optimal-hormonal-levels/
 status: published
-last_revised: "July 2026"
+title: The Tragedy of Diagnosis
 ---
 
 # The Tragedy of Diagnosis

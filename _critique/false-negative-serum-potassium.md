@@ -1,9 +1,20 @@
 ---
+description: Chronic tissue potassium depletion masked by a homeostatically defended
+  serum value — analysis of a diagnostic tool used against its own physiology under
+  the physiological rights framework.
+last_revised: July 2026
 layout: default
-title: "The False Negative: Serum Potassium and the Compartment It Cannot See"
-description: "Chronic tissue potassium depletion masked by a homeostatically defended serum value — analysis of a diagnostic tool used against its own physiology under the physiological rights framework."
+related:
+- title: Right to Adequate Potassium Status
+  url: /rights/potassium/
+- title: The Hunger We Don't See
+  url: /critique/the-hunger-we-dont-see/
+- title: The Life We Call Normal
+  url: /editorials/the-life-we-call-normal/
+- title: Two Doses, One Molecule
+  url: /critique/two-doses-one-molecule/
 status: published
-last_revised: "July 2026"
+title: 'The False Negative: Serum Potassium and the Compartment It Cannot See'
 ---
 
 # The False Negative: Serum Potassium and the Compartment It Cannot See
