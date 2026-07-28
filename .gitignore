@@ -10,6 +10,7 @@ scripts/__pycache__/
 kb/db/
 kb/sources/
 kb/logs/
+kb/reddit/
 kb/.venv/
 kb/**/__pycache__/
 kb/**/*.pyc
