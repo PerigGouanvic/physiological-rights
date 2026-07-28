@@ -317,7 +317,7 @@ _Notes :_
 
 ### 23. Aucune image Open Graph configurée
 
-Verdict : [ ] OK  [ ] Plus tard  [ ] Non  [x] À discuter  [ ] Déjà fait
+Verdict : [x] OK  [ ] Plus tard  [ ] Non  [ ] À discuter  [ ] Déjà fait
 
 - **Lieu :** transversal ; `_config.yml`, `_includes/head.html` (s'il existe).
 - **Nature :** `jekyll-seo-tag` est installé et les `description` par page sont présentes, mais il n'y a pas de frontmatter `image` ni de défaut OG au niveau du site. Les aperçus sociaux tomberont sur des cartes texte simples. La charte (§3, item 19) demande si c'est un choix conscient.
@@ -325,7 +325,7 @@ Verdict : [ ] OK  [ ] Plus tard  [ ] Non  [x] À discuter  [ ] Déjà fait
 - **Priorité :** basse
 - **Dépend de :** —
 
-_Notes :_ À trancher : est-ce que la ressource veut se présenter via un aperçu graphique sur les réseaux sociaux, ou est-ce que la carte texte convient à la posture éditoriale ? Si carte visuelle : je peux générer une carte typographique par défaut au nom de la ressource.
+_Notes :_ Carte typographique par défaut générée : `assets/og-default.png` (1200×630, Cormorant Garamond, palette du site). Devise « What physiological integrity requires. » retenue au lieu de « the right to food » parce que le corpus déborde du droit à l'alimentation stricto sensu. Câblée site-wide dans `_config.yml` via la clé `image:` que `jekyll-seo-tag` prend comme défaut ; peut être surchargée par page via le frontmatter.
 
 ### 24. La déclaration d'accessibilité est vide
 

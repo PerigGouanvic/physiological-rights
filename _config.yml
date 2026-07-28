@@ -3,6 +3,7 @@ description: "A justiciable rights-based approach to health — recognizing ever
 baseurl: ""
 url: "https://physiological-rights.org"
 lang: en
+image: /assets/og-default.png
 
 markdown: kramdown
 kramdown:
