@@ -321,15 +321,38 @@ var mobSidebar = document.getElementById('mob-sidebar');
 var mobOverlay = document.getElementById('mob-sidebar-overlay');
 var mobCloseBtn = document.getElementById('mob-sidebar-close');
 
+function setFabMode(mode) {
+    if (!mobFab) return;
+    if (mode === 'top') {
+        mobFab.textContent = '↑';
+        mobFab.setAttribute('aria-label', 'Back to top');
+    } else {
+        mobFab.textContent = '§';
+        mobFab.setAttribute('aria-label', 'Page information');
+    }
+}
+
+function openMobSidebar() {
+    if (!mobSidebar) return;
+    mobSidebar.classList.add('open');
+    document.body.style.overflow = 'hidden';
+    setFabMode('top');
+}
+
 function closeMobSidebar() {
     if (mobSidebar) mobSidebar.classList.remove('open');
     document.body.style.overflow = '';
+    setFabMode('section');
 }
 
 if (mobFab && mobSidebar) {
     mobFab.addEventListener('click', function() {
-        mobSidebar.classList.add('open');
-        document.body.style.overflow = 'hidden';
+        if (mobSidebar.classList.contains('open')) {
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+            closeMobSidebar();
+        } else {
+            openMobSidebar();
+        }
     });
 }
 if (mobOverlay) mobOverlay.addEventListener('click', closeMobSidebar);

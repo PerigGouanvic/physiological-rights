@@ -798,7 +798,7 @@ footer {
     cursor: pointer;
     font-size: 1.3rem;
     font-family: var(--serif);
-    z-index: 400;
+    z-index: 403;
     align-items: center;
     justify-content: center;
     box-shadow: 0 2px 16px rgba(28,26,22,0.3);
