@@ -109,7 +109,7 @@ _Notes :_
 
 ### 7. Deux pages `_legal/` sont des stubs
 
-Verdict : [ ] OK  [ ] Plus tard  [ ] Non  [x] À discuter  [ ] Déjà fait
+Verdict : [x] OK (mention légale)  [x] Plus tard (accessibilité, voir #24)  [ ] Non  [ ] À discuter  [ ] Déjà fait
 
 - **Lieu :** `_legal/legal-notice.md`, `_legal/accessibility.md`.
 - **Nature :** Les deux fichiers existent sans frontmatter `status` et ne contiennent qu'un texte de remplacement. Une ressource qui argumente pour un cadre fondé sur les droits et qui se présente sur la force de sa propre conformité déclarative ne devrait pas tourner avec une mention légale vide et une déclaration d'accessibilité vide.
@@ -117,7 +117,7 @@ Verdict : [ ] OK  [ ] Plus tard  [ ] Non  [x] À discuter  [ ] Déjà fait
 - **Priorité :** moyenne (mention légale), basse (accessibilité, si la ressource reste un travail de bénévolat mono-auteur)
 - **Dépend de :** —
 
-_Notes :_ En attente de tes choix éditeur/hébergeur/licence pour la mention légale ; l'accessibilité demande une vraie passe (WAVE, axe, navigation clavier) avant peuplement (voir #24).
+_Notes :_ Mention légale peuplée : éditeur Perig Gouanvic en clair (à réviser plus tard s'il y a lieu), email `perig.gouanvic@gmail.com` direct (pas encore de redirection sur domaine perso), hébergeur GitHub Pages, licence CC BY-SA 4.0, déclaration d'indépendance de financement, juridiction Québec. L'accessibilité reste à peupler après la passe technique de #24.
 
 ### 8. `_critique/practical-illustrations.md` est un stub `status: draft`
 
