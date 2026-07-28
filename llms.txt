@@ -72,10 +72,12 @@ Documented cases illustrating how physiological rights violations manifest in cl
 Position pieces on the ethical and epistemological dimensions of physiological rights.
 
 {% for item in site.editorials %}
+{% unless item.hidden %}
 ### [{{ item.title }}]({{ item.url | absolute_url }})
 {% if item.status %}- **Status:** {{ item.status | capitalize }}{% if item.last_revised %} (last revised {{ item.last_revised }}){% endif %}{% endif %}
 {% if item.description %}- {{ item.description }}{% endif %}
 
+{% endunless %}
 {% endfor %}
 
 ---

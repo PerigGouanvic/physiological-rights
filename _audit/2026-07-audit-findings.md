@@ -211,7 +211,7 @@ _Notes :_
 
 ### 15. Vieux `_editorials/` encore calibrés pour le lecteur généraliste d'avant le pivot
 
-Verdict : [ ] OK  [x] Plus tard  [ ] Non  [ ] À discuter  [ ] Déjà fait
+Verdict : [x] OK (partiel, voir Notes)  [ ] Plus tard  [ ] Non  [ ] À discuter  [ ] Déjà fait
 
 - **Lieu :** `_editorials/deficiency-as-rights-violation.md`, `_editorials/the-invisible-medical-emergency.md`, `_editorials/ethical-limits-of-rcts.md`, `_editorials/proposed-reforms.md` (tous `last_revised: April 2025`).
 - **Nature :** Ces pièces précèdent le pivot du 20 juillet 2026 vers un lectorat juriste (mémoire `project_pivot_jurist_audience.md`). Leur registre est militant-généraliste plutôt que juriste-orienté ; par exemple, `deficiency-as-rights-violation.md` ouvre sur l'assertion que « human rights are … absolute » sans qualification, ce qu'un lecteur juriste va rejeter avant de continuer sa lecture. La charte est claire : ne pas récrire pendant l'audit ; le constat est qu'il faut des pièces-ponts ou une reprise en session dédiée.
@@ -219,11 +219,11 @@ Verdict : [ ] OK  [x] Plus tard  [ ] Non  [ ] À discuter  [ ] Déjà fait
 - **Priorité :** moyenne
 - **Dépend de :** —
 
-_Notes :_
+_Notes :_ Session 2026-07-27. Traitement en trois temps. (a) `deficiency-as-rights-violation.md` réécrit contre GC14 §43 (voir #16). (b) `proposed-reforms.md` caché (`status: draft`, `hidden: true`, `search_exclude: true`) : programme normatif sans doctrine, `a-litigation-brief.md` fait le même travail proprement. Filtres `hidden` ajoutés à `editorials/index.md` et `llms.txt`. (c) `the-invisible-medical-emergency.md` et `ethical-limits-of-rcts.md` restent à raccrocher aux instruments (GC14 §43 + Alma-Ata pour l'un ; Nuremberg + Helsinki §33 + principe de précaution TFUE art. 191 pour l'autre) ; laissés en l'état, à reprendre en session dédiée.
 
 ### 16. `deficiency-as-rights-violation.md` : cadrage absolutiste qui va se faire rejeter par un juriste
 
-Verdict : [ ] OK  [x] Plus tard  [ ] Non  [ ] À discuter  [ ] Déjà fait
+Verdict : [x] OK  [ ] Plus tard  [ ] Non  [ ] À discuter  [ ] Déjà fait
 
 - **Lieu :** `_editorials/deficiency-as-rights-violation.md` (section d'ouverture).
 - **Nature :** La pièce affirme que les droits humains sont absolus dans un registre qu'un lecteur juriste formé au droit ECHR / ICCPR / ICESCR va traiter comme inexact pour les droits socio-économiques (qui sont de réalisation progressive, sous condition de moyens maximums disponibles selon l'article 2 ICESCR). Ce cadrage active la méfiance juriste dès la porte d'entrée.
@@ -231,7 +231,7 @@ Verdict : [ ] OK  [x] Plus tard  [ ] Non  [ ] À discuter  [ ] Déjà fait
 - **Priorité :** moyenne
 - **Dépend de :** 15
 
-_Notes :_
+_Notes :_ Session 2026-07-27. Réécrit contre GC14 §43 (core obligations), ICESCR art. 2 (réalisation progressive nommée explicitement), obligation de moyens vs obligation de résultats. Ouverture absolutiste retirée. Cross-links ajoutés vers `calibrated-for-nothing`, `false-negative-serum-potassium`, `the-instruments-already-exist`, `a-litigation-brief`. Reformulation « refuses to provide » remplacée par « architectural blindness of the standard of care ».
 
 ## Glissements association → causation (Charte §3, item 15)
 

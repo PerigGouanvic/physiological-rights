@@ -2,7 +2,9 @@
 layout: default
 title: Proposed Reforms
 description: "Systemic reforms proposed for the recognition of physiological rights: legal integration, universal access to physiological testing, reimbursement of supplements, and training of health professionals."
-status: published
+status: draft
+hidden: true
+search_exclude: true
 last_revised: "April 2025"
 ---
 
