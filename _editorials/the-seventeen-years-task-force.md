@@ -1,6 +1,7 @@
 ---
 description: An uchronia of physiological medicine, following three small hinges through
   the institutions we did not build.
+genre: Perspective
 last_revised: July 2026
 layout: default
 related:

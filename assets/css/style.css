@@ -555,6 +555,20 @@ header {
 .content sup a { color: var(--accent); text-decoration: none; }
 .content sup a:hover { text-decoration: underline; }
 
+.content .page-genre {
+  font-family: var(--serif);
+  font-style: italic;
+  font-weight: 400;
+  font-size: 0.85rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin: 0 0 2.5rem;
+  padding: 0;
+  border-bottom: 1px solid var(--rule);
+  padding-bottom: 0.75rem;
+}
+
 .content .footnotes {
   margin-top: 3rem;
   padding-top: 2rem;

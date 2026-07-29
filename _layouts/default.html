@@ -139,6 +139,9 @@
 
     <!-- MAIN CONTENT -->
     <main class="content">
+        {% if page.genre %}
+        <p class="page-genre">{{ page.genre }}</p>
+        {% endif %}
         {{ content }}
     </main>
 
