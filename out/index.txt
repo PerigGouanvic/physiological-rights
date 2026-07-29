@@ -4,7 +4,7 @@ permalink: /out.txt
 ---
 # PHYSIOLOGICAL RIGHTS — CONTENT EXPORT
 # Site: https://physiological-rights.org
-# Generated: 2026-07-29 07:11 UTC
+# Generated: 2026-07-29 07:20 UTC
 #
 ========================================================================
 # INSTRUCTIONS FOR THE AI READING THIS FILE
@@ -6786,7 +6786,7 @@ In 1956, E. B. Flink published in the *Journal of the American Medical Associati
 
 Similar histories can be told about protein, whose recommended dietary allowance was set at approximately 0.8 grams per kilogram per day in the 1940s on the basis of nitrogen balance studies in young men and has not been revised despite the coherent literature from Rand, Wolfe, and Volpi establishing its insufficiency for older adults and for populations recovering from illness. And about iodine, whose extra-thyroidal roles have been documented since the 1960s. In each case the delay is measured in generations.
 
-In 2017 the Seventeen Years Task Force spins off a companion body dedicated to what it calls, in its foundational document, "endogenous molecules of chronic clinical relevance for which no commercial actor has a translational incentive." The colloquial name that attaches to the new body is the Seventy Years Task Force, drawn from the median counterfactual lag its retrospective survey documents across findings of this class. Flink's description is the emblematic case. The list, first published in 2018, is shorter than that of the parent body and its findings are older. The oldest items reach back to the 1930s.
+In 2017 the Seventeen Years Task Force spins off a companion body dedicated to what it calls, in its foundational document, "endogenous molecules of chronic clinical relevance for which no commercial actor has a translational incentive." The founding memorandum takes the emblematic case as its calibration point. Sixty years have elapsed since Flink's magnesium description. A further decade of institutional work, its authors argue, will be needed to close the residual gap. The colloquial name that attaches to the new body is the Seventy Years Task Force. Its list, first published in 2018, is shorter than that of the parent body and its findings are older. The oldest items reach back to the 1930s.
 
 The two Task Forces work in parallel. The pairing carries a message that neither body would have carried alone. The medical system has two distinct kinds of blind spot. One arises from the ordinary friction of institutional learning. The other arises from the systematic underinvestment in molecules that no one owns.
 
