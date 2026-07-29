@@ -117,7 +117,7 @@ Consider a person who reduces carbohydrate intake to address suspected insulin r
 
 Without insulin measurement, none of these three groups can distinguish itself. A person who plateaus after modest initial weight loss cannot know whether the intervention needs to be intensified, whether a longer time horizon is required, or whether an entirely different lever should be pulled. The instrument that would tell them is the fasting insulin, the HOMA-IR, or the post-meal insulin dynamic. They do not have it.
 
-The clinical consequence, played out at population scale, is a systematic misattribution of intervention failure to willpower. A person who abandons a low-carbohydrate regimen at a plateau is not evidencing a lack of discipline. They are responding rationally to an instrument that gives no signal. The gouvernail is missing. See *[The Invisible Medical Emergency](/editorials/the-invisible-medical-emergency/)* on the parallel structural neglect of chronic subclinical derangements.
+The clinical consequence, played out at population scale, is a systematic misattribution of intervention failure to willpower. A person who abandons a low-carbohydrate regimen at a plateau is not evidencing a lack of discipline. They are responding rationally to an instrument that gives no signal. The compass is missing. See *[The Invisible Medical Emergency](/editorials/the-invisible-medical-emergency/)* on the parallel structural neglect of chronic subclinical derangements.
 
 ---
 
