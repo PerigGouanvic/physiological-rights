@@ -26,6 +26,7 @@ title: Right to Measure Insulin
 
 > *"Those with cardiovascular disease not identified with diabetes are simply undiagnosed."*
 > — Joseph R. Kraft, *Diabetes Epidemic and You*, 2008
+{: translate="no" class="notranslate"}
 
 ---
 
