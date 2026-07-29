@@ -10,10 +10,10 @@ layout: default
 related:
 - title: Right to Adequate Muscle Mass
   url: /rights/muscle-mass/
-- title: Calibrated for Nothing
-  url: /critique/calibrated-for-nothing/
 - title: Right to Optimal Hormonal Levels
   url: /rights/optimal-hormonal-levels/
+- title: Calibrated for Nothing
+  url: /critique/calibrated-for-nothing/
 - title: Right to Adequate Coenzyme Q10
   url: /rights/coenzyme-q10/
 status: published

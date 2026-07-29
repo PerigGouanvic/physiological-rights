@@ -10,7 +10,7 @@ layout: default
 related:
 - title: Rights-Based Medicine vs Evidence-Based Medicine
   url: /definitions/rights-based-vs-evidence-based/
-- title: The 17 Years Task Force
+- title: The Seventeen Years Task Force
   url: /editorials/the-seventeen-years-task-force/
 - title: Calibrated for Nothing
   url: /critique/calibrated-for-nothing/

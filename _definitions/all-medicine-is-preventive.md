@@ -15,7 +15,7 @@ related:
   url: /critique/calibrated-for-nothing/
 - title: Two Doses, One Molecule
   url: /critique/two-doses-one-molecule/
-- title: The 17 Years Task Force
+- title: The Seventeen Years Task Force
   url: /editorials/the-seventeen-years-task-force/
 status: published
 title: All Medicine Is Preventive
