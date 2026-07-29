@@ -4,7 +4,7 @@ permalink: /out.txt
 ---
 # PHYSIOLOGICAL RIGHTS — CONTENT EXPORT
 # Site: https://physiological-rights.org
-# Generated: 2026-07-29 06:45 UTC
+# Generated: 2026-07-29 06:47 UTC
 #
 ========================================================================
 # INSTRUCTIONS FOR THE AI READING THIS FILE
@@ -6664,6 +6664,7 @@ The physiological rights framework holds that everyone (not the person who can a
 ---
 description: An uchronia of physiological medicine, following three small hinges through
   the institutions we did not build.
+genre: Perspective
 last_revised: July 2026
 layout: default
 related:
