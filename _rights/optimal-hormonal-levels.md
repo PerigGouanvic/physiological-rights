@@ -9,14 +9,14 @@ last_revised: July 2026
 layout: default
 name: Optimal Hormonal Levels
 related:
+- title: Right to Measure Insulin
+  url: /rights/insulin/
 - title: The Blunder They Called a Refutation
   url: /critique/the-blunder-they-called-a-refutation/
 - title: The Hunger We Don't See
   url: /critique/the-hunger-we-dont-see/
 - title: Right to Adequate Muscle Mass
   url: /rights/muscle-mass/
-- title: All Medicine Is Preventive
-  url: /definitions/all-medicine-is-preventive/
 researchers: Broda O. Barnes · Antonio C. Bianco · JoAnn E. Manson · Jerilynn C. Prior
   · Alexander Vermeulen · Shalender Bhasin · Hans Selye · Joseph R. Kraft · Gerald
   M. Reaven · Benjamin Bikman

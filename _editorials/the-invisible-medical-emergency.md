@@ -6,10 +6,10 @@ layout: default
 related:
 - title: Deficiency as a Rights Violation
   url: /editorials/deficiency-as-rights-violation/
-- title: The Instruments Already Exist
-  url: /definitions/the-instruments-already-exist/
 - title: Physiological Rights
   url: /definitions/physiological-rights/
+- title: The Instruments Already Exist
+  url: /definitions/the-instruments-already-exist/
 - title: The Ethical Limits of Randomised Controlled Trials
   url: /editorials/ethical-limits-of-rcts/
 status: published

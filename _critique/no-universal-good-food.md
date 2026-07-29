@@ -9,10 +9,10 @@ related:
   url: /critique/limits-of-healthy-eating/
 - title: Why Physiological Rights Go Beyond the Right to Food
   url: /definitions/beyond-right-to-food/
+- title: Behind Every Test, an Industry
+  url: /critique/behind-every-test-an-industry/
 - title: The Life We Call Normal
   url: /editorials/the-life-we-call-normal/
-- title: The Ambiguities of "Balanced Diet"
-  url: /critique/balanced-diet-ambiguities/
 status: published
 title: Why There Is No Universally Good Food
 ---
