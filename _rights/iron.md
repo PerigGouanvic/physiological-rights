@@ -11,10 +11,10 @@ name: Iron
 related:
 - title: The Ferritin Threshold
   url: /editorials/the-ferritin-threshold/
-- title: 'Ferritin 24: A Model Case'
-  url: /critique/ferritin-24-a-model-case/
 - title: Behind Every Test, an Industry
   url: /critique/behind-every-test-an-industry/
+- title: 'Ferritin 24: A Model Case'
+  url: /critique/ferritin-24-a-model-case/
 - title: The Life We Call Normal
   url: /editorials/the-life-we-call-normal/
 researchers: Michael Auerbach · Sant-Rayn Pasricha · Clara Camaschella · Tomas Ganz
