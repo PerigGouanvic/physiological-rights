@@ -119,7 +119,7 @@ Independent reviews show on the contrary that modern deficiency is widely undere
 
 ## Benfotiamine and its cousins: the derivatives with the trial base
 
-Thiamine hydrochloride, the standard supplement form, is water-soluble. Its intestinal absorption is saturated by a low-affinity transporter that plateaus at around 5 mg per single oral dose in adults. Higher intakes are excreted in the urine within hours. This ceiling has been the practical bottleneck for anyone attempting to raise tissue thiamine substantially, and it is the reason lipid-soluble thiamine derivatives were developed.
+Thiamine hydrochloride, the standard supplement form, is water-soluble. It is absorbed by two intestinal mechanisms: a high-affinity carrier system (the SLC19A2 and SLC19A3 transporters) that saturates at around 5 mg per single oral dose, and a passive diffusion pathway that continues to admit thiamine at higher intraluminal concentrations but at a much lower percentage efficiency. The historical high-dose oral protocols developed by Lonsdale and taken up by Costantini and Overton, in the 100 to 1500 mg per day range, exploit the passive route: a small fraction of a large dose still delivers useful amounts of thiamine to the circulation and to the tissues that need it. The lipid-soluble derivatives were developed as an alternative route to the same end. They bypass the carrier system entirely and deliver substantially more intracellular thiamine per milligram administered, at more moderate oral doses.
 
 ### Benfotiamine: chemistry and mechanism
 
