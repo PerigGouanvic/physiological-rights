@@ -4,7 +4,7 @@ permalink: /out.txt
 ---
 # PHYSIOLOGICAL RIGHTS — CONTENT EXPORT
 # Site: https://physiological-rights.org
-# Generated: 2026-07-29 19:47 UTC
+# Generated: 2026-07-29 20:08 UTC
 #
 ========================================================================
 # INSTRUCTIONS FOR THE AI READING THIS FILE
@@ -5892,9 +5892,9 @@ Each of these depletions is invisible on the ordinary blood panel. Each of them 
 
 The involuntary famine of 1944-45 was studied in a laboratory for six months with a defined intake, a defined subject population, and a defined outcome measurement. It produced a two-volume monograph. Its findings entered the clinical literature as a permanent reference.
 
-The voluntary famine of the last sixty years has been running in tens of millions of homes for decades at a stretch, at variable intake and heterogeneous composition, without a control arm, without an outcome measurement beyond the number on the bathroom scale, and without a monograph. The population that lives inside it is largely unaware that it is the subject of an experiment, because the framing of restriction as self-improvement has evacuated the vocabulary of harm from the discussion.
+The voluntary famines of the last sixty years have been running in tens of millions of homes for decades at a stretch, at variable intake and heterogeneous composition, without a control arm, without an outcome measurement beyond the number on the bathroom scale, and without a monograph. The population that lives inside them is largely unaware that it is the subject of an experiment, because the framing of restriction as self-improvement has evacuated the vocabulary of harm from the discussion.
 
-The voluntary famine is not a famine in the political sense. No one is dying of it acutely. But the fatigue, the cognitive fog, the palpitations, the hair loss, the amenorrhea in the young woman on a strict low-carb protocol, the temperature dysregulation, the sleep collapse, the plateau that resists every subsequent intervention, are the same categories of finding that Keys catalogued in 1950. They have been renamed. They have not been eliminated.
+The voluntary famines are not famines in the political sense. No one is dying of them acutely. But the fatigue, the cognitive fog, the palpitations, the hair loss, the amenorrhea in the young woman on a strict low-carb protocol, the temperature dysregulation, the sleep collapse, the plateau that resists every subsequent intervention, are the same categories of finding that Keys catalogued in 1950. They have been renamed. They have not been eliminated.
 
 ## Restriction with a framework, restriction without one
 
