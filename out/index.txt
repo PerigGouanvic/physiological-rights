@@ -4,7 +4,7 @@ permalink: /out.txt
 ---
 # PHYSIOLOGICAL RIGHTS — CONTENT EXPORT
 # Site: https://physiological-rights.org
-# Generated: 2026-07-29 07:20 UTC
+# Generated: 2026-07-29 07:25 UTC
 #
 ========================================================================
 # INSTRUCTIONS FOR THE AI READING THIS FILE
@@ -975,8 +975,8 @@ name: Insulin
 related:
 - title: Right to Optimal Hormonal Levels
   url: /rights/optimal-hormonal-levels/
-- title: The Seventeen Years Task Force
-  url: /editorials/the-seventeen-years-task-force/
+- title: The Seventy Years Task Force
+  url: /editorials/the-seventy-years-task-force/
 - title: The Hunger We Don't See
   url: /critique/the-hunger-we-dont-see/
 - title: All Medicine Is Preventive
@@ -1445,8 +1445,8 @@ related:
   url: /editorials/the-life-we-call-normal/
 - title: The Hunger We Don't See
   url: /critique/the-hunger-we-dont-see/
-- title: The Seventeen Years Task Force
-  url: /editorials/the-seventeen-years-task-force/
+- title: The Seventy Years Task Force
+  url: /editorials/the-seventy-years-task-force/
 - title: The Ambiguities of "Balanced Diet"
   url: /critique/balanced-diet-ambiguities/
 researchers: Jean Durlach · Mildred Seelig · James J. DiNicolantonio · Carolyn Dean
@@ -3737,8 +3737,8 @@ related:
   url: /critique/calibrated-for-nothing/
 - title: Two Doses, One Molecule
   url: /critique/two-doses-one-molecule/
-- title: The Seventeen Years Task Force
-  url: /editorials/the-seventeen-years-task-force/
+- title: The Seventy Years Task Force
+  url: /editorials/the-seventy-years-task-force/
 status: published
 title: All Medicine Is Preventive
 ---
@@ -5478,8 +5478,8 @@ related:
   url: /definitions/all-medicine-is-preventive/
 - title: Rights-Based Medicine vs Evidence-Based Medicine
   url: /definitions/rights-based-vs-evidence-based/
-- title: The Seventeen Years Task Force
-  url: /editorials/the-seventeen-years-task-force/
+- title: The Seventy Years Task Force
+  url: /editorials/the-seventy-years-task-force/
 status: published
 title: The Blunder They Called a Refutation
 ---
@@ -5897,8 +5897,8 @@ layout: default
 related:
 - title: Rights-Based Medicine vs Evidence-Based Medicine
   url: /definitions/rights-based-vs-evidence-based/
-- title: The Seventeen Years Task Force
-  url: /editorials/the-seventeen-years-task-force/
+- title: The Seventy Years Task Force
+  url: /editorials/the-seventy-years-task-force/
 - title: Calibrated for Nothing
   url: /critique/calibrated-for-nothing/
 - title: A Litigation Brief for Physiological Rights
@@ -6660,7 +6660,7 @@ Second, the framework that responds to this ordinary suffering (a specialty for 
 The physiological rights framework holds that everyone (not the person who can afford a private laboratory panel, not the person who has stumbled onto a functional-medicine practitioner, but everyone) has the right to be assessed against the biological parameters that actually determine function, and to have the deficits corrected. Until that becomes ordinary, the life we call normal will continue to be the life of the composite shortfall, mistaken for the human condition.
 ====END: _editorials/the-life-we-call-normal.md====
 
-====FILE: _editorials/the-seventeen-years-task-force.md====
+====FILE: _editorials/the-seventy-years-task-force.md====
 ---
 description: An uchronia of physiological medicine, following three small hinges through
   the institutions we did not build.
@@ -6677,10 +6677,10 @@ related:
 - title: Behind Every Test, an Industry
   url: /critique/behind-every-test-an-industry/
 status: published
-title: The Seventeen Years Task Force
+title: The Seventy Years Task Force
 ---
 
-# The Seventeen Years Task Force
+# The Seventy Years Task Force
 
 *A history that might have been.*
 
@@ -6859,7 +6859,7 @@ The claim is more modest. The hinges existed. They were small. The counterfactua
 [^flink-1956]: E. B. Flink, "[Magnesium deficiency syndrome in man](https://pubmed.ncbi.nlm.nih.gov/13306568/)," *Journal of the American Medical Association* 160, no. 16 (21 April 1956): 1406–1409.
 
 The point of departure is April 2005. It is twenty-one years ago. The distance between the two timelines is smaller than it looks.
-====END: _editorials/the-seventeen-years-task-force.md====
+====END: _editorials/the-seventy-years-task-force.md====
 
 ====FILE: _editorials/the-store-that-sells-the-right.md====
 ---
