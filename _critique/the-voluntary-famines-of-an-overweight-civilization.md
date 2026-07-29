@@ -93,4 +93,4 @@ The involuntary famines of history received their names because they killed peop
 
 The frame of this resource is that the framework does exist, in fragments, across the works of researchers whose names recur here. What is needed is the willingness to gather the fragments and to call the phenomenon by its name. The phenomenon is a civilization that eats too little of what it needs while eating too much of what it doesn't, that restricts the wrong things by the wrong reasoning, that reproduces on a voluntary basis the clinical picture of a state it once studied as a calamity.
 
-The famine is voluntary. The consequences are not.
+What the Minnesota men were paid to endure for twenty-four weeks, the modern West has imposed on itself for sixty years, without ever calling it a famine.
