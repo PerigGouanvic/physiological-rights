@@ -51,7 +51,9 @@ Body stores cover only 2–3 weeks, with a half-life of 9 to 18 days, so any inc
 
 ---
 
-## The carbohydrate paradox: eating sugar consumes B1
+## The carbohydrate paradox
+
+### Sugar consumed
 
 Thiamine is indispensable to carbohydrate metabolism: several key steps of glycolysis and the Krebs cycle are B1-dependent.[^2][^3]
 
@@ -60,6 +62,14 @@ The higher the diet in refined carbohydrates, the greater the thiamine requireme
 > *"Among the most common contributors to thiamine deficiency is the regular consumption of a high carbohydrate/highly processed food diet."*[^3]
 
 This phenomenon particularly affects type 2 diabetics, obese individuals in "high-calorie malnutrition," and children raised on ultra-processed products.[^12][^13]
+
+### Sugar produced
+
+The paradox is not only dietary. A person in chronic hyperinsulinemia and central adiposity carries a metabolism running at high throughput between meals as well as during them. Compensatory hyperinsulinemia drives sustained glycolytic flux. Adipose tissue is engaged in continuous cycles of lipolysis, re-esterification, and gluconeogenesis from released glycerol and free fatty acids. Muscle work at a higher body weight imposes a higher basal energetic cost. Each of these engages the thiamine-dependent enzymes of central carbon metabolism: pyruvate dehydrogenase, alpha-ketoglutarate dehydrogenase, transketolase. The overweight metabolism is thiamine-hungry in a way that eating white bread only reproduces episodically.
+
+The pharmaceutical load that often accompanies the metabolic phenotype compounds the depletion. Metformin, loop and thiazide diuretics for hypertension, proton pump inhibitors, and higher-than-average coffee intake all lower thiamine stores by the mechanisms flagged above.
+
+The clinical consequence is that fatigue, cognitive fog, and the sense of running on empty in overweight adults are not always primarily a caloric or macronutrient problem. They can express a thiamine deficit driven by a body doing too much of the work of glycolysis and lipid recycling at once. In the practitioner case literature, the energy response to thiamine repletion in this population is often rapid and subjectively pronounced. It is one of the few interventions that reliably shows itself to the person taking it, on a short time scale, without a laboratory test.
 
 ---
 

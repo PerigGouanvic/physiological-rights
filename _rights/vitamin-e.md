@@ -10,10 +10,10 @@ name: Vitamin E (complete family)
 related:
 - title: Right to Adequate Folate Levels
   url: /rights/folate/
-- title: Right to Optimal Thiamine (Vitamin B1) Status
-  url: /rights/thiamine-b1/
 - title: Right to Optimal Omega-3 Status (EPA/DHA)
   url: /rights/omega-3/
+- title: Right to Optimal Thiamine (Vitamin B1) Status
+  url: /rights/thiamine-b1/
 - title: Right to Optimal Riboflavin (Vitamin B2) Status
   url: /rights/riboflavin-b2/
 researchers: Maret Traber · Barrie Tan · Chandan K. Sen · Qing Jiang
