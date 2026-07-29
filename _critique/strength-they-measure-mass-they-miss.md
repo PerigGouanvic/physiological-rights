@@ -10,12 +10,12 @@ layout: default
 related:
 - title: Right to Adequate Muscle Mass
   url: /rights/muscle-mass/
+- title: Interventions That Show Themselves
+  url: /editorials/interventions-that-show-themselves/
 - title: Right to Optimal Hormonal Levels
   url: /rights/optimal-hormonal-levels/
 - title: Calibrated for Nothing
   url: /critique/calibrated-for-nothing/
-- title: Right to Adequate Coenzyme Q10
-  url: /rights/coenzyme-q10/
 status: published
 title: 'Sarcopenic Obesity: The Strength They Measure, the Mass They Miss'
 ---

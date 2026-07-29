@@ -6,10 +6,10 @@ description: Why 'there is no evidence' is not a scientific verdict but a discre
 last_revised: July 2026
 layout: default
 related:
-- title: 'John, 68: A Model Case'
-  url: /critique/john-68-a-model-case/
 - title: The Ethical Limits of Randomised Controlled Trials
   url: /editorials/ethical-limits-of-rcts/
+- title: 'John, 68: A Model Case'
+  url: /critique/john-68-a-model-case/
 - title: All Medicine Is Preventive
   url: /definitions/all-medicine-is-preventive/
 - title: A Litigation Brief for Physiological Rights

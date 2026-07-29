@@ -11,8 +11,8 @@ related:
   url: /critique/the-hunger-we-dont-see/
 - title: The Life We Call Normal
   url: /editorials/the-life-we-call-normal/
-- title: Two Doses, One Molecule
-  url: /critique/two-doses-one-molecule/
+- title: Interventions That Show Themselves
+  url: /editorials/interventions-that-show-themselves/
 status: published
 title: 'The False Negative: Serum Potassium and the Compartment It Cannot See'
 ---

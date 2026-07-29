@@ -11,8 +11,8 @@ related:
   url: /critique/the-hunger-we-dont-see/
 - title: What the Label Cannot Say
   url: /critique/what-the-label-cannot-say/
-- title: Behind Every Test, an Industry
-  url: /critique/behind-every-test-an-industry/
+- title: A Litigation Brief for Physiological Rights
+  url: /definitions/a-litigation-brief/
 status: published
 title: The Seventy Years Task Force
 ---

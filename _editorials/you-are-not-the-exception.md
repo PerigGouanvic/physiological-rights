@@ -13,8 +13,8 @@ related:
   url: /critique/the-hunger-we-dont-see/
 - title: The Ferritin Threshold
   url: /editorials/the-ferritin-threshold/
-- title: 'John, 68: A Model Case'
-  url: /critique/john-68-a-model-case/
+- title: Interventions That Show Themselves
+  url: /editorials/interventions-that-show-themselves/
 status: published
 title: You Are Not the Exception
 ---

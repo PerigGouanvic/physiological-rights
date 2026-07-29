@@ -14,8 +14,8 @@ related:
   url: /critique/the-hunger-we-dont-see/
 - title: The Life We Call Normal
   url: /editorials/the-life-we-call-normal/
-- title: Behind Every Test, an Industry
-  url: /critique/behind-every-test-an-industry/
+- title: Right to Adequate Magnesium Levels
+  url: /rights/magnesium/
 researchers: George Meneely · Walter Kempner · Lot Page · Graham MacGregor · Feng
   He · Paul Whelton · Horacio Adrogué · Tommaso Filippini
 status: published

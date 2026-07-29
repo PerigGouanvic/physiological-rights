@@ -11,8 +11,8 @@ related:
   url: /editorials/the-life-we-call-normal/
 - title: The Hunger We Don't See
   url: /critique/the-hunger-we-dont-see/
-- title: The Ambiguities of "Balanced Diet"
-  url: /critique/balanced-diet-ambiguities/
+- title: Right to Adequate Potassium Status
+  url: /rights/potassium/
 - title: Behind Every Test, an Industry
   url: /critique/behind-every-test-an-industry/
 researchers: Jean Durlach · Mildred Seelig · James J. DiNicolantonio · Carolyn Dean

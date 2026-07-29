@@ -9,14 +9,14 @@ description: 'The received distinction between ''nutritional'' and ''pharmacolog
 last_revised: July 2026
 layout: default
 related:
+- title: Interventions That Show Themselves
+  url: /editorials/interventions-that-show-themselves/
 - title: Calibrated for Nothing
   url: /critique/calibrated-for-nothing/
 - title: All Medicine Is Preventive
   url: /definitions/all-medicine-is-preventive/
-- title: The Life We Call Normal
-  url: /editorials/the-life-we-call-normal/
-- title: Self-Medication as a Codified Right
-  url: /definitions/self-medication-as-a-codified-right/
+- title: This Resource IS Indeed Intended to Diagnose, Treat, Cure, and Prevent Deficiencies
+  url: /editorials/this-resource-is-indeed-intended/
 status: published
 title: Two Doses, One Molecule
 ---

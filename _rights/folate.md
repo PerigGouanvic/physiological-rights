@@ -11,10 +11,10 @@ related:
   url: /rights/vitamin-e/
 - title: Right to Optimal Riboflavin (Vitamin B2) Status
   url: /rights/riboflavin-b2/
-- title: Right to Optimal Omega-3 Status (EPA/DHA)
-  url: /rights/omega-3/
 - title: Right to Optimal Thiamine (Vitamin B1) Status
   url: /rights/thiamine-b1/
+- title: Right to Optimal Omega-3 Status (EPA/DHA)
+  url: /rights/omega-3/
 researchers: Patrick Stover · Joel Mason · Jacob Selhub · Lucy Wills
 status: published
 title: Right to Adequate Folate Levels

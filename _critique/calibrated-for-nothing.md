@@ -7,14 +7,14 @@ description: Why most personal trials of supplementation return nothing, and why
 last_revised: July 2026
 layout: default
 related:
+- title: Interventions That Show Themselves
+  url: /editorials/interventions-that-show-themselves/
 - title: Two Doses, One Molecule
   url: /critique/two-doses-one-molecule/
 - title: All Medicine Is Preventive
   url: /definitions/all-medicine-is-preventive/
 - title: 'John, 68: A Model Case'
   url: /critique/john-68-a-model-case/
-- title: Rights-Based Medicine vs Evidence-Based Medicine
-  url: /definitions/rights-based-vs-evidence-based/
 status: published
 title: Calibrated for Nothing
 ---
