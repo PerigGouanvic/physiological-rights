@@ -10,10 +10,10 @@ layout: default
 related:
 - title: All Medicine Is Preventive
   url: /definitions/all-medicine-is-preventive/
-- title: The Care of Self as Ground of the Physiological Right
-  url: /definitions/care-of-self-as-ground/
 - title: Practicing the Physiological Right in an Ordinary Life
   url: /editorials/practicing-the-right-in-an-ordinary-life/
+- title: The Care of Self as Ground of the Physiological Right
+  url: /definitions/care-of-self-as-ground/
 - title: Self-Medication as a Codified Right
   url: /definitions/self-medication-as-a-codified-right/
 status: published

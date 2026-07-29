@@ -14,10 +14,10 @@ related:
   url: /critique/strength-they-measure-mass-they-miss/
 - title: Right to Optimal Hormonal Levels
   url: /rights/optimal-hormonal-levels/
-- title: Right to Adequate Coenzyme Q10
-  url: /rights/coenzyme-q10/
 - title: All Medicine Is Preventive
   url: /definitions/all-medicine-is-preventive/
+- title: Right to Adequate Coenzyme Q10
+  url: /rights/coenzyme-q10/
 researchers: Irwin H. Rosenberg · Alfonso J. Cruz-Jentoft · Richard N. Baumgartner
   · Robert R. Wolfe · William J. Evans · Roger A. Fielding · Anne B. Newman
 status: published

@@ -10,12 +10,12 @@ name: Insulin
 related:
 - title: Right to Optimal Hormonal Levels
   url: /rights/optimal-hormonal-levels/
-- title: All Medicine Is Preventive
-  url: /definitions/all-medicine-is-preventive/
 - title: The Hunger We Don't See
   url: /critique/the-hunger-we-dont-see/
-- title: Right to Adequate Muscle Mass
-  url: /rights/muscle-mass/
+- title: All Medicine Is Preventive
+  url: /definitions/all-medicine-is-preventive/
+- title: The 17 Years Task Force
+  url: /editorials/the-seventeen-years-task-force/
 researchers: Joseph R. Kraft · Gerald M. Reaven · Ralph A. DeFronzo · Gerald I. Shulman
   · Kitt F. Petersen · Benjamin Bikman · Robert Lustig · Ivor Cummins
 status: published

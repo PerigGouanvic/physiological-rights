@@ -10,12 +10,12 @@ layout: default
 related:
 - title: Rights-Based Medicine vs Evidence-Based Medicine
   url: /definitions/rights-based-vs-evidence-based/
+- title: The 17 Years Task Force
+  url: /editorials/the-seventeen-years-task-force/
 - title: Calibrated for Nothing
   url: /critique/calibrated-for-nothing/
 - title: A Litigation Brief for Physiological Rights
   url: /definitions/a-litigation-brief/
-- title: 'John, 68: A Model Case'
-  url: /critique/john-68-a-model-case/
 status: published
 title: What the Label Cannot Say
 ---

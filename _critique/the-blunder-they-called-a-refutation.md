@@ -15,8 +15,8 @@ related:
   url: /definitions/all-medicine-is-preventive/
 - title: Rights-Based Medicine vs Evidence-Based Medicine
   url: /definitions/rights-based-vs-evidence-based/
-- title: 'John, 68: A Model Case'
-  url: /critique/john-68-a-model-case/
+- title: The 17 Years Task Force
+  url: /editorials/the-seventeen-years-task-force/
 status: published
 title: The Blunder They Called a Refutation
 ---
