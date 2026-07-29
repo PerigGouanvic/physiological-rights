@@ -4,7 +4,7 @@ permalink: /out.txt
 ---
 # PHYSIOLOGICAL RIGHTS — CONTENT EXPORT
 # Site: https://physiological-rights.org
-# Generated: 2026-07-29 03:31 UTC
+# Generated: 2026-07-29 03:47 UTC
 #
 ========================================================================
 # INSTRUCTIONS FOR THE AI READING THIS FILE
@@ -991,6 +991,7 @@ title: Right to Measure Insulin
 
 > *"Those with cardiovascular disease not identified with diabetes are simply undiagnosed."*
 > — Joseph R. Kraft, *Diabetes Epidemic and You*, 2008
+{: translate="no" class="notranslate"}
 
 ---
 
