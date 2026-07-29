@@ -23,7 +23,7 @@ title: The Voluntary Famines of an Overweight Civilization
 
 # The Voluntary Famines of an Overweight Civilization
 
-The word *famine* has, until recently, always meant something imposed. A crop that failed. A siege. A policy of extermination pursued through the food supply, as in the Bengal of 1943, the Ukraine of 1932, or Gaza in 2024-2025. The famine was an event that came from outside the person concerned, that the person concerned would have averted if they had had the means. The historical record is that when famines were named, they were named as calamities.
+The word *famine* has, until recently, always meant something imposed. A crop that failed. A siege. A policy of extermination pursued through the food supply, as in the Bengal of 1943, the Ukraine of 1932, or the successive famines of Gaza from the blockade of 2007 to the war of 2024-2025. The famine was an event that came from outside the person concerned, that the person concerned would have averted if they had had the means. The historical record is that when famines were named, they were named as calamities.
 
 The modern West has produced a strange variant of the same phenomenon that has not yet received the same name. A civilization whose members are, on average, twenty or thirty kilograms above the weight at which they were designed to operate, spends much of its remaining vitality attempting to lose that weight by systematic restriction of what it eats. The restrictions cohabit in the same body with the excess. Both are, in different senses, forms of malnourishment. Only one is called that.
 
