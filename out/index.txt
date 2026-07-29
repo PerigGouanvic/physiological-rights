@@ -4,7 +4,7 @@ permalink: /out.txt
 ---
 # PHYSIOLOGICAL RIGHTS — CONTENT EXPORT
 # Site: https://physiological-rights.org
-# Generated: 2026-07-29 07:25 UTC
+# Generated: 2026-07-29 17:36 UTC
 #
 ========================================================================
 # INSTRUCTIONS FOR THE AI READING THIS FILE
@@ -6708,9 +6708,9 @@ In our timeline, each of these three currents was neutralized within a decade. I
 
 ## The first hinge: Advocate General Léger, April 2005
 
-On 5 April 2005, the Advocate General of the Court of Justice of the European Communities delivered his opinion in the joined cases[^anh-cases] challenging Directive 2002/46/EC on food supplements.[^supplements-directive] In our timeline the opinion is thoughtful, sides partly with the industry challengers, and is largely followed by the Court in its judgment of 12 July 2005: the directive is upheld, subject to procedural safeguards for the inclusion of new substances on the positive list. The practical effect is that hundreds of substances that were legally sold in the European Union before the directive are quietly delisted over the following decade. The burden of proof for inclusion falls on manufacturers of substances that no one owns the exclusive right to sell, which is to say, on no one at all.
+On 5 April 2005, Advocate General Léger delivered his opinion in the joined cases[^anh-cases] challenging Directive 2002/46/EC on food supplements.[^supplements-directive] The opinion was substantial. It concluded that key provisions of the directive, in particular the positive-list mechanism governing which vitamins and minerals could be marketed, were invalid for want of transparency and for breach of the principle of proportionality. The Court of Justice follows its Advocate General, on average, in roughly seventy percent of Grand Chamber cases.[^ag-follow-rate] On 12 July 2005 the Grand Chamber upheld the directive. This was one of the thirty percent. The practical effect is that hundreds of substances that were legally sold in the European Union before the directive are quietly delisted over the following decade. The burden of proof for inclusion falls on manufacturers of substances that no one owns the exclusive right to sell, which is to say, on no one at all.
 
-In the uchronic timeline the Advocate General goes one step further. He accepts the industry argument that the directive constitutes a disproportionate restriction on the free movement of goods, given that the substances at issue are, on the whole, physiologically native to the human body and have long histories of safe consumption. He proposes that the positive list be construed as a rebuttable presumption rather than a closed catalogue, with member states retaining authority to permit substances demonstrated safe in national practice. The Court, on 12 July 2005, follows the opinion in substance.
+In the uchronic timeline the Advocate General goes one step further. He accepts the industry argument that the directive constitutes a disproportionate restriction on the free movement of goods, given that the substances at issue are, on the whole, physiologically native to the human body and have long histories of safe consumption. He proposes that the positive list be construed as a rebuttable presumption rather than a closed catalogue, with member states retaining authority to permit substances demonstrated safe in national practice. The Court, on 12 July 2005, follows him. In seventy percent of cases it does.
 
 The immediate practical effect is modest. A few dozen substances remain legally accessible in Denmark, Sweden, and the United Kingdom that in our timeline are pushed out. But the constitutional effect is large. The Court has connected the free movement of nutrients to a proportionality analysis grounded in bodily need. Bodily need has become, for the first time in European jurisprudence, a factor that regulators must weigh.
 
@@ -6841,6 +6841,8 @@ The claim is more modest. The hinges existed. They were small. The counterfactua
 [^supplements-directive]: [Directive 2002/46/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32002L0046) of the European Parliament and of the Council of 10 June 2002 on the approximation of the laws of the Member States relating to food supplements.
 
 [^anh-cases]: Joined Cases [C-154/04 and C-155/04](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62004CJ0154), *Alliance for Natural Health and others*, judgment of the Court (Grand Chamber) of 12 July 2005, ECR I-6451. Advocate General Léger's [opinion](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62004CC0154) delivered 5 April 2005.
+
+[^ag-follow-rate]: Empirical estimates of the agreement rate between the Advocates General and the Court of Justice cluster in the sixty-five to seventy percent range, depending on chamber, subject matter, and period. Carlos Arrebola, Ana Julia Mauro, and Héctor Jiménez Nieva, "An Econometric Analysis of the Influence of the Advocate General on the Court of Justice of the European Union," *Cambridge Yearbook of European Legal Studies* 18 (2016): 82–112.
 
 [^wales-2014]: Jimmy Wales, response to Change.org petition, 23 March 2014. The full exchange and its aftermath are collected on [Wikipedia:Lunatic charlatans](https://en.wikipedia.org/wiki/Wikipedia:Lunatic_charlatans).
 
