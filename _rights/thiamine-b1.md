@@ -15,7 +15,8 @@ related:
   url: /rights/riboflavin-b2/
 - title: Right to Optimal Omega-3 Status (EPA/DHA)
   url: /rights/omega-3/
-researchers: Derrick Lonsdale · Chandler Marrs · Elliot Overton
+researchers: Derrick Lonsdale · Chandler Marrs · Elliot Overton · Hans-Peter Hammes
+  · Gary E. Gibson
 status: published
 title: Right to Optimal Thiamine (Vitamin B1) Status
 ---
@@ -116,15 +117,49 @@ Independent reviews show on the contrary that modern deficiency is widely undere
 
 ---
 
+## Benfotiamine and its cousins: the derivatives with the trial base
+
+Thiamine hydrochloride, the standard supplement form, is water-soluble. Its intestinal absorption is saturated by a low-affinity transporter that plateaus at around 5 mg per single oral dose in adults. Higher intakes are excreted in the urine within hours. This ceiling has been the practical bottleneck for anyone attempting to raise tissue thiamine substantially, and it is the reason lipid-soluble thiamine derivatives were developed.
+
+### Benfotiamine: chemistry and mechanism
+
+Benfotiamine (S-benzoylthiamine O-monophosphate) is a synthetic S-acyl derivative of thiamine, developed in Japan in the 1950s. Unlike thiamine hydrochloride, it crosses the intestinal wall by facilitated diffusion, is dephosphorylated at the brush border, and enters the circulation as S-benzoylthiamine. Once in the bloodstream it is hydrolysed to free thiamine, which is then taken up into tissues and phosphorylated to thiamine diphosphate, the active cofactor. The route delivers substantially higher intracellular thiamine concentrations in muscle, nerve, kidney, and retina than equimolar oral thiamine HCl. Its penetration of the central nervous system, however, is limited.[^31]
+
+The mechanistic case for benfotiamine in metabolic disease was made in 2003 by Hans-Peter Hammes and colleagues in *Nature Medicine*.[^32] Chronic hyperglycemia was known to drive four biochemical pathways of tissue damage: the polyol pathway, the hexosamine pathway, protein kinase C activation, and the formation of advanced glycation end products (AGEs). Hammes showed that benfotiamine, by activating the thiamine-dependent enzyme transketolase, shunts excess glycolytic intermediates into the pentose phosphate pathway and thereby blocks three of the four pathways at once. The finding gave a single molecule plausibly capable of preventing the microvascular complications of diabetes, at a cost of pennies per day. It also opened a broader hypothesis relevant to the [right to measure insulin](/rights/insulin/): any state of chronic hyperinsulinemia and hyperglycemia, well before frank diabetes, engages the same damage pathways, and the same transketolase intervention may partially interrupt them.
+
+### The neuropathy trials: two decades of consistent signals, no phase III sponsor
+
+The most substantial clinical evidence base for benfotiamine is in painful diabetic peripheral neuropathy. Winkler and colleagues, in 1999, reported dose-dependent improvement in Neuropathy Symptom Score at 320 mg/day of benfotiamine.[^33] The BEDIP study (Haupt, Ledermann, Köpcke, 2005) confirmed the finding in a three-week placebo-controlled pilot.[^34] The BENDIP trial (Stracke and colleagues, 2008), a three-arm randomised double-blind study in 165 patients over six weeks, demonstrated dose-dependent improvement at 600 mg/day, with vibration perception threshold also improving.[^35] The trials are not large by pharmaceutical standards, but they are directionally consistent, mechanistically anchored, and use validated neuropathy endpoints. What they lack is the multi-thousand-patient phase III replication that would justify guideline inclusion. In the two decades since Hammes, no commercial actor has funded that trial.
+
+### Beyond neuropathy
+
+Small trials at Weill Cornell Medicine, led by Gary Gibson, have tested high-dose benfotiamine in mild cognitive impairment and early Alzheimer's disease, on the mechanistic hypothesis that thiamine-dependent enzymes are impaired in the Alzheimer brain.[^36] Results are preliminary and mixed but sufficient to sustain a research programme. Diabetic nephropathy and diabetic retinopathy have been investigated in single-centre studies with promising but not conclusive findings. The pattern across the non-neuropathy literature is what one might expect for a molecule that is cheap, safe, and mechanistically attractive: committed investigators run small trials, no phase III sponsor materialises, the literature accumulates in the specialist journals.
+
+### Choosing the derivative by tissue target: TTFD, sulbutiamine
+
+Benfotiamine is not the only lipid-soluble thiamine derivative in clinical use. Two others merit mention.
+
+**TTFD (thiamine tetrahydrofurfuryl disulfide)**, also called fursultiamine, is a synthetic derivative of allithiamine, the naturally occurring compound isolated by Fujiwara in 1954 from garlic bulbs stored with thiamine. TTFD crosses the blood-brain barrier substantially better than benfotiamine and is the derivative of choice when central nervous system involvement (dysautonomia, fatigue, cognitive symptoms, mood dysregulation) is prominent. The practitioner protocols developed by Overton and by Marrs use TTFD as the primary agent for these presentations.[^37]
+
+**Sulbutiamine**, developed in France in the 1960s under the brand name Arcalion, is another lipid-soluble derivative with good CNS penetration. It has been prescribed for asthenia in France and francophone jurisdictions since the 1970s and has been studied in post-infectious fatigue.
+
+The choice among the three is not arbitrary. Benfotiamine reaches peripheral tissues: nerve, kidney, retina, muscle. TTFD and sulbutiamine reach the central nervous system. The distinction is well documented in the practitioner literature and largely absent from routine clinical education.
+
+### Availability and regulatory status
+
+In Germany, benfotiamine has been sold as a prescription drug since the 1980s (Milgamma, Benfogamma), with reimbursement in some diabetic neuropathy indications. Sulbutiamine is prescribed in France and several francophone jurisdictions. TTFD is available over the counter as a supplement in most of Europe and North America; in Japan it retained a prescription status for decades before liberalisation.
+
+In most of Europe and in North America, benfotiamine is sold as a food supplement, without prescription and without insurance coverage. No mainstream diabetes society includes it in its neuropathy guidelines. No routine primary care encounter surfaces it. This is the pattern this resource names elsewhere: a mature, cheap, mechanistically targeted intervention with two decades of clinical trial data, structurally excluded from routine practice by the absence of a commercial actor with a stake in its adoption. See *[Behind Every Test, an Industry](/critique/behind-every-test-an-industry/)* on the general mechanism, and *[The Seventy Years Task Force](/editorials/the-seventy-years-task-force/)* on the class of findings this failure produces.
+
+---
+
 ## The hope: a simple, safe, often transformative intervention
 
-Thiamine combines three rare properties: high safety (even at elevated doses), very low cost, and the potential for rapid reversibility of sometimes debilitating symptoms (extreme fatigue, mild to moderate dysautonomia, functional digestive disorders, paradoxical anxiety).[^10][^1]
-
-Specific forms (benfotiamine, TTFD) can optimise tissue or neurological penetration depending on the case, with progressively titrated protocols to limit paradoxical reactions.[^10][^29][^30]
+Thiamine combines three rare properties: high safety even at elevated doses, very low cost, and the potential for rapid reversibility of sometimes debilitating symptoms (extreme fatigue, mild to moderate dysautonomia, functional digestive disorders, paradoxical anxiety).[^10][^1]
 
 > *"Treatment with intravenous thiamine resulted in partial or complete recovery from the symptoms (cardiac, neurologic, and metabolic disorders) for most patients."*[^10]
 
-Within the framework of the [physiological rights](/definitions/physiological-rights/) this resource defends, this grounds a **right to an optimal thiamine status**: the right to recognition of subclinical deficiency, access to relevant tests where available, and safe, low-cost supplementation strategies to correct a deficit that today is, quite literally, hiding in plain sight.
+Within the framework of the [physiological rights](/definitions/physiological-rights/) this resource defends, this grounds a **right to an optimal thiamine status**: the right to recognition of subclinical deficiency, access to relevant tests where available, access to the specific derivatives whose trial base has been accumulating for twenty years, and safe, low-cost supplementation strategies to correct a deficit that today is, quite literally, hiding in plain sight.
 
 ---
 
@@ -160,3 +195,17 @@ Within the framework of the [physiological rights](/definitions/physiological-ri
 [^28]: https://www.youtube.com/watch?v=wFiSxTKsnRM
 [^29]: https://hormonesmatter.com/author/elliot-overton/
 [^30]: https://www.youtube.com/watch?v=ohFuqOBL-LM
+
+[^31]: Balakumar P, Rohilla A, Krishan P, Solairaj P, Thangathirupathi A. *The multifaceted therapeutic potential of benfotiamine.* Pharmacol Res. 2010;61(6):482-488.
+
+[^32]: Hammes HP, Du X, Edelstein D, Taguchi T, Matsumura T, Ju Q, Lin J, Bierhaus A, Nawroth P, Hannak D, Neumaier M, Bergfeld R, Giardino I, Brownlee M. *[Benfotiamine blocks three major pathways of hyperglycemic damage and prevents experimental diabetic retinopathy](https://www.nature.com/articles/nm834).* Nat Med. 2003;9(3):294-299.
+
+[^33]: Winkler G, Pál B, Nagybéganyi E, Ory I, Porochnavec M, Kempler P. *Effectiveness of different benfotiamine dosage regimens in the treatment of painful diabetic neuropathy.* Arzneimittelforschung. 1999;49(3):220-224.
+
+[^34]: Haupt E, Ledermann H, Köpcke W. *Benfotiamine in the treatment of acute painful diabetic neuropathy: a three-week randomized, controlled pilot study (BEDIP study).* Int J Clin Pharmacol Ther. 2005;43(2):71-77.
+
+[^35]: Stracke H, Gaus W, Achenbach U, Federlin K, Bretzel RG. *Benfotiamine in diabetic polyneuropathy (BENDIP): results of a randomised, double blind, placebo-controlled clinical study.* Exp Clin Endocrinol Diabetes. 2008;116(10):600-605.
+
+[^36]: Gibson GE, Luchsinger JA, Cirio R, Chen H, Franchino-Elder J, Hirsch JA, Bettendorff L, Chen Z, Flowers SA, Gerber LM, Grandville T, Schupf N, Xu H, Stern Y, Habeck C, Jordan B, Fonzetti P. *Benfotiamine and cognitive decline in Alzheimer's disease: results of a randomized placebo-controlled phase IIa clinical trial.* J Alzheimers Dis. 2020;78(3):989-1010.
+
+[^37]: Lonsdale D. *A review of the biochemistry, metabolism and clinical benefits of thiamin(e) and its derivatives.* Evid Based Complement Alternat Med. 2006;3(1):49-59.

@@ -13,10 +13,10 @@ related:
   url: /critique/john-68-a-model-case/
 - title: Right to Adequate Glutathione
   url: /rights/glutathione/
-- title: Right to Adequate Muscle Mass
-  url: /rights/muscle-mass/
 - title: Calibrated for Nothing
   url: /critique/calibrated-for-nothing/
+- title: Right to Adequate Muscle Mass
+  url: /rights/muscle-mass/
 researchers: Karl Folkers · Peter Langsjoen · Svend Aage Mortensen · Franklin Rosenfeldt
   · Maciej Banach · Beatrice Golomb
 status: published

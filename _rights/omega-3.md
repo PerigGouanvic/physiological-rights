@@ -9,10 +9,10 @@ name: Omega-3 (EPA/DHA)
 related:
 - title: Right to Adequate Folate Levels
   url: /rights/folate/
-- title: Right to Optimal Thiamine (Vitamin B1) Status
-  url: /rights/thiamine-b1/
 - title: Right to Optimal Vitamin E Status (Full Spectrum)
   url: /rights/vitamin-e/
+- title: Right to Optimal Thiamine (Vitamin B1) Status
+  url: /rights/thiamine-b1/
 - title: Right to Optimal Riboflavin (Vitamin B2) Status
   url: /rights/riboflavin-b2/
 researchers: Charles Serhan · William S. Harris · Clemens von Schacky · Joseph Hibbeln

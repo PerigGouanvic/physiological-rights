@@ -7,10 +7,10 @@ last_revised: July 2026
 layout: default
 name: Folate / folic acid (B9)
 related:
-- title: Right to Optimal Thiamine (Vitamin B1) Status
-  url: /rights/thiamine-b1/
 - title: Right to Optimal Vitamin E Status (Full Spectrum)
   url: /rights/vitamin-e/
+- title: Right to Optimal Thiamine (Vitamin B1) Status
+  url: /rights/thiamine-b1/
 - title: Right to Optimal Riboflavin (Vitamin B2) Status
   url: /rights/riboflavin-b2/
 - title: Right to Optimal Omega-3 Status (EPA/DHA)
