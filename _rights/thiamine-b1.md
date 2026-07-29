@@ -69,7 +69,7 @@ The paradox is not only dietary. A person in chronic hyperinsulinemia and centra
 
 The pharmaceutical load that often accompanies the metabolic phenotype compounds the depletion. Metformin, loop and thiazide diuretics for hypertension, proton pump inhibitors, and higher-than-average coffee intake all lower thiamine stores by the mechanisms flagged above.
 
-The clinical consequence is that fatigue, cognitive fog, and the sense of running on empty in overweight adults are not always primarily a caloric or macronutrient problem. They can express a thiamine deficit driven by a body doing too much of the work of glycolysis and lipid recycling at once. In the practitioner case literature, the energy response to thiamine repletion in this population is often rapid and subjectively pronounced. It is one of the few interventions that reliably shows itself to the person taking it, on a short time scale, without a laboratory test.
+The clinical consequence is that fatigue, cognitive fog, and the sense of running on empty in overweight adults are not always primarily a caloric or macronutrient problem. They can express a thiamine deficit driven by a body doing too much of the work of glycolysis and lipid recycling at once. In the practitioner case literature, the energy response to thiamine repletion in this population is often rapid and subjectively pronounced. It belongs to the small class of nutritional [interventions that show themselves](/editorials/interventions-that-show-themselves/) to the person taking them, on a short time scale, without a laboratory test.
 
 ---
 
