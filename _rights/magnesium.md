@@ -11,8 +11,8 @@ related:
   url: /editorials/the-life-we-call-normal/
 - title: The Hunger We Don't See
   url: /critique/the-hunger-we-dont-see/
-- title: The Seventeen Years Task Force
-  url: /editorials/the-seventeen-years-task-force/
+- title: The Seventy Years Task Force
+  url: /editorials/the-seventy-years-task-force/
 - title: The Ambiguities of "Balanced Diet"
   url: /critique/balanced-diet-ambiguities/
 researchers: Jean Durlach · Mildred Seelig · James J. DiNicolantonio · Carolyn Dean

@@ -10,8 +10,8 @@ name: Insulin
 related:
 - title: Right to Optimal Hormonal Levels
   url: /rights/optimal-hormonal-levels/
-- title: The Seventeen Years Task Force
-  url: /editorials/the-seventeen-years-task-force/
+- title: The Seventy Years Task Force
+  url: /editorials/the-seventy-years-task-force/
 - title: The Hunger We Don't See
   url: /critique/the-hunger-we-dont-see/
 - title: All Medicine Is Preventive

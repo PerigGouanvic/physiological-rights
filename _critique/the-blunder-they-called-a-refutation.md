@@ -15,8 +15,8 @@ related:
   url: /definitions/all-medicine-is-preventive/
 - title: Rights-Based Medicine vs Evidence-Based Medicine
   url: /definitions/rights-based-vs-evidence-based/
-- title: The Seventeen Years Task Force
-  url: /editorials/the-seventeen-years-task-force/
+- title: The Seventy Years Task Force
+  url: /editorials/the-seventy-years-task-force/
 status: published
 title: The Blunder They Called a Refutation
 ---

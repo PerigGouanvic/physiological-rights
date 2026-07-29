@@ -14,10 +14,10 @@ related:
 - title: Behind Every Test, an Industry
   url: /critique/behind-every-test-an-industry/
 status: published
-title: The Seventeen Years Task Force
+title: The Seventy Years Task Force
 ---
 
-# The Seventeen Years Task Force
+# The Seventy Years Task Force
 
 *A history that might have been.*
 
