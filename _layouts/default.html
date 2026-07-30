@@ -61,6 +61,7 @@
                 <li><a href="{{ '/where-to-start/' | relative_url }}">Start here</a></li>
                 <li><a href="{{ '/rights/' | relative_url }}">Rights</a></li>
                 <li><a href="{{ '/editorials/' | relative_url }}">Editorials</a></li>
+                <li><a href="{{ '/currents/' | relative_url }}">Currents</a></li>
                 <li class="has-dropdown">
                     <a href="#" class="dropdown-toggle" aria-haspopup="true">Framework</a>
                     <ul class="dropdown">
@@ -127,6 +128,7 @@
                         {% when 'editorials' %}{% assign section_title = 'Editorials' %}
                         {% when 'rights' %}{% assign section_title = 'Rights' %}
                         {% when 'resources' %}{% assign section_title = 'Resources' %}
+                        {% when 'currents' %}{% assign section_title = 'Currents' %}
                         {% when 'faq' %}{% assign section_title = 'FAQ' %}
                         {% when 'about' %}{% assign section_title = 'About' %}
                         {% else %}{% assign section_title = part | replace: '-', ' ' | capitalize %}
@@ -379,6 +381,7 @@ if (mobCloseBtn) mobCloseBtn.addEventListener('click', closeMobSidebar);
         reports: 'Case reports',
         editorials: 'Editorials',
         resources: 'Resources',
+        currents: 'Currents',
         about: 'About',
         legal: 'Legal',
         page: 'Page'
