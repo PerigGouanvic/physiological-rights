@@ -16,7 +16,7 @@ The threshold is deliberate. A figure or an institution has its own page only wh
 
 ## Working reading brief
 
-The three blocs further down describe the landscape. This section reads a small number of the primary texts closely and derives from that reading the pivots on which a focused rayonnement can rest. It is placed in front of the blocs on purpose.
+The three blocs further down describe the landscape. This section reads a small number of the primary texts closely and derives from that reading the pivots on which a focused reach can rest. It is placed in front of the blocs on purpose.
 
 ### A close reading of the Vienna Declaration
 
@@ -56,7 +56,7 @@ The 2003 recommendations to member state governments were three: implement natio
 
 ### Candidates for a focused pivot
 
-The rayonnement of a small-scale editorial project does not come from covering the whole landscape. It comes from a defensible, textually documented alignment with one or two figures or documents whose institutional weight is disproportionate to their public visibility. Seven such candidates exist in the material assembled here. They are listed with the case for and against making each of them the pivot.
+The reach of a small-scale editorial project does not come from covering the whole landscape. It comes from a defensible, textually documented alignment with one or two figures or documents whose institutional weight is disproportionate to their public visibility. Seven such candidates exist in the material assembled here. They are listed with the case for and against making each of them the pivot.
 
 **1. Diana Cárdenas, the intellectual architect.** MD Bogotá, PhD philosophy Franche-Comté 2016 under Corine Pelluchon, chief editor of *Revista de Nutrición Clínica y Metabolismo*, coordinator of the Cartagena Declaration 2019, the 2021 *Clinical Nutrition* position paper, the 2022 Vienna Declaration and the 2026 ESPEN Practical Guideline on Ethical Aspects. She holds the pen. For: living, actively producing, publishing in a journal she edits, formed in the philosophical tradition (Pelluchon, phenomenology of nourishment) that a physiological-rights argument can build on rather than translate away from. Against: her programme is explicitly scoped to disease-related malnutrition in clinical settings. Extending it to the ostensibly well-fed populations of interest here is a productive tension, not a hostile one, but it is a tension. Best point of entry: the [2021 *Clinical Nutrition* position paper](https://www.espen.org/files/other/HumanRightsPositionPaper_CN.pdf), sixteen authors, doi 10.1016/j.clnu.2021.02.039. Second entry: contact Cárdenas at *Revista de Nutrición Clínica y Metabolismo* with a submitted commentary that extends the 2021 framework to ambulatory populations.
 
