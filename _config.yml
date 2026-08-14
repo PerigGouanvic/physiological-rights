@@ -33,6 +33,9 @@ collections:
   currents:
     output: true
     permalink: /:collection/:name/
+  did-you-know:
+    output: true
+    permalink: /:collection/:name/
   about:
     output: true
     permalink: /:collection/:name/
