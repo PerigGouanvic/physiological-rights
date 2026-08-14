@@ -22,7 +22,7 @@ The Vienna Declaration on the Human Right to Nutritional Care was signed on 5 Se
 
 ## The scope, and its limit
 
-The text is a hospital instrument. Article 1 fixes its scope to *patients with disease-related malnutrition, in all settings and conditions*. It does not descend to the specificity of individual micronutrient adequacy in apparently well-nourished populations, to the failure of routine serum tests to detect tissue depletion, or to the twenty-year latency between the physiological science on magnesium, folate and vitamin D and its reflection in public guidance. The extension of a rights language to that ostensibly well-fed population, which is the specific project of this resource, has to be argued explicitly and cannot be assumed already covered.
+The text is a hospital instrument. Article 1 fixes its scope to *patients with disease-related malnutrition, in all settings and conditions*. It does not descend to the specificity of individual micronutrient adequacy in apparently well-nourished populations, to the failure of routine serum tests to detect tissue depletion, or to the multi-decade translational lag that separates the specialist literature on physiologically native molecules from any routine clinical operationalization of it. The extension of a rights language to that ostensibly well-fed population, which is the specific project of this resource, has to be argued explicitly and cannot be assumed already covered.
 
 ---
 

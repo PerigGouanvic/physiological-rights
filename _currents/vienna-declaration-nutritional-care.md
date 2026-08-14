@@ -99,7 +99,7 @@ Two names should be added on the trajectory towards the 2026 ESPEN Practical Gui
 
 The Declaration's scope, as stated in Article 1, is limited to *patients with disease-related malnutrition, in all settings and conditions*. Its normative object is the hospitalized or institutionalized undernourished patient. It has produced, in its follow-on documents, a coherent programme on nutritional screening, on institutional audit, on discharge planning and on ethical practice in artificial nutrition and hydration.
 
-It does not, however, extend to what the physiological-rights argument makes central: the specificity of individual micronutrient adequacy in ostensibly well-fed populations, the failure of serum tests to detect tissue depletion, the twenty-year latency between the science on the physiological requirement of magnesium, of folate, of vitamin D, and its reflection in public guidance. The Declaration is a document on disease-related malnutrition. It is not yet a document on the physiological rights of the whole population.
+It does not, however, extend to what the physiological-rights argument makes central: the specificity of individual micronutrient adequacy in ostensibly well-fed populations, the failure of serum tests to detect tissue depletion, the multi-decade translational lag that separates the specialist literature on physiologically native molecules from any routine clinical operationalization of it. The Declaration is a document on disease-related malnutrition. It is not yet a document on the physiological rights of the whole population.
 
 Two silences deserve note.
 
