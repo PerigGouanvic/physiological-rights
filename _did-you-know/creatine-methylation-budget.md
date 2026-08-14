@@ -31,7 +31,7 @@ The sparing effect assumes adequate B12 and folate. If either is limiting, the a
 
 ## What creatine does not spare
 
-Choline has four largely non-overlapping roles: betaine donation for BHMT (spared), phosphatidylcholine synthesis via the CDP-choline pathway (not directly spared but influenced by SAM availability), phosphatidylcholine synthesis via PEMT in the liver (SAM-dependent and therefore indirectly spared), and acetylcholine (neurotransmission, not spared at all). Creatine supplementation is not a substitute for dietary choline. It is a systemic offload of the methyl-transfer economy.
+Choline has four roles: betaine donation for BHMT (directly spared), phosphatidylcholine synthesis via PEMT in the liver (SAM-dependent, indirectly spared), phosphatidylcholine synthesis via the CDP-choline pathway (does not consume SAM, so not spared at the step itself but arbitrated against PEMT), and acetylcholine (neurotransmission). Acetylcholine sits at the end of a longer chain: freed SAM lets PEMT produce more hepatic phosphatidylcholine, some of which is catabolized back to free choline, which crosses the blood-brain barrier and feeds choline acetyltransferase. The chain exists and is worth naming, but its yield is modest and depends on PE availability, on estrogen tone (PEMT is more active in premenopausal women), and on cholinergic demand. Creatine supplementation is therefore a systemic offload of the methyl-transfer economy that reaches choline in more than one way, without substituting for dietary choline itself.
 
 ---
 
