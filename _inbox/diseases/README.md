@@ -33,8 +33,9 @@ Sélection couvrant les grands tueurs du GBD + les champs où le diagnostic-écr
 6. `cognitive-decline/` — Alzheimer, MCI, démences (angle B vitamines, oméga-3, choline, insulinorésistance cérébrale)
 7. `inflammatory-bowel-disease/` — prototype de l'inflammatoire chronique
 8. `allergic-atopic-disease/` — asthme, dermatite atopique, rhinite, allergies alimentaires
+9. `obesity-overweight/` — surpoids, obésité, obésité sarcopénique, syndrome métabolique associé
 
-Candidats pour un batch ultérieur : ostéoporose, MPOC, maladies auto-immunes systémiques, addictions/toxicomanies, thyroïde fonctionnelle, fatigue chronique/fibromyalgie, obésité comme pathologie en soi, autisme.
+Candidats pour un batch ultérieur : ostéoporose, MPOC, maladies auto-immunes systémiques, addictions/toxicomanies, thyroïde fonctionnelle, fatigue chronique/fibromyalgie, autisme.
 
 ## Template maître de requête Perplexity
 
@@ -74,3 +75,4 @@ Consignes de style : rapport dense, structuré, sourcé. Sources primaires préf
 | cognitive-decline | ✓ | | |
 | inflammatory-bowel-disease | ✓ | | |
 | allergic-atopic-disease | ✓ | | |
+| obesity-overweight | ✓ | | |
