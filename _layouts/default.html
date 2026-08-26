@@ -17,7 +17,11 @@
     {% seo %}
 
     <!-- Indexing directives -->
+    {% if page.noindex %}
+    <meta name="robots" content="noindex, nofollow">
+    {% else %}
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+    {% endif %}
 
     <!-- Typography -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
