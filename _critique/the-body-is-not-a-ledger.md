@@ -1,9 +1,10 @@
 ---
-description: A civilization has installed, in the bodies of a large fraction of
-  its members, a private accounting to which they are always in the red. This
-  piece is not another demonstration that the accounting is wrong. Elsewhere in
-  this resource that has been done. The argument here is that even if it worked,
-  it would still be an impoverishment of what a body is for.
+description: Most writing about body weight begins from someone who counts, and
+  asks whether the counting is being done well. This piece begins from outside
+  that assumption. It is written by one of the people for whom the arithmetic
+  was never a topic, and argues that the counting tool does not connect to the
+  machinery it claims to regulate. The people who count and gain weight anyway
+  have a problem the counting cannot address.
 last_revised: August 2026
 layout: default
 related:
@@ -21,46 +22,46 @@ title: The Body Is Not a Ledger
 
 # The Body Is Not a Ledger
 
-I live beside people who carry an arithmetic I do not carry. They look at an apple and see a number. They look at a staircase and see a subtraction. They have been taught, over decades, to keep an open book on their own body, and to reconcile it every night before sleep.
+I do not count. I have never counted. I eat a lot. I am not particularly active. I have been roughly the same weight for most of my adult life, and the arithmetic of how many calories entered and how many left has never played any part in that. This is not a discipline. It is not an accomplishment. Whatever my body does when it decides what to store, discard, or burn, it does below the level of my conscious attention, and I let it.
 
-The book has two columns. One counts what enters. The other counts what leaves. Between the two columns lives a person held between the fear of eating and the fear of sitting still. Every mouthful is a debit. Every hour of stillness is an unamortized surplus. The body has become a permanent accounting exercise, audited by a self that never rests.
+I mention this at the start because most writing about body weight begins from the opposite premise. It begins from someone who counts, and either counts well or counts badly. It begins from the assumption that the arithmetic is real and that the only question is whether the person is doing it properly. I want to write from outside that assumption. I want to write as one of the people for whom the arithmetic was never a topic, and I want to suggest that we are more numerous than the discourse admits.
 
-I want to make an argument that is not the usual one. The usual argument is that the ledger does not work. That the metabolism adapts. That the entries cannot honestly be added. That the model in which food enters and heat leaves and the difference lands as fat is a thermodynamic tautology dressed up as a prediction. All of that has been argued elsewhere in this resource, and the argument stands. The argument here is different. Even if the ledger worked, even if every calorie could be tallied and every expenditure verified, the ledger would still be an impoverishment of the way a human being is meant to inhabit a body.
+## The silent majority
 
-## Nobody counts the other things
+The people who do not think about their weight are invisible in the writing about weight. They have nothing to report. They are not on diet forums, not in obesity clinics, not in the case files that populate the medical literature on body composition. When they are surveyed at all it is as controls, a category defined by absence. But subtracted from the population of loud counters, they may well form the majority of the people you know. Most human beings, most of the time, in most places, have not been kept alive by ledger-keeping. Something else was doing the work, and doing it well enough that no one had to think about it.
 
-No one counts their heartbeats over the course of a day. No one totals their respirations at bedtime. No one keeps a running tally of their blinks or of the litres of blood their heart has moved since morning. When we do measure these things it is because a fault has appeared and a repair is being planned. A healthy person is a person for whom the body's own arithmetic runs below the threshold of conscious attention. That is close to what being healthy means. The body is doing its accounting, and I am doing my life.
+That silent regulation is what the human body is supposed to do. It is what the body does in the great majority of the animal kingdom, in every wild population of every species, and in every human society that has not yet inherited the calorie table. It is not a virtue and it is not a knack. It is what the machinery is for.
 
-Imagine a civilization that had decided to count words instead. Each morning you would be issued a daily verbal allowance. Sentences over your quota would require justification. Silence would earn a bonus that could be spent later on speech. You can already feel the shape of the person this civilization would produce. You would meet them at parties. They would be measuring you as you spoke, and measuring themselves as they replied. Whatever they said, they would be saying it against a scoreboard.
+## The wrong lever
 
-Now imagine one that had decided to count glances. Or embraces. Or breaths held while listening to music. The counting itself would produce the ledger-inhabitant. Whatever the metric, the measured person becomes someone other than the unmeasured person. Not because the metric was inaccurate. Because the act of accounting rearranges the body around the ledger, and the rearrangement is the injury.
+When a person eats what her body signals it wants and gains weight anyway, the problem is not that she has miscounted. The problem is that whatever regulates the storage and release of fat, in her body, is working in a way that the counting cannot reach. She may have hyperinsulinemia. She may have thyroid dysfunction. She may be carrying a chronic inflammatory load that is directing her hormones toward storage. She may be short of a nutrient whose deficiency has muted her satiety signal. She may be losing sleep in a pattern that keeps her cortisol elevated. She may be on a medication that is quietly redirecting her energy economy. Any of these can cause weight gain in the presence of a diet that a thin person would eat without issue. None of them will be fixed by counting the diet.
 
-## What the counter loses
+Counting calories in the presence of a regulatory failure is like counting inputs to a broken thermostat. You can watch the numbers all you want. The room will not warm because the fault is not in the fuel line. The fault is downstream, in the machinery that decides what to do with the fuel.
 
-The person who counts has traded a rich signal for a scalar. The unmeasured body still has hunger that is different from boredom. Satiety that arrives in waves rather than at a threshold. Energy that varies through the day and through the seasons. Appetites that shift with sleep, temperature, exercise, grief. Cravings that carry information about what the body has run low of. All of this is still there in the counter. It has simply been demoted. The body speaks in its ordinary tongue, and a number overrides it. The number says eat. The number says stop. The old vocabulary falls silent because it no longer decides.
+Fifty years of counting have not addressed what counting cannot address. That is not a comment on the diligence of the counters. It is a comment on the design of the tool.
 
-A body that once told its inhabitant what it needed has been reduced to a device whose only output is a running total. The ledger did not add a discipline to the body. It subtracted a language from it.
+## What the ledger obscures
 
-## Who put the ledger there
+The ledger has one great utility for the institutions that promote it. It relocates the site of the problem from the body's regulatory machinery, which is difficult to investigate and expensive to treat, to the patient's daily conduct, which is free to blame. If a person gains weight, the ledger says she miscounted. If she does not lose weight on a restricted intake, the ledger says she must be sneaking food, or has an adapted metabolism that will eventually cede, or lacks willpower. The ledger is the perfect diagnostic instrument for a healthcare system that does not wish to diagnose. It always finds the same fault, in the same place, and prescribes the same treatment: try harder.
 
-Not the people who now carry it. The ledger was placed there by a century of public health advice that took a laboratory instrument, the bomb calorimeter, built to measure the heat of combustion of pieces of food in a sealed chamber, and applied its output to the daily conduct of a human life. It was reinforced by an industry that sold books of tables and later apps that counted for you. It was reinforced by a food industry that stocked the shelves with low-debit entries and sold them at a premium. It was reinforced by a medical profession that asked how much do you eat and never what do you feel.
+Meanwhile the actual dysregulation, whatever it is, goes on. The insulin curve is not measured. The inflammation is not investigated. The nutritional deficits are not looked for. The sleep is not asked about. The medication is not questioned. The patient is handed a spreadsheet.
 
-The ledger has an escape clause built into it. If you follow it and lose weight, the ledger is vindicated. If you follow it and do not lose weight, you must be miscounting, or cheating, or lying. The ledger cannot fail, because the patient is always at fault. Fifty years of this arrangement have produced a population that believes the fault is theirs, and that the solution is a stricter ledger, an angrier auditor, a more punitive column.
+## Not virtue, and not a lesson
 
-The people who carry this arithmetic did not invent it. It was installed in them by the same institutions that claim to care for their health.
+I want to be careful about the register of what I am saying. The people who count are not weaker than the people who do not. They are not lazy or gluttonous or morally derelict. They have been directed toward a tool that does not connect to their machinery. Their suffering is real, their effort is real, and the failure of the effort to relieve the suffering is not their fault. It is a design failure at the level of the paradigm that told them where to apply their effort.
+
+And I am not offering my own case as an example to be imitated. I am not asking anyone to stop counting through an act of will. I am pointing out that a large part of the human population regulates its body weight without ever consulting a ledger, and that this is what regulation looks like when it works. The absence of the ledger is a symptom of a functioning system, not a technique that produced the function.
 
 ## A right not to count
 
-The way out is not a better ledger. It is no ledger. This is not license. It is a right. The right to inhabit a body without keeping books on it. The right to be hungry and to eat, tired and to rest, restless and to move, without any of these being netted against each other in a private accounting to which one is always in the red.
+Physiological rights, in the way this resource uses the term, are rights to the material conditions of a functioning body. The right not to count belongs on that list, but it belongs there differently than one might first assume. It is not primarily a right to be spared the psychological burden of vigilance, though that burden is real. It is a right to be treated as a person whose body has regulatory machinery worth investigating, rather than as a person whose diary needs auditing. It is a right to a medical culture that would ask what is going on in your endocrine system, your inflammatory state, your nutritional status, your sleep, before it asks whether you have logged your snack.
 
-Physiological rights, in the way this resource uses the term, are rights to the material conditions of a functioning body. The right not to count belongs on that list. It is the right to have the body's own signals restored to their offices, and to have the offices trusted. It is the right to a satiety that decides for itself when to arrive, to a hunger that carries its own information, to a stillness that does not need to be paid for.
-
-A right cannot be exercised alone if the environment has been engineered against it. The physiological right not to count implies a corresponding duty on the institutions that engineered the counting: to stop reproducing the ledger in every clinic, every school curriculum, every packaged food, every wellness app, every medical intake form. The counting was manufactured. It can be un-manufactured.
+To honor this right at the institutional level would be to retire the ledger from the front line of weight care. Not because it is cruel, though it is often cruel, but because it is the wrong instrument at the wrong site. The instrument at the right site would look nothing like a spreadsheet. It would look like the workup of an endocrine patient, a nutritional patient, a sleep patient, an inflammatory patient, and would be different for each. The uniform prescription of the ledger is the tell that no differential diagnosis is being attempted.
 
 ## The gulf
 
-I began by saying that I live beside people who carry an arithmetic I do not carry. What I feel about this is closer to grief than to disagreement. They watch their plates and their staircases with a vigilance no one asked of me. They eat under the eye of a number, sit under the eye of a number, sleep with the number half-open on the nightstand. Whole years of a life can pass this way.
+I began by saying I have never counted. What I feel about the people who do is closer to grief than to disagreement. They are the ones under a real medical problem, whatever the specific mechanism turns out to be. They have been given a tool that cannot address that problem, and told that any failure of the tool is a failure of theirs. Many of them have spent decades this way. Some have spent whole adult lives.
 
-I would like to imagine a world in which a child grows up without ever hearing the phrase how many calories applied to her hunger. Not because the phrase would be forbidden. Because it would not occur to anyone to say it. Her body would be something she lived in, not something she balanced. Her plate would be food, not entries. Her afternoon walk would be an afternoon walk, not an amortization.
+I would like to imagine a world in which a person who gains weight is asked what her body is doing, rather than what she is putting in it. Not because the question of intake is forbidden. Because it is understood to be the wrong first question, and everyone has come to know it. Her weight would be treated as a signal from a body that has something to say, and the medical apparatus would treat that signal with the same seriousness it brings to a rising fasting glucose or a falling ferritin. She would not be handed a spreadsheet.
 
-Such a world is imaginable. That it is not the world we have built is a fact about our institutions, not a fact about our bodies.
+Such a world is imaginable. That it is not the world we have built is a fact about our institutions, not a fact about the bodies of the people they are supposed to serve.
