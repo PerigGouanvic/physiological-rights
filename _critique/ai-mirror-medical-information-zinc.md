@@ -2,7 +2,7 @@
 description: I put three questions about zinc to a widely used AI research assistant.
   The corpus it returned was serious, the dissidents finally got named, and yet the
   transcript reads as an inventory of what a competent machine cannot say. What follows
-  is a reading of that silence, tour by tour.
+  is a reading of that silence, round by round.
 last_revised: August 2026
 layout: default
 related:
@@ -20,7 +20,7 @@ title: 'AI as the mirror of the sad state of medical information: the case of zi
 
 # AI as the mirror of the sad state of medical information: the case of zinc
 
-*I put three questions about zinc to a widely used AI research assistant. The corpus it returned was serious, the dissidents finally got named, and yet the transcript reads as an inventory of what a competent machine cannot say. What follows is a reading of that silence, tour by tour.*
+*I put three questions about zinc to a widely used AI research assistant. The corpus it returned was serious, the dissidents finally got named, and yet the transcript reads as an inventory of what a competent machine cannot say. What follows is a reading of that silence, round by round.*
 
 ---
 
@@ -32,7 +32,7 @@ It is a story about the exact line a competent instrument cannot cross.
 
 Read the transcript once as science and it looks acceptable. Read it a second time as a genre, one with its own rules about who may be blamed and who must be spared, and the missing shape becomes hard to unsee. Controversies are sanded down until they read as balanced perspectives, and clinicians who have been raising the alarm for sixty years appear as one voice inside a diplomatic chorus. The word *supplementation* hardly finishes a sentence before a nuance arrives to cancel it. Nobody asks why geriatric medicine, facing a documented crisis of anabolic decline, has never adopted thymulin as a routine measure of functional zinc status. Neither ethics nor responsibility gets raised; the aging population appears as a statistical curve rather than as an object of duty.
 
-None of this originates in the machine. It all comes from the corpus the machine is trained to synthesize politely, faithfully, and inoffensively. Sonnet 5 is not the source of the problem; it is the mirror in which the problem finally becomes legible, because a good mirror shows you what a poor mirror can only hint at. What follows is a reading of that mirror, tour by tour: what a competent machine cannot say about zinc, and what has to be inferred from its silences.
+None of this originates in the machine. It all comes from the corpus the machine is trained to synthesize politely, faithfully, and inoffensively. Sonnet 5 is not the source of the problem; it is the mirror in which the problem finally becomes legible, because a good mirror shows you what a poor mirror can only hint at. What follows is a reading of that mirror, round by round: what a competent machine cannot say about zinc, and what has to be inferred from its silences.
 
 ## Round one: encyclopedia mode
 
