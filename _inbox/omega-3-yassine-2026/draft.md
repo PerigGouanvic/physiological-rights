@@ -29,9 +29,46 @@ EPA is not a spare version of DHA. It is the acid that regulates the release and
 
 The Yassine team knew this. Their reviewers knew this. The choice of DHA-only was pragmatic (regulatory clarity, pharmacokinetic tidiness, cleaner dose-response) and it was framed as neutral. It was not neutral. It excluded, by design, the half of the omega-3 family whose functional role in nervous tissue is best documented.
 
-<!-- SECTIONS STILL TO WRITE:
-2. The wrong recipients (unstratified by depth of deficiency, only stratified by APOE)
-3. The wrong biomarker (Arnold 2010, DHA/AA ratio ambiguous, could signal AA depletion)
-4. The mechanism the authors named but did not follow (cPLA2 catabolism, Horrobin/Crawford lineage)
-Closing: the trial does not close the file, it opens a bigger one
--->
+## 2. The wrong recipients
+
+The trial stratified its randomization by APOE ε4 status, which is defensible: APOE4 modifies lipid transport and increases dementia risk, and any DHA intervention that ignored it would have been criticized for confounding. What the trial did not stratify by is the axis its own inclusion criterion pointed at: the depth of the omega-3 deficit at baseline. A single blood measurement (mean baseline omega-3 index at 4.9%) established that the pool was collectively low. It did not sort within that pool. A participant whose index came in at 3.2% was randomized alongside one at 6.4%, and their responses were averaged together over 24 months.
+
+The published subgroup data hint at what that averaging cost. Non-APOE4 carriers improved on cognition (+3.79 RBANS points against +1.60 in carriers), regardless of treatment. Left hippocampal volume declined more, not less, in APOE4 carriers on DHA than on placebo. Neither trend reached significance. Neither is presented as a signal. But both point in the direction of a stratification the trial did not perform: not by risk marker (APOE), but by the biological state the intervention was supposed to correct.
+
+The distinction matters. APOE ε4 is a marker of who is at risk of dementia. The omega-3 index is a marker of who has the deficit the intervention is meant to fix. These are two different things, and a trial that treats them as interchangeable is running the classic error of population studies: it tests whether a mean response exists in a group defined by risk, when the biological question is whether a specific response exists in the subset defined by need.
+
+If the truly depleted, at the 5th percentile of the study's baseline index, responded differently from the merely low at the 95th percentile, the trial cannot say so. The data exist. They were not analyzed that way. The pre-registered analysis plan set the stratification on genotype, and the analysis followed the plan. That is not a scientific failing, that is a design choice. But it is a design choice that guarantees a certain kind of null result: any true responders within the pool have their signal diluted by the non-responders they were pooled with, and the trial's own capacity to detect the response it was built to look for is throttled at the door.
+
+## 3. The wrong biomarker
+
+The paper's headline biochemical result is that the cerebrospinal DHA/AA ratio moved from 0.43 to about 0.60 in the DHA arm, against a shift of −0.02 in the placebo arm. That is the number the authors chose as evidence that the intervention had reached the tissue. On its face, it is impressive. It is also, in direction, ambiguous.
+
+A ratio can rise for two reasons. The numerator can climb, or the denominator can fall. In the case of DHA and arachidonic acid, both happen when pure DHA is given. Arnold and colleagues showed in 2010, in the *Journal of Biological Chemistry*, that pure DHA supplementation depresses plasma AA by 24% and red-cell membrane AA by 16% within twelve weeks. DHA is a direct competitive inhibitor of AA at multiple steps: at the incorporation into membrane phospholipids, at the release by phospholipase A2, at the acceptance by cyclooxygenase. A DHA-only intervention over 24 months does not just raise DHA. It compresses AA. The ratio moves. The question is what has moved it.
+
+Yassine's team did not report separate DHA and AA cerebrospinal values, only their ratio. From the ratio alone, the reader cannot tell whether the brain has been enriched in DHA, depleted in AA, or both. The three scenarios are indistinguishable at the level of the measurement chosen, and only one of them is compatible with the story the paper tells.
+
+Arachidonic acid, in the brain, is not a nuisance. It is roughly 12% of cerebral lipid mass. Its free form, liberated on demand by cytosolic phospholipase A2, is a signaling molecule in its own right: it modulates ion channels, activates kinases, gates neurotransmitter release, and serves as the direct precursor of eicosanoids that regulate long-term potentiation and long-term depression, the two cellular mechanisms of memory. Its metabolic descendants include the endocannabinoids that carry the biological signature of motivation. Squeezing it, as a byproduct of flooding a competing molecule, is not neutral. Whether the trial actually squeezed it in the brain, or only in the blood, or not at all, cannot be determined from what was measured.
+
+A biomarker of intervention success that cannot distinguish between the enrichment of the target and the depletion of its functional partner is not, strictly, a biomarker of success. It is a biomarker of displacement. The paper celebrates the displacement, and the discussion, as section 4 will show, contains an admission that the authors themselves suspected the mechanism by which their own metric might mislead them.
+
+## 4. The mechanism the authors named but did not follow
+
+Buried in the discussion of the Yassine paper is this sentence: *"Pathological activation of enzymes such as calcium-dependent phospholipase A2 (cPLA2) may actively alter DHA and AA fates after supplementation, catabolizing these polyunsaturated fatty acids. This process attenuates the intended biochemical intervention at the subcellular compartments (synaptic membranes) most critical for cognition."*
+
+Read what it says. The authors are proposing that in the aging brains they were treating, the enzyme cPLA2 might be actively breaking down both DHA and AA at synaptic membranes as fast as, or faster than, the supplementation could replenish them. If that is true, then the cerebrospinal fluid measurement, which samples what is circulating in the ventricles, does not represent what is happening at the synapses. The molecule engaged the target on paper, and the target kept degrading it in place. The metric of success measured what escaped the enzyme, not what integrated into the membrane.
+
+That is an extraordinary admission to make in the discussion of a paper whose title is *CNS target engagement*. It says: our biomarker of engagement may not reflect engagement. It also says something more consequential: that the biological system these authors were intervening on may have an intrinsic, disease-modifying degradation of the very lipids they were supplementing, at the very sites where those lipids need to work. If that is right, then the intervention as designed cannot succeed. Flooding a leaky vessel raises the level in the pipes and not in the vessel.
+
+The admission has a genealogy. David Horrobin in the 1970s, Michael Crawford in 1972, and their successors (Stephen Cunnane, John Stein, and the small clinical school that has treated cPLA2 dysregulation and phospholipid trafficking at the synapse as the central variable in cognition) built a model that placed exactly this problem at the center of neural lipid biology, from early neurodevelopment through late-life decline. Their model did not produce a $50-million multicenter trial. Yassine's did. And Yassine's, in its discussion section, quietly borrows the piece of the British model that predicts its own null result, then does not follow the borrowing to its conclusion.
+
+The conclusion is that the trial cannot rule out the intervention. It has to rule out its own design first. If cPLA2 catabolism dominates at the synapse in aging APOE4 carriers, then a trial that measured cerebrospinal DHA at month 24 and cognition at month 24 was measuring the wrong thing at the right target. The right thing to measure would have been synaptic phospholipid turnover, and no imaging pipeline exists to do that at scale in living humans. The tools of the field, and therefore the questions the field can ask, do not reach the level at which the authors themselves suspect the answer lies.
+
+## What the trial actually shows
+
+The Yassine trial is not the failure of omega-3. It is a fully executed and honestly reported test of one member of the omega-3 family, at one dose, in a pool that was pooled too coarsely, using a biomarker that measures displacement as well as engagement, on a mechanism the authors themselves suspected was defeated by the disease they were trying to slow. That is a lot of scientific content. It is not a verdict on nutrition.
+
+The right to an optimal omega-3 status, as this resource has set it out, does not rise or fall on any one trial. It rests on the biology of membranes, on the omega-3/omega-6 imbalance of the modern Western diet, on the specific and testable Omega-3 Index, and on the century of accumulated lipid biochemistry that identifies these acids as functionally required for the working brain. Yassine et al. did not touch any of that. They tested whether, inside the constraints of American academic pharmacology, a purified molecule delivered by capsule to the ventricles of at-risk elders could produce a measurable cognitive shift in two years. The answer, as far as it goes, is no. That answer says almost nothing about what a broader intervention on the actual physiological deficit would do, because that intervention has not been tried at this scale.
+
+What CNN carried, and what the wire services amplified, was the sentence a tired principal investigator gave them in an interview: *the blunt instrument does not work*. It reads better as a self-description. The instrument was blunt. The target was engaged in the wrong compartment. The population was pooled without being sorted. The biomarker measured the shadow of the intervention, not the intervention. And the mechanism that would have redeemed the design was named in the discussion and left there.
+
+The right to an optimal omega-3 status stands. The next trial worth running is one this trial cannot design.
