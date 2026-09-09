@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "The serotonin hypothesis of depression has been debunked. The nutritional imbalances that actually predict outcome are not measured."
-short_form: "Moncrieff and colleagues published in Molecular Psychiatry in 2022 the systematic umbrella review that ended the serotonin theory: no convincing evidence of an association between serotonin and depression, and no biochemical basis for the paradigm. The chemical imbalances that are measurable (omega-3, folate, B12, magnesium, vitamin D) are absent from routine psychiatric workup."
+title: "The chemical imbalance in the pitch was a hoax. The imbalances in the tissue are certain, and treatable."
+short_form: "The chemical imbalance that sold four decades of antidepressants was overturned by a peer-reviewed umbrella review in 2022. The chemical imbalances that actually correlate with depression, anxiety, and bipolar disorder (omega-3, folate, B12, magnesium, vitamin D) are measurable in an ordinary blood draw, correctable with cheap intervention, and never named at the consultation."
 tags:
   - depression
   - bipolar
@@ -12,12 +12,12 @@ tags:
   - magnesium
   - folate
 date: 2026-09-09
-description: "In 2022, Moncrieff, Cooper, Stockmann, Amendola, Hengartner, and Horowitz published in Molecular Psychiatry a systematic umbrella review concluding that there is no convincing evidence depression is associated with or caused by lower serotonin levels. The measurable imbalances (omega-3, folate, B12, magnesium, vitamin D) are heavily documented in psychiatric populations and remain outside the standard workup."
+description: "The chemical imbalance you were told causes depression was a hoax. Moncrieff, Cooper, Stockmann, Amendola, Hengartner, and Horowitz published in Molecular Psychiatry in 2022 the systematic umbrella review concluding no convincing evidence for the serotonin hypothesis. The imbalances that are real (omega-3, folate, B12, magnesium, vitamin D) are measurable, correctable, and absent from the standard psychiatric workup."
 ---
 
 # Did you know…
 
-**The serotonin hypothesis of depression, the "chemical imbalance" story that anchored four decades of antidepressant marketing, was overturned by a systematic umbrella review published in *Molecular Psychiatry* in 2022.** The chemical imbalances that actually predict clinical outcome in mood disorders are the nutritional ones. They are measurable, correctable, cheap, and absent from routine psychiatric workup.
+**The chemical imbalance you were told caused your depression was a hoax. The chemical imbalances that actually correlate with mood disorders are measurable in an ordinary blood draw, correctable with cheap intervention, and never named at the consultation.** The first proposition rests on a systematic umbrella review published in *Molecular Psychiatry* in 2022. The second rests on two decades of nutritional psychiatry the standard prescription pad ignores.
 
 ## The claim, in the words of the umbrella review that ended the paradigm
 
