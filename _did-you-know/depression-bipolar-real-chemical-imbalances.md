@@ -1,46 +1,53 @@
 ---
 layout: default
-title: "The chemical imbalances of mood disorders are real, but they are not the ones drug labels name"
-short_form: "Patients with depression and bipolar disorder are disproportionately deficient in omega-3 fatty acids, folate, vitamin B12, magnesium, and vitamin D. These are measurable, correctable, and rarely addressed. The serotonin and noradrenaline 'imbalances' of drug marketing are not measured because they cannot be measured in living brains."
+title: "The serotonin hypothesis of depression has been debunked. The nutritional imbalances that actually predict outcome are not measured."
+short_form: "Moncrieff and colleagues published in Molecular Psychiatry in 2022 the systematic umbrella review that ended the serotonin theory: no convincing evidence of an association between serotonin and depression, and no biochemical basis for the paradigm. The chemical imbalances that are measurable (omega-3, folate, B12, magnesium, vitamin D) are absent from routine psychiatric workup."
 tags:
   - depression
   - bipolar
   - anxiety
+  - serotonin-hypothesis
+  - moncrieff
   - omega-3
   - magnesium
   - folate
-  - serotonin-hypothesis
 date: 2026-09-09
-description: "Patients with depression and bipolar disorder show high prevalence of omega-3, B-vitamin, and magnesium deficiencies. In one randomized case series, magnesium 125-300 mg per meal produced rapid recovery from major depression in under seven days. A 1990 study found magnesium as effective as lithium in rapid-cycling bipolar disorder in roughly half the subjects. Serotonin and noradrenaline imbalances, by contrast, cannot be measured in the living brain."
+description: "In 2022, Moncrieff, Cooper, Stockmann, Amendola, Hengartner, and Horowitz published in Molecular Psychiatry a systematic umbrella review concluding that there is no convincing evidence depression is associated with or caused by lower serotonin levels. The measurable imbalances (omega-3, folate, B12, magnesium, vitamin D) are heavily documented in psychiatric populations and remain outside the standard workup."
 ---
 
 # Did you know…
 
-**Patients with depression, anxiety, and bipolar disorder are disproportionately deficient in omega-3 fatty acids, folate, vitamin B12, magnesium, and vitamin D.** These are measurable, correctable, and rarely addressed in first-line care. The "chemical imbalances" that drug manufacturers named for four decades (serotonin, noradrenaline, dopamine) are not measured because they cannot be measured in the living brain. The chemical imbalances that actually predict response to intervention are the nutritional ones, and they are absent from the standard psychiatric workup.
+**The serotonin hypothesis of depression, the "chemical imbalance" story that anchored four decades of antidepressant marketing, was overturned by a systematic umbrella review published in *Molecular Psychiatry* in 2022.** The chemical imbalances that actually predict clinical outcome in mood disorders are the nutritional ones. They are measurable, correctable, cheap, and absent from routine psychiatric workup.
 
-## The claim, in the reference of psychonutritional research
+## The claim, in the words of the umbrella review that ended the paradigm
 
-The evidence base for nutrient-mood disorder associations is now substantial. Recent reviews document that:
+Joanna Moncrieff, Ruth E. Cooper, Tom Stockmann, Simone Amendola, Michael P. Hengartner, and Mark A. Horowitz published in *Molecular Psychiatry* in July 2022 the systematic umbrella review that closed the file on the serotonin theory of depression. Their conclusion is direct:
 
-- **Omega-3 fatty acids** have among the strongest evidence for bipolar depression, with EPA-dominant formulations outperforming DHA-dominant ones in unipolar depression as well.
-- **Folate (0.8 mg/day) and vitamin B12 (0.4 mg/day)** in randomized controlled trials produce measurable reductions in depression symptoms, likely through effects on one-carbon metabolism, monoamine turnover, and GABA synthesis.
-- **Magnesium** at 125 to 300 mg per meal, in a case series, produced rapid recovery from major depression in under seven days in most patients. A 1990 study of rapid-cycling bipolar patients found that magnesium was as effective as lithium in approximately half the subjects.
-- **Zinc** at low blood levels correlates with depression severity and increases the efficacy of standard antidepressant therapy in unipolar depression.
-
-The prevalence findings across cohorts of psychiatric patients:
-
-> *"This study demonstrates a high prevalence of omega-3 fatty acid, B vitamin and magnesium deficiencies among patients with psychiatric disorders, particularly those with depression and longer illness duration."*
+> *"The major strands of research on serotonin shows there is no convincing evidence that depression is associated with, or caused by, lower serotonin concentrations or activity."*
 >
-> — Recent systematic review of nutritional deficiencies in psychiatric disorders
+> — Moncrieff, Cooper, Stockmann, Amendola, Hengartner & Horowitz, *Molecular Psychiatry*, 2022
 
-## What the "chemical imbalance" framing obscured
+And more comprehensively:
 
-The serotonin, noradrenaline, and dopamine imbalances that anchored the pharmaceutical marketing of SSRIs and their successors from the 1980s onward were never measurable in the living human brain. The lumbar puncture that would sample cerebrospinal metabolites is not a diagnostic procedure in ordinary psychiatric care. The measurable imbalances (omega-3 index, red-cell folate, holotranscobalamin, red-cell magnesium, serum vitamin D) are the ones that never entered the marketing register, and they are also the ones that never entered the standard workup.
+> *"No consistent international evidence of an association between serotonin and depression, and consequently no convincing evidence of a biochemical basis of depression."*
+>
+> — Moncrieff et al., 2022
+
+The review examined every major line of serotonin research (receptor binding studies, receptor gene studies, tryptophan depletion studies, animal studies, and cerebrospinal fluid serotonin metabolite studies) and found none of them supported the causal claim that had, for four decades, justified prescribing tens of millions of doses per day of medications named for the neurotransmitter.
+
+## The imbalances that are measurable, and are measurably low
+
+Patients with depression, anxiety, and bipolar disorder show a high prevalence of specific nutritional deficits that are directly relevant to mood regulation and are measurable in an ordinary blood draw:
+
+- **Omega-3 fatty acids**: EPA-dominant supplementation produces the strongest and most consistent effect on unipolar and bipolar depression across randomized trials.
+- **Folate (0.8 mg/day) and vitamin B12 (0.4 mg/day)**: reduce depressive symptoms via effects on one-carbon metabolism, monoamine turnover, and GABA synthesis.
+- **Magnesium**: in one case series, 125 to 300 mg per meal produced rapid recovery from major depression in under seven days in most patients. A 1990 study of rapid-cycling bipolar patients found magnesium as effective as lithium in approximately half the subjects.
+- **Vitamin D**: chronically deficient in the majority of psychiatric inpatients, with documented effect on mood.
 
 ## What the psychiatric visit currently produces
 
-A depressed patient in a standard psychiatric consultation receives a diagnostic label, a screening rating scale, and a prescription. They do not receive an omega-3 index, a red-cell folate, a red-cell magnesium, or a serum vitamin D. The chemical imbalance that would be actionable is not measured. The chemical imbalance the prescription addresses is not measurable.
+A depressed patient in a standard consultation in 2026 receives a diagnostic label, a screening rating scale, and a prescription for a drug named after the neurotransmitter whose alleged imbalance was retired by peer-reviewed umbrella review three years earlier. They do not receive an omega-3 index, a red-cell folate, a holotranscobalamin, a red-cell magnesium, or a serum vitamin D. The chemical imbalances that would be actionable are not measured. The chemical imbalance the prescription addresses was not there to begin with.
 
 ---
 
-*This entry is a companion to fiches on [Omega-3](/rights/omega-3/), [Folate](/rights/folate/), [Magnesium](/rights/magnesium/), and to arguments on the [failure of the workup](/critique/the-hunger-we-dont-see/).*
+*This entry is a companion to fiches on [Omega-3](/rights/omega-3/), [Folate](/rights/folate/), [Magnesium](/rights/magnesium/), and to [The Hunger We Don't See](/critique/the-hunger-we-dont-see/).*
