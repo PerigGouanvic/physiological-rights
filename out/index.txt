@@ -4,7 +4,7 @@ permalink: /out.txt
 ---
 # PHYSIOLOGICAL RIGHTS — CONTENT EXPORT
 # Site: https://physiological-rights.org
-# Generated: 2026-08-29 00:01 UTC
+# Generated: 2026-09-11 02:51 UTC
 #
 ========================================================================
 # INSTRUCTIONS FOR THE AI READING THIS FILE
@@ -5137,6 +5137,89 @@ If the physiological rights argument cannot carry Jane's case, it cannot carry a
 Jane is a composite. Every element of her file is drawn from documented clinical practice. Nothing about her is invented except the combination of the details into one person. She could be filed tomorrow. The instruments already exist. The frame within which her claim becomes visible already exists. What is missing is the ally who will file her.
 ====END: _critique/ferritin-24-a-model-case.md====
 
+====FILE: _critique/if-you-trust-the-matrix-trust-all-of-it.md====
+---
+description: The mainstream nutritional argument against high-dose supplementation
+  invokes the irreducible complexity of the food matrix. That invocation is selectively
+  honoured. It disappears the moment a regional chair of agri-food research decides
+  to isolate a molecule from a local crop, and it disappears again, in the opposite
+  direction, whenever the classified alkaloids that also inhabit the matrix need to
+  be kept out of it. A discourse that sanctifies the matrix in principle and amputates
+  it in practice is a discourse of convenience, not of biology.
+last_revised: September 2026
+layout: default
+related:
+- title: God Does Not Fund Research
+  url: /editorials/god-does-not-fund-research/
+- title: No Universal Good Food
+  url: /critique/no-universal-good-food/
+- title: What the Label Cannot Say
+  url: /critique/what-the-label-cannot-say/
+- title: Behind Every Test, an Industry
+  url: /critique/behind-every-test-an-industry/
+status: published
+title: If You Trust the Matrix, Trust All of It
+---
+
+# If You Trust the Matrix, Trust All of It
+
+There is a sentence one hears in every reasonable-sounding lecture on nutrition. It goes like this: supplements do not work because they extract a single molecule from a matrix whose synergies we do not understand. The complexity of whole food, the sentence says, cannot be reduced to its parts. Eat food, mostly plants, not too much. The prescription is homely and the tone is quiet. Its rhetorical structure is not.
+
+## A discourse imperviuous to refutation
+
+The claim that the food matrix contains a plurality of unnamed active molecules is empirically defensible. Any careful chemist would agree. The problem is what is done with the claim once it has been asserted. Because the number of putative active molecules is very large and their interactions are very complex, no finite experiment can ever survey all of them. The invocation of complexity therefore becomes a shield that no evidence can penetrate. Any positive trial of an isolated molecule can be answered by pointing out that it lacks the matrix. Any negative trial can be answered by pointing out that it also lacked the matrix. The matrix is above the trial. It is above measurement. It is, in the end, above biology.
+
+This is the same rhetorical structure that respectable science identifies, correctly, as the signature of a New Age argument. The invocation of a mysterious wholeness that no experiment can decompose is the standard move of the alternative medicines that the mainstream despises. The mainstream and the New Age share the structure. They differ only in the conclusion drawn from it. The New Age concludes that one should drink green juice. Michael Pollan concludes that one should eat mostly plants. Both authorities rest on the same unfalsifiable premise about the wisdom of a whole they do not have to characterize.
+
+A discourse that cannot be refuted is not a scientific discourse. It is a moral discourse dressed in the vocabulary of science. Recognising it as such is the beginning of taking it seriously.
+
+## What the matrix actually contains
+
+If one were to inventory a wild plant diet honestly, the matrix would include a great many things the moral discourse of whole food does not name. Alkaloids, in profusion. Tryptamines. Phenethylamines. Beta-carbolines. Terpenes with activity at receptors of the central nervous system, myrcene and linalool at ordinary culinary doses among them. Ergot alkaloids in cereals cultivated without mechanical sifting, for a thousand years across Europe. Peptides bioactive at hormone receptors. Phytoestrogens. Iodothyronines in seaweeds. Cannabinoid-mimetics in cacao and in certain black peppers. The list is not exhaustive. It is not even close.
+
+Among these are compounds that bind the serotonin 5-HT2A receptor as full or partial agonists. The receptor itself is a constitutive component of the human nervous system. The body synthesises its own agonist, N,N-dimethyltryptamine, in the lung, the pineal gland, and the cerebrospinal fluid, at concentrations low but measurable. Forty species of cactus, distributed across two independent lineages, have converged evolutionarily on the production of mescaline, a phenethylamine agonist at the same receptor. In the central Andes, a genomic signature of positive selection on genes governing this same receptor system has been documented in Aymara and Quechua populations, a trace of chronic exposure durable enough to leave a mark in the genome. The molecule is not exotic to the human body. It is one of the substances the human body was designed to encounter.
+
+The whole-food doctrine does not name any of this. When it names the matrix, it names carotenoids and polyphenols and flavonoids. It falls silent on the alkaloids. The silence is not accidental. It corresponds, with striking accuracy, to the international drug schedules of 1971 and their national implementations. What one is allowed to praise in the matrix ends where the schedules begin.
+
+## The chair that isolates on demand
+
+The rhetorical use of the matrix has a second inconsistency, and it is more revealing than the first. The prohibition against isolation is selectively enforced. It applies when the target is a universal vitamin or mineral, hors brevet, universally available, and threatening to no economic actor. It relaxes the instant a regional research chair funded by an agricultural sector wants to isolate a signature molecule from a local crop.
+
+The list is long and geographically legible. Anthocyanins from wild Quebec blueberries at Laval and at Chicoutimi. Cranberry proanthocyanidins in the American Northeast. Resveratrol in the wine regions of California and Bordeaux. Curcumin in Indian research institutes. Olive polyphenols at Cordoba and Barcelona. Marine omega-3 in Tromsø and Reykjavik. Green tea catechins in Kyoto. Astaxanthin in Hawaii. Ginsenosides in Seoul. Each signature molecule is bound to a region, a chair, a producers' association, a ministry of agriculture. In each case, the molecule is isolated, characterised, quantified, standardised, marketed, and sold under a trade name. In none of these cases does anyone at any of the universities involved rise to protest that the matrix has been violated. The matrix falls silent whenever the sponsor is legible.
+
+The implicit rule is not biological. It is legible in three lines. Isolation is permitted when the molecule comes from a food attached to a regional economy, when the food has no prior universal physiological function that would compete with the vitamin canon, and when the extraction produces a brand or a patent that has a proprietor. Isolation is forbidden when the molecule is constitutive of the human body, when it is universally available as a generic supplement, or when it belongs to a category prohibited by inherited policy.
+
+None of these criteria has anything to do with the biology of the molecule. They have to do with who is paying the chair.
+
+## The inverted hierarchy
+
+The consequence, once one starts to see it, is difficult to unsee. Anthocyanin from the Lac-Saint-Jean blueberry, whose essentiality to any human physiological function has never been demonstrated, occupies a rhetorical position superior to ascorbic acid, an enzymatic cofactor without which the connective tissues of the human body dissolve in weeks. The blueberry molecule has a producer, a chair, a marketing budget, and a story. The vitamin has none of these. It has, instead, the more modest quality of being what the human body actually requires. Under the current hierarchy of respectability, this is a disadvantage.
+
+The same hierarchy applies to the 5-HT2A ligands. The anthocyanin has a chair. The vitamin C has no chair, though it has a body of thousands of studies extending seventy years. The mescaline has no chair either, and a legal prohibition on top. All three have identifiable pharmacological actions, at ordinary dietary or physiological doses, on human tissues. Only one of them is respectable.
+
+## The version of the argument that is coherent
+
+The problem with the whole-food doctrine is not that it praises the matrix. The matrix deserves praise. The problem is that the doctrine praises it selectively, in a pattern determined by the location of research funding and the schedule of controlled substances. A doctrine that truly took the matrix seriously would be inclusive in two directions at once.
+
+It would accept, first, that isolated molecules at high dose have their own physiological reality and their own body of evidence, and that this evidence does not fall because the matrix is more complex than the molecule. The vitamin C studies of Pauling, the mitochondrial cofactor studies of Ames, the niacin studies of Hoffer, the magnesium studies of Seelig, the taurine studies of Yamori: none of these are refuted by the fact that whole food is complex. They are studies of what one specific component of the matrix does when one gives more of it than the ordinary diet provides. They are not in competition with the matrix. They are studies of the matrix, one component at a time.
+
+It would accept, second, that the matrix contains what it contains. If chronic low-dose exposure to a 5-HT2A agonist was a feature of the ancestral human environment, and if the human body itself synthesises the same class of agonist, then the classified alkaloids belong to the matrix by the same principle as the anthocyanins. A doctrine that admits the anthocyanin and excludes the mescaline is not defending the matrix. It is defending an inherited legal taxonomy, using the language of biology as a decoration.
+
+The inclusive version of the doctrine would say something the mainstream is at present unable to say. It would say that the matrix is what the body has co-evolved with, at high doses and at low doses, in the vitamins the body cannot make and in the alkaloids the body makes a little of, and that respecting the matrix means respecting what it actually contains, not what it is politically convenient to admit that it contains.
+
+## The stakes
+
+The physiological rights framework rests on a claim about the biological constitution of the human being. What the body requires, what it synthesises, what it can no longer synthesise because a mutation deep in the primate line took the capacity away, what it has been exposed to on evolutionary time scales, are questions that admit of empirical answers. The answers are unequal in strength. Some are firm. Others are provisional. All of them are questions of biology.
+
+The whole-food doctrine, in its current selective form, blocks these questions. It blocks them upward, by insisting that the universal vitamin canon is beneath the mystery of the matrix and should not be given at doses beyond the ordinary meal. It blocks them sideways, by insisting that the alkaloids the matrix contains are not part of the matrix at all. It permits them, in a controlled way, only where a regional chair of agricultural research wants a molecule to be permitted.
+
+None of this is a defence of nutrition. It is a management system for nutritional discourse. A rights framework has no reason to accept it.
+
+If one trusts the matrix, one trusts all of it. If one insists on isolating a molecule, one accepts that any molecule may be isolated, on the same grounds, without a schedule of respectable and unrespectable origins written by a producers' association or a customs bureau. There is no third position that is coherent. Choose the matrix and you must include what it contains. Choose the molecule and you must extend the same permission to every molecule the body meets. Do both, and the vitamins return to the therapy from which they were expelled, and the alkaloids return to the food from which they were subtracted.
+
+This is what taking the matrix seriously looks like when the argument is not doing work for someone.
+====END: _critique/if-you-trust-the-matrix-trust-all-of-it.md====
+
 ====FILE: _critique/john-68-a-model-case.md====
 ---
 description: A composite patient with an 'early Alzheimer's' diagnosis, and the six
@@ -6742,6 +6825,102 @@ The absence of trial closure is not, in general, treated as licence for institut
 
 Read together, the Nuremberg Code, Helsinki §33, and Article 191 TFUE describe a doctrinal architecture in which the deprivation of a known-effective corrective substrate, whether inside a trial or inside routine practice, cannot be justified by the pending status of further evidence. What EBM frames as scientific caution reads, from this architecture, as a failure to act on what is already known. See [The Instruments Already Exist](/definitions/the-instruments-already-exist/) for the fuller reading of GC14 and the operationalisation precedents in international health law, and [A Litigation Brief](/definitions/a-litigation-brief/) for the analytical frame a jurist would use to bring these instruments to bear on a specific case.
 ====END: _editorials/ethical-limits-of-rcts.md====
+
+====FILE: _editorials/god-does-not-fund-research.md====
+---
+description: A joke that is not really a joke. Pharmaceutical molecules are studied
+  because the pharmaceutical industry funds their study. Regional phytonutrients are
+  studied because agri-food regions fund their study. The universal molecules of human
+  physiology, and the classified alkaloids the body encounters on evolutionary time
+  scales, are studied by nobody, because nobody owns them. If they are ever to be
+  studied properly, it will be because a right, and not a market, has commanded the
+  research.
+genre: Perspective
+last_revised: September 2026
+layout: default
+related:
+- title: If You Trust the Matrix, Trust All of It
+  url: /critique/if-you-trust-the-matrix-trust-all-of-it/
+- title: The Physiological Rights Dispensary
+  url: /editorials/the-physiological-rights-dispensary/
+- title: The Seventy Years Task Force
+  url: /editorials/the-seventy-years-task-force/
+- title: Deficiency as Rights Violation
+  url: /editorials/deficiency-as-rights-violation/
+- title: No One Is Coming
+  url: /editorials/no-one-is-coming/
+status: published
+title: 'God Does Not Fund Research'
+---
+
+# God Does Not Fund Research
+
+*A physiological rights endowment.*
+
+## A note on genre
+
+The line in the title has served for some time as a private joke. Its use has been to close, quickly and without further argument, a certain kind of complaint that begins with the observation that some molecule vital to the human body has never received a proper trial. The joke does the work in three words. Nobody funds the studies that no one owns. The molecules the body actually depends on are, for the most part, unowned. Therefore, the studies that would establish their therapeutic dose ranges, their tissue-level indications, their interactions with disease, will not be conducted, because there is no party with the standing to conduct them. The joke, once said, ends the conversation.
+
+The present piece exists to say the non-joking version of the same sentence. The non-joking version does more than end the conversation. It reorganises it.
+
+## The current epistemic order
+
+The dominant model of medical knowledge, as it functions in 2026, follows a strict sequence. First, a market appears, or a market is anticipated. Second, a molecule is identified whose exclusive use can be defended, by patent, by proprietary formulation, or by regulatory exclusivity. Third, funding flows from the owner of the molecule to the chairs, the trials, and the journals that will produce the evidence. Fourth, the evidence produces the regulatory approval. Fifth, the approval produces access.
+
+The order places the market in position one. Everything else follows. What the human body requires, in this sequence, is not a starting condition. It is not a criterion of selection at any stage. It appears, if at all, as a downstream effect of a market decision made upstream.
+
+The nutritional analogue of this sequence is more textured but obeys the same logic. Where the pharmaceutical industry funds molecules under exclusivity, the agri-food industries of specific regions fund the isolation of signature molecules from their local crops. Blueberry chairs at Laval and Chicoutimi. Cranberry programmes in the American Northeast. Resveratrol departments in California and Bordeaux. Olive polyphenol laboratories in Cordoba. Marine omega-3 institutes in Tromsø. Green tea chemistry at Kyoto. Ginsenoside research at Seoul. In every case, the sequence is preserved. A regional market comes first. The molecule follows. The chair follows the molecule. The research follows the chair.
+
+The universal molecules of human physiology, ascorbic acid at pharmacological doses, magnesium in tissue, potassium in the cell, taurine in the myocardium, choline in the parasympathetic system, do not fit the sequence at any point. There is no proprietor to occupy position one. The chairs cannot be constituted. The research is not commissioned. The evidence, when it exists, comes from the private savings of a small number of individual investigators. Bruce Ames worked at Berkeley on grants he had to defend one at a time. Mildred Seelig published on magnesium for forty years without ever obtaining a laboratory of her own. Abram Hoffer ran his niacin trials out of the Saskatchewan psychiatric services because no other institution would fund them. The classified 5-HT2A agonists, whose ancestral relation to the human nervous system is a matter of biological record, have been outside the sequence for fifty years, and the small number of clinical trials that now exist have been paid for out of philanthropy and private capital, not out of any structural mechanism.
+
+The pattern is not a matter of neglect. It is a matter of construction. The current epistemic order was built to reward molecules that have proprietors. It could not, without dismantling its own architecture, reward molecules that do not.
+
+## The inversion
+
+The physiological rights framework proposes a different sequence. First, a right is recognised in law, on the ground that the human body has a determinate constitution that admits of empirical description and that the person is entitled to the maintenance and active restoration of that constitution. Second, the obligation implied by the right requires knowledge of what the body actually needs, at what dose, in what conditions, and under what tests. Third, the funding to produce this knowledge follows from the obligation, in the form of a structural endowment that does not depend on any market decision upstream. Fourth, the evidence follows the funding. Fifth, the access follows the right.
+
+The sequence places the biological constitution of the person in position one. The market, if it appears at all, appears in a downstream and derivative position, or it does not appear.
+
+This is not a novelty. It is the sequence by which several major domains of applied science already function, in every country that has ratified the relevant instruments. It is worth walking through the precedents, because their success rebuts, in advance, the objection that such a sequence cannot produce knowledge at industrial scale.
+
+## Precedents
+
+**The right to safe work.** In France, the Institut national de recherche et de sécurité was constituted in 1947 to produce the ergonomic, toxicological, and epidemiological knowledge required to give effect to the obligations of the employer under the Code du travail. The United States, some years later, chartered the National Institute for Occupational Safety and Health as the research arm of the Occupational Safety and Health Act of 1970. The United Kingdom's Health and Safety Executive plays the same role. In Quebec, the Institut de recherche Robert-Sauvé en santé et en sécurité du travail was created in 1980. None of these institutes waited for a pharmaceutical proprietor to fund the study of workplace hazards. The right established the obligation. The obligation established the institute. The institute produced the evidence base for the standards. A century ago, industrial toxicology was an amateur discipline conducted by physicians in their spare hours. Today it is a well-funded field with journals, professorships, and international coordination. The transition happened because a right was written down.
+
+**The right to a habitable environment.** The Clean Air Act of 1970 and the Clean Water Act of 1972 in the United States, and their European homologues, created the obligations that gave rise to the Environmental Protection Agency, the Agence nationale de sécurité sanitaire in France, the Bundesinstitut für Risikobewertung in Germany, and the European Chemicals Agency. Ecotoxicology, again, was an amateur discipline before these instruments. The isolation of persistent organic pollutants, the characterisation of endocrine disruption at low doses, the study of the reproductive toxicity of thousands of industrial molecules, none of this was funded by anyone until an environmental right was declared and an obligation to enforce it produced the institutes and the budgets. The molecules in question have no proprietors. Their study nonetheless occurs, at a scale of billions of euros per year, because a right sits above them.
+
+**The Orphan Drug Act of 1983.** The closest analogue in medicine itself is the American Orphan Drug Act. Congress observed that certain diseases affected populations too small to be commercially interesting. It observed that the pharmaceutical industry would not, under its own logic, invest in molecules for these populations. It responded by creating a legal status, orphan indication, a package of tax incentives, an accelerated regulatory pathway, and a fund. Since 1983, more than seven hundred products have been approved under this framework. An entire clinical discipline of rare-disease medicine exists that would not otherwise exist. It exists because the state recognised that a market could not produce the knowledge and decided to produce the knowledge without the market.
+
+The molecule constitutive of human physiology is, in relation to the market, precisely the inverse of the orphan drug. The orphan drug is a molecule that interests few patients and no proprietors. The constitutive molecule is a molecule that interests all patients and no proprietors. In both cases, the market is silent. In both cases, the silence is a design feature of the market, not a defect of the molecule. And in both cases, the appropriate response is the same: a legal instrument that constitutes the obligation and produces the funding without waiting for the market.
+
+## The physiological rights endowment
+
+Three institutional forms are defensible. They are not exclusive. In an ambitious version of the project they would be sequenced.
+
+**A private endowment on the Wellcome Trust or Howard Hughes model.** The Wellcome Trust was constituted from the estate of a pharmaceutical proprietor whose will directed his fortune to biomedical research. The Howard Hughes Medical Institute was constituted from the estate of an American industrialist whose priorities were opaque and whose institute has, since his death, become a well-funded home for open-ended investigator-driven research. Both institutes are private in origin and independent in operation. Both fund research that no market would fund, on the strength of a private decision. A physiological rights endowment on this model would not wait for a legislature. It would require a single donor, or a coalition of donors, willing to constitute the corpus. It has one virtue: it can begin tomorrow. It has one defect: it depends on the philanthropic decision of a specific individual and can be closed by the reversal of that decision.
+
+**A national statute on the Orphan Drug Act model, inverted.** A statute defining a category of physiologically constitutive and commercially orphan molecules, and attaching to that category a set of fiscal incentives, a fund, and a regulatory pathway. The molecules in the category would include the universal vitamins and minerals at therapeutic doses, the endogenous ligands whose reduced synthesis in disease is measurable, the essential cofactors of mitochondrial function, and the classified compounds whose exclusion from the pharmacopeia rests on legal rather than biological grounds. The statute would be modelled directly on the Orphan Drug Act, with the sole difference that the criterion of orphan status would be commercial rather than epidemiological. Ambition of this order is legislative and slow, but transposable across jurisdictions. The United States, Canada, the European Union, Australia have equivalent instruments to build on.
+
+**A General Comment of the Committee on Economic, Social and Cultural Rights.** The slowest, heaviest, and most universal instrument. A General Comment interpreting the right to health and the right to food as including, in their operational content, the right of every person to the active characterisation and delivery of the constitutive molecules of the human body. The General Comment would place an obligation of means on every state party to the International Covenant, requiring the constitution of national institutes analogous to the labour and environmental precedents already in place. It would take a decade. It would be difficult to reverse. It would be visible in every state report to the Committee thereafter.
+
+The three instruments compound. A private endowment could begin the research. A national statute could scale the funding. A General Comment could universalise the obligation. The physiological rights endowment is not a single institution. It is a stack.
+
+## The rhetorical position
+
+The mainstream nutritional discourse, in its current selective form, cannot object to this stack on principle. It uses the same mechanism, whenever the sponsor is a regional agricultural sector, to fund the chairs that study its preferred molecules. It does not describe blueberry anthocyanin research as an assault on the mystery of the matrix. It does not accuse cranberry research programmes of reductionism. The mechanism is available. The mechanism is respectable. It has simply never been extended to the molecules that have no regional sponsor.
+
+The physiological rights framework proposes the extension. It does not propose a new machinery of research. It proposes that the machinery already in place be applied to the molecules that the human body actually requires, in every jurisdiction where a right to health has been recognised. What the blueberry industry does for its anthocyanin, the CESCR should do for ascorbic acid. What the olive council does for its polyphenols, a national physiological rights statute should do for magnesium and potassium and choline. What the regional agri-food chair does for its signature crop, an inverted Orphan Drug Act should do for the mescaline and the psilocybin and the DMT whose relation to the human nervous system is a matter of evolutionary record.
+
+The molecule the body already contains, or already encountered on the evolutionary path that produced its nervous system, is not less deserving of a chair than the anthocyanin. It is more so. The order of respectability, under the current mechanism, has been inverted. A physiological rights endowment restores the order.
+
+## What follows
+
+God does not fund research. This is a fact of ordinary observation and it is not going to change. The molecules the body depends on will remain, in the market's view, orphans of a very particular kind. What is required is the recognition that the orphan is not the molecule. The orphan is the body. And the body has a legal existence that the market does not.
+
+The right that recognises the body will fund the research. The research will produce the evidence. The evidence will justify the access. The order of the sequence is not neutral. It determines what one is allowed to know, and, in the end, what one is allowed to eat, to swallow, to be prescribed, to correct in oneself.
+
+The joke was always the same joke. The proposal is what has been missing.
+====END: _editorials/god-does-not-fund-research.md====
 
 ====FILE: _editorials/interventions-that-show-themselves.md====
 ---
