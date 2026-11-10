@@ -27,6 +27,8 @@ title: Right to Adequate Vitamin C Status
 
 This page is being built openly. The biochemical catalogue below is the load-bearing section: the full scope of what vitamin C does inside a human body. Clinical history, the Levine/Hickey pharmacokinetic controversy, the therapeutic dose record (Klenner, Cathcart, Riordan), and the policy critique (the RDA as a cap on distributed scurvy) will be added as the work unfolds. Nothing is hidden in draft; what is not here yet is simply not written yet.
 
+The historical, biographical, and archival material that would otherwise swell this page beyond readability is being developed in parallel at the [Journal of Ascorbate Research]({{ '/journal-of-ascorbate-research/' | relative_url }}), a companion publication to this fiche.
+
 ---
 
 ## The four dose levels
