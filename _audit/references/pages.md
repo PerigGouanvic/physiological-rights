@@ -2,11 +2,11 @@
 
 Inventaire initial du 12 novembre 2026, au commit `81ac3a255cad7d678eacd03b517c045b86ef3333` : 117 fichiers Markdown de collections, pages racine et index éditoriaux candidats à la lecture. La présence dans cet inventaire ne certifie pas la publication effective ; les brouillons et index seront qualifiés au passage.
 
-Une page pilote a une vérification bibliographique partielle et une première lecture éditoriale terminée. Toutes les autres sont à faire ; le suivi de juillet reste distinct et n'est pas converti en validation scientifique exhaustive.
+Le rapport documentaire de la page pilote est terminé, avec ses limites d'accès consignées. La fiche magnésium de `/rights` est en cours ; toutes les autres sont à faire, et le suivi de juillet reste distinct.
 
 ## Priorité de reprise
 
-Terminer les blocages du [dossier magnésium sérique](pages/magnesium-serum-test.md), puis recueillir les décisions de Perig. La fiche `_rights/magnesium.md` est proposée ensuite, sans lecture de vérification engagée à ce stade.
+Le [dossier magnésium sérique](pages/magnesium-serum-test.md) est terminé sans modification de la page. Poursuivre en priorité le [dossier `_rights/magnesium.md`](pages/rights-magnesium.md), puis les autres fiches `_rights/` ; ne pas ouvrir une autre collection avant elles.
 
 ## Inventaire
 
@@ -57,7 +57,7 @@ Terminer les blocages du [dossier magnésium sérique](pages/magnesium-serum-tes
 | `_did-you-know/insulin-cardiovascular-patients-simply-undiagnosed.md` | À faire | À faire | Sans objet à ce stade | Non appliquée | À créer |
 | `_did-you-know/iron-deficiency-without-anaemia-most-missed.md` | À faire | À faire | Sans objet à ce stade | Non appliquée | À créer |
 | `_did-you-know/lithium-drinking-water-suicide-mortality.md` | À faire | À faire | Sans objet à ce stade | Non appliquée | À créer |
-| `_did-you-know/magnesium-serum-test-misses-99-percent.md` | Partielle | Première passe terminée | En attente | Non appliquée | [Dossier](pages/magnesium-serum-test.md) |
+| `_did-you-know/magnesium-serum-test-misses-99-percent.md` | Vérifiée, limites consignées | Première passe terminée | En attente | Non appliquée | [Rapport terminé](pages/magnesium-serum-test.md) |
 | `_did-you-know/magnesium-subclinical-public-health-crisis.md` | À faire | À faire | Sans objet à ce stade | Non appliquée | À créer |
 | `_did-you-know/muscle-loss-strongest-predictor-frailty.md` | À faire | À faire | Sans objet à ce stade | Non appliquée | À créer |
 | `_did-you-know/nad-decline-tissue-specific.md` | À faire | À faire | Sans objet à ce stade | Non appliquée | À créer |
@@ -106,7 +106,7 @@ Terminer les blocages du [dossier magnésium sérique](pages/magnesium-serum-tes
 | `_rights/glutathione.md` | À faire | À faire | Sans objet à ce stade | Non appliquée | À créer |
 | `_rights/insulin.md` | À faire | À faire | Sans objet à ce stade | Non appliquée | À créer |
 | `_rights/iron.md` | À faire | À faire | Sans objet à ce stade | Non appliquée | À créer |
-| `_rights/magnesium.md` | À faire | À faire | Sans objet à ce stade | Non appliquée | À créer |
+| `_rights/magnesium.md` | En cours, 29 références inventoriées | En cours | En attente | Non appliquée | [Dossier](pages/rights-magnesium.md) |
 | `_rights/muscle-mass.md` | À faire | À faire | Sans objet à ce stade | Non appliquée | À créer |
 | `_rights/omega-3.md` | À faire | À faire | Sans objet à ce stade | Non appliquée | À créer |
 | `_rights/optimal-hormonal-levels.md` | À faire | À faire | Sans objet à ce stade | Non appliquée | À créer |

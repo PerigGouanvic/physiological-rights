@@ -20,7 +20,7 @@ Lister chaque référence, citation, chiffre et affirmation empirique repérée,
 
 - **Lieu :** fichier, lignes, extrait exact.
 - **Nature :** problème ou confirmation.
-- **Preuve :** source effectivement ouverte avec URL, repère et court extrait si utile.
+- **Preuve :** source effectivement ouverte avec URL et repère ; renvoi au cahier d'extraits contextualisés.
 - **Accès :** texte intégral / résumé / notice / indirect ; date de consultation.
 - **Verdict :** valeur de la grille.
 - **Correction proposée :** notice, lien, appel, portée ou variante ; ne rien appliquer.
@@ -41,9 +41,11 @@ Lister chaque référence, citation, chiffre et affirmation empirique repérée,
 - **Décision :** en attente.
 - **Application :** non appliquée.
 
-## Notices bibliographiques et liens
+## Notices exhaustives, liens et cahier d'extraits
 
-Pour chaque source : identifiant CSL, notice lisible complète, URL stable, lien au texte intégral si disponible, niveau d'accès effectivement obtenu. Séparer sources utilisées, sources seulement identifiées et pistes rejetées.
+Pour chaque source : identifiant CSL, tous les auteurs disponibles, titre complet, revue ou éditeur, date, volume, numéro, pages ou numéro d'article, DOI/PMID/PMCID disponibles, URL stable et accès réellement obtenu. Séparer sources utilisées, sources seulement identifiées et pistes rejetées ; ne pas compléter un champ de mémoire.
+
+Ajouter plusieurs citations originales avec contexte et repères, longues lorsque la licence ou l'autorisation le permet. Contrôler chaque extrait mot à mot ; indiquer les coupes et ajouts. Séparer commentaire et citation ; consigner la licence, les limites et les passages non reproduits. Ne jamais traduire une limite d'accès en verdict défavorable sur les travaux.
 
 ## Blocages et prochaine action
 

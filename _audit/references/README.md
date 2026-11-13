@@ -5,6 +5,7 @@ Chantier ouvert le 12 novembre 2026 à la demande de Perig. Les idées et la pos
 ## Périmètre et garde-fous
 
 - **Une page à la fois :** terminer son dossier ou consigner explicitement ses blocages avant d'en ouvrir une autre. Une page liée peut servir à retrouver une source, mais n'est pas pour autant auditée.
+- **Priorité demandée :** après le dossier pilote, traiter les fiches `_rights/` avant les autres collections, en commençant par `_rights/magnesium.md`.
 - **Deux volets distincts :** vérifier les références et leur adéquation aux affirmations ; relever les formulations à revoir et proposer des solutions. Ne pas confondre erreur factuelle et préférence de style.
 - **Aucune modification éditoriale pendant l'audit :** les corrections bibliographiques sont préparées ici. Les reformulations, suppressions et changements de sens attendent une décision de Perig.
 - **Pas de changement d'interface :** le clic ouvrant une fenêtre de référence est une piste, pas une décision de réalisation. Aucun composant n'est ajouté à ce stade.
@@ -41,7 +42,8 @@ Pour chaque référence explicite, citation directe, chiffre ou affirmation empi
 5. Vérifier la population, le dénominateur, le protocole, le résultat, les unités et la portée de l'inférence. Une référence réelle peut ne pas justifier la phrase.
 6. Comparer les citations mot à mot. Distinguer extrait intégral, fragment, coupe indiquée, ajout entre crochets et traduction ; ne pas attribuer à un réseau les propos d'autres auteurs.
 7. Vérifier les corrections, rétractations ou versions signalées par les pages consultées. Consigner les vérifications de statut non terminées ; ne pas promettre une veille exhaustive.
-8. Préparer la notice bibliographique et les liens stables. Ne rien inventer pour remplir un champ absent.
+8. Préparer la notice bibliographique exhaustive, sans remplacer les coauteurs par « et al. », et les liens stables. Ne rien inventer pour remplir un champ absent.
+9. Constituer pour chaque publication un cahier de plusieurs citations authentiques, longues et contextualisées lorsque les droits le permettent : texte original, thème ou section, lien, licence et commentaire distinct. Pour un texte sans licence de reproduction étendue, fournir une sélection limitée, des repères et une synthèse ; ne pas prétendre que cette sélection satisfait une demande de longues citations pour chaque source.
 
 Verdicts documentaires : `confirmé`, `confirmé avec portée à préciser`, `métadonnées erronées`, `attribution erronée`, `citation à ajuster`, `source identifiée mais non consultée`, `non étayé après recherche`, `contredit par la source`. Un problème d'accès n'établit pas qu'une affirmation est fausse.
 
@@ -55,7 +57,7 @@ Séparer trois objets pour la suite :
 
 - **Publication :** notice bibliographique réutilisable et liens DOI, éditeur, PubMed ou texte intégral.
 - **Usage dans une page :** affirmation soutenue, emplacement, limites, statut de vérification et décision.
-- **Annotation :** commentaire de lecture, court extrait authentifié, repère dans l'article, langue, licence ou restrictions de reproduction.
+- **Annotation :** commentaire de lecture, plusieurs extraits authentifiés, longs lorsque permis, repère dans l'article, langue, licence ou restrictions de reproduction.
 
 Cette séparation doit permettre une fenêtre au clic sans recopier une énorme bibliographie au bas de chaque page. Le futur rendu pourra afficher la notice, les liens, un extrait puis le commentaire ; garder les commentaires clairement séparés des mots des auteurs et vérifier les droits avant toute reproduction étendue.
 
@@ -67,8 +69,16 @@ La [note de recherche](language-research.md) expose la base documentaire et ses 
 
 Pour chaque signalement, conserver l'extrait, expliquer le problème dans son contexte, indiquer s'il relève d'une préférence de Perig, d'une observation de recherche ou d'un jugement éditorial, puis proposer une ou deux variantes sans les appliquer. Préserver les oppositions conceptuelles utiles, les rythmes voulus et les prises de position ; ne pas neutraliser l'auteur sous prétexte de le « désIAfier ».
 
-## État de départ
+## État actuel
 
-Le premier dossier concerne `_did-you-know/magnesium-serum-test-misses-99-percent.md`. Il est partiel : plusieurs erreurs sont documentées, mais la formulation sur la moitié des patients en soins intensifs et certains énoncés universels demandent encore des vérifications.
+Le [rapport pilote du magnésium sérique](pages/magnesium-serum-test.md) est terminé au niveau documentaire : dix verdicts, six signalements éditoriaux et neuf notices exhaustives avec 31 extraits thématiques. Les accès limités aux résumés et les droits de reproduction sont consignés ; « terminé » ne signifie ni lecture de tous les textes intégraux ni acceptation des propositions.
+
+La priorité est maintenant le [dossier de la fiche magnésium](pages/rights-magnesium.md), en cours : inventaire des 29 références, premiers constats et [cahier des sources supplémentaires](sources/rights-magnesium.md). Les autres fiches `_rights/` viennent ensuite ; les autres collections restent à faire.
 
 La base clinique locale `kb/db/`, les sources ingérées et les mémoires Claude locales ne sont pas présentes dans ce checkout. Les vérifications de cette première passe reposent donc sur les fichiers versionnés et les publications publiques consultées ; les décisions éventuellement présentes dans ces mémoires devront être confrontées aux constats avant application.
+
+## Contrôles de cette livraison
+
+Le 12 novembre 2026, les 19 notices CSL ont été lues comme JSON, avec contrôle des champs bibliographiques présents et de l'unicité des identifiants. Les liens locaux des dossiers et les 29 lignes de l'inventaire de la fiche magnésium ont été contrôlés ; le diff de contenu publié par rapport au commit examiné est vide.
+
+Les 62 groupes d'extraits des deux cahiers contiennent 72 paragraphes cités. Ils ont tous été retrouvés dans les pages sources récupérées, après normalisation des espaces, des marqueurs d'emphase et des césures de fin de ligne du PDF ; la coupe non contiguë du passage de Thoren est signalée par « […] ». Ce contrôle porte sur la fidélité des extraits à la version consultée, pas sur la validité de toutes les conclusions scientifiques.
