@@ -1,0 +1,150 @@
+[
+  {
+    "id": "jahnen-dechent-2012-magnesium-basics",
+    "type": "article-journal",
+    "author": [
+      {"family": "Jahnen-Dechent", "given": "Wilhelm"},
+      {"family": "Ketteler", "given": "Markus"}
+    ],
+    "title": "Magnesium basics",
+    "container-title": "Clinical Kidney Journal",
+    "issued": {"date-parts": [[2012]]},
+    "volume": "5",
+    "issue": "Suppl 1",
+    "page": "i3-i14",
+    "DOI": "10.1093/ndtplus/sfr163",
+    "URL": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4455825/",
+    "accessed": {"date-parts": [[2026, 11, 12]]}
+  },
+  {
+    "id": "rosanoff-2022-serum-magnesium-ranges",
+    "type": "article-journal",
+    "author": [
+      {"family": "Rosanoff", "given": "Andrea"},
+      {"family": "West", "given": "Christina"},
+      {"family": "Elin", "given": "Ronald J"},
+      {"family": "Micke", "given": "Oliver"},
+      {"family": "Baniasadi", "given": "Shadi"},
+      {"family": "Barbagallo", "given": "Mario"},
+      {"family": "Campbell", "given": "Emily"},
+      {"family": "Cheng", "given": "Fu-Chou"},
+      {"family": "Costello", "given": "Rebecca B"},
+      {"family": "Gamboa-Gomez", "given": "Claudia"},
+      {"family": "Guerrero-Romero", "given": "Fernando"},
+      {"family": "Gletsu-Miller", "given": "Nana"},
+      {"family": "von Ehrlich", "given": "Bodo"},
+      {"family": "Iotti", "given": "Stefano"},
+      {"literal": "Ka Kahe"},
+      {"family": "Kim", "given": "Dae Jung"},
+      {"family": "Kisters", "given": "Klaus"},
+      {"family": "Kolisek", "given": "Martin"},
+      {"family": "Kraus", "given": "Anton"},
+      {"family": "Maier", "given": "Jeanette A"},
+      {"family": "Maj-Zurawska", "given": "Magdalena"},
+      {"family": "Merolle", "given": "Lucia"},
+      {"family": "Nechifor", "given": "Mihai"},
+      {"family": "Pourdowlat", "given": "Guitti"},
+      {"family": "Shechter", "given": "Michael"},
+      {"family": "Song", "given": "Yiqing"},
+      {"family": "Teoh", "given": "Yee Ping"},
+      {"family": "Touyz", "given": "Rhian M"},
+      {"family": "Wallace", "given": "Taylor C"},
+      {"family": "Yokota", "given": "Kuninobu"},
+      {"family": "Wolf", "given": "Federica"}
+    ],
+    "title": "Recommendation on an updated standardization of serum magnesium reference ranges",
+    "container-title": "European Journal of Nutrition",
+    "issued": {"date-parts": [[2022]]},
+    "volume": "61",
+    "issue": "7",
+    "page": "3697-3706",
+    "DOI": "10.1007/s00394-022-02916-w",
+    "URL": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9186275/",
+    "note": "For the MaGNet Global Magnesium Project (MaGNet). Author-name anomaly: PMC displays 'Ka Kahe' between Stefano Iotti and Dae Jung Kim; publisher extraction displays 'Kahe Ka'. Literal PMC spelling retained pending PDF or authoritative author-metadata check.",
+    "accessed": {"date-parts": [[2026, 11, 12]]}
+  },
+  {
+    "id": "schwalfenberg-2017-magnesium-healthcare",
+    "type": "article-journal",
+    "author": [
+      {"family": "Schwalfenberg", "given": "Gerry K"},
+      {"family": "Genuis", "given": "Stephen J"}
+    ],
+    "title": "The Importance of Magnesium in Clinical Healthcare",
+    "container-title": "Scientifica (Cairo)",
+    "issued": {"date-parts": [[2017]]},
+    "volume": "2017",
+    "number": "4179326",
+    "DOI": "10.1155/2017/4179326",
+    "URL": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5637834/",
+    "accessed": {"date-parts": [[2026, 11, 12]]}
+  },
+  {
+    "id": "seelig-cb-1990-hypertensive-groups",
+    "type": "article-journal",
+    "author": [{"family": "Seelig", "given": "C B"}],
+    "title": "Magnesium deficiency in two hypertensive patient groups",
+    "container-title": "Southern Medical Journal",
+    "issued": {"date-parts": [[1990, 7]]},
+    "volume": "83",
+    "issue": "7",
+    "page": "739-742",
+    "DOI": "10.1097/00007611-199007000-00004",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/1695392/",
+    "accessed": {"date-parts": [[2026, 11, 12]]}
+  },
+  {
+    "id": "whang-ryder-1990-requested-routine",
+    "type": "article-journal",
+    "author": [
+      {"family": "Whang", "given": "Robert"},
+      {"family": "Ryder", "given": "Kenneth W"}
+    ],
+    "title": "Frequency of Hypomagnesemia and Hypermagnesemia: Requested vs Routine",
+    "container-title": "JAMA",
+    "issued": {"date-parts": [[1990]]},
+    "volume": "263",
+    "issue": "22",
+    "page": "3063-3064",
+    "DOI": "10.1001/jama.1990.03440220087036",
+    "URL": "https://jamanetwork.com/journals/jama/article-abstract/382147",
+    "accessed": {"date-parts": [[2026, 11, 12]]}
+  },
+  {
+    "id": "dinicolantonio-2018-subclinical-magnesium",
+    "type": "article-journal",
+    "author": [
+      {"family": "DiNicolantonio", "given": "James J"},
+      {"family": "O'Keefe", "given": "James H"},
+      {"family": "Wilson", "given": "William"}
+    ],
+    "title": "Subclinical magnesium deficiency: a principal driver of cardiovascular disease and a public health crisis",
+    "container-title": "Open Heart",
+    "issued": {"date-parts": [[2018]]},
+    "volume": "5",
+    "issue": "1",
+    "number": "e000668",
+    "DOI": "10.1136/openhrt-2017-000668",
+    "URL": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5786912/",
+    "note": "Correction consulted: https://openheart.bmj.com/content/5/1/e000668corr1",
+    "accessed": {"date-parts": [[2026, 11, 12]]}
+  },
+  {
+    "id": "ismail-2010-serum-magnesium-warning",
+    "type": "article-journal",
+    "author": [
+      {"family": "Ismail", "given": "Yasmin"},
+      {"family": "Ismail", "given": "Abbas A"},
+      {"family": "Ismail", "given": "Adel A A"}
+    ],
+    "title": "The underestimated problem of using serum magnesium measurements to exclude magnesium deficiency in adults; a health warning is needed for \"normal\" results",
+    "container-title": "Clinical Chemistry and Laboratory Medicine",
+    "issued": {"date-parts": [[2010]]},
+    "volume": "48",
+    "issue": "3",
+    "page": "323-327",
+    "DOI": "10.1515/CCLM.2010.077",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/20170394/",
+    "accessed": {"date-parts": [[2026, 11, 12]]}
+  }
+]
