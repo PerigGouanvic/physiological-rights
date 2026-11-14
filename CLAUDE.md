@@ -62,15 +62,28 @@ Quand Perig pose une question qui concerne sa santé, il est prioritaire de :
 
 ## Utilisation de la base de connaissance
 
-La KB est exposée à Claude Code via un **serveur MCP** déclaré dans `.mcp.json` à la racine. Deux outils sont disponibles automatiquement dans les conversations sur ce dépôt :
+La KB est exposée à Claude Code via un **serveur MCP** déclaré dans `.mcp.json` à la racine. **Quatre outils** sont disponibles automatiquement dans les conversations sur ce dépôt, répartis en deux canaux distincts : la **base vectorielle** (contenu du site + PDFs curés) et le **corpus Reddit** (témoignages lived-experience).
 
-- **`kb_query(query, k, types, mmr_lambda)`** — recherche hybride (embeddings Voyage + BM25 sur FTS5), reranking pondéré par `authority_score`, puis MMR pour la diversité. À invoquer dès qu'une question de Perig touche à un sujet potentiellement documenté dans le corpus.
+### Canal 1 — Base vectorielle
+
+Recherche hybride dense (embeddings Voyage `voyage-3`) + BM25 sur FTS5, reranking pondéré par `authority_score`, MMR pour diversité.
+
+- **`kb_query(query, k, types, mmr_lambda)`** — recherche sur le site et les PDFs ingérés. À invoquer dès qu'une question de Perig touche à un sujet potentiellement documenté dans le corpus.
 - **`kb_list_sources()`** — inventaire (chunks, fichiers, autorité) pour savoir ce qui est indexé avant de requêter.
 
-**Consignes d'usage** :
-- Face à une question clinique ou biologique, appeler `kb_query` **avant** de répondre — même si la réponse « de mémoire » semble évidente. La KB peut contenir des précisions, des séries de cas, ou des rappels d'auteurs de référence que Perig a jugés importants.
-- Signaler explicitement dans la réponse ce qui vient de la KB (avec `source_path`) vs. ce qui vient de connaissances générales.
-- Si un résultat semble marginal ou dominé par un seul texte long, retenter avec `mmr_lambda=0.5` pour forcer plus de diversité.
+### Canal 2 — Corpus Reddit
+
+66 subreddits téléchargés dans `kb/reddit/` (3,3 Go de dumps `.jsonl.zst`), scannés en regex streaming sans index. Pas d'embedding, pas de reranking. C'est la voix des patients et des auto-expérimentateurs — leur façon de décrire une carence, un symptôme, une réponse (ou une absence de réponse) à la supplémentation, et ce que leur médecin leur a répondu.
+
+- **`kb_reddit_search(pattern, subs, kinds, limit, ...)`** — grep à la volée dans les dumps. Toujours passer `subs` (sinon scan complet des 3,3 Go, plusieurs minutes). Traiter les hits comme **leads et témoignages**, pas comme evidence.
+- **`kb_reddit_sources()`** — inventaire des subs téléchargés (taille, dernière modification) avant de choisir `subs`.
+
+### Consignes d'usage
+
+- Face à une question clinique ou biologique, appeler `kb_query` **avant** de répondre — même si la réponse « de mémoire » semble évidente. La KB peut contenir des détails, des séries de cas, ou des rappels d'auteurs de référence que Perig a jugés importants.
+- Si la question touche la **phénoménologie** d'une carence ou d'un supplément (ce que les gens ressentent, décrivent, racontent à leur médecin, se font répondre par leur médecin), doubler avec `kb_reddit_search`. C'est la couche de témoignage que l'EBM efface et que le projet cherche à documenter. Subs souvent utiles selon le sujet : `B12_Deficiency`, `AdrenalFatigue`, `AdrenalInsufficiency`, `CFS`, `ChronicFatigueSyndrome`, `Choline`, `Boron`, `Copper`, `Anemic`, `MTHFR`, `AskDocs`, `DiagnoseMe`, `Biohackers`, `CarnivoreDiet`, `bodybuilding`, `AdvancedFitness`, `Anxiety`, `depression` (liste complète via `kb_reddit_sources`).
+- Signaler explicitement dans la réponse ce qui vient de la KB (avec `source_path`) vs. ce qui vient de connaissances générales. Pour les hits Reddit, citer le `permalink` et le sub.
+- Si un résultat vectoriel semble marginal ou dominé par un seul texte long, retenter avec `mmr_lambda=0.5` pour forcer plus de diversité.
 - Si Perig cherche à écrire ou raffiner un article public, croiser la KB pour trouver les fils argumentatifs déjà présents dans les autres sections (`_definitions`, `_critique`, `_editorials`).
 
-CLI de secours (identique fonctionnellement) : `kb/.venv/bin/python kb/scripts/query.py "..."`
+CLI de secours (identique fonctionnellement) : `kb/.venv/bin/python kb/scripts/query.py "..."` et `kb/.venv/bin/python kb/scripts/reddit_search.py "..."`

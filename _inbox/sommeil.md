@@ -219,6 +219,144 @@ Dans la logique du pivot « éveil habité » : la mélatonine basse dose + PR +
 
 ---
 
+## 2026-11-04 — Triangulation Perplexity sur le volet MT1-orexine
+
+Session dédiée à vérifier ce qui tient et ce qui ne tient pas dans la mécanique MT1-orexine qui, dans la passation du matin, s'était installée comme *le* point d'intérêt central (veille-stabilisateur relâché par signal mélatonine à l'heure, plutôt que veille éteinte).
+
+### Sharma 2018 — référence corrigée et portée restreinte
+
+Référence exacte : **Sharma R, Sahota P, Thakkar MM. *Melatonin promotes sleep in mice by inhibiting orexin neurons in the perifornical lateral hypothalamus*. *J Pineal Res* 2018 ; 65 : e12498** (DOI 10.1111/jpi.12498 ; publication en ligne 7 mai 2018). La citation flottante « 64(2):e12461 » de la passation était fausse.
+
+Ce que la papier établit **strictement** :
+
+- Souris C57BL/6J uniquement. Pas d'humain, pas de primate.
+- Immunofluorescence double-label : MT1 présent sur neurones orexine, MT2 **absent** (pas « moindre » — absent).
+- **Pas de patch-clamp, pas d'enregistrement unitaire, pas de couplage Gi démontré**. L'inhibition est inférée d'une chute de 66 % des neurones orexine c-Fos-positifs (P = 0,0004) après infusion locale de mélatonine (500 pmol/50 nL par côté, soit ≈116 ng, directement dans le périfornical hypothalamique) au début de la phase sombre.
+- Comportement : NREM +43,7 %, veille −12,3 %. Luzindole (antagoniste MT) à l'aube : veille +44,1 %.
+- **Dose pharmacologique intraparenchymateuse**, pas une concentration physiologique mesurée.
+- Hedge des auteurs dans le texte même : la mélatonine *« may act via the MT1 receptors »*.
+
+Thakkar cité en presse ailleurs : *« if you target the melatonin MT1 receptor, you will get the most sleep with minimal side effects »*. C'est le ton d'une promesse d'avenir, pas d'un fait démontré.
+
+### Les trous qui ne sont pas comblés
+
+Constat Perplexity, pas conjecture :
+
+- Aucune étude ex vivo d'électrophysiologie sur neurones orexine identifiés (rapporteur-hypocretin) avec antagoniste MT1 ou knockout MT1.
+- Aucune étude de signalisation MT1-Gi dans ces neurones.
+- Aucune démonstration chez l'humain — CSF ou plasma hypocretin-1 sous mélatonine, imagerie hypothalamique sous mélatonine : rien.
+- Aucune comparaison dose-réponse humaine (0,1-0,3 mg vs 3-10 mg) sur l'axe MT1-orexine spécifiquement.
+- Aucune revue canonique n'a consolidé Sharma 2018.
+- **Aucun papier dans la littérature retrouvée ne cadre les DORAs comme substitut pharmacologique d'un signal mélatonine-orexine endogène attendu à l'heure.** Les reviews traitent les deux systèmes séparément. Ramelteon est décrit comme atténuant le signal d'éveil circadien via MT1 ; les DORAs comme bloquant les récepteurs orexine. L'articulation que porte Perig n'a pas été écrite. **Angle éditorial original confirmé — exigence corrélative : scaffolding rigoureux, ne pas faire tenir sur le seul Sharma 2018.**
+
+### Ce qui tient en parallèle — orexine sous contrôle circadien indépendant de la mélatonine
+
+- **Zhang, Zeitzer et al. *Sleep* 2004 ; 27(4):619** — lésions SCN chez le rat laissent les cellules orexine intactes mais **abolissent le rythme CSF hypocretin-1** en lumière constante comme en obscurité constante. L'activité motrice aussi tire la libération. Conclusion : *« Hypocretin-1 release is under SCN control. »*
+- **Zeitzer et al. *J Neurosci* 2003 ; 23:3555** — chez le singe-écureuil, CSF hypocretin-1 pique en fin de journée ; étendre la veille de 4h maintient le niveau élevé. **Composante homéostatique + circadienne**.
+- Anatomie : entrée directe SCN → neurones orexine *éparse*. Le relais passe par le noyau du lit de la strie terminale (BNST), la zone subparaventriculaire (SPZ), le noyau dorsomédian (DMH) et le locus coeruleus.
+- **Caveat majeur** : les lésions SCN emportent toutes les sorties circadiennes, mélatonine comprise. L'expérience qui isolerait la contribution mélatonine-spécifique (pinéalectomie ou MT1 knockout avec CSF hypocretin-1 ou enregistrement orexine à travers la journée) **n'a pas été faite**, chez le rongeur ni chez l'humain. Même constat pour la zone subparaventriculaire : lésions perturbent les rythmes activité/sommeil, aucune mesure d'orexine après lésion SPZ publiée.
+
+### Narcolepsie type 1 — « ~90 % de perte orexine » confirmé mais nuancé
+
+- **Peyron C, Faraco J, Rogers W et al. *Nat Med* 2000 ; 6:991-997** (DOI 10.1038/79690) — absence généralisée des peptides hypocretin dans les cerveaux narcoleptiques humains, plus une mutation dans un cas d'apparition précoce. Peyron décrit une absence quasi totale.
+- **Thannickal TC, Moore RY, Nienhuis R et al. *Neuron* 2000 ; 27:469-474** (DOI 10.1016/s0896-6273(00)00058-1) — *« human narcoleptics have an 85%–95% reduction in the number of Hcrt neurons »*, moyenne ~93 % sur 4 cerveaux narcoleptiques et 12 contrôles. Neurones MCH non touchés (sélectivité).
+- **Thannickal 2003 *Brain Pathol* 13(3):340-351** — perte variable par région, maximale en hypothalamus postérieur et tubéromammillaire. Hypothèse attaque immunitaire ciblée sur OX2R ou antigène apparenté.
+- Série UCLA ultérieure sur 11 NT1 : réduction 90 % (P = 0,0001). Référence journal à reverifier avant usage éditorial.
+- Divergence Peyron/Thannickal : Peyron rapporte ~15-20 000 neurones hypocretin chez les sujets normaux, Thannickal en compte ~70 000. Les deux travaux sont rigoureux ; les dénominateurs diffèrent.
+
+« ~90 % » tient comme moyenne sur petites séries post-mortem. Pas comme chiffre de population.
+
+### DORAs — approbations et profil récepteur
+
+| Drug | Approbation US | Profil récepteur |
+| --- | --- | --- |
+| Suvorexant (Belsomra, Merck) | 13 août 2014 | Ki 0,55 nM OX1R et 0,35 nM OX2R, à peu près équilibré |
+| Lemborexant (Dayvigo, Eisai) | déc. 2019 | IC50 6,1 nM OX1R et 2,6 nM OX2R ; Eisai souligne l'effet plus fort à OX2R |
+| Daridorexant (Quviviq, Idorsia) | janv. 2022 | pKi 8,8 OX1R et 8,9 OX2R, quasi équipotent |
+
+Les dates et profils de la passation sont corrects.
+
+### Caveat honnête à nommer dans toute pièce éditoriale
+
+Le Sharma 2018 est la seule base primaire pour « mélatonine inhibe orexine via MT1 ». Il est **mono-source, mono-espèce, mono-dose, mono-méthode (c-Fos, pas firing)**. Il tient pour l'expression du récepteur ; il indique sans l'établir une inhibition fonctionnelle à dose pharmacologique directe. L'extrapolation à la clinique humaine à faible dose orale avec pré-DLMO reste une **inférence raisonnable mais non démontrée**. Pour la fiche `_rights/melatonin.md` et la pièce `_critique/`, ne pas écrire « la mélatonine inhibe les neurones orexine via MT1 » comme fait acquis ; écrire « les neurones orexine expriment MT1 (confirmé rongeur, expression protéique). Une inhibition fonctionnelle est inférée d'une seule étude murine à dose pharmacologique intraparenchymateuse — démonstration humaine en attente. » Le reste de l'argument éditorial peut se construire sur cette base restreinte sans perdre son mordant, parce que la *structure* « signal endogène à l'heure vs molécule pharmacologique qui mime » reste tenable.
+
+### Référence 2024 locus coeruleus — toujours à verifier
+
+La mention passation « 2024 rongeur sur MT1 au locus coeruleus et régulation REM » n'a pas été adressée par cette session Perplexity (question 1 portait sur MT1-orexine lateral hypothalamus, pas LC). Référence encore non verifiée. À traiter dans une triangulation dédiée si elle doit entrer dans la fiche ou la pièce.
+
+### Correction prévalence DSPS — extrême clinique sur continuum universel
+
+La passation nomme un pivot fort de Perig qui remet les chiffres à leur place : les prévalences ICSD (~1 % adultes ; 3-5 % adolescents ; Hordaland 3,3 % ; Suède 16-26 ans 4,6 %) mesurent **l'extrême clinique**, pas le trait. Les travaux d'isolement temporel (Siffre, Aschoff, Wever, Czeisler et dérivés) montrent que **la période intrinsèque humaine moyenne tau ≈ 24h11, parfois davantage, quasi jamais sous 24h**. Dans un environnement sans zeitgebers, *tout le monde dériverait vers des horaires de plus en plus tardifs*. La catégorie clinique DSPS n'identifie donc pas une anomalie biologique binaire mais **la pointe de la distribution d'une tendance universelle** — ceux chez qui le tau long ou la sensibilité réduite aux zeitgebers matinaux rend le phénotype suffisamment extrême pour générer une plainte diagnosticable.
+
+Conséquence éditoriale : utiliser les chiffres ICSD comme *cadrage de l'extrême mesuré*, pas comme épidémiologie du trait. Ne pas écrire « 1 % des adultes ont un DSPS » sans préciser « sur une distribution dont la médiane se trouve déjà au-delà de 24h ». Pour la pièce « DSPS rebadgé en anxiété », l'argument gagne un deuxième étage : la pathologisation est fausse au niveau individuel (étiologie inversée) *et* myope au niveau statistique (elle traite comme pathologie d'exception ce qui est pointe d'un gradient commun).
+
+### Volet complémentaire — orexine, night eating, DORAs côté alimentaire (session Perplexity 2)
+
+Session Perplexity dédiée à l'hypothèse *« manger la nuit = signal orexinergique non refrené faute de mélatonine endogène à l'heure »*. Verdict direct de la source : *« the literature supports the individual links but not the full chain 'missing melatonin → unrestrained orexin → nocturnal eating'. I found no study testing the hypothesis »*. Aligné avec le constat de la session MT1 ci-dessus : l'articulation portée par Perig n'a pas été écrite dans la littérature primaire. Les éléments cliniques et étymologiques qui suivent complètent le dossier côté *feeding*, là où la session MT1 a couvert le mécanisme neuronal et la narcolepsie.
+
+**L'orexine nommée pour la faim — étymologie et papier originel**
+
+- **Sakurai et al. 1998 *Cell* 92:573-585** (DOI 10.1016/s0092-8674(00)80949-6) — verbatim : *« When administered centrally to rats, these peptides stimulate food consumption. prepro-orexin mRNA level is up-regulated upon fasting, suggesting a physiological role for the peptides as mediators in the central feedback mechanism that regulates feeding behavior »*. Le nom vient du grec ὄρεξις, *appétit*. Évidence originale : effet aigu d'ICV + up-régulation à jeun, pas nécessité physiologique démontrée pour l'alimentation normale.
+- **de Lecea et al. 1998 *PNAS* 95:322-327** — mêmes molécules nommées « hypocretin » (hypothalamic + homologie sécrétine). L'article mettait l'accent sur localisation et neuro-excitation ; feeding pas central (abstract non récupéré directement par Perplexity, ne pas surciter).
+- **Déplacement du consensus, sans effacer la composante alimentaire**. Après les knock-outs prepro-orexin, OX2R ou neurones à orexine (phénotypes narcoleptiques — Peyron 2000, Thannickal 2000, déjà couverts ci-dessus), l'énoncé juste contemporain devient : *« orexin couples energy state to arousal »*. Les neurones à récepteur leptine du latéral hypothalamus innervent directement les neurones à orexine (revues Front Pharmacol 2014, PMC2930259). L'orexine fait monter la poussée d'exploration + recherche alimentaire *quand on est éveillé et en déficit*. La fonction alimentaire n'est pas effacée, elle est recadrée comme couplage éveil-faim.
+
+**Night eating syndrome — mélatonine blunted et rythmes de faim décrochés**
+
+- **Stunkard, Grace, Wolff 1955 *Am J Med* 19:78-86** — description originale. Référence citée de mémoire par Perplexity, à vérifier avant usage éditorial direct.
+- Définition contemporaine (revues) : ≥25 % caloriques après dîner et/ou ≥2 réveils nocturnes par semaine avec ingestion. Pathophysiologie décrite comme *« désynchronisation entre les rythmes circadiens d'ingestion et de sommeil »*.
+- **Birketvedt et al. 1999 *JAMA* 282(7):657-663** — mélatonine plasmatique toutes les 2 h sur 24 h. Significativement plus basse chez les *night eaters* que chez les contrôles, de 22h à 6h. Petit échantillon, peu répliqué. Papier complet à vérifier avant usage éditorial (Perplexity s'est appuyé sur source secondaire).
+- **Goel, Stunkard et al. 2009 *J Biol Rhythms* 24(1):85-94** — ghréline retardée de 5,2 h, amplitude réduite de 50 % ; leptine retardée d'environ 1 h chez les night eaters. **Le cycle veille-sommeil, lui, reste normal**. Donc le NES n'est **pas** un DSPS : c'est un décrochage du rythme alimentaire d'avec l'horloge centrale, pas un décalage global. Distinction à tenir fermement dans toute pièce qui touche aux deux syndromes.
+
+**Chronotype soir — associations serrées avec night eating, à ne pas confondre avec DSPS**
+
+- Revues : association chronotype soir ↔ symptômes de night eating, meal skipping, food addiction.
+- Maukonen et al., étude population n=1854 — evening types ont mangé plus le soir, sans différence énergétique totale.
+- **Van Der Merwe et al. *Front Nutr* 2026** (DOI 10.3389/fnut.2026.1862060), 287 femmes — evening types mangent moins de 3h à 9h59 et plus de 20h à 2h59.
+- Adolescents : eveningness → probabilité de troubles alimentaires 39,5 % vs 14,9 % en chronotype intermédiaire.
+- **McHill et al. 2017** (probablement *Am J Clin Nutr*, retrouvé via résumé Nestlé Nutrition Institute, source secondaire à vérifier) — timing alimentaire **par rapport au DLMO** associé au % graisse corporelle et au BMI, *pas à l'heure d'horloge ni à la quantité*. **Lien le plus serré à ce jour entre DLMO et timing alimentaire** ; observationnel. Vignette pertinente pour la fiche `_rights/melatonin.md` ou la pièce `_critique/`.
+
+**Évidence animale — mélatonine perdue → alimentation décalée (angle feeding/body-mass)**
+
+En complément du volet sommeil couvert par Zhang 2004 et Zeitzer 2003 ci-dessus, le dossier *feeding* :
+
+| Étude | Manipulation | Résultat |
+|---|---|---|
+| Fonken et al. 2010 *PNAS* 107:18664 (DOI 10.1073/pnas.1008734107) | Dim light at night chez souris | 55 % de la prise alimentaire en phase lumineuse vs 36 % contrôles ; gain pondéral ~12 g vs ~8 g ; activité et prise totale inchangées |
+| Même étude | Restriction alimentaire à la phase active | Gain pondéral supplémentaire aboli |
+| Fonken et al. 2013 *J Biol Rhythms* 28:262-271 | 5 lux la nuit | Amplitude Per1/Per2 hypothalamique atténuée, timing alimentaire altéré, gain pondéral |
+| Arble et al. 2009 *Obesity* 17:2100 | Alimentation phase lumineuse vs sombre | Alimentation en mauvaise phase → plus de gain pondéral |
+| Prunet-Marcassus et al. 2003 *Endocrinology* 144:5347 (DOI 10.1210/en.2003-0693) | Pinéalectomie chez rats HF | Gain pondéral et efficacité alimentaire augmentés ; mélatonine à ZT11 → gain réduit de moitié |
+
+Trois limites à l'inférence soulignées par Perplexity :
+
+1. **Mécanisme non testé** : aucune de ces études n'a mesuré l'activité des neurones à orexine ni testé une voie MT1-orexine. La bascule mécanistique reste à faire.
+2. **Pinéalectomie et sommeil chez le rat** : laisse quantité et distribution d'éveil-sommeil inchangées — *« no evidence that endogenous circulating melatonin plays a role in regulating the sleep-wake cycle in rats »*. Affaiblit un modèle où la mélatonine gate l'éveil directement chez cette espèce.
+3. **Chronotype rongeur** : les souris sont nocturnes. Le phénomène pertinent pour nous est *« alimentation en phase inactive »*, à cartographier sur une espèce diurne.
+
+**Trous centraux pour l'argument droits-physiologiques** (gaps nommés par Perplexity) :
+
+- Pas de CSF ou plasma orexine mesurés en NES.
+- Pas de rythme orexine humain rapporté au DLMO.
+- Pas d'essai DORA avec endpoint alimentaire ou pondéral (Phase III et post-marketing suvorexant/lemborexant/daridorexant). Les snippets d'effets secondaires nomment somnolence, céphalée, vertige, rêves anormaux — rien sur l'appétit. **Pas d'absence d'effet documentée** : les essais n'ont pas été conçus pour détecter un effet alimentaire, et le dosage au coucher confondrait les résultats. À creuser : FAERS, pharmacovigilance japonaise.
+- Pas d'épidémiologie nutritionnelle spécifique au DSPD (séparée des études sur chronotype soir en général).
+
+Test direct cohérent : cohorte NES stratifiée par DLMO avec CSF sériel ou proxy, ou essai DORA en NES avec endpoint alimentaire. Pas publié.
+
+Trois éléments à re-vérifier avant usage éditorial direct : Salomon 2003 (rythme CSF hypocretin-1 humain), abstract complet de de Lecea 1998, papiers complets Birketvedt 1999 et Goel 2009 (Perplexity s'est appuyé sur sources secondaires).
+
+**Articulation pour le circuit orexine comme droit physiologique**
+
+Clavus [cardo] déposé dans `clavi.md` ce midi : *Le night eating comme circuit sans frein à l'heure*. Même logique que le volet MT1 ci-dessus : la chaîne mécanistique complète *mélatonine manquante → MT1 → orexine inhibée → appétit nocturne éteint* n'est pas prouvée. Mais les éléments cliniques documentés (mélatonine blunted en NES, ghréline/leptine décrochées, orexine couplant éveil et poussée alimentaire, DORAs comme classe pharma installée qui bloque exogène ce qu'un signal endogène respecté devrait brider) suffisent à porter l'argument des droits.
+
+Angle éditorial frontal : *pourquoi le corps a-t-il besoin d'un DORA à plusieurs dollars/nuit quand son propre frein orexinergique n'a jamais reçu son signal de mélatonine à l'heure ?* Même structure argumentative que celle déjà verrouillée côté MT1, même rigueur de caveat, même mordant.
+
+**Pièces à écrire dans cette ligne** (en plus de celles déjà nommées côté MT1) :
+
+- Fiche `_did-you-know/` : étymologie ὄρεξις + Sakurai 1998 avait nommé la molécule pour la faim avant le recadrage en éveil ; le night eating pourrait être l'expression originelle du circuit quand il n'est pas freiné.
+- Dans la pièce `_critique/` à venir sur le circuit orexine, § spécifique « NES vs DSPS » : *le NES n'est pas un DSPS mais partage avec lui le motif structurel d'un signal temporel qui ne tombe pas à l'heure*. Les deux syndromes se renvoient l'un à l'autre : décalage global (DSPS) et décalage sectoriel du rythme alimentaire (NES) sous le même toit — zeitgebers non respectés par l'environnement ou signal endogène atrophié.
+
+---
+
 ## Fils en cours (pas de conclusions)
 
 - **Grammaire du retard vs grammaire de ce qui est là.** Les trois idées du dépôt 3 refusent la distance-à-la-norme et proposent une description phénoménologique du trait : intensité, qualité d'éveil, besoin vespéral comblable. À creuser comme reformulation du syndrome.

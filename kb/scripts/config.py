@@ -37,6 +37,9 @@ JEKYLL_COLLECTIONS = [
     "_editorials",
     "_resources",
     "_inbox",
+    "_rights",
+    "_did-you-know",
+    "_currents",
 ]
 
 
