@@ -4,7 +4,7 @@ description: The reader who reads these pieces about deficiency and does not, qu
   difference between diagnosing a named individual and publishing the prior probability
   that applies to any reader who belongs to the population described.
 featured: true
-last_revised: July 2026
+last_revised: November 2026
 layout: default
 related:
 - title: The Life We Call Normal
@@ -31,7 +31,9 @@ It does not, quite, occur to you that you are one of them.
 
 Take the numbers this resource documents. The probability that any single adult in an industrialised population is adequate on magnesium is around seventy percent by intake surveys; by tissue tests it is lower. On potassium (the four thousand seven hundred milligrams that international guidelines set as adequate), the probability of meeting the intake is under five percent. On vitamin D above the functional threshold most researchers now defend (roughly seventy-five nanomoles per litre, thirty nanograms per millilitre), the probability is under a third. On Omega-3 Index at or above eight, roughly one in ten Western adults. On ferritin above thirty micrograms per litre in a menstruating woman, about two out of three. On functional B12 with a normal methylmalonic acid past the age of fifty, well under nine in ten.
 
-Multiplied (even generously, even were these independent events, which they are not), the probability of being adequate on **all** of them at once is under half a percent. And they are not independent. The exposures compound in the same direction: the person whose soil, whose refined grain, whose industrial oils, whose water, whose sun, whose stress load has depleted them on one has almost certainly been depleted on the others by the same mechanism. The correlation strengthens the arithmetic. It does not weaken it.
+Multiplied as if they were independent events, these figures put the probability of being adequate on **all** of them at once at about one in a thousand. The same arithmetic says that the adult with exactly one shortfall, the patient around whom single-nutrient trials and clinical protocols are designed, is about one in thirty. The typical adult carries three.
+
+They are not independent, and the correlation cuts in a specific direction. The exposures compound: the person whose soil, whose refined grain, whose industrial oils, whose water, whose sun, whose stress load, whose prescriptions have depleted them on one has very likely been depleted on the others by the same mechanisms. Correlation of this kind does not shrink the problem. It concentrates it. A small minority (well fed, sun-exposed, unmedicated, attentive, often supplemented) is adequate on more fronts than the independent model predicts, and everyone else carries more shortfalls than it predicts, piled onto the same bodies. If you belong to that minority, you probably know it, because it is rarely reached by accident.
 
 You are, by the ordinary mathematics of the population you belong to, almost certainly deficient in at least two of the nutrients this resource names, and more likely in several.
 
