@@ -3,7 +3,7 @@ layout: default
 title: Home
 description: "Physiological Rights: the clinical specification of the right to food. The physiological parameters every body needs, the tests that would detect their absence, and the thresholds set to make the absence invisible."
 status: published
-last_revised: "July 2026"
+last_revised: "November 2026"
 ---
 
 <section class="home-manifesto">
@@ -12,15 +12,21 @@ last_revised: "July 2026"
 </section>
 
 <section class="home-hero">
-  <p class="kicker">Featured</p>
-  <h2 class="home-hero-title"><a href="{{ '/definitions/a-litigation-brief/' | relative_url }}">A Litigation Brief for Physiological Rights</a></h2>
-  <p class="chapo">Standing, justiciability, remedies, defenses, precedents, strategy. A proto-brief for jurists prepared to file the claim, anchored on the two sample cases developed in these pages (Jane and John), to be adapted by counsel with the jurisdictional expertise the resource does not claim.</p>
-  <p class="read-on"><a href="{{ '/definitions/a-litigation-brief/' | relative_url }}">Read the brief →</a></p>
+  <p class="kicker">Start here</p>
+  <h2 class="home-hero-title"><a href="{{ '/editorials/the-textbook-body/' | relative_url }}">The Textbook Body</a></h2>
+  <p class="chapo">Most people believe they live in the first chapter of the biology textbook, the one where every enzyme has its cofactor, with a small appendix for their asthma or their few extra pounds. The arithmetic of the population says otherwise. The patient with a single deficiency, around whom trials and protocols are built, is about one adult in two thousand. The ordinary adult carries five.</p>
+  <p class="read-on"><a href="{{ '/editorials/the-textbook-body/' | relative_url }}">Read →</a></p>
 </section>
 
 <hr class="home-rule">
 
 <section class="home-rubriques">
+
+  <article class="home-rubrique">
+    <p class="kicker">For jurists</p>
+    <h3><a href="{{ '/definitions/a-litigation-brief/' | relative_url }}">A Litigation Brief for Physiological Rights</a></h3>
+    <p class="chapo">Standing, justiciability, remedies, defenses, precedents, strategy. A proto-brief for jurists prepared to file the claim, anchored on the two sample cases developed in these pages (Jane and John).</p>
+  </article>
 
   <article class="home-rubrique">
     <p class="kicker">Editorial</p>
@@ -59,6 +65,8 @@ last_revised: "July 2026"
 <section class="home-recent">
   <p class="kicker">Recent additions</p>
   <ul class="home-recent-list">
+    <li><span class="home-recent-date">November 2026</span><a href="{{ '/editorials/the-textbook-body/' | relative_url }}">The Textbook Body</a><span class="home-recent-section">Editorial</span></li>
+    <li><span class="home-recent-date">November 2026</span><a href="{{ '/rights/vitamin-c/' | relative_url }}">Vitamin C</a><span class="home-recent-section">Right</span></li>
     <li><span class="home-recent-date">July 2026</span><a href="{{ '/rights/muscle-mass/' | relative_url }}">Muscle Mass</a><span class="home-recent-section">Right</span></li>
     <li><span class="home-recent-date">July 2026</span><a href="{{ '/editorials/practicing-the-right-in-an-ordinary-life/' | relative_url }}">Practicing the Physiological Right in an Ordinary Life</a><span class="home-recent-section">Editorial</span></li>
     <li><span class="home-recent-date">July 2026</span><a href="{{ '/definitions/self-medication-as-a-codified-right/' | relative_url }}">Self-Medication as a Codified Right</a><span class="home-recent-section">Definition</span></li>
