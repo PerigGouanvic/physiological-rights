@@ -4,7 +4,7 @@ permalink: /out.txt
 ---
 # PHYSIOLOGICAL RIGHTS — CONTENT EXPORT
 # Site: https://physiological-rights.org
-# Generated: 2026-11-18 16:58 UTC
+# Generated: 2026-11-18 17:30 UTC
 #
 ========================================================================
 # INSTRUCTIONS FOR THE AI READING THIS FILE
@@ -1539,7 +1539,7 @@ In the Nurses' Health Study, women in the highest quartile of plasma magnesium h
 
 ### Diabetes and metabolic syndrome
 
-Magnesium is involved in insulin signalling and glucose metabolism. An increase of 100 mg/day of magnesium is associated with a **15% reduction in the risk of type 2 diabetes**. Among diabetics, **88.6% consume less than the recommended intake** of magnesium.
+Magnesium is involved in insulin signalling and glucose metabolism. An increase of 100 mg/day of magnesium is associated with a **15% reduction in the risk of type 2 diabetes**. In one study of 210 diabetic patients, **88.6% consumed less than the recommended intake** of magnesium, and 37.1% were measurably hypomagnesaemic.
 
 ### Bone health
 
@@ -1555,13 +1555,13 @@ Magnesium is necessary for the conversion of tryptophan to serotonin (the "feel-
 
 ### "Eat a balanced diet": advice that has become hollow
 
-Since 1940, the magnesium content of foods has dropped dramatically. In the United Kingdom, vegetables have lost **24% of their magnesium**, whole milk 21%, cheddar cheese 38%, parmesan 70%. White flour loses **82%** of its magnesium during refining, polished rice 83%, white sugar 99%. Intensive agriculture has reduced magnesium content in crops by **20 to 40%** over the past century, due to the massive use of nitrogen-phosphorus-potassium (NPK) fertilizers that do not include magnesium.
+Since 1940, the magnesium content of foods has dropped dramatically. Comparing successive editions of McCance and Widdowson's British food composition tables (1940–2002), David Thomas found that vegetables have lost **24% of their magnesium**, whole milk 21%, cheddar cheese 38%, parmesan 70%. Refining compounds the loss: white flour retains about a fifth of the wheat's magnesium (**82%** lost), polished rice loses 83%, white sugar 99% (figures compiled by Marier, 1986). Intensive agriculture has reduced magnesium content in crops by **20 to 40%** over the past century, due to the massive use of nitrogen-phosphorus-potassium (NPK) fertilizers that do not include magnesium.
 
 To say today "eat a balanced diet" for magnesium is to tell someone to fill a bucket with a tap whose flow has been halved. Even a diet rich in fruits, vegetables, and whole grains **no longer necessarily provides the same magnesium intake as it did 70 years ago**.
 
 ### The financial cost of inaction
 
-In Israel, a study by the Taub Center calculated that simply adding magnesium to desalinated water could generate savings of **83 to 253 million shekels per year** by reducing type 2 diabetes and ischaemic stroke. In the United States, one analyst estimated that the cost of inaction on magnesium deficiency exceeds **$86 billion per year**. Meanwhile, magnesium supplementation costs a few cents per day.
+In Israel, a 2024 Taub Center study (Sadeh, Grotto, Davidovitch and Weinreb) calculated that adding magnesium to desalinated water would save **83 to 188 million shekels a year in direct healthcare costs by 2025, rising to 110–253 million by 2040**, through type 2 diabetes and ischaemic stroke alone. In the United States, the magnesium-water campaigner Paul Mason estimated that the drag of magnesium deficiency on the economy exceeds **$86 billion per year**, a figure reprinted by *Life Extension* in 2005. Meanwhile, magnesium supplementation costs a few cents per day.
 
 ### The vicious cycle of medications
 
@@ -1669,6 +1669,8 @@ A century of warnings, a nutrient whose deficit the routine test hides by constr
 37. Beach R — Modern miracle men — *Senate Document 264*, 74th Congress, 2nd session, 1936 — [Monthly Catalog, UNT](https://mocat.library.unt.edu/catalog/498-ch1012)
 38. Liebscher DH, Liebscher DE — About the misdiagnosis of magnesium deficiency — *J Am Coll Nutr* 2004;23(6):730S–731S — [PubMed](https://pubmed.ncbi.nlm.nih.gov/15637222/)
 39. Costello RB, Elin RJ, Rosanoff A, et al. — Perspective: the case for an evidence-based reference interval for serum magnesium: the time has come — *Adv Nutr* 2016;7(6):977–993 — [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC5105038/)
+40. Thomas D — The mineral depletion of foods available to us as a nation (1940–2002): a review of the 6th edition of McCance and Widdowson — *Nutr Health* 2007;19(1–2):21–55 — [PubMed](https://pubmed.ncbi.nlm.nih.gov/18309763/)
+41. Marier JR — Magnesium content of the food supply in the modern-day world — *Magnesium* 1986;5(1):1–8 — [PubMed](https://pubmed.ncbi.nlm.nih.gov/3515057/)
 ====END: _rights/magnesium.md====
 
 ====FILE: _rights/muscle-mass.md====
