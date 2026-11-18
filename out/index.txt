@@ -4,7 +4,7 @@ permalink: /out.txt
 ---
 # PHYSIOLOGICAL RIGHTS — CONTENT EXPORT
 # Site: https://physiological-rights.org
-# Generated: 2026-11-18 16:47 UTC
+# Generated: 2026-11-18 16:58 UTC
 #
 ========================================================================
 # INSTRUCTIONS FOR THE AI READING THIS FILE
@@ -1500,17 +1500,15 @@ More reliable tools exist: the **magnesium loading test** (intravenous injection
 
 ### The real figure: over 800
 
-The phrase "magnesium is involved in more than 300 enzymatic reactions" has become a mindlessly repeated mantra. But it is **outdated**. Current enzyme databases show that magnesium is a direct cofactor for **more than 600 enzymes** and a necessary activator for **200 additional enzymes**. A total of more than 800 enzymatic systems that depend on this single mineral. A 2012 annotation of the human proteome by Piovesan and colleagues found **3,751 human proteins** with putative magnesium-binding sites.
+The phrase "magnesium is involved in more than 300 enzymatic reactions" has become a mindlessly repeated mantra. But it is **outdated**. Current enzyme databases show that magnesium is a direct cofactor for **more than 600 enzymes** and may activate **200 more**. Up to 800 enzymatic systems that depend on this single mineral. A 2012 annotation of the human proteome by Piovesan and colleagues found **3,751 human proteins** with putative magnesium-binding sites.
 
-To put this in perspective: without enzymes, DNA and RNA synthesis would take **78 million years**; the production of haemoglobin, **2.3 billion years**, half the age of the Earth. Enzymes are the accelerators of all the chemistry of life. And magnesium is the key that starts an enormous number of these accelerators.
+To put this in perspective: without enzymes, DNA and RNA synthesis would take **78 million years**; the production of haemoglobin, **2.3 billion years**, half the age of the Earth. Enzymes are the accelerators of all the chemistry of life. Those two happen to work without any metal; but the kinases that transfer phosphate and the polymerases that copy DNA and RNA cannot work without magnesium bound to their nucleotide substrates. Magnesium is the key that starts an enormous number of these accelerators.
 
 ### ATP: the currency of life's energy
 
 **ATP** (adenosine triphosphate) is the molecule that every cell in the body uses as its "energy currency." Every time a muscle contracts, a neuron transmits a signal, a cell divides, or a protein is manufactured, it is ATP that provides the necessary energy.
 
-Here is the crucial fact that almost no one communicates to the general public: **ATP does not exist in its active form without magnesium**. The ATP molecule is unstable on its own. To function, it must bind to a magnesium ion, forming the **Mg-ATP complex**. This form, and only this form, is biologically active and usable by the body. All energy-requiring reactions in the body have an **absolute requirement for magnesium**:
-
-> *"All enzymatic reactions involving ATP have an absolute requirement for magnesium."*
+Here is the crucial fact that almost no one communicates to the general public: **ATP does not exist in its active form without magnesium**. The ATP molecule is unstable on its own. To function, it must bind to a magnesium ion, forming the **Mg-ATP complex**. It is this complex, not free ATP, that the kinases and ATPases actually bind and use. In practice, nearly every enzymatic reaction that spends ATP has an **absolute requirement for magnesium**.
 
 Imagine ATP as a banknote. Without magnesium, this note is not recognized by the cellular "cash registers." It is there, but unusable.
 
@@ -1669,6 +1667,8 @@ A century of warnings, a nutrient whose deficit the routine test hides by constr
 35. Qu X, et al. — Magnesium and the risk of cardiovascular events: a meta-analysis of prospective cohort studies — *PLoS One* 2013;8(3):e57720 — [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3592895/)
 36. Larsson SC, Wolk A — Magnesium intake and risk of type 2 diabetes: a meta-analysis — *J Intern Med* 2007;262(2):208–214 — [PubMed](https://pubmed.ncbi.nlm.nih.gov/17645588/)
 37. Beach R — Modern miracle men — *Senate Document 264*, 74th Congress, 2nd session, 1936 — [Monthly Catalog, UNT](https://mocat.library.unt.edu/catalog/498-ch1012)
+38. Liebscher DH, Liebscher DE — About the misdiagnosis of magnesium deficiency — *J Am Coll Nutr* 2004;23(6):730S–731S — [PubMed](https://pubmed.ncbi.nlm.nih.gov/15637222/)
+39. Costello RB, Elin RJ, Rosanoff A, et al. — Perspective: the case for an evidence-based reference interval for serum magnesium: the time has come — *Adv Nutr* 2016;7(6):977–993 — [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC5105038/)
 ====END: _rights/magnesium.md====
 
 ====FILE: _rights/muscle-mass.md====
@@ -4957,7 +4957,7 @@ The physiological rights framework does not treat the current menu of nutrient t
 1. **The right to physiological measurement cannot be delegated to the constellation of tests that food industries have found profitable to promote.** The map is not the territory. The unmeasured nutrient is not the unimportant nutrient.
 2. **Iron is the demonstration that a proper multi-marker nutrient panel is technically feasible** (has been technically feasible for over a century) when the political-economic conditions align. The obstacle to a functioning Mg panel, K panel, K2 panel, functional B12 panel, Omega-3 Index panel, is nowhere technical. It is that no constituency of iron's weight has organised itself around them.
 3. **Fortification is not the answer, and the fortification framework is not neutral.** Folic acid fortification masked B12 deficiency for two decades and is defended not because the harm is disproven but because reopening the debate threatens an industry. Universal vitamin A fortification circulates a product without ever measuring its effect on the individual body: a structural evasion of physiological verifiability.
-4. **The DRI/RDA numbers are not settled science.** They are the outputs of committees whose composition is subject to industrial capture. When the North American calcium DRI is roughly double the WHO's, when refined flour is fortified with iron but not magnesium in populations where magnesium depletion is at least as prevalent as iron depletion, when reference ranges for serum Mg have been challenged by the MaGNet international network for a decade without institutional response, these are political facts, not technical ones.
+4. **The DRI/RDA numbers are not settled science.** They are the outputs of committees whose composition is subject to industrial capture. When the North American calcium DRI is roughly double the WHO's, when refined flour is fortified with iron but not magnesium in populations where magnesium depletion is at least as prevalent as iron depletion, when reference ranges for serum Mg have been challenged for two decades, from Liebscher and Liebscher (2004) to Costello and colleagues (2016) and the MaGNet international network (2022), without institutional response, these are political facts, not technical ones.
 5. **The named right.** Every person has the right to have their essential physiological parameters *tested*, not just the ones the food industry has found profitable to promote. Denial of this (through structural absence of the test, through unreimbursement, through a specialty gate) is a violation of a physiological right. It is not less serious because the missing test is unfamiliar.
 
 ---
@@ -6725,7 +6725,7 @@ This resource sits in that space. It is not a bottle. It has nothing to sell. It
 
 - That [riboflavin](/rights/riboflavin-b2/) at 400 mg per day has Cochrane-database evidence for migraine prophylaxis.
 - That [coenzyme Q10](/rights/coenzyme-q10/) has Q-SYMBIO trial evidence for symptomatic heart failure, and that the mevalonate pathway means statin therapy depletes it by construction.
-- That [magnesium](/rights/magnesium/) has evidence for pre-eclampsia and for migraine, that the reference range for serum magnesium has been challenged by the MaGNet international network for over a decade, and that intracellular magnesium is what actually matters.
+- That [magnesium](/rights/magnesium/) has evidence for pre-eclampsia and for migraine, that the reference range for serum magnesium has been challenged for two decades, from Liebscher and Liebscher (2004) to the MaGNet international network (2022), and that intracellular magnesium is what actually matters.
 - That [potassium](/rights/potassium/) has intervention-trial evidence for blood pressure and stroke risk, and that no routine assessment of dietary potassium adequacy exists in the standard workup.
 - That vitamin B12 in the elderly is masked by [folic acid fortification](/rights/folate/), that the functional markers (holotranscobalamin, methylmalonic acid) reveal deficiencies that serum B12 does not, and that neither is routinely ordered.
 
