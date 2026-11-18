@@ -22,7 +22,9 @@ Sources primaires contrôlées par notices PubMed (E-utilities) / EuropePMC, 202
 
 Confirmé tel quel : diabète −15 % par +100 mg/j (Larsson & Wolk 2007, RR 0,85) ; seuil 0,85 mmol/L (recommandation des auteurs) ; 88,6 % (revue clinique, à remonter au primaire).
 
-## 2. Portée : propositions en attente de Perig
+## 2. Portée : P1–P6 acceptées par Perig le 2026-11-18, appliquées
+
+P5 : citation « All enzymatic reactions involving ATP… » introuvable (EuropePMC, phrase exacte) → convertie en énoncé non cité. P6 : Liebscher & Liebscher 2004 (PMID 15637222) et Costello et al. 2016 (*Adv Nutr*, PMC5105038) vérifiés ; Costello 2016 est probablement l'origine de la confusion « Advances in Nutrition ».
 
 - **P1 — titre DYK « misses more than 99% of it ».** 99 % = compartiment non mesuré, pas taux de faux négatifs. Le titre est défendable (« of it » = du magnésium), mais lu vite il sonne comme une sensibilité. Variante : *« The standard magnesium test measures less than 1% of the body's magnesium »*.
 - **P2 — « The recommendation nobody has adopted » / « No major laboratory has updated ».** Le recueil MaGNet lui-même trouve 2 seuils sur 43 déjà à 0,85. Variante plus cinglante et vraie : *« In MaGNet's own survey, 41 of 43 institutional cut-offs were still below 0.85 mmol/L. »*

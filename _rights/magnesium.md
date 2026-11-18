@@ -66,17 +66,15 @@ More reliable tools exist: the **magnesium loading test** (intravenous injection
 
 ### The real figure: over 800
 
-The phrase "magnesium is involved in more than 300 enzymatic reactions" has become a mindlessly repeated mantra. But it is **outdated**. Current enzyme databases show that magnesium is a direct cofactor for **more than 600 enzymes** and a necessary activator for **200 additional enzymes**. A total of more than 800 enzymatic systems that depend on this single mineral. A 2012 annotation of the human proteome by Piovesan and colleagues found **3,751 human proteins** with putative magnesium-binding sites.
+The phrase "magnesium is involved in more than 300 enzymatic reactions" has become a mindlessly repeated mantra. But it is **outdated**. Current enzyme databases show that magnesium is a direct cofactor for **more than 600 enzymes** and may activate **200 more**. Up to 800 enzymatic systems that depend on this single mineral. A 2012 annotation of the human proteome by Piovesan and colleagues found **3,751 human proteins** with putative magnesium-binding sites.
 
-To put this in perspective: without enzymes, DNA and RNA synthesis would take **78 million years**; the production of haemoglobin, **2.3 billion years**, half the age of the Earth. Enzymes are the accelerators of all the chemistry of life. And magnesium is the key that starts an enormous number of these accelerators.
+To put this in perspective: without enzymes, DNA and RNA synthesis would take **78 million years**; the production of haemoglobin, **2.3 billion years**, half the age of the Earth. Enzymes are the accelerators of all the chemistry of life. Those two happen to work without any metal; but the kinases that transfer phosphate and the polymerases that copy DNA and RNA cannot work without magnesium bound to their nucleotide substrates. Magnesium is the key that starts an enormous number of these accelerators.
 
 ### ATP: the currency of life's energy
 
 **ATP** (adenosine triphosphate) is the molecule that every cell in the body uses as its "energy currency." Every time a muscle contracts, a neuron transmits a signal, a cell divides, or a protein is manufactured, it is ATP that provides the necessary energy.
 
-Here is the crucial fact that almost no one communicates to the general public: **ATP does not exist in its active form without magnesium**. The ATP molecule is unstable on its own. To function, it must bind to a magnesium ion, forming the **Mg-ATP complex**. This form, and only this form, is biologically active and usable by the body. All energy-requiring reactions in the body have an **absolute requirement for magnesium**:
-
-> *"All enzymatic reactions involving ATP have an absolute requirement for magnesium."*
+Here is the crucial fact that almost no one communicates to the general public: **ATP does not exist in its active form without magnesium**. The ATP molecule is unstable on its own. To function, it must bind to a magnesium ion, forming the **Mg-ATP complex**. It is this complex, not free ATP, that the kinases and ATPases actually bind and use. In practice, nearly every enzymatic reaction that spends ATP has an **absolute requirement for magnesium**.
 
 Imagine ATP as a banknote. Without magnesium, this note is not recognized by the cellular "cash registers." It is there, but unusable.
 
@@ -235,3 +233,5 @@ A century of warnings, a nutrient whose deficit the routine test hides by constr
 35. Qu X, et al. — Magnesium and the risk of cardiovascular events: a meta-analysis of prospective cohort studies — *PLoS One* 2013;8(3):e57720 — [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3592895/)
 36. Larsson SC, Wolk A — Magnesium intake and risk of type 2 diabetes: a meta-analysis — *J Intern Med* 2007;262(2):208–214 — [PubMed](https://pubmed.ncbi.nlm.nih.gov/17645588/)
 37. Beach R — Modern miracle men — *Senate Document 264*, 74th Congress, 2nd session, 1936 — [Monthly Catalog, UNT](https://mocat.library.unt.edu/catalog/498-ch1012)
+38. Liebscher DH, Liebscher DE — About the misdiagnosis of magnesium deficiency — *J Am Coll Nutr* 2004;23(6):730S–731S — [PubMed](https://pubmed.ncbi.nlm.nih.gov/15637222/)
+39. Costello RB, Elin RJ, Rosanoff A, et al. — Perspective: the case for an evidence-based reference interval for serum magnesium: the time has come — *Adv Nutr* 2016;7(6):977–993 — [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC5105038/)

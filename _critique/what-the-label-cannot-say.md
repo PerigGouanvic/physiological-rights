@@ -122,7 +122,7 @@ This resource sits in that space. It is not a bottle. It has nothing to sell. It
 
 - That [riboflavin](/rights/riboflavin-b2/) at 400 mg per day has Cochrane-database evidence for migraine prophylaxis.
 - That [coenzyme Q10](/rights/coenzyme-q10/) has Q-SYMBIO trial evidence for symptomatic heart failure, and that the mevalonate pathway means statin therapy depletes it by construction.
-- That [magnesium](/rights/magnesium/) has evidence for pre-eclampsia and for migraine, that the reference range for serum magnesium has been challenged by the MaGNet international network for over a decade, and that intracellular magnesium is what actually matters.
+- That [magnesium](/rights/magnesium/) has evidence for pre-eclampsia and for migraine, that the reference range for serum magnesium has been challenged for two decades, from Liebscher and Liebscher (2004) to the MaGNet international network (2022), and that intracellular magnesium is what actually matters.
 - That [potassium](/rights/potassium/) has intervention-trial evidence for blood pressure and stroke risk, and that no routine assessment of dietary potassium adequacy exists in the standard workup.
 - That vitamin B12 in the elderly is masked by [folic acid fortification](/rights/folate/), that the functional markers (holotranscobalamin, methylmalonic acid) reveal deficiencies that serum B12 does not, and that neither is routinely ordered.
 
