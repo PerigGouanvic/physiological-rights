@@ -59,7 +59,7 @@ For a small set of parameters, the body itself has installed the blindness. Seru
 
 For potassium, this is the paradigmatic case: 98% of the body's stock is intracellular at ~150 mmol/L; the ~2% that circulates extracellularly is defended within 3.5–5.0 mmol/L, and it is that fraction alone that the routine test reports (see [Potassium](/rights/potassium/)).
 
-For magnesium, the same structural failure operates. In the words of the MaGNet network's clinical review: an individual *may be profoundly deficient in total body or intracellular Mg required for various cellular biochemical processes yet have a serum magnesium concentration within normal range* (see [Magnesium](/rights/magnesium/)). Roughly 80% of hypertensive patients in one series had documented magnesium depletion despite normal serum values.
+For magnesium, the same structural failure operates. In the words of a 2017 clinical review by Gerry Schwalfenberg and Stephen Genuis: an individual *may be profoundly deficient in total body or intracellular Mg required for various cellular biochemical processes yet have a serum magnesium concentration within normal range* (see [Magnesium](/rights/magnesium/)). Roughly 80% of hypertensive patients in one series had documented magnesium depletion despite normal serum values.
 
 The pattern is not a bug in the test. It is the test operating exactly as designed, reporting the compartment it is designed to report, while being used to answer a question about a compartment it cannot see. Using a homeostatically defended marker as a *rule-out* for tissue depletion is a category error.
 

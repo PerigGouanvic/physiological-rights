@@ -48,13 +48,13 @@ Worse still: the body is programmed to maintain a "normal" blood level at all co
 
 ### What the numbers say
 
-Dr Schwalfenberg, of the University of Alberta, puts it plainly:
+Gerry Schwalfenberg, of the University of Alberta, and Stephen Genuis put it plainly in their 2017 review:
 
-> *"An individual may be profoundly deficient in total body or intracellular Mg required for various cellular biochemical processes yet have a SMC [serum magnesium concentration] within normal range."*
+> *"[…] an individual may be profoundly deficient in total body or intracellular Mg required for various cellular biochemical processes yet have a SMC [serum magnesium concentration] within normal range."*
 
-One study of patients being treated for hypertension showed that **80% of them** had magnesium depletion confirmed by a loading test, even though their blood magnesium was **normal or even elevated**. Among patients hospitalized in intensive care units, **half** are deficient in intracellular magnesium despite a normal serum result.
+One study of patients treated for hypertension for at least six months showed that **80% of them** abnormally retained a magnesium load, a sign of depletion, even though their serum magnesium was **normal**. In 104 patients admitted to an intensive cardiac care unit, **53%** had low magnesium inside their blood cells, while only **7.7%** had low serum magnesium.
 
-A finding published in 2010 shows that of laboratory analyses ordered, **only 10% of cases of hypomagnesaemia** were detected at the physician's request; the remaining 90% were found incidentally during routine tests. In other words, physicians are not even looking.
+In 1990, Whang and Ryder measured magnesium systematically in 1,033 serum samples sent for electrolyte analysis. Physicians had requested magnesium for only 7% of them, and those requests caught **only 48 of the 487 cases of hypomagnesaemia**, about 10%. The other 90% surfaced only because the researchers tested everything. In other words, physicians are not even looking.
 
 ### Real tests exist, but are not used
 
@@ -169,7 +169,7 @@ Their 2017 review, *The Importance of Magnesium in Clinical Healthcare*, demonst
 
 ### The MaGNet Network: Reference values are wrong
 
-The international MaGNet network demonstrated that current thresholds (often 0.70–0.75 mmol/L) are **too low** to detect subclinical deficit. Their recommendation published in *Advances in Nutrition* (2022):
+The international MaGNet network demonstrated that current thresholds (often 0.70–0.75 mmol/L) are **too low** to detect subclinical deficit. Their recommendation, published by Rosanoff and colleagues in the *European Journal of Nutrition* (2022):
 
 > *"Widely varying serum magnesium reference ranges render our use of this important medical tool imprecise, minimizing impacts of low magnesium status or hypomagnesemia as a marker of disease risk."*
 
@@ -193,7 +193,7 @@ A century of warnings, a nutrient whose deficit the routine test hides by constr
 | 2017 | Schwalfenberg & Genuis: Level I evidence | Medical education remains unchanged |
 | 2018 | DiNicolantonio: "public health crisis" | No national screening policy |
 | 2022 | MaGNet recommends threshold at 0.85 mmol/L | Not adopted by laboratories |
-| 2025 | 2.4 billion people deficient | Official advice remains "eat a balanced diet" |
+| 2025 | 2.4 billion people with inadequate intake | Official advice remains "eat a balanced diet" |
 
 ---
 
@@ -225,6 +225,8 @@ A century of warnings, a nutrient whose deficit the routine test hides by constr
 24. Novel Scale for Clinical Identification of Adverse Magnesium-Calcium Imbalances — [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC12694097/)
 25. Interview With Leading Magnesium Researcher — Dr. Andrea Rosanoff PhD — [YouTube](https://www.youtube.com/watch?v=J-6OC5x05C8)
 26. Nutrients, Vol. 17, Pages 3662 — [Biblioteca Digital UCEM](https://bibliotecadigital.ucem.edu.mx/nutrients-vol-17-pages-3662-novel-scale-for-clinical-identification-of-adverse-magnesium-calcium-imbalances-applications-and-perspectives/)
-27. MaGNet — Recommendation on an updated standardization of serum magnesium — [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC9186275/)
+27. Rosanoff A, et al., for MaGNet — Recommendation on an updated standardization of serum magnesium reference ranges — *Eur J Nutr* 2022;61(7):3697–3706 — [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC9186275/)
 28. Kubena & Durlach — Historical review of the effects of marginal intake — [PubMed](https://pubmed.ncbi.nlm.nih.gov/2132753/)
-29. The Underestimated Problem of Using Serum Magnesium Measurements — [PubMed](https://pubmed.ncbi.nlm.nih.gov/20170394/)
+29. The Underestimated Problem of Using Serum Magnesium Measurements — [PubMed](https://pubmed.ncbi.nlm.nih.gov/20170394/)30. Seelig CB — Magnesium deficiency in two hypertensive patient groups — *South Med J* 1990;83(7):739–742 — [PubMed](https://pubmed.ncbi.nlm.nih.gov/1695392/)
+31. Ryzen E, Elkayam U, Rude RK — Low blood mononuclear cell magnesium in intensive cardiac care unit patients — *Am Heart J* 1986;111(3):475–480 — [PubMed](https://pubmed.ncbi.nlm.nih.gov/3953355/)
+32. Whang R, Ryder KW — Frequency of hypomagnesemia and hypermagnesemia: requested vs routine — *JAMA* 1990;263(22):3063–3064 — [PubMed](https://pubmed.ncbi.nlm.nih.gov/2342219/)
