@@ -1,0 +1,17 @@
+{
+ "sid": "kothari-2024",
+ "short": "Kothari et al., 2024",
+ "container": "Cureus",
+ "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11444808/",
+ "license": "Open access, CC BY.",
+ "excerpts": [
+  {
+   "key": "atp",
+   "where": "Introduction",
+   "anchor": "Magnesium is an essential mineral that is critical in numerous physiological processes",
+   "marks": [
+    "magnesium stabilizes ATP, the primary energy currency of the cell"
+   ]
+  }
+ ]
+}

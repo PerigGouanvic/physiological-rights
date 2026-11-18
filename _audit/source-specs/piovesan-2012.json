@@ -1,0 +1,17 @@
+{
+ "sid": "piovesan-2012",
+ "short": "Piovesan et al., 2012",
+ "container": "BMC Bioinformatics",
+ "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3482995/",
+ "license": "Open access, CC BY.",
+ "excerpts": [
+  {
+   "key": "results",
+   "where": "Abstract, Results",
+   "anchor": "After cluster assignment of the latest version of the human proteome",
+   "marks": [
+    "the total number of human proteins for which we can assign putative Mg binding sites is 3,751"
+   ]
+  }
+ ]
+}

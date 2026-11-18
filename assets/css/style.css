@@ -1304,3 +1304,111 @@ footer {
 .dh-axis { margin: 1.9rem 0 0.4rem; text-align: center; font-size: 0.78rem; color: var(--ink-light); }
 .deficit-histogram figcaption { font-family: var(--body); font-size: 0.92rem; color: var(--ink-mid); font-style: italic; }
 @media (max-width: 480px) { .dh-val { font-size: 0.6rem; } .dh-bar { margin: 0 10%; } }
+
+/* ── Sources: inline markers, pop-up, source record ───────────────── */
+.content a.cite {
+  display: inline-block;
+  min-width: 1.45em;
+  margin: 0 0.08em 0 0.12em;
+  padding: 0 0.32em;
+  font-family: var(--ui);
+  font-size: 0.62em;
+  font-weight: 500;
+  line-height: 1.55;
+  text-align: center;
+  vertical-align: 0.55em;
+  color: var(--accent);
+  background: rgba(45, 106, 79, 0.08);
+  border: 1px solid rgba(45, 106, 79, 0.35);
+  border-radius: 999px;
+  text-decoration: none;
+  transition: background 0.15s, color 0.15s;
+}
+.content a.cite:hover,
+.content a.cite:focus-visible { background: var(--accent); color: #fff; outline: none; }
+
+html.cite-open { overflow: hidden; }
+
+.cite-dialog {
+  position: fixed; inset: 0; margin: auto;
+  width: min(720px, calc(100vw - 2rem));
+  max-height: min(86vh, 900px);
+  padding: 0;
+  border: 1px solid var(--rule);
+  border-radius: 10px;
+  background: var(--bg);
+  color: var(--ink);
+  box-shadow: 0 24px 60px rgba(28, 26, 22, 0.28);
+  overflow: hidden;
+}
+.cite-dialog[open] { display: flex; flex-direction: column; animation: cd-in 0.18s ease-out; }
+.cite-dialog::backdrop { background: rgba(28, 26, 22, 0.45); backdrop-filter: blur(2px); }
+@keyframes cd-in { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+
+.cd-bar {
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 0.7rem 1.1rem 0.6rem 1.4rem;
+  border-bottom: 1px solid var(--rule);
+  background: var(--bg-warm);
+}
+.cd-num { font-family: var(--ui); font-size: 0.72rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--accent); }
+.cd-close {
+  border: 0; background: transparent; cursor: pointer;
+  font-size: 1.6rem; line-height: 1; color: var(--ink-mid); padding: 0.1rem 0.35rem; border-radius: 6px;
+}
+.cd-close:hover, .cd-close:focus-visible { background: rgba(28, 26, 22, 0.08); outline: none; }
+.cd-body { overflow-y: auto; padding: 1.2rem 1.5rem 1.5rem; -webkit-overflow-scrolling: touch; }
+.cd-loading { font-family: var(--ui); font-size: 0.9rem; color: var(--ink-light); }
+
+.source-card { font-family: var(--body); }
+.source-card .sc-kicker { font-family: var(--ui); font-size: 0.72rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--accent); margin: 0 0 0.4rem; }
+.source-card .sc-title { font-family: var(--serif); font-size: 1.55rem; font-weight: 500; line-height: 1.2; margin: 0 0 0.5rem; color: var(--ink); }
+.source-card .sc-authors { font-size: 0.98rem; color: var(--ink-mid); margin: 0 0 0.15rem; }
+.source-card .sc-pub { font-size: 0.98rem; color: var(--ink-mid); margin: 0 0 1.2rem; }
+.source-card .sc-ex { margin: 0 0 1.1rem; }
+.source-card .sc-ex figcaption {
+  font-family: var(--ui); font-size: 0.7rem; letter-spacing: 0.08em; text-transform: uppercase;
+  color: var(--ink-light); margin: 0 0 0.35rem;
+}
+.source-card .sc-ex blockquote {
+  margin: 0; padding: 0.85rem 1.1rem;
+  border-left: 3px solid var(--accent);
+  background: #fff;
+  border-radius: 0 6px 6px 0;
+  font-size: 1.04rem; line-height: 1.6; color: var(--ink);
+}
+.source-card .sc-ex blockquote p { margin: 0 0 0.7em; }
+.source-card .sc-ex mark { background: rgba(212, 175, 55, 0.28); color: inherit; padding: 0.05em 0.1em; border-radius: 2px; box-decoration-break: clone; -webkit-box-decoration-break: clone; }
+.source-card .sc-authors details { display: inline; }
+.source-card .sc-authors summary { display: inline; cursor: pointer; color: var(--accent); font-family: var(--ui); font-size: 0.8rem; list-style: none; }
+.source-card .sc-authors summary::-webkit-details-marker { display: none; }
+.source-card .sc-authors details[open] summary { display: none; }
+.source-card .sc-ex blockquote p:last-child { margin-bottom: 0; }
+.source-card .sc-more { margin: 0 0 1.1rem; }
+.source-card .sc-more summary { cursor: pointer; font-family: var(--ui); font-size: 0.82rem; color: var(--accent); margin-bottom: 0.7rem; }
+.source-card .sc-note {
+  margin: 0 0 1.1rem; padding: 0.7rem 1rem;
+  background: var(--bg-warm); border-radius: 6px;
+  font-size: 0.98rem; line-height: 1.5; color: var(--ink-mid);
+}
+.source-card .sc-note-label { font-family: var(--ui); font-size: 0.68rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--draft); margin-right: 0.35rem; }
+.source-card .sc-links { display: flex; flex-wrap: wrap; gap: 0.45rem; margin: 0 0 0.8rem; }
+.source-card .sc-links a {
+  font-family: var(--ui); font-size: 0.8rem; text-decoration: none;
+  padding: 0.25rem 0.7rem; border: 1px solid var(--rule); border-radius: 999px; color: var(--ink-mid); background: #fff;
+}
+.source-card .sc-links a:first-child { border-color: var(--accent); color: var(--accent); }
+.source-card .sc-links a:hover { border-color: var(--accent); color: var(--accent); }
+.source-card .sc-meta { font-family: var(--ui); font-size: 0.72rem; line-height: 1.5; color: var(--ink-light); margin: 0; }
+.cite-dialog .sc-record { display: inline-block; }
+
+@media (max-width: 640px) {
+  .cite-dialog {
+    width: 100vw; max-width: 100vw; max-height: 88vh;
+    inset: auto 0 0 0; margin: 0; border-radius: 14px 14px 0 0; border-bottom: 0;
+  }
+  .cite-dialog[open] { animation: cd-up 0.22s ease-out; }
+  @keyframes cd-up { from { transform: translateY(40px); opacity: 0.6; } to { transform: none; opacity: 1; } }
+  .cd-body { padding: 1rem 1.1rem 1.6rem; }
+  .source-card .sc-title { font-size: 1.3rem; }
+}

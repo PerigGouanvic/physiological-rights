@@ -1,0 +1,4 @@
+{%- assign cite_n = cite_n | plus: 1 -%}
+{%- assign _src = site.sources | where: "sid", include.id | first -%}
+<a class="cite" href="{{ '/sources/' | append: include.id | append: '/' | relative_url }}{% if include.ex %}#ex-{{ include.ex | split: ',' | first }}{% endif %}" data-sid="{{ include.id }}"{% if include.ex %} data-ex="{{ include.ex }}"{% endif %} aria-haspopup="dialog" aria-label="Source {{ cite_n }}: {{ _src.short | default: include.id }}">{{ cite_n }}</a>
+{%- comment -%}{% include cite.html id="sid" ex="key1,key2" %}{%- endcomment -%}

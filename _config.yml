@@ -42,6 +42,9 @@ collections:
   legal:
     output: true
     permalink: /:collection/:name/
+  sources:
+    output: true
+    permalink: /:collection/:name/
 
 plugins:
   - jekyll-sitemap
@@ -54,3 +57,11 @@ exclude:
   - node_modules/
   - scripts/
   - _audit/
+
+defaults:
+  - scope:
+      path: ""
+      type: sources
+    values:
+      layout: source
+      sitemap: false

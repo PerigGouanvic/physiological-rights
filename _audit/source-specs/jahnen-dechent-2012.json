@@ -1,0 +1,25 @@
+{
+ "sid": "jahnen-dechent-2012",
+ "short": "Jahnen-Dechent & Ketteler, 2012",
+ "container": "Clinical Kidney Journal",
+ "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4455825/",
+ "license": "Open access, CC BY-NC.",
+ "excerpts": [
+  {
+   "key": "distribution",
+   "where": "Magnesium distribution in the body",
+   "anchor": "About 99% of total body magnesium is located in bone",
+   "marks": [
+    "About 99% of total body magnesium is located in bone, muscles and non-muscular soft tissue"
+   ]
+  },
+  {
+   "key": "testing",
+   "where": "Assessment of magnesium status",
+   "anchor": "To date, three major approaches are available for clinical testing",
+   "marks": [
+    "only 0.3% of total body magnesium is found in serum, and so serum magnesium concentrations [22] are poor predictors of intracellular/total body magnesium content"
+   ]
+  }
+ ]
+}

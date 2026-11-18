@@ -1,0 +1,26 @@
+{
+ "sid": "souza-2023",
+ "short": "Souza et al., 2023",
+ "container": "Nutrients",
+ "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10745813/",
+ "license": "Open access, CC BY.",
+ "excerpts": [
+  {
+   "key": "enzymes",
+   "where": "Magnesium in cellular biochemistry",
+   "anchor": "More than 95% of intracellular magnesium is bound to ATP",
+   "marks": [
+    "magnesium serves as a cofactor in over 600 enzymatic reactions and may act as an activator for an additional 200 enzymes"
+   ]
+  },
+  {
+   "key": "atp",
+   "where": "Magnesium, ATP and muscle",
+   "anchor": "Most of the ATP within cells is found as Mg-ATP complexes",
+   "marks": [
+    "Most of the ATP within cells is found as Mg-ATP complexes, representing its biologically active form",
+    "Magnesium is crucial for catalyzing all reactions involving ATP"
+   ]
+  }
+ ]
+}

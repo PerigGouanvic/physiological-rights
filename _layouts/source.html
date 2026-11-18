@@ -1,0 +1,28 @@
+---
+layout: default
+---
+{%- assign s = page -%}
+<article class="source-card" data-sid="{{ s.sid }}">
+  <p class="sc-kicker">Source</p>
+  <h1 class="sc-title">{{ s.title }}</h1>
+  {%- assign na = s.authors | size -%}
+  <p class="sc-authors">{% if na > 8 %}{% assign first = s.authors | slice: 0, 6 %}{% assign rest = s.authors | slice: 6, na %}{{ first | join: ", " }}<details><summary> and {{ na | minus: 6 }} more</summary>, {{ rest | join: ", " }}</details>{% else %}{{ s.authors | join: ", " }}{% endif %}</p>
+  <p class="sc-pub"><em>{{ s.container }}</em>{% if s.year %}, {{ s.year }}{% endif %}{% if s.volume %};{{ s.volume }}{% endif %}{% if s.issue %}({{ s.issue }}){% endif %}{% if s.pages %}:{{ s.pages }}{% endif %}</p>
+  {%- for ex in s.excerpts %}
+  <figure class="sc-ex" id="ex-{{ ex.key }}" data-key="{{ ex.key }}">
+    <figcaption>{{ ex.where }}</figcaption>
+    <blockquote>{% for p in ex.paras %}{% assign t = p | escape %}{% for m in ex.marks %}{% assign me = m | escape %}{% capture rep %}<mark>{{ me }}</mark>{% endcapture %}{% assign t = t | replace: me, rep %}{% endfor %}<p>{{ t }}</p>{% endfor %}</blockquote>
+  </figure>
+  {%- endfor %}
+  {%- if s.note %}
+  <aside class="sc-note"><span class="sc-note-label">Commentary</span> {{ s.note | escape }}</aside>
+  {%- endif %}
+  <p class="sc-links">
+    {%- if s.url %}<a href="{{ s.url }}" rel="noopener">Read the source</a>{% endif -%}
+    {%- if s.doi %}<a href="https://doi.org/{{ s.doi }}" rel="noopener">DOI</a>{% endif -%}
+    {%- if s.pmid %}<a href="https://pubmed.ncbi.nlm.nih.gov/{{ s.pmid }}/" rel="noopener">PubMed</a>{% endif -%}
+    {%- if s.pmcid %}<a href="https://pmc.ncbi.nlm.nih.gov/articles/{{ s.pmcid }}/" rel="noopener">PMC</a>{% endif -%}
+    <a class="sc-record" href="{{ page.url | relative_url }}">Source record</a>
+  </p>
+  <p class="sc-meta">Excerpts copied verbatim from: {{ s.access }}.{% if s.license %} {{ s.license | escape }}{% endif %} Status: {{ s.status }}. Checked {{ s.verified }}.</p>
+</article>

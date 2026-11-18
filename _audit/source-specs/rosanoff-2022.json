@@ -1,0 +1,43 @@
+{
+ "sid": "rosanoff-2022",
+ "short": "Rosanoff et al., 2022",
+ "container": "European Journal of Nutrition",
+ "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9186275/",
+ "license": "© The Author(s), under exclusive licence to Springer-Verlag GmbH Germany. Excerpts quoted for commentary.",
+ "note": "Signed by Andrea Rosanoff and 30 co-authors for the MaGNet Global Magnesium Project. The 0.85 mmol/L cut-off is the authors' recommendation, not an adopted standard.",
+ "excerpts": [
+  {
+   "key": "results",
+   "where": "Abstract, Results",
+   "anchor": "Serum magnesium levels designating “hypomagnesemia” differ widely. Of 43",
+   "marks": [
+    "Of 43 collected values, only 2 met 0.85 mmol/L as the low cut-off point to define hypomagnesemia."
+   ]
+  },
+  {
+   "key": "conclusion",
+   "where": "Abstract, Conclusions",
+   "anchor": "Widely varying serum magnesium reference ranges render",
+   "marks": [
+    "Widely varying serum magnesium reference ranges render our use of this important medical tool imprecise, minimizing impacts of low magnesium status or hypomagnesemia as a marker of disease risk."
+   ]
+  },
+  {
+   "key": "clmd",
+   "where": "Introduction",
+   "anchor": "In addition to hypomagnesemia presenting with overt disease states",
+   "until": "Two groups of magnesium researchers, one in the United States",
+   "marks": [
+    "serum magnesium reference intervals have been established with “healthy” individuals, including many who unknowingly have CLMD"
+   ]
+  },
+  {
+   "key": "survey",
+   "where": "Results",
+   "anchor": "Forty-three values were gathered from institutions in 16 different countries",
+   "marks": [
+    "Forty-one values of the 43 institutions (95%) designated their low cutoff for definition of hypomagnesemia below and even well below this suggested standard"
+   ]
+  }
+ ]
+}

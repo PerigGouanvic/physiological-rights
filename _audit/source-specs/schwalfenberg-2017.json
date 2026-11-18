@@ -1,0 +1,36 @@
+{
+ "sid": "schwalfenberg-2017",
+ "short": "Schwalfenberg & Genuis, 2017",
+ "authors": [
+  "Gerry K. Schwalfenberg",
+  "Stephen J. Genuis"
+ ],
+ "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5637834/",
+ "license": "Open access, CC BY 4.0.",
+ "excerpts": [
+  {
+   "key": "serum",
+   "where": "Measuring magnesium",
+   "anchor": "When discussing levels of Mg in the studies",
+   "marks": [
+    "an individual may be profoundly deficient in total body or intracellular Mg required for various cellular biochemical processes yet have a SMC within normal range"
+   ]
+  },
+  {
+   "key": "diabetes",
+   "where": "Diabetes",
+   "anchor": "The most commonly detected electrolyte abnormality in ambulatory diabetic patients",
+   "marks": [
+    "A recent study of diabetics (n = 210) showed that 88.6% had Mg intake less than the RDA and 37.1% had measurable hypomagnesia"
+   ]
+  },
+  {
+   "key": "levelone",
+   "where": "Abstract",
+   "anchor": "Level I evidence supports the use of magnesium",
+   "marks": [
+    "Level I evidence supports the use of magnesium in the prevention and treatment of many common health conditions"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+{
+ "sid": "nelson-2025",
+ "short": "Nelson, Rosanoff & von Ehrlich, 2025",
+ "container": "Nutrients",
+ "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12694097/",
+ "license": "Open access, CC BY.",
+ "excerpts": [
+  {
+   "key": "abstract",
+   "where": "Abstract",
+   "anchor": "Calcium (Ca) and magnesium (Mg) are mutual antagonists",
+   "marks": [
+    "This knowledge, however, has not translated into active incorporation of serum Mg determination as a reliable diagnostic tool for physiological Mg deficit."
+   ]
+  }
+ ]
+}

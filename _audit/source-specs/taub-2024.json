@@ -1,0 +1,24 @@
+{
+ "sid": "taub-2024",
+ "short": "Sadeh et al., Taub Center, 2024",
+ "title": "The Health and Economic Burden of Desalination-Related Magnesium Deficiency",
+ "authors": [
+  "Maya Sadeh",
+  "Itamar Grotto",
+  "Nadav Davidovitch",
+  "Alex Weinreb"
+ ],
+ "container": "Taub Center for Social Policy Studies in Israel",
+ "year": "2024",
+ "url": "https://www.taubcenter.org.il/en/research/magnesium-deficiency/",
+ "excerpts": [
+  {
+   "key": "savings",
+   "where": "Summary",
+   "anchor": "The expected annual savings in direct healthcare expenses",
+   "marks": [
+    "range from NIS 83 to 188 million in 2025 and between NIS 110 to 253 million in 2040"
+   ]
+  }
+ ]
+}
