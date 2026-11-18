@@ -131,7 +131,7 @@ In Israel, a 2024 Taub Center study (Sadeh, Grotto, Davidovitch and Weinreb) cal
 
 ### The vicious cycle of medications
 
-Many commonly prescribed medications **worsen** magnesium deficiency: proton pump inhibitors (PPIs), thiazide and loop diuretics, certain antibiotics, immunosuppressants, chemotherapy agents, corticosteroids, oral contraceptives. Dr Carolyn Dean describes a typical scenario:
+Many commonly prescribed medications **worsen** magnesium deficiency: proton pump inhibitors (PPIs), thiazide and loop diuretics, certain antibiotics, immunosuppressants, chemotherapy agents, corticosteroids, oral contraceptives. Dr Carolyn Dean describes a typical scenario, paraphrased here:
 
 > A stressed patient consults for symptoms that are in fact those of magnesium deficiency (fatigue, insomnia, tension); a diuretic is prescribed that drains even more magnesium; at the next appointment, cholesterol is elevated (magnesium regulates the HMG-CoA reductase enzyme); a statin is added; then a diabetes medication, and the patient ends up on five medications, each worsening the original problem.
 
@@ -237,3 +237,4 @@ A century of warnings, a nutrient whose deficit the routine test hides by constr
 39. Costello RB, Elin RJ, Rosanoff A, et al. — Perspective: the case for an evidence-based reference interval for serum magnesium: the time has come — *Adv Nutr* 2016;7(6):977–993 — [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC5105038/)
 40. Thomas D — The mineral depletion of foods available to us as a nation (1940–2002): a review of the 6th edition of McCance and Widdowson — *Nutr Health* 2007;19(1–2):21–55 — [PubMed](https://pubmed.ncbi.nlm.nih.gov/18309763/)
 41. Marier JR — Magnesium content of the food supply in the modern-day world — *Magnesium* 1986;5(1):1–8 — [PubMed](https://pubmed.ncbi.nlm.nih.gov/3515057/)
+42. Durlach J — New data on the importance of gestational Mg deficiency — *J Am Coll Nutr* 2004;23(6):694S–700S — [PubMed](https://pubmed.ncbi.nlm.nih.gov/15637217/)

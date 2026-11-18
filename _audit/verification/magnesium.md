@@ -33,10 +33,22 @@ P5 : citation « All enzymatic reactions involving ATP… » introuvable (Europe
 - **P5 — « This form, and only this form » / citation « All enzymatic reactions involving ATP ».** Absolu défendable pour les kinases, pas pour toute réaction énergétique ; citation à attribuer (actuellement sans auteur).
 - **P6 — « challenged by the MaGNet network for a decade / over a decade »** (`behind-every-test-an-industry.md`, `what-the-label-cannot-say.md`). MaGNet publie la recommandation en 2022 ; la proposition 0,85 elle-même remonte à Liebscher & Liebscher (2004) et Elin. Reformuler en « for two decades, from Liebscher and Elin to MaGNet » après vérification de ces deux sources.
 
-## 3. Reste à vérifier (fiche magnésium)
+## 3. Lot 3 (2026-11-18, appliqué sans aller-retour)
 
-- Durlach « About 20% » (réf. 3), préface Seelig (réf. 5), entretien Dean (réf. 22), vidéo Rosanoff (réf. 25).
-- Chiffres britanniques 24/21/38/70 % (probablement Thomas 2007, *Nutr Health*) et raffinage 82/83/99 % (Marier ?) : remonter au primaire, remplacer les billets commerciaux (réf. 13, 14, 17, 19).
-- Taub Center (83–253 M NIS) et « $86 billion » (Life Extension 2005) : lire les modèles.
-- Tableau des associations par système ; tests alternatifs (charge, RBC, mononucléaires, RMN).
-- Réf. 26 = doublon probable de 24 (agrégateur).
+| Point | Verdict | Action |
+|---|---|---|
+| 88,6 % des diabétiques | une seule étude, n = 210 (cité par Schwalfenberg & Genuis) | portée bornée |
+| UK 24/21/38/70 % | Thomas 2007, *Nutr Health* (comparaison McCance & Widdowson) ; chiffres non relus dans le texte intégral | attribution ajoutée |
+| Raffinage 82/83/99 % | Marier 1986 ; résumé seulement, chiffres non relus | attribution ajoutée |
+| Taub Center « 83–253 M NIS/an » | 83–188 M en 2025, 110–253 M en 2040 ; Sadeh et al. 2024 | horizons séparés |
+| « $86 billion » | Paul Mason, cité par Life Extension 2005 ; pas de modèle publié | attribué |
+| Citation Durlach « About 20% » | Durlach 2004, *J Am Coll Nutr* (PMID 15637217) | réf. 42 ajoutée |
+| Durlach 1925–2017 | confirmé (Rayssiguier, *Magnes Res* 2017;30(4)) | — |
+| Scénario Dean | paraphrase présentée en bloc | marqué « paraphrased » |
+
+## 4. Reste ouvert
+
+- « 20 to 40% » de baisse liée aux NPK (réf. commerciales 17, 19) : source primaire non trouvée.
+- Préface Seelig (réf. 5, mgwater.com redirige) ; vidéo Rosanoff (réf. 25).
+- Tableau des associations par système ; tests alternatifs.
+- Réf. 26 = doublon probable de 24.
