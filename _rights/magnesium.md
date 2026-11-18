@@ -30,7 +30,7 @@ title: Right to Adequate Magnesium Levels
 
 ## A century of ignored warnings
 
-The history of magnesium deficiency is the history of a slow-motion scandal. As early as **1926**, magnesium was recognized as an essential nutrient for life. In **1936**, a report submitted to the US Senate (*Senate Document 264*) already raised the alarm: agricultural soils were losing their minerals, including magnesium, and the foods they produced were no longer properly nourishing the population. That report is almost 90 years old. Nothing structural has changed.
+The history of magnesium deficiency is the history of a slow-motion scandal. As early as **1926**, magnesium was recognized as an essential nutrient for life. In **1936**, the US Senate printed as *Senate Document 264* a magazine article by Rex Beach, first published in *Cosmopolitan* and entered into the record by Senator Duncan Fletcher, on the work of Dr Charles Northen. It already raised the alarm: agricultural soils were losing their minerals, including magnesium, and the foods they produced were no longer properly nourishing the population. That warning is almost 90 years old. Nothing structural has changed.
 
 In **1971**, Professor **Jean Durlach** (1925–2017), of the Université Pierre et Marie Curie in Paris, organized the first International Symposium on Magnesium in Vittel and founded the **SDRM** (*Société pour le Développement de la Recherche sur le Magnésium*). In **1980**, Dr **Mildred Seelig** published her monumental work *Magnesium Deficiency in the Pathogenesis of Disease*, in which she meticulously documented the role of magnesium deficiency in cardiovascular, renal, neuromuscular, and immune diseases.
 
@@ -66,7 +66,7 @@ More reliable tools exist: the **magnesium loading test** (intravenous injection
 
 ### The real figure: over 800
 
-The phrase "magnesium is involved in more than 300 enzymatic reactions" has become a mindlessly repeated mantra. But it is **outdated**. Current enzyme databases show that magnesium is a direct cofactor for **more than 600 enzymes** and a necessary activator for **200 additional enzymes**. A total of more than 800 enzymatic systems that depend on this single mineral. It is also estimated that **3,571 human proteins** potentially bind magnesium.
+The phrase "magnesium is involved in more than 300 enzymatic reactions" has become a mindlessly repeated mantra. But it is **outdated**. Current enzyme databases show that magnesium is a direct cofactor for **more than 600 enzymes** and a necessary activator for **200 additional enzymes**. A total of more than 800 enzymatic systems that depend on this single mineral. A 2012 annotation of the human proteome by Piovesan and colleagues found **3,751 human proteins** with putative magnesium-binding sites.
 
 To put this in perspective: without enzymes, DNA and RNA synthesis would take **78 million years**; the production of haemoglobin, **2.3 billion years**, half the age of the Earth. Enzymes are the accelerators of all the chemistry of life. And magnesium is the key that starts an enormous number of these accelerators.
 
@@ -103,7 +103,7 @@ An association is not a causal claim. A magnesium deficit is one etiology among 
 
 ### Cardiovascular disease
 
-Patients in the highest quartile of magnesium intake have a **77% reduced risk of sudden cardiac death**. A meta-analysis of more than 500,000 participants shows a relative risk of cardiovascular disease of 0.64 for those with the highest serum magnesium levels.
+In the Nurses' Health Study, women in the highest quartile of plasma magnesium had a **77% lower risk of sudden cardiac death** than those in the lowest quartile; for dietary magnesium, the reduction was 37%. A 2013 meta-analysis of 19 prospective cohorts (532,979 participants in total) found a relative risk of cardiovascular events of 0.77 for the highest versus lowest serum magnesium category, and 0.85 for dietary intake.
 
 ### Diabetes and metabolic syndrome
 
@@ -184,7 +184,7 @@ A century of warnings, a nutrient whose deficit the routine test hides by constr
 | Year | Event | Outcome |
 |---|---|---|
 | 1926 | Magnesium recognized as essential | – |
-| 1936 | US Senate warns of demineralized soils | No systemic action |
+| 1936 | Senate Document 264 warns of demineralized soils | No systemic action |
 | 1971 | First international magnesium symposium | Research advances; clinical practice does not follow |
 | 1980 | Seelig publishes her foundational work | Ignored by mainstream medicine |
 | 1990 | Kubena & Durlach document chronic latent deficit | No protocol change |
@@ -230,3 +230,8 @@ A century of warnings, a nutrient whose deficit the routine test hides by constr
 29. The Underestimated Problem of Using Serum Magnesium Measurements — [PubMed](https://pubmed.ncbi.nlm.nih.gov/20170394/)30. Seelig CB — Magnesium deficiency in two hypertensive patient groups — *South Med J* 1990;83(7):739–742 — [PubMed](https://pubmed.ncbi.nlm.nih.gov/1695392/)
 31. Ryzen E, Elkayam U, Rude RK — Low blood mononuclear cell magnesium in intensive cardiac care unit patients — *Am Heart J* 1986;111(3):475–480 — [PubMed](https://pubmed.ncbi.nlm.nih.gov/3953355/)
 32. Whang R, Ryder KW — Frequency of hypomagnesemia and hypermagnesemia: requested vs routine — *JAMA* 1990;263(22):3063–3064 — [PubMed](https://pubmed.ncbi.nlm.nih.gov/2342219/)
+33. Piovesan D, Profiti G, Martelli PL, Casadio R — The human "magnesome": detecting magnesium binding sites on human proteins — *BMC Bioinformatics* 2012;13(Suppl 14):S10 — [PubMed](https://pubmed.ncbi.nlm.nih.gov/23095498/)
+34. Chiuve SE, Korngold EC, Januzzi JL Jr, Gantzer ML, Albert CM — Plasma and dietary magnesium and risk of sudden cardiac death in women — *Am J Clin Nutr* 2011;93(2):253–260 — [PubMed](https://pubmed.ncbi.nlm.nih.gov/21106914/)
+35. Qu X, et al. — Magnesium and the risk of cardiovascular events: a meta-analysis of prospective cohort studies — *PLoS One* 2013;8(3):e57720 — [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3592895/)
+36. Larsson SC, Wolk A — Magnesium intake and risk of type 2 diabetes: a meta-analysis — *J Intern Med* 2007;262(2):208–214 — [PubMed](https://pubmed.ncbi.nlm.nih.gov/17645588/)
+37. Beach R — Modern miracle men — *Senate Document 264*, 74th Congress, 2nd session, 1936 — [Monthly Catalog, UNT](https://mocat.library.unt.edu/catalog/498-ch1012)
