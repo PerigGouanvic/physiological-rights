@@ -1,0 +1,18 @@
+{
+ "sid": "lewis-wolfenden-2008",
+ "short": "Lewis & Wolfenden, 2008",
+ "container": "PNAS",
+ "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2582308/",
+ "excerpts": [
+  {
+   "key": "abstract",
+   "where": "Abstract",
+   "anchor": "abstract",
+   "marks": [
+    "without the assistance of metals or other cofactors",
+    "half-life of 2.3 x 10(9) years",
+    "another cofactorless enzyme"
+   ]
+  }
+ ]
+}

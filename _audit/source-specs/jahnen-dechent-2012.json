@@ -20,6 +20,11 @@
    "marks": [
     "only 0.3% of total body magnesium is found in serum, and so serum magnesium concentrations [22] are poor predictors of intracellular/total body magnesium content"
    ]
+  },
+  {
+   "key": "drugs",
+   "where": "Drug-induced magnesium loss",
+   "anchor": "aminoglycoside"
   }
  ]
 }

@@ -1,0 +1,31 @@
+{
+ "sid": "senate-doc-264",
+ "short": "Senate Document 264, 1936",
+ "title": "Modern Miracle Men",
+ "authors": [
+  "Rex Beach"
+ ],
+ "container": "US Senate Document No. 264, 74th Congress, 2nd session (reprinted from Cosmopolitan, June 1936)",
+ "year": "1936",
+ "url": "https://www.govinfo.gov/app/details/SERIALSET-10016_00_00-062-0264-0000",
+ "license": "US government publication, public domain.",
+ "note": "A magazine article about Dr Charles Northen, printed as a Senate document at the request of Senator Duncan Fletcher. It is a journalist's account, not a Senate report or a scientific study. Magnesium is named once.",
+ "access": "full text (scanned PDF, GovInfo); excerpts are OCR, so occasional spelling slips come from the scan",
+ "excerpts": [
+  {
+   "key": "soils",
+   "where": "Opening",
+   "anchor": "Do you know that most of us today are suffering from certain dangerous diet deficiencies",
+   "from": "Do you know"
+  },
+  {
+   "key": "magnesia",
+   "where": "Minerals and behaviour",
+   "anchor": "Many backward children are",
+   "marks": [
+    "Many backward children are “stupid” merely because they are deficient in magnesia."
+   ],
+   "from": "A cageful of normal rats"
+  }
+ ]
+}

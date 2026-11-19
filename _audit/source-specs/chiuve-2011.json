@@ -12,5 +12,6 @@
     "dietary (relative risk: 0.63; 95% CI: 0.44, 0.91) and plasma (relative risk: 0.23; 95% CI: 0.09, 0.60) magnesium"
    ]
   }
- ]
+ ],
+ "note": "The 77% figure belongs to plasma magnesium (nested case-control, 99 cases), not to intake; for dietary magnesium the reduction was 37%. Several reviews, including Schwalfenberg & Genuis (2017), repeat it as an intake effect."
 }

@@ -27,4 +27,10 @@ excerpts:
       - "should be considered a public health crisis"
     paras:
       - "Because serum magnesium does not reflect intracellular magnesium, the latter making up more than 99% of total body magnesium, most cases of magnesium deficiency are undiagnosed. Furthermore, because of chronic diseases, medications, decreases in food crop magnesium contents, and the availability of refined and processed foods, the vast majority of people in modern societies are at risk for magnesium deficiency. Certain individuals will need to supplement with magnesium in order to prevent suboptimal magnesium deficiency, especially if trying to obtain an optimal magnesium status to prevent chronic disease. Subclinical magnesium deficiency increases the risk of numerous types of cardiovascular disease, costs nations around the world an incalculable amount of healthcare costs and suffering, and should be considered a public health crisis. That an easy, cost-effective strategy exists to prevent and treat subclinical magnesium deficiency should provide an urgent call to action."
+  - key: "copd"
+    where: "Lung disease, diuretics and corticosteroids"
+    marks:
+      - "routine serum magnesium determination is recommended in patients with chronic obstructive lung disease taking diuretic drugs or corticosteroids"
+    paras:
+      - "Of patients with severe chronic airway obstruction, 11.6% have serum magnesium levels less than the lower normal limit. The authors of the study concluded: ‘…routine serum magnesium determination is recommended in patients with chronic obstructive lung disease taking diuretic drugs or corticosteroids’.51"
 ---

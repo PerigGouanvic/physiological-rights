@@ -12,14 +12,14 @@
  "issue": "6",
  "doi": "10.31083/IJVNR46828",
  "url": "https://www.imrpress.com/journal/IJVNR/95/6/10.31083/IJVNR46828",
- "note": "The 2.4 billion figure counts people below recommended intake, not people with a measured body deficit.",
+ "note": "A relay for the 2.4 billion figure, whose primary source is Passarelli et al. (2024). One author, Youyou Zhao, is affiliated with Sirio Pharma, a supplement manufacturer. The figure counts people below recommended intake, not people with a measured body deficit.",
  "excerpts": [
   {
    "key": "prevalence",
-   "where": "Prevalence of inadequate intake",
-   "anchor": "an estimated 2.4 billion people, or roughly 31% of the global population",
+   "where": "Global perspective",
+   "anchor": "Global perspective: A 2024 modeling study that estimated median intakes",
    "marks": [
-    "Globally, an estimated 2.4 billion people, or roughly 31% of the global population, fail to meet the recommended magnesium intake levels."
+    "2.4 billion people or approximately 31% of the global population had inadequate magnesium intake"
    ]
   }
  ]

@@ -9,6 +9,22 @@
    "key": "rbc",
    "where": "Red blood cell magnesium",
    "anchor": "Red blood cells’ (RBC; erythrocyte and monocyte) magnesium levels are often cited"
+  },
+  {
+   "key": "processing",
+   "where": "Dietary causes",
+   "anchor": "Modern dietary practices are now estimated to consist of up to 60% processed foods",
+   "marks": [
+    "Processing techniques, such as grain bleaching and vegetable cooking, can cause a loss of up to 80% of magnesium content"
+   ]
+  },
+  {
+   "key": "contraceptives",
+   "where": "Sex differences and oral contraceptives",
+   "anchor": "Gender also contributes to magnesium status as estrogen enhances magnesium utilization",
+   "marks": [
+    "particularly at the time of ovulation or during oral contraceptive use"
+   ]
   }
  ]
 }

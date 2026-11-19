@@ -31,6 +31,96 @@
    "marks": [
     "Level I evidence supports the use of magnesium in the prevention and treatment of many common health conditions"
    ]
+  },
+  {
+   "key": "vitd",
+   "where": "Magnesium, vitamin D, rickets and osteoporosis",
+   "anchor": "Magnesium is required for conversion of vitamin D into its active form",
+   "marks": [
+    "Magnesium is required for conversion of vitamin D into its active form",
+    "Rickets with hypomagnesaemia will not respond to massive doses of vitamin D"
+   ]
+  },
+  {
+   "key": "bone",
+   "where": "Bone density and fractures",
+   "anchor": "Higher Mg intake has been associated with higher BMD"
+  },
+  {
+   "key": "depression",
+   "where": "Depression",
+   "anchor": "Magnesium sulfate has been successfully used in agitated depression",
+   "marks": [
+    "Magnesium is required as a coenzyme to convert tryptophan to serotonin"
+   ]
+  },
+  {
+   "key": "nmda",
+   "where": "NMDA and ketamine",
+   "anchor": "Another intriguing mechanism that relates to Mg and mental health",
+   "marks": [
+    "Magnesium is a natural NMDA receptor antagonist"
+   ]
+  },
+  {
+   "key": "cardio",
+   "where": "Cardiovascular health and sudden cardiac death",
+   "anchor": "Patients with the highest quartile of Mg intake had a reduction of sudden cardiac death by 77%",
+   "marks": [
+    "Patients with the highest quartile of Mg intake had a reduction of sudden cardiac death by 77%"
+   ]
+  },
+  {
+   "key": "pregnancy",
+   "where": "Pregnancy",
+   "anchor": "As Mg deficiency is a common event in pregnancy"
+  },
+  {
+   "key": "cancer",
+   "where": "Cancer",
+   "anchor": "A decrease in Mg intake reduces intracellular Mg"
+  },
+  {
+   "key": "stones",
+   "where": "Kidney stones",
+   "anchor": "Mg intake with meals is well recognized to bind consumed oxalates"
+  },
+  {
+   "key": "hmg",
+   "where": "Statins and magnesium",
+   "anchor": "Both statins and normal Mg levels prevent clotting",
+   "marks": [
+    "Magnesium is a HMG-CoA reductase controller rather than an inhibitor."
+   ]
+  },
+  {
+   "key": "eyes",
+   "where": "Cataract and glaucoma",
+   "anchor": "Senile cataract is the most common cause of bilateral blindness"
+  },
+  {
+   "key": "neuro",
+   "where": "ADHD, dementia, Parkinson's disease",
+   "anchor": "Mg deficiency is common in children with attention deficit hyperactivity disorder"
+  },
+  {
+   "key": "skin",
+   "where": "Atopic dermatitis",
+   "anchor": "Serum Mg and erythrocyte zinc levels have been shown to be lower in children with atopic dermatitis"
+  },
+  {
+   "key": "drugs",
+   "where": "Drug interactions",
+   "anchor": "Mg interacts with numerous medications",
+   "marks": [
+    "Some medications prevent absorption of Mg (such as protein pump inhibitors)"
+   ]
+  },
+  {
+   "key": "asthma",
+   "where": "Asthma",
+   "anchor": "Although mechanisms are not completely understood at this time, it appears that Mg insufficiency may be related to severe bronchospasm"
   }
- ]
+ ],
+ "note": "A wide-ranging clinical review that grades each indication by level of evidence. One slip worth knowing: it reports the 77% lower risk of sudden cardiac death as an effect of intake, whereas the primary study (Chiuve et al., 2011) found it for plasma magnesium."
 }

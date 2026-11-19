@@ -1,0 +1,23 @@
+{
+ "sid": "passarelli-2024",
+ "short": "Passarelli et al., 2024",
+ "container": "The Lancet Global Health",
+ "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11426101/",
+ "license": "Open access, CC BY 4.0.",
+ "note": "A modelling analysis of intake from food only (fortification and supplements excluded), across 185 countries. It estimates inadequate intake, not tissue deficiency.",
+ "excerpts": [
+  {
+   "key": "findings",
+   "where": "Results",
+   "anchor": "magnesium (2·4 billion people; 31% of the population",
+   "marks": [
+    "magnesium (2·4 billion people; 31% of the population"
+   ]
+  },
+  {
+   "key": "methods",
+   "where": "Abstract, Methods",
+   "anchor": "In this modelling analysis, we adopted a novel approach"
+  }
+ ]
+}

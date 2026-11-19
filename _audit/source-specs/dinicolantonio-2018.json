@@ -13,6 +13,14 @@
     "most cases of magnesium deficiency are undiagnosed",
     "should be considered a public health crisis"
    ]
+  },
+  {
+   "key": "copd",
+   "where": "Lung disease, diuretics and corticosteroids",
+   "anchor": "Of patients with severe chronic airway obstruction, 11.6% have serum magnesium levels",
+   "marks": [
+    "routine serum magnesium determination is recommended in patients with chronic obstructive lung disease taking diuretic drugs or corticosteroids"
+   ]
   }
  ]
 }
