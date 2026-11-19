@@ -1,0 +1,22 @@
+{
+ "sid": "ods-magnesium",
+ "short": "NIH Office of Dietary Supplements",
+ "title": "Magnesium: Fact Sheet for Health Professionals",
+ "authors": [
+  "NIH Office of Dietary Supplements"
+ ],
+ "container": "ods.od.nih.gov",
+ "url": "https://ods.od.nih.gov/factsheets/Magnesium-HealthProfessional/",
+ "access": "full text (web page, Wayback Machine copy, 2025)",
+ "license": "US government publication, public domain.",
+ "excerpts": [
+  {
+   "key": "intake",
+   "where": "Magnesium intakes and status",
+   "anchor": "48% of Americans of all ages ingest less magnesium",
+   "marks": [
+    "48% of Americans of all ages ingest less magnesium from food and beverages than their respective EARs"
+   ]
+  }
+ ]
+}

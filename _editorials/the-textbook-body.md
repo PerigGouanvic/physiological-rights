@@ -52,13 +52,13 @@ The body that the textbook describes is not a description. It is a hypothesis ab
 
 This resource documents the population figures for a handful of nutrients, each on its own page. Take seven of them, the ones where the numbers are best established, and take the shortfall rates at face value:
 
-- **Magnesium**: about half of adults below the estimated requirement.
-- **Potassium**: well over nine in ten below the 4 700 mg that the physiology supports.
-- **Vitamin D**: about two in three below 75 nmol/L.
+- **Magnesium**: about half of Americans below the estimated requirement.{% include cite.html id="ods-magnesium" ex="intake" %}
+- **Potassium**: well over nine in ten below the 4 700 mg that the physiology supports.{% include cite.html id="whelton-2018" ex="intakes" %}
+- **Vitamin D**: about two in three below 75 nmol/L; three in four in the last survey before assay standardisation.{% include cite.html id="ginde-2009" ex="abstract" %}{% include cite.html id="herrick-2019" ex="abstract" %}
 - **Omega-3**: nearly all, 97.6 % of American adults, below an Omega-3 Index of 8 % in the first national measurement (NHANES 2021–2023).{% include cite.html id="powers-2026" ex="results,abstract" %}
-- **Choline**: about nine in ten below the Adequate Intake.
-- **Vitamin E**: roughly eight to nine in ten below requirement from diet alone.
-- **Functional B12**: about one in ten, more with age, metformin, or acid suppression.
+- **Choline**: about nine in ten below the Adequate Intake.{% include cite.html id="wallace-fulgoni-2016" ex="abstract" %}
+- **Vitamin E**: roughly eight to nine in ten below requirement from diet alone.{% include cite.html id="reider-2020" ex="abstract" %}{% include cite.html id="traber-2014" ex="abstract" %}
+- **Functional B12**: about one in ten, more with age, metformin, or acid suppression.{% include cite.html id="mineva-2021" ex="abstract" %}
 
 Now ask what fraction of adults is short on none of them, on exactly one, on two, and so on. If the seven shortfalls were independent events, the answer is a simple calculation, and it looks like this.
 

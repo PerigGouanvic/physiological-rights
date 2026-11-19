@@ -1,0 +1,16 @@
+{
+ "sid": "herrick-2019",
+ "short": "Herrick et al., 2019",
+ "container": "American Journal of Clinical Nutrition",
+ "note": "Standardised NHANES 2011-2014 data, using the lower thresholds of the US Institute of Medicine (below 30 and 30-49 nmol/L).",
+ "excerpts": [
+  {
+   "key": "abstract",
+   "where": "Abstract (full text not consulted)",
+   "anchor": "abstract",
+   "marks": [
+    "the percentage aged ≥1 y at risk of vitamin D deficiency or inadequacy was 5.0% (95% CI: 4.1%, 6.2%) and 18.3% (95% CI: 16.2%, 20.6%)"
+   ]
+  }
+ ]
+}
