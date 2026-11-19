@@ -13,8 +13,10 @@
 - `scripts/check_refs.py <page>` (listes numérotées) ; `scripts/auto_cite.py <page> --fetch` (notes kramdown `[^n]`, table d'appariement à relire).
 - Test : build Docker `jekyll/jekyll:4.2.2` avec `.local-build.yml`, captures `~/prbuild/tools/shot3.js`.
 
+- `_rights/choline.md` (18), `_rights/vitamin-e.md` (65) — 2026-11-19 matin
+- *The Textbook Body* : les sept puces ouvrent leur source. Reste : le fer (« ferritine < 30 chez un tiers des femmes réglées ») — Weyand 2023 (JAMA) n'est accessible qu'en PDF verrouillé ; vitamine D < 75 nmol/L standardisé introuvable (Ginde 2009 non standardisé, Herrick 2019 seuils IOM).
+
 ## Suite, dans l'ordre
-1. `_rights/choline.md`, `_rights/vitamin-e.md` (alimentent la Une), puis vitamine D et B12 dans la Une (pas de fiche) : sourcer les sept puces de *The Textbook Body*.
 2. Autres `_rights/` : folate, thiamine-b1, riboflavin-b2, vitamin-c, iron, insulin, coenzyme-q10, glutathione, muscle-mass, optimal-hormonal-levels.
 3. Recopies : `_critique/the-hunger-we-dont-see.md`, `behind-every-test-an-industry.md`, `what-the-label-cannot-say.md` (Liebscher 2004, Costello 2016 déjà en fiches).
 4. Puis `_did-you-know/`, `_critique/`, `_editorials/`, `_definitions/`.
