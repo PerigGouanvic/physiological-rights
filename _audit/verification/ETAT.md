@@ -1,4 +1,4 @@
-# État du chantier de vérification (mis à jour 2026-11-19, 3h50)
+# État du chantier de vérification (mis à jour 2026-11-19, 7h45)
 
 ## Fait (sources en pop-up, corrections appliquées et poussées)
 - `_did-you-know/magnesium-serum-test-misses-99-percent.md` (pilote)
@@ -16,7 +16,12 @@
 - `_rights/choline.md` (18), `_rights/vitamin-e.md` (65) — 2026-11-19 matin
 - *The Textbook Body* : les sept puces ouvrent leur source. Reste : le fer (« ferritine < 30 chez un tiers des femmes réglées ») — Weyand 2023 (JAMA) n'est accessible qu'en PDF verrouillé ; vitamine D < 75 nmol/L standardisé introuvable (Ginde 2009 non standardisé, Herrick 2019 seuils IOM).
 
+- `_rights/riboflavin-b2.md` (37), `_rights/thiamine-b1.md` (36), `_rights/iron.md` (38) + DYK fer (6) — 2026-11-19 matin
+- `scripts/check_pmids.py` : contrôle site entier des liens PubMed (fer : 10/15 faux ; Prior 1990 corrigé dans optimal-hormonal-levels)
+
 ## Suite, dans l'ordre
-2. Autres `_rights/` : folate, thiamine-b1, riboflavin-b2, vitamin-c, iron, insulin, coenzyme-q10, glutathione, muscle-mass, optimal-hormonal-levels.
+1. `_rights/folate.md` : 73 notes ; textes en cours de dépôt (`FAST=1 scripts/auto_cite.py _rights/folate.md --fetch`, journal `~/prbuild/folate-autocite.log`). Suspects : réfs pointant vers soja/cancer du sein (PMID 19403632), psychiatrie (PMID 16927163) ; chiffres « 5 millions de grossesses », « 4 milliards », « 95 % UMFA ».
+2. `_rights/optimal-hormonal-levels.md` (23 réfs, liste numérotée ; check_refs ne parse pas bien ce format), `insulin`, `coenzyme-q10`, `glutathione`, `muscle-mass`, `vitamin-c` (sans références formelles).
+3. Autres `_rights/` : folate, thiamine-b1, riboflavin-b2, vitamin-c, iron, insulin, coenzyme-q10, glutathione, muscle-mass, optimal-hormonal-levels.
 3. Recopies : `_critique/the-hunger-we-dont-see.md`, `behind-every-test-an-industry.md`, `what-the-label-cannot-say.md` (Liebscher 2004, Costello 2016 déjà en fiches).
 4. Puis `_did-you-know/`, `_critique/`, `_editorials/`, `_definitions/`.
