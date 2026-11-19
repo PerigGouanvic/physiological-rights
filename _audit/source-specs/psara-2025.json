@@ -1,0 +1,17 @@
+{
+ "sid": "psara-2025",
+ "short": "Psara et al., 2025",
+ "container": "Marine Drugs",
+ "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11857698/",
+ "license": "Open access, CC BY.",
+ "excerpts": [
+  {
+   "key": "ofc",
+   "where": "Review of brain studies",
+   "anchor": "McNamara et al. determined the omega-3 fatty acid composition of the postmortem orbitofrontal cortex",
+   "marks": [
+    "DHA (−24%)"
+   ]
+  }
+ ]
+}

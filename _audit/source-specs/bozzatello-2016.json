@@ -1,0 +1,17 @@
+{
+ "sid": "bozzatello-2016",
+ "short": "Bozzatello et al., 2016",
+ "container": "Journal of Clinical Medicine",
+ "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4999787/",
+ "license": "Open access, CC BY.",
+ "excerpts": [
+  {
+   "key": "adhd",
+   "where": "Abstract",
+   "anchor": "In patients with attention deficit hyperactivity disorder",
+   "marks": [
+    "small-to-modest effects of omega-3 HUFAs have been found"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "sid": "health-canada-2007",
+ "short": "Health Canada, 2007",
+ "title": "Human Health Risk Assessment of Mercury in Fish and Health Benefits of Fish Consumption",
+ "authors": [
+  "Health Canada, Bureau of Chemical Safety"
+ ],
+ "container": "Health Canada",
+ "year": "2007",
+ "url": "https://www.canada.ca/en/health-canada/services/food-nutrition/reports-publications/human-health-risk-assessment-mercury-fish-health-benefits-fish-consumption.html",
+ "license": "© Government of Canada. Excerpt quoted for commentary.",
+ "excerpts": [
+  {
+   "key": "counteract",
+   "where": "Health effects of methylmercury",
+   "anchor": "There have been limited experimental studies suggesting that the nutritional benefits of selenium and omega 3 fatty acids",
+   "marks": [
+    "might counteract the adverse effects of methylmercury to some degree"
+   ]
+  }
+ ]
+}

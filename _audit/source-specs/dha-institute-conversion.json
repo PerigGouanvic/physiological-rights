@@ -1,0 +1,21 @@
+{
+ "sid": "dha-institute-conversion",
+ "short": "DHA/EPA Omega-3 Institute",
+ "title": "Conversion Efficiency of ALA to DHA in Humans",
+ "authors": [
+  "DHA/EPA Omega-3 Institute"
+ ],
+ "container": "dhaomega3.org",
+ "url": "https://www.dhaomega3.org/overview/conversion-efficiency-of-ala-to-dha-in-humans",
+ "note": "A secondary summary of tracer studies; the primary studies it cites (Pawlosky 2001, Hussein 2005) were not consulted here.",
+ "excerpts": [
+  {
+   "key": "tracers",
+   "where": "Stable-isotope studies",
+   "anchor": "Subsequent studies by Pawlosky et al. (2001)",
+   "marks": [
+    "estimated conversions from ALA to DHA of less than 0.1%"
+   ]
+  }
+ ]
+}

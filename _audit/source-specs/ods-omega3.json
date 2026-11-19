@@ -1,0 +1,22 @@
+{
+ "sid": "ods-omega3",
+ "short": "NIH Office of Dietary Supplements",
+ "title": "Omega-3 Fatty Acids: Fact Sheet for Health Professionals",
+ "authors": [
+  "NIH Office of Dietary Supplements"
+ ],
+ "container": "ods.od.nih.gov",
+ "url": "https://ods.od.nih.gov/factsheets/Omega3FattyAcids-HealthProfessional/",
+ "access": "full text (web page, Wayback Machine copy, 2025)",
+ "license": "US government publication, public domain.",
+ "excerpts": [
+  {
+   "key": "safety",
+   "where": "Health risks from excessive omega-3s",
+   "anchor": "FDA has concluded that dietary supplements providing no more than 5 g/day EPA and DHA are safe",
+   "marks": [
+    "FDA has concluded that dietary supplements providing no more than 5 g/day EPA and DHA are safe when used as recommended"
+   ]
+  }
+ ]
+}

@@ -149,6 +149,9 @@ def fetch_web(slug, url, kind):
     if data is None:
         req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
         data = urllib.request.urlopen(req, timeout=40).read()
+    if data[:2] == b"\x1f\x8b":
+        import gzip
+        data = gzip.decompress(data)
     if kind == "pdf" or data[:4] == b"%PDF":
         with tempfile.NamedTemporaryFile(suffix=".pdf") as f:
             f.write(data); f.flush()

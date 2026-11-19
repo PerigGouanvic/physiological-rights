@@ -1,0 +1,20 @@
+{
+ "sid": "frontiers-2025-flax",
+ "short": "NuEva study, 2025",
+ "container": "Frontiers in Nutrition",
+ "url": "https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2025.1727308/full",
+ "license": "Open access, CC BY.",
+ "note": "A non-randomised 12-month intervention (n = 168) with 3 g/day of ALA from flaxseed oil for 9 months, across Western, flexitarian, vegetarian and vegan diets.",
+ "excerpts": [
+  {
+   "key": "results",
+   "where": "Abstract, Results and Conclusion",
+   "anchor": "In Western diet participants, erythrocyte n-6 PUFA increased by 5.5%",
+   "until": "In conclusion, flaxseed oil supplementation combined",
+   "marks": [
+    "DHA (+12.8–26.0%) increased significantly across all dietary patterns",
+    "Conversion efficiency was unaffected by sex, BMI, age, linoleic acid, or arachidonic acid"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,672 @@
+[
+ {
+  "n": "1",
+  "sid": "omega-3-ref1",
+  "ident": "pmid:15907142",
+  "claim": "it can still open, but with delay, incompletely, at an angle.",
+  "score": 0.0,
+  "para": 1,
+  "sentence": "The importance of omega-3 fatty acids for physical health is now well recognised and there is increasing evidence that omega-3 fatty acids may also be important to mental health.",
+  "chars": 2337
+ },
+ {
+  "n": "2",
+  "sid": "omega-3-ref2",
+  "ident": "url:https://www.youtube.com/watch?v=-Rnt3a-gR2E",
+  "claim": "it can still open, but with delay, incompletely, at an angle.",
+  "score": 0.0,
+  "para": 0,
+  "sentence": "AboutPressCopyrightContact usCreatorAdvertiseDevelopersTermsPrivacyPolicy & SafetyHow YouTube worksTest new featuresAccessibility© 2026 Google LLC",
+  "chars": 227
+ },
+ {
+  "n": "3",
+  "sid": "omega-3-ref3",
+  "ident": "pmc:PMC4945585",
+  "claim": "Without them, inflammation resolves incompletely, and becomes chronic.",
+  "score": 0.49,
+  "para": 2,
+  "sentence": "Inflammation is a central process in several disorders and contributes to cancer progression.",
+  "chars": 2110
+ },
+ {
+  "n": "4",
+  "sid": "omega-3-ref4",
+  "ident": "pmid:9637947",
+  "claim": "ment is that since ALA is the \"precursor\" of EPA and DHA, consuming flaxseed oil or walnuts is equivalent to consuming \"complete\" omega-3. This is **biologically misleading**.\n\n### The real conversion figures\n\n| Conversion | Rate in adult men | Rate in adult women |\n|---|---|---|\n| ALA → EPA | 8 to 12% (optimal conditions) | up to 21% |\n| ALA → DHA | **less than 1%**, sometimes 0.1% | up to 9% |",
+  "score": 1.68,
+  "para": 2,
+  "sentence": "The parent fatty acid ALA (18:3n-3), found in vegetable oils such as flaxseed or rapeseed oil, is used by the human organism partly as a source of energy, partly as a precursor of the metabolites, but the degree of conversion appears to be unreliable and restricted.",
+  "chars": 2201
+ },
+ {
+  "n": "5",
+  "sid": "omega-3-ref5",
+  "ident": "doi:10.1093/ajcn/83.6.1467s",
+  "claim": "ment is that since ALA is the \"precursor\" of EPA and DHA, consuming flaxseed oil or walnuts is equivalent to consuming \"complete\" omega-3. This is **biologically misleading**.\n\n### The real conversion figures\n\n| Conversion | Rate in adult men | Rate in adult women |\n|---|---|---|\n| ALA → EPA | 8 to 12% (optimal conditions) | up to 21% |\n| ALA → DHA | **less than 1%**, sometimes 0.1% | up to 9% |",
+  "score": 0.63,
+  "para": 2,
+  "sentence": "Eicosapentaenoic acid (EPA) but not DHA concentrations in plasma increase in response to dietary EPA.",
+  "chars": 2028
+ },
+ {
+  "n": "6",
+  "sid": "omega-3-ref6",
+  "ident": "url:https://www.sciencedirect.com/science/article/abs/pii/S0163782716300303",
+  "claim": "ment is that since ALA is the \"precursor\" of EPA and DHA, consuming flaxseed oil or walnuts is equivalent to consuming \"complete\" omega-3. This is **biologically misleading**.\n\n### The real conversion figures\n\n| Conversion | Rate in adult men | Rate in adult women |\n|---|---|---|\n| ALA → EPA | 8 to 12% (optimal conditions) | up to 21% |\n| ALA → DHA | **less than 1%**, sometimes 0.1% | up to 9% |",
+  "score": 1.05,
+  "para": 3,
+  "sentence": "Although it is generally considered that humans have limited capacity for conversion of ALA to EPA and DHA, sex differences in conversion to DHA have been identified.",
+  "chars": 2239
+ },
+ {
+  "n": "7",
+  "sid": "omega-3-ref7",
+  "ident": "url:https://www.dhaomega3.org/overview/conversion-efficiency-of-ala-to-dha-in-humans",
+  "claim": "This conversion is furthermore extremely variable between individuals and strongly **suppressed** in the presence of a high omega-6/omega-3 ratio, the defining characteristic of Western diet.",
+  "score": 3.62,
+  "para": 4,
+  "sentence": "Can adults adequately convert a-linolenic acid (18:3n-3) to eicosapentaenoic acid (20:5n-3) and docosahexaenoic acid (22:6n-3)?",
+  "chars": 8113
+ },
+ {
+  "n": "8",
+  "sid": "omega-3-ref8",
+  "ident": "url:https://library.fabresearch.org/viewItem.php?id=7916",
+  "claim": "> *\"Humans cannot effectively convert ALA (the shortest-chain omega-3, found in some plant, nut and seed oils) into DHA (a longer-chain omega-3 found in fish and seafood) in sufficient quantities to achieve optimal tissue DHA levels.\"* — FABRI Research Library",
+  "score": 0.0,
+  "para": 0,
+  "sentence": "�\b\u0000\u0000\u0000\u0000\u0000\u0000��Zk{�ƶ��_A��Jlc�\\��&=��6=�c7I�O��O\u001f$��- 6 _����w a[N���\u00053k֬˻.\u0003�������ڴ��^��O_�,\\L�N���@\u001cF/д�y\\��h\u001a�E\\\u0006�e9�:��E8���e\u0012_ei^v�Q�(�\u0005讒��\u0006Q|���muc$��L��v1 gq�L��S��$+�>��r1*�t��?�C���\u001f�y�.�G\b�s�,��ʜ���\b����2Ͱ���X\u0002\u001c���~�e���v��� S�;S�\u0018SU\u0007���[L�r����\u001dn5��B_\u001b�wG\u001f`�\u000e>��\u001a࠿v{QJ�(ov���Y�{�n��Q\fT �R��$\"|m���\u0015�y\u0018%�\u0002B�Mjމ��\u001f�\"U\u0015����:�\u000f��FU�(�Ԓ(��sP�*�����\u001a\u001c�¢\b:�\u000b\u001a��r�Lյ�S�$��;���\u001d�����c���ſκ�^�y�\u001a\u0016t��Z����\u0002�e����\\]]�W�L��\u000e��\u001d\bp�v����\u0015���\u001d5�y�ZT��#t\u0000q�*��l\u0014���w���,��L҅2T\u0016������O�&HtJ[S���$�\u000e4g��r�v|[]ZLp)\u001f\u0019���u�y��SK�\u0012w箼�\u0013%�i8�!�V�yz�>l�.��n��\u0017���lVO�\u0015���|�^�\u0013_Ƌ4�:�,R�r�N�κ�\u0001-t9�\u001a�m���\u0018�6�/�{\\Z�~��e��\u001fa���%V��� �97\u001df[��!M����}���0�-\u0012\u001b�C���е\u0002�s�}i+p�w_s+��2φ.���\u0010\u0000z�I/�%��5\u001d�r]�\u001d)n[��\u000bX�{���U(B��-��H\u0000\u0016��������m0PHƅ�i�\u001c(\u0011��lg;L�S pl\u001b(�\u0011\u0004(������>w���M��\u0005 ���6�6�\fv�\u0014��̒J^Ls˷�\u00055�{�;�G\u0011\u0005�#�\fdCL����\u0012\b\u0019�&\u0012\u0006\u0002\u001cEʮ�\u000b�\u0000f6�$-T\u0014F1d \u0000Q�V\u001ed�Q(��\u0012y�\u0003�\u0010s����TD�`\u001e�E#Pz��\u001fe�8�?���$����\u0018U�\u0006�\u0005\u0005\f\u000bm�Q�8��T�µ9����@d�m�g狐hA޽\u000f��,$H��T>�=���%H\u001eCE+s��� � ��_Ge.\u0001o9�� .%1�RIå��\u00042\u0017�)��\u0003lh\u0012U\u0016M��\u001b8\u00129��`}��\u0003@�! �o�\u0004�eH�Զ+bA�ѧ�&Q�,Ϧ�@�\u0000&\u0018���8s�P�6�\u0012>�DI \u0006�hm�/��\u0004�3GR��\f�&\u001e� �� �y\f5ȅ۠\u0007Ԥa�\")sB��&\u0003�Iih�f�U���em \u001b���\u00006\u001a\u0019�6\u0017[S\u0012�$ Lx��P��# ܄��\u0005�@\u000fǳ9�P}�C �J8�\u0003�V\u001d\u0010�/�\u000f�\u000f�\u0016�%U���!Ok=��^H�K���\u0004D�(��z�(��8p��G�G2�ܒ�>̌\u0010\u0014��4�m�m�TL��PjSK�\u0006\u0001�\u0002VT/@\u0006�{���+\u001765�4�}$U4H�H�B����\u000f���(I�E�\"\u001c��A,A��f���\"\u0007\u001c���B*���\u0014�=�.2�A�\u0014\\�z@\f�\"V ��\u000e��}�R}��Q������˔\u0015 ��E��D b�.\u001d�b�W%\u0011��\u000e�� :\u001a�\u0014���\u0006,\u001cxWT,\\�_6,�hdJD\u001b�f\f���\u0017Os?�N�KJxB ��O\u000eZ2��\b�� =��Q�\"T:�\u0015�2 �\u0005sq��>\u0005��\u0002�2)UP��\u0007��\f�\u0005 �8�\u0010(�7`\u0000N\u0011\u0002����Jkf�w\u001e�\u0015C�F�d!�~�)��\u000f&B�KՆʒ@&F\u001c\u0012\u0000\u001c���Q�\u0002\u001b IE/�P�\u0016\u000euľ:!��Ø�r9P���\u0007\u0001̩\u0018x\by�\u0000(\f��\u001eD�\u0004�t�\u0004��I\u0016\u001d1$U5��.�$�)�q\\�VM�w�In�Ɲ�{á\u001av\u001fJt�&K�1��C%\u0016Mݑu� o��j7�oՎ��5��{� �\u001ci��j?[?�����Q�?E�\u0012��um��?�\u001c\u0007����\u001fH�L+ş\u001d�ZM�}M���;~�\u0018���Q�]K��6��;��\\��\u000e�_���U�VQ�25��UlxnRr�L)�n����\bѺ�k� �Mk�H��\u00160*\u0014Ϛ�g��sg�� �!�� ���>�yzB��\u0015�^\u0010\u0004�\u0007{F�\u0000��0R�;�V����~�����˿�EUw�\u0015E�r�\u00032�Qh�(T��\u0012���U�>ܣ�G�C�����C�u��n��\u00045�\u0006�{ ,\u0003�\u001a V��ѯ�O��O����z5��&9\b���\u0015@\u001d�[nླྀ*\u001b�*����r63\u000e�jۀ�t !\u0006g� �'�8�8\f���iR\u0018�6����D8��eG*m胦z��f��a����t�;D�u�)$��a3\u0000x����z�ޭ�w�Ӎ�i���\u0015+���O��L� �$C+�4\u0006g�\u0018�'\u0010`��Ht���[/�\u0016 �\u0006�tV���M\u0017�\u0000���\f���s��d(>��\u0003���@�NV��b�\u0006 cu��VM2\u001e��&��u��u�x��Ƿ{��Fr_����)_\u0017��O�R����懬����淈l�>Jtu# �z��g[��-��?��f�Gg\u001e[���� p�6�����T�wֻP����8��\u0000�wPM��\u001db�@�vM�@mE\\�'�WW�*�6���ۻ� �e�!\u000eZ;(\u0010��=�g�F�]n{�k\u001e���oད'��\u000f�WE\u0012����O�nF?��\u001a\u0007A�~�Q�\u0010\u0007/�/�7K�y�ߘ�\u0010G�*i�/:0C?)����f6�^�_��x����\u001a㠻��\u001a�N�\"&�\u0011g�7\u001e��Ȋ,\u0011[�h$\"1��0���k�Aw\u001c�\u001b�� ��ip2<�G���'T��H�ʟ��No��xs�\u0007/Ց�N�oz�O\u001fw)u7��t��V�� �%x|\f^~|\u0016�T�\u001b���\u001a\u0005aU��`���~\u0018,�+�wG���a\u001e�\u000b4�ÚY���CR��a #�Bl\u001f8�)\u0005\f�=ĐV���3\u0017/\u001c\u0005^w����F��WC�\u001e'Ɓn�\u000e�h�:T�\u0003*�ה�G\u001cJI�ߕ��|�\u0006�|W=\u001b�Ŀ��NV!\u0004���Oݭ�\u000f������T�\u0016�Ɣ}�n��3�<\u000b�6#�َюT\\��\u0006��fIB�� 5h�\u0004\u0007x0������\\�\u00179�/�\u0018���o_��.%�`�����KW��\u000e\u0006Ց�d�G\u000ek��J2�q��pJ$��PH\u001fik�\u0012}���V\u001c�-!�ϖ��t����h|�V�\u001a$�F�̞x�(����?]\f�Y���Fƃf���\u0016���\u001fIf��|mUV\u000f�}8t�ph�\u001bǃ�Æj8[o���v\u0012��b�.(]���\u0001��N��������\u0005\u0011u$�.\u0000\u0000",
+  "chars": 2726
+ },
+ {
+  "n": "9",
+  "sid": "omega-3-ref9",
+  "ident": "url:https://www.news-medical.net/news/20251217/Plant-based-omega-3s-work-better-than-expected-in-a-year-long-diet-study.aspx",
+  "claim": "an unsupplemented vegan diet is nearly structurally deficient in cerebral DHA.",
+  "score": 0.91,
+  "para": 13,
+  "sentence": "Despite these improvements, important differences remained between diet groups.",
+  "chars": 10622
+ },
+ {
+  "n": "6",
+  "sid": "omega-3-ref6",
+  "ident": "url:https://www.sciencedirect.com/science/article/abs/pii/S0163782716300303",
+  "claim": "millions of people (vegetarians, vegans, consumers of \"omega-3-enriched\" plant foods) believe themselves protected while they may be in **chronic functional deficiency in DHA and EPA**.",
+  "score": 0.52,
+  "para": 3,
+  "sentence": "Alpha-linolenic acid (ALA) is an essential fatty acid and the substrate for the synthesis of longer-chain, more unsaturated ω-3 fatty acids, eicosapentaenoic acid (EPA), docosapentaenoic acid and docosahexaenoic acid (DHA).",
+  "chars": 2239
+ },
+ {
+  "n": "10",
+  "sid": "omega-3-ref10",
+  "ident": "url:https://www.canada.ca/en/health-canada/services/food-nutrition/reports-publications/human-health-risk-assessment-mercury-fish-health-benefits-fish-consumption.html",
+  "claim": "The typical institutional response (Health Canada, the FDA, the WHO) consists of setting mercury thresholds and issuing consumption advisories for pregnant women and children.",
+  "score": 1.76,
+  "para": 253,
+  "sentence": "For example, intake of some large, predatory fish species may be lower in this sub-group due to the consumption advice that Health Canada has issued due to elevated mercury levels in these types of fish.",
+  "chars": 142808
+ },
+ {
+  "n": "11",
+  "sid": "omega-3-ref11",
+  "ident": "doi:10.1289/ehp.1002824",
+  "claim": "Health Canada explicitly recognizes in its 2007 assessment that *\"the beneficial nutrients of selenium and omega-3 fatty acids […] may to some extent counteract the adverse effects of methylmercury.\"* In other words, authorities know the problem is not binary, but consumption recommendations remain constructed on **risk alone**.",
+  "score": 5.12,
+  "para": 5,
+  "sentence": "MeHg produces adverse effects on these same general end points—neurodevelopment (NRC 2000) and cardiovascular health (Stern 2005a; Virtanen et al. 2007).",
+  "chars": 28405
+ },
+ {
+  "n": "10",
+  "sid": "omega-3-ref10",
+  "ident": "url:https://www.canada.ca/en/health-canada/services/food-nutrition/reports-publications/human-health-risk-assessment-mercury-fish-health-benefits-fish-consumption.html",
+  "claim": "Health Canada explicitly recognizes in its 2007 assessment that *\"the beneficial nutrients of selenium and omega-3 fatty acids […] may to some extent counteract the adverse effects of methylmercury.\"* In other words, authorities know the problem is not binary, but consumption recommendations remain constructed on **risk alone**.",
+  "score": 2.31,
+  "para": 31,
+  "sentence": "There have been limited experimental studies suggesting that the nutritional benefits of selenium and omega 3 fatty acids, both commonly found in fish and/or marine mammals, might counteract the adverse effects of methylmercury to some degree (Health Canada, 2004).",
+  "chars": 142808
+ },
+ {
+  "n": "11",
+  "sid": "omega-3-ref11",
+  "ident": "doi:10.1289/ehp.1002824",
+  "claim": "There is a need to also address benefits.\"*",
+  "score": 2.07,
+  "para": 19,
+  "sentence": "There is now a growing recognition that the most useful fish consumption advisories need to simultaneously address both PUFA benefit and MeHg risk and that both are tightly linked through fish consumption.",
+  "chars": 28405
+ },
+ {
+  "n": "12",
+  "sid": "omega-3-ref12",
+  "ident": "url:https://quadragroup.com/en-ca/insight-and-events/algae-oil-an-alternative-source-of-essential-omega-3-fatty-acids/",
+  "claim": "It is these microalgae that synthesise EPA and DHA from scratch.",
+  "score": 1.71,
+  "para": 6,
+  "sentence": "Marine Microalgae as a Source of Omega-3 Marine microalgae are primary producers of DHA and EPA.",
+  "chars": 7801
+ },
+ {
+  "n": "13",
+  "sid": "omega-3-ref13",
+  "ident": "url:https://www.corbion.com/solutions/algae/an-alternative-to-fish-oil",
+  "claim": "Marine microalgae (notably *Schizochytrium*, *Nannochloropsis*, *Isochrysis*, and *Phaeodactylum*) can be cultivated in **closed bioreactors**, in sterile conditions, without seawater or a polluted food chain.",
+  "score": 0.56,
+  "para": 6,
+  "sentence": "To make AlgaPrime™ DHA, microalgae are grown in closed fermentation tanks where they transform renewable, sustainable, plant-based sugars into algae containing omega-3-rich oil in a matter of days.",
+  "chars": 5975
+ },
+ {
+  "n": "14",
+  "sid": "omega-3-ref14",
+  "ident": "pmc:PMC8065835",
+  "claim": "**Zero mercury**, zero PCBs, zero dioxins, zero PFAS",
+  "score": 1.71,
+  "para": 23,
+  "sentence": "The amount of arsenic, mercury, and dioxins or dioxin-like PCBs was compared between the PC diet group and both microalgal diet treatments.",
+  "chars": 52544
+ },
+ {
+  "n": "15",
+  "sid": "omega-3-ref15",
+  "ident": "url:https://www.algamega.net/en/",
+  "claim": "Production of DHA and, depending on the strain, EPA",
+  "score": 1.14,
+  "para": 0,
+  "sentence": "Clean／Sustainable／DHA+EPAWorld Exclusive  AlgalOmega-3 Powder with High DHA + EPAHigh concentrations of DHA and EPAFree from marine pollutantsHigher stability with exclusive multi-layer microencapsulation technology“Vegan Fish Oil” Must Come with DHA and EPA!Omega-3 fatty acids are essential nutrients which human body cannot produce on its own.",
+  "chars": 4824
+ },
+ {
+  "n": "13",
+  "sid": "omega-3-ref13",
+  "ident": "url:https://www.corbion.com/solutions/algae/an-alternative-to-fish-oil",
+  "claim": "Lower carbon footprint than traditional fish oil",
+  "score": 3.16,
+  "para": 7,
+  "sentence": "We have completed a full Life Cycle Assessment (LCA) for the AlgaPrime™ DHA portfolio which demonstrated that Omega-3s from AlgaPrime™ DHA have lower carbon footprint compared to traditional Omega-3s sources of fish oil.",
+  "chars": 5975
+ },
+ {
+  "n": "14",
+  "sid": "omega-3-ref14",
+  "ident": "pmc:PMC8065835",
+  "claim": "Bioavailability of algae DHA **equivalent** to that of fish DHA",
+  "score": 1.71,
+  "para": 45,
+  "sentence": "Requirements of n-3 very long-chain PUFA in Atlantic salmon (Salmo salar L): Effects of different dietary levels of EPA and DHA on fish performance and tissue composition and integrity.",
+  "chars": 52544
+ },
+ {
+  "n": "15",
+  "sid": "omega-3-ref15",
+  "ident": "url:https://www.algamega.net/en/",
+  "claim": "Companies such as **Corbion** (AlgaPrime™ DHA), **DSM-Firmenich**, and **Algamega** already have products on the market, primarily in aquaculture animal feed but increasingly in direct human nutrition.",
+  "score": 1.41,
+  "para": 0,
+  "sentence": "We can assist you to effectively develop innovative products tailored to your target market.For more details Other Proprietary Ingredients DHA+EPA藻類由来オイル/オイル粉末世界唯一！ DHA+EPA 藻類オイル。 DHA しか含まれていない市販の藻類オイルとは大きく異なる。独自の PUFA-Sealing™ 技術で微細化して、藻類の匂いが少ない詳しくはこちら ▶日本 JFRL 分析データ20,000fu/g 以上のナットウキナーゼ納豆菌（枯草菌）から発酵され、菌種同定試験報告書有り低温における膜ろ過、活性が安定して、匂いがさっぱりする日本食品分析センター（JFRL）およびテンタムス（TMS）活性評価データ有り詳しくはこちら ▶高濃度 CPP カゼインホスホペプチドCPP は、牛乳の主要タンパク質であるカゼインに酵素を作用させて得られる部分分解物。カルシュム、マグネシウム、亜鉛、鉄などのミネラル吸収を助ける働きをしています。第三者分析機関における「 CPP 同定 」、「含有量」分析データ有り詳しくはこちら ▶牛乳由来シアル酸牛乳由來シアル酸、細菌由来ではありません！独自の精製技術で、 400 倍のシアル酸濃縮！トップクラス規格で、シアル酸含有量＞10％詳しくはこちら ▶DHA+EPA藻類由来オイル/オイル粉末世界唯一！ DHA+EPA 藻類オイル。 DHA しか含まれていない市販の藻類オイルとは大きく異なる。独自の PUFA-Sealing™ 技術で微細化して、藻類の匂いが少ないDHA+EPA藻類由来オイル/オイル粉末世界唯一！ DHA+EPA 藻類オイル。 DHA しか含まれていない市販の藻類オイルとは大きく異なる。独自の PUFA-Sealing™ 技術で微細化して、藻類の匂いが少ないPatented PostbioticsPatented postbiotic platform with anti-aggregation technologyStable and highly dispersible postbioticsScientifically supported solutions for multiple health applicationsFor more detailsNatural Active Multi-EnzymeMulti-enzyme complex derived from 80 fruits and vegetablesEnhanced enzyme stability and digestive performanceDemonstrated over 220% improvement in fat digestion efficiencyFor more detailsAronia Berry ExtractRich in anthocyanins and flavanolsDemonstrates 67% higher anti-glycation activitySupports visible skin improvement within 2–6 weeksFor more detailsAbout ChambioChambio Co., Ltd. is one of the leading nutraceutical company in Taiwan, specialize in supplying ingredients, customize finished products, and providing marketing support.",
+  "chars": 4824
+ },
+ {
+  "n": "13",
+  "sid": "omega-3-ref13",
+  "ident": "url:https://www.corbion.com/solutions/algae/an-alternative-to-fish-oil",
+  "claim": "By growing marine microalgae via fermentation, we produce AlgaPrime™ DHA, an efficient, clean, and sustainable source of long-chain Omega-3s.\"* — Corbion",
+  "score": 4.31,
+  "para": 3,
+  "sentence": "And by growing marine microalgae via fermentation, we produce AlgaPrime™ DHA, an efficient, clean, and sustainable source of long-chain Omega-3s.",
+  "chars": 5975
+ },
+ {
+  "n": "3",
+  "sid": "omega-3-ref3",
+  "ident": "pmc:PMC4945585",
+  "claim": "These molecules instruct macrophages to **switch phenotype** (from pro-inflammatory to pro-resolving), stimulate **efferocytosis** (digestion of dead neutrophils and cellular debris), reduce pro-inflammatory cytokines (TNF-α, IL-1β, IL-6), and promote tissue repair.",
+  "score": 0.48,
+  "para": 2,
+  "sentence": "Inflammation involves a complex cascade of pro-inflammatory and anti-inflammatory signaling events with protein and lipid mediators.",
+  "chars": 2110
+ },
+ {
+  "n": "3",
+  "sid": "omega-3-ref3",
+  "ident": "pmc:PMC4945585",
+  "claim": "Clinically, resolvins have been associated with resolution of acute kidney injury, acute lung injury, micro and macro vascular response to injury, and inhibition of microglia-activated inflammation in neurodegenerative disorders.\"* — PMC",
+  "score": 4.59,
+  "para": 2,
+  "sentence": "Clinically, resolvins have been associated with resolution of acute kidney injury and acute lung injury, micro and macro vascular response to injury, and inhibition of microglia-activated inflammation in neurodegenerative disorders.",
+  "chars": 2110
+ },
+ {
+  "n": "17",
+  "sid": "omega-3-ref17",
+  "ident": "pmid:18541601",
+  "claim": "Harris** (University of South Dakota, founder of OmegaQuant) and Dr **Clemens von Schacky**, the Omega-3 Index measures the percentage of EPA+DHA in the **membranes of red blood cells** relative to total fatty acids.",
+  "score": 1.35,
+  "para": 1,
+  "sentence": "Because blood concentrations of n-3 (or omega-3) fatty acids (FAs) (eicosapentaenoic and docosahexaenoic acids) are a strong reflection of dietary intake, it is proposed that a n-3 FA biomarker, the omega-3 index (erythrocyte eicosapentaenoic acid plus docosahexaenoic acid), be considered as a potential risk factor for coronary heart disease mortality, especially sudden cardiac death.",
+  "chars": 2105
+ },
+ {
+  "n": "18",
+  "sid": "omega-3-ref18",
+  "ident": "pmid:15208005",
+  "claim": "Harris** (University of South Dakota, founder of OmegaQuant) and Dr **Clemens von Schacky**, the Omega-3 Index measures the percentage of EPA+DHA in the **membranes of red blood cells** relative to total fatty acids.",
+  "score": 2.02,
+  "para": 1,
+  "sentence": "Red blood cell (RBC) fatty acid (FA) composition reflects long-term intake of EPA + DHA.",
+  "chars": 1856
+ },
+ {
+  "n": "19",
+  "sid": "omega-3-ref19",
+  "ident": "url:https://ohsu.elsevierpure.com/en/publications/the-omega-3-index-a-new-risk-factor-for-death-from-coronary-heart-2",
+  "claim": "d cells** relative to total fatty acids.[^17][^18]\n\nIt represents a marker of **tissue incorporation** of omega-3 over the 3 to 4 months preceding the blood draw, the equivalent of HbA1c for glucose.\n\n| Zone | Index | Significance |\n|---|---|---|\n| High-risk zone | < 4% | High cardiovascular risk |\n| Intermediate zone | 4–8% | Intermediate risk |\n| Target zone | > 8% | Optimal cardioprotection |",
+  "score": 7.73,
+  "para": 15,
+  "sentence": "An Omega-3 Index of ≥8% was associated with the greatest cardioprotection, whereas an index of ≤4% was associated with the least.",
+  "chars": 10042
+ },
+ {
+  "n": "20",
+  "sid": "omega-3-ref20",
+  "ident": "doi:10.1093/ajcn/87.6.1997s",
+  "claim": "d cells** relative to total fatty acids.[^17][^18]\n\nIt represents a marker of **tissue incorporation** of omega-3 over the 3 to 4 months preceding the blood draw, the equivalent of HbA1c for glucose.\n\n| Zone | Index | Significance |\n|---|---|---|\n| High-risk zone | < 4% | High cardiovascular risk |\n| Intermediate zone | 4–8% | Intermediate risk |\n| Target zone | > 8% | Optimal cardioprotection |",
+  "score": 7.54,
+  "para": 1,
+  "sentence": "Proposed omega-3 index risk zones are (in percentages of erythrocyte FAs): high risk, <4%; intermediate risk, 4-8%; and low risk, >8%.",
+  "chars": 2105
+ },
+ {
+  "n": "17",
+  "sid": "omega-3-ref17",
+  "ident": "pmid:18541601",
+  "claim": "d cells** relative to total fatty acids.[^17][^18]\n\nIt represents a marker of **tissue incorporation** of omega-3 over the 3 to 4 months preceding the blood draw, the equivalent of HbA1c for glucose.\n\n| Zone | Index | Significance |\n|---|---|---|\n| High-risk zone | < 4% | High cardiovascular risk |\n| Intermediate zone | 4–8% | Intermediate risk |\n| Target zone | > 8% | Optimal cardioprotection |",
+  "score": 7.54,
+  "para": 1,
+  "sentence": "Proposed omega-3 index risk zones are (in percentages of erythrocyte FAs): high risk, <4%; intermediate risk, 4-8%; and low risk, >8%.",
+  "chars": 2105
+ },
+ {
+  "n": "2",
+  "sid": "omega-3-ref2",
+  "ident": "url:https://www.youtube.com/watch?v=-Rnt3a-gR2E",
+  "claim": "Similar data exist for Canadian and European populations.",
+  "score": 0.0,
+  "para": 0,
+  "sentence": "AboutPressCopyrightContact usCreatorAdvertiseDevelopersTermsPrivacyPolicy & SafetyHow YouTube worksTest new featuresAccessibility© 2026 Google LLC",
+  "chars": 227
+ },
+ {
+  "n": "21",
+  "sid": "omega-3-ref21",
+  "ident": "url:https://www.foundmyfitness.com/episodes/bill-harris",
+  "claim": "at **4 to 5%**, while the optimal cardioprotective target is 8 to 12%. Similar data exist for Canadian and European populations.[^2]\n\nA pooled analysis of **17 studies covering 42,000 adults** in 10 countries showed that individuals with the highest EPA+DHA concentrations had:\n- **18% reduction in all-cause mortality**\n- 20% reduction in cardiovascular mortality\n- 13% reduction in cancer mortality",
+  "score": 29.57,
+  "para": 81,
+  "sentence": "[1](https://jamanetwork.com/journals/jama/fullarticle/1389226) * [00:13:07](https://www.youtube.com/watch?v=-f-CFQxaUY4&t=00h13m07s) - How prescription omega-3s like Vascepa and Lovaza differ from one another. * [00:14:32](https://www.youtube.com/watch?v=-f-CFQxaUY4&t=00h14m32s) - How standards of \"normal\" bleeding time may be distorted in Western countries, creating a culture of best practices in medicine and surgery that is more suited to the omega-3-deficient. * [00:16:26](https://www.youtube.com/watch?v=-f-CFQxaUY4&t=00h16m26s) - How marine omega-3 fatty acids EPA and DHA share structural similarities with omega-3 ALA ((found in nuts, seeds, or seed oils like flaxseed oil) but not the same cardioprotective effects. * [00:18:10](https://www.youtube.com/watch?v=-f-CFQxaUY4&t=00h18m10s) - How interindividual differences in fatty acid metabolism can lead to surprising differences in Omega-3 Index values despite similar omega-3 intakes. * [00:19:42](https://www.youtube.com/watch?v=-f-CFQxaUY4&t=00h19m42s) - How the best sources of omega-3s for vegans or vegetarians are derived from algae, which contain EPA and DHA, rather than ALA-only sources like flaxseed oil. * [00:20:28](https://www.youtube.com/watch?v=-f-CFQxaUY4&t=00h20m28s) - How genetic engineering of plants may yield abundant, sustainable and, importantly, a concentrated source of omega-3s in the future.",
+  "chars": 161078
+ },
+ {
+  "n": "22",
+  "sid": "omega-3-ref22",
+  "ident": "pdf:http://www.uppitysciencechick.com/harris_cvd.pdf",
+  "claim": "A US study (US Physicians Health Study) showed that men with the highest index at baseline had a **90% reduction in the risk of sudden cardiac death**.",
+  "score": 5.37,
+  "para": 31,
+  "sentence": "addition, the risk reduction at the highest levels of the omega-3 index (90%) was greater than that associated with the lowest levels of CRP (65%).",
+  "chars": 39609
+ },
+ {
+  "n": "23",
+  "sid": "omega-3-ref23",
+  "ident": "url:https://www.sciencedirect.com/science/article/pii/S0022316624001640",
+  "claim": "neither cardiology, neurology, psychiatry, rheumatology, nor gastroenterology.",
+  "score": 0.0,
+  "para": 3,
+  "sentence": "There is an increasing body of evidence supporting a link between low intakes of ω-3 long-chain polyunsaturated fatty acids (LCPUFA) and numerous diseases and health conditions.",
+  "chars": 2630
+ },
+ {
+  "n": "2",
+  "sid": "omega-3-ref2",
+  "ident": "url:https://www.youtube.com/watch?v=-Rnt3a-gR2E",
+  "claim": "> *\"Omega-3s tend to be ignored by the medical community because they belong to the world of nutrition.\"*",
+  "score": 0.0,
+  "para": 0,
+  "sentence": "AboutPressCopyrightContact usCreatorAdvertiseDevelopersTermsPrivacyPolicy & SafetyHow YouTube worksTest new featuresAccessibility© 2026 Google LLC",
+  "chars": 227
+ },
+ {
+  "n": "24",
+  "sid": "omega-3-ref24",
+  "ident": "pmc:PMC4176556",
+  "claim": "particularly informative for cardiovascular risk and systemic inflammatory status",
+  "score": 0.98,
+  "para": 26,
+  "sentence": "Treatment of Blood Cholesterol to Reduce Atherosclerotic Cardiovascular Disease Risk in Adults: Synopsis of the 2013 ACC/AHA Cholesterol Guideline.",
+  "chars": 36651
+ },
+ {
+  "n": "1",
+  "sid": "omega-3-ref1",
+  "ident": "pmid:15907142",
+  "claim": "it represents 40% of polyunsaturated fatty acids in neuronal brain membranes.",
+  "score": 1.95,
+  "para": 1,
+  "sentence": "DHA is a major structural component of neuronal membranes, and changing the fatty acid composition of neuronal membranes leads to functional changes in the activity of receptors and other proteins embedded in the membrane phospholipid.",
+  "chars": 2337
+ },
+ {
+  "n": "27",
+  "sid": "omega-3-ref27",
+  "ident": "url:https://www.nature.com/articles/s41398-019-0515-5",
+  "claim": "The 2019 meta-analysis in *Translational Psychiatry* (Nature), covering 26 randomized controlled trials, confirms the **efficacy of omega-3 (EPA-dominant) in depression**",
+  "score": 5.03,
+  "para": 0,
+  "sentence": "Our search resulted in 180 articles; we analyzed 26 studies, which included 2160 participants.",
+  "chars": 42989
+ },
+ {
+  "n": "28",
+  "sid": "omega-3-ref28",
+  "ident": "pmc:PMC11857698",
+  "claim": "**Bipolar disorder** shows DHA deficits in the orbitofrontal cortex, a key region for emotional regulation",
+  "score": 2.26,
+  "para": 77,
+  "sentence": "Deficits in docosahexaenoic acid and associated elevations in the metabolism of arachidonic acid and saturated fatty acids in the postmortem orbitofrontal cortex of patients with bipolar disorder.",
+  "chars": 137273
+ },
+ {
+  "n": "2",
+  "sid": "omega-3-ref2",
+  "ident": "url:https://www.youtube.com/watch?v=-Rnt3a-gR2E",
+  "claim": "Studies in prison populations have linked **violent behaviours** to low omega-3 levels",
+  "score": 0.0,
+  "para": 0,
+  "sentence": "AboutPressCopyrightContact usCreatorAdvertiseDevelopersTermsPrivacyPolicy & SafetyHow YouTube worksTest new featuresAccessibility© 2026 Google LLC",
+  "chars": 227
+ },
+ {
+  "n": "1",
+  "sid": "omega-3-ref1",
+  "ident": "pmid:15907142",
+  "claim": "> *\"Epidemiological studies indicate an association between depression and low dietary intake of omega-3 fatty acids, and biochemical studies have shown reduced levels of omega-3 fatty acids in red blood cell membranes in both depressive and schizophrenic patients.\"* — PubMed",
+  "score": 5.0,
+  "para": 1,
+  "sentence": "Epidemiological studies indicate an association between depression and low dietary intake of omega-3 fatty acids, and biochemical studies have shown reduced levels of omega-3 fatty acids in red blood cell membranes in both depressive and schizophrenic patients.",
+  "chars": 2337
+ },
+ {
+  "n": "29",
+  "sid": "omega-3-ref29",
+  "ident": "url:https://www.ncbi.nlm.nih.gov/books/NBK74687/",
+  "claim": "Patients receive antidepressants, antipsychotics, and mood stabilisers without their DHA/EPA status ever having been assessed, and without EPA supplementation being offered as an adjunct, despite the evidence.",
+  "score": 0.0,
+  "para": 0,
+  "sentence": "Checking your browser before accessing www.ncbi.nlm.nih.gov ...Click here if you are not automatically redirected after 5 seconds.",
+  "chars": 165
+ },
+ {
+  "n": "30",
+  "sid": "omega-3-ref30",
+  "ident": "doi:10.1177/2045125319869791",
+  "claim": "Patients receive antidepressants, antipsychotics, and mood stabilisers without their DHA/EPA status ever having been assessed, and without EPA supplementation being offered as an adjunct, despite the evidence.",
+  "score": 2.43,
+  "para": 55,
+  "sentence": "EPA but not DHA appears to be responsible for the efficacy of omega-3 long chain polyunsaturated fatty acid supplementation in depression: evidence from a meta-analysis of randomized controlled trials.",
+  "chars": 85288
+ },
+ {
+  "n": "21",
+  "sid": "omega-3-ref21",
+  "ident": "url:https://www.foundmyfitness.com/episodes/bill-harris",
+  "claim": "The absence of baseline status measurement is the main reason for contradictory results in the cardiovascular literature.",
+  "score": 1.2,
+  "para": 81,
+  "sentence": "[1](https://www.nejm.org/doi/full/10.1056/NEJMoa012918) * [00:24:49](https://www.youtube.com/watch?v=-f-CFQxaUY4&t=00h24m49s) - How the Omega-3 Index is a predictive risk factor for cardiovascular disease.",
+  "chars": 161078
+ },
+ {
+  "n": "24",
+  "sid": "omega-3-ref24",
+  "ident": "pmc:PMC4176556",
+  "claim": "The absence of baseline status measurement is the main reason for contradictory results in the cardiovascular literature.",
+  "score": 0.8,
+  "para": 26,
+  "sentence": "Treatment of Blood Cholesterol to Reduce Atherosclerotic Cardiovascular Disease Risk in Adults: Synopsis of the 2013 ACC/AHA Cholesterol Guideline.",
+  "chars": 36651
+ },
+ {
+  "n": "31",
+  "sid": "omega-3-ref31",
+  "ident": "url:https://ods.od.nih.gov/factsheets/Omega3FattyAcids-HealthProfessional/",
+  "claim": "**REDUCE-IT (2019)**, with 4 g/day of pure EPA (icosapentaenoic acid at high dose, Vascepa) in hypertriglyceridemic patients, showed a **25% reduction in major cardiovascular events**, leading the FDA to approve Vascepa for this indication.",
+  "score": 10.75,
+  "para": 44,
+  "sentence": "The 2019 Reduction of Cardiovascular Events with Icosapent Ethyl-Intervention Trial (REDUCE-IT) found significant CVD benefits with Vascepa, a high-dose, prescription form of omega-3s containing EPA in the form of icosapent ethyl (IPE), an ethyl ester [63].",
+  "chars": 120227
+ },
+ {
+  "n": "32",
+  "sid": "omega-3-ref32",
+  "ident": "url:https://www.bmj.com/content/376/bmj-2021-066452",
+  "claim": "The **VITAL** randomized trial (25,871 participants, median follow-up 5.3 years), published in the *BMJ* in 2022, evaluated the effect of vitamin D3 and omega-3 on the incidence of autoimmune diseases:",
+  "score": 7.47,
+  "para": 5,
+  "sentence": "25 871 participants were enrolled and followed for a median of 5.3 years. 18 046 self-identified as non-Hispanic white, 5106 as black, and 2152 as other racial and ethnic groups.",
+  "chars": 27901
+ },
+ {
+  "n": "32",
+  "sid": "omega-3-ref32",
+  "ident": "url:https://www.bmj.com/content/376/bmj-2021-066452",
+  "claim": "A dose of 1,000 mg/day is also low; protection would likely be more pronounced with doses targeting an index of 8%.",
+  "score": 3.43,
+  "para": 3,
+  "sentence": "Vitamin D (2000 IU/day) or matched placebo, and omega 3 fatty acids (1000 mg/day) or matched placebo.",
+  "chars": 27901
+ },
+ {
+  "n": "16",
+  "sid": "omega-3-ref16",
+  "ident": "pmid:26401996",
+  "claim": "Alzheimer's disease (MCI stage) | DHA membrane levels, amyloid plaque phagocytosis via resolvin D1",
+  "score": 1.79,
+  "para": 2,
+  "sentence": "In this review we discuss the immunopathology of Alzheimer's disease (AD) and recent advances in the prevention of minor cognitive impairment (MCI) by nutritional supplementation with omega-3 fatty acids.",
+  "chars": 2469
+ },
+ {
+  "n": "33",
+  "sid": "omega-3-ref33",
+  "ident": "pmc:PMC6835717",
+  "claim": "Alzheimer's disease (MCI stage) | DHA membrane levels, amyloid plaque phagocytosis via resolvin D1",
+  "score": 1.79,
+  "para": 37,
+  "sentence": "An anti-amyloidogenic role of DHA has been described by Dyall et al., that showed how DHA can increase neuronal membrane fluidity, decrease membrane peroxidation by reducing cholesterol levels in the cell membrane that leads to reduced oxidative stress in the cerebral cortex and in the hippocampus, and ultimately decrease the learning disabilities related to AD [145].",
+  "chars": 56149
+ },
+ {
+  "n": "1",
+  "sid": "omega-3-ref1",
+  "ident": "pmid:15907142",
+  "claim": "ADHD in children | Meta-analyses confirm symptom reduction with EPA+DHA",
+  "score": 0.91,
+  "para": 1,
+  "sentence": "The two main omega-3 fatty acids in fish oil, eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA) have important biological functions in the CNS.",
+  "chars": 2337
+ },
+ {
+  "n": "21",
+  "sid": "omega-3-ref21",
+  "ident": "url:https://www.foundmyfitness.com/episodes/bill-harris",
+  "claim": "Perinatal depression | Pregnancy massively depletes maternal DHA",
+  "score": 0.98,
+  "para": 290,
+  "sentence": "So it's something a obstetrician could easily measure, dry blood spot tests, could measure that and counsel a pregnant woman, you're too low, take more, you know, you're already supposed to take DHA.",
+  "chars": 161078
+ },
+ {
+  "n": "34",
+  "sid": "omega-3-ref34",
+  "ident": "pmc:PMC4127132",
+  "claim": "Inflammatory bowel disease | Mucosal benefit via resolvins",
+  "score": 1.46,
+  "para": 1,
+  "sentence": "Besides the purported cardiovascular benefits of omega-3 (n-3) long chain polyunsaturated fatty acids (LCPUFAs) found in fish, n-3 LCPUFA supplementation has been widely used in the treatment of inflammatory bowel diseases (IBD).",
+  "chars": 32317
+ },
+ {
+  "n": "35",
+  "sid": "omega-3-ref35",
+  "ident": "pmid:31797565",
+  "claim": "Metabolic syndrome | SPMs play a role in the resolution of adipose inflammation",
+  "score": 2.27,
+  "para": 3,
+  "sentence": "However, a more recent view is that omega-3 fatty acids play an active role as the precursors of potent, specialized pro-resolving mediators (SPMs), such as resolvins, protectins, and maresins.",
+  "chars": 1878
+ },
+ {
+  "n": "36",
+  "sid": "omega-3-ref36",
+  "ident": "url:https://www.intechopen.com/chapters/1212941",
+  "claim": "Macular degeneration (AMD) | DHA = 60% of retinal fatty acids",
+  "score": 5.44,
+  "para": 50,
+  "sentence": "Biomedicine & Pharmacotherapy. 2006;60(9):502-50718.",
+  "chars": 51371
+ },
+ {
+  "n": "31",
+  "sid": "omega-3-ref31",
+  "ident": "url:https://ods.od.nih.gov/factsheets/Omega3FattyAcids-HealthProfessional/",
+  "claim": "The trials that have been funded were primarily by companies such as **AMARIN** (for its patentable purified EPA, Vascepa), hence the bias toward expensive molecules rather than accessible dietary oils.",
+  "score": 0.81,
+  "para": 126,
+  "sentence": "Similarly, FDA has concluded that dietary supplements providing no more than 5 g/day EPA and DHA are safe when used as recommended [196].",
+  "chars": 120227
+ },
+ {
+  "n": "24",
+  "sid": "omega-3-ref24",
+  "ident": "pmc:PMC4176556",
+  "claim": "The conclusion \"it doesn't work\" became medical orthodoxy without any real basis.",
+  "score": 0.4,
+  "para": 24,
+  "sentence": "This article does not contain any studies with human or animal subjects performed by the author.",
+  "chars": 36651
+ },
+ {
+  "n": "18",
+  "sid": "omega-3-ref18",
+  "ident": "pmid:15208005",
+  "claim": "creator of the Omega-3 Index (2004), author of over 300 publications, advocating for twenty years for the index to be integrated into standard cardiovascular panels.",
+  "score": 0.71,
+  "para": 1,
+  "sentence": "We propose that the RBC EPA + DHA (hereafter called the Omega-3 Index) be considered a new risk factor for death from CHD.",
+  "chars": 1856
+ },
+ {
+  "n": "21",
+  "sid": "omega-3-ref21",
+  "ident": "url:https://www.foundmyfitness.com/episodes/bill-harris",
+  "claim": "creator of the Omega-3 Index (2004), author of over 300 publications, advocating for twenty years for the index to be integrated into standard cardiovascular panels.",
+  "score": 4.07,
+  "para": 137,
+  "sentence": "And so we again wrote this paper, published it in Preventive Medicine in 2004, and said, here's the omega-3 index.",
+  "chars": 161078
+ },
+ {
+  "n": "17",
+  "sid": "omega-3-ref17",
+  "ident": "pmid:18541601",
+  "claim": "co-developer of the Omega-3 Index, author of the LURIC study on omega-3 and sudden cardiac death.",
+  "score": 2.13,
+  "para": 1,
+  "sentence": "Because blood concentrations of n-3 (or omega-3) fatty acids (FAs) (eicosapentaenoic and docosahexaenoic acids) are a strong reflection of dietary intake, it is proposed that a n-3 FA biomarker, the omega-3 index (erythrocyte eicosapentaenoic acid plus docosahexaenoic acid), be considered as a potential risk factor for coronary heart disease mortality, especially sudden cardiac death.",
+  "chars": 2105
+ },
+ {
+  "n": "16",
+  "sid": "omega-3-ref16",
+  "ident": "pmid:26401996",
+  "claim": "His work has revolutionized the understanding of inflammation resolution.",
+  "score": 0.53,
+  "para": 2,
+  "sentence": "The in vitro and in vivo effects of omega-3 fatty acids and SPMs suggest that defective phagocytosis and chronic inflammation are related to defective production and/or defective signaling by SPMs in immune cells.",
+  "chars": 2469
+ },
+ {
+  "n": "3",
+  "sid": "omega-3-ref3",
+  "ident": "pmc:PMC4945585",
+  "claim": "His work has revolutionized the understanding of inflammation resolution.",
+  "score": 1.05,
+  "para": 2,
+  "sentence": "Clinically, resolvins have been associated with resolution of acute kidney injury and acute lung injury, micro and macro vascular response to injury, and inhibition of microglia-activated inflammation in neurodegenerative disorders.",
+  "chars": 2110
+ },
+ {
+  "n": "1",
+  "sid": "omega-3-ref1",
+  "ident": "pmid:15907142",
+  "claim": "specialist in the link between omega-3 and psychiatric disorders, violence, and suicide; international epidemiological studies on fatty fish consumption and depression prevalence.",
+  "score": 1.85,
+  "para": 1,
+  "sentence": "Epidemiological studies indicate an association between depression and low dietary intake of omega-3 fatty acids, and biochemical studies have shown reduced levels of omega-3 fatty acids in red blood cell membranes in both depressive and schizophrenic patients.",
+  "chars": 2337
+ },
+ {
+  "n": "31",
+  "sid": "omega-3-ref31",
+  "ident": "url:https://ods.od.nih.gov/factsheets/Omega3FattyAcids-HealthProfessional/",
+  "claim": "specialist in the omega-6/omega-3 ratio, ancestrally 1:1 to 4:1, today **15:1 to 20:1** in Western diets.",
+  "score": 9.49,
+  "para": 3,
+  "sentence": "Linoleic acid (C18:2n-6) and arachidonic acid (C20:4n-6) are two of the major omega-6s.",
+  "chars": 120227
+ },
+ {
+  "n": "38",
+  "sid": "omega-3-ref38",
+  "ident": "pmc:PMC11268356",
+  "claim": "Small fatty fish (sardines, anchovies, herring, mackerel) have far lower contaminant bioaccumulation than large predators (bluefin tuna, swordfish, shark) and remain the best dietary sources of EPA and DHA with a favourable risk-benefit ratio for the vast majority of the population.",
+  "score": 2.24,
+  "para": 65,
+  "sentence": "Dietary intakes of EPA and DHA omega-3 fatty acids among US childbearing-age and pregnant women: an analysis of NHANES 2001–2014.",
+  "chars": 90708
+ },
+ {
+  "n": "10",
+  "sid": "omega-3-ref10",
+  "ident": "url:https://www.canada.ca/en/health-canada/services/food-nutrition/reports-publications/human-health-risk-assessment-mercury-fish-health-benefits-fish-consumption.html",
+  "claim": "Small fatty fish (sardines, anchovies, herring, mackerel) have far lower contaminant bioaccumulation than large predators (bluefin tuna, swordfish, shark) and remain the best dietary sources of EPA and DHA with a favourable risk-benefit ratio for the vast majority of the population.",
+  "score": 1.12,
+  "para": 53,
+  "sentence": "The data suggest that the availability of shark, swordfish, and bluefin tuna (sold as fresh/frozen steaks) is much lower than that of canned tuna.",
+  "chars": 142808
+ },
+ {
+  "n": "2",
+  "sid": "omega-3-ref2",
+  "ident": "url:https://www.youtube.com/watch?v=-Rnt3a-gR2E",
+  "claim": "An average US index of 4–5% in a population whose cardioprotective target is 8% means that **the majority of the population is in the risk zone**.",
+  "score": 0.0,
+  "para": 0,
+  "sentence": "AboutPressCopyrightContact usCreatorAdvertiseDevelopersTermsPrivacyPolicy & SafetyHow YouTube worksTest new featuresAccessibility© 2026 Google LLC",
+  "chars": 227
+ },
+ {
+  "n": "2",
+  "sid": "omega-3-ref2",
+  "ident": "url:https://www.youtube.com/watch?v=-Rnt3a-gR2E",
+  "claim": "If omega-3s are chronically low, your body wears out faster.\"* — Dr William Harris",
+  "score": 0.0,
+  "para": 0,
+  "sentence": "AboutPressCopyrightContact usCreatorAdvertiseDevelopersTermsPrivacyPolicy & SafetyHow YouTube worksTest new featuresAccessibility© 2026 Google LLC",
+  "chars": 227
+ }
+]

@@ -1,0 +1,17 @@
+{
+ "sid": "bhatt-2019-reduceit",
+ "short": "Bhatt et al., 2019 (REDUCE-IT)",
+ "container": "New England Journal of Medicine",
+ "note": "Sponsored by Amarin, the maker of icosapent ethyl (Vascepa).",
+ "excerpts": [
+  {
+   "key": "abstract",
+   "where": "Abstract (full text not consulted)",
+   "anchor": "abstract",
+   "marks": [
+    "hazard ratio, 0.75; 95% confidence interval [CI], 0.68 to 0.83; P<0.001",
+    "total daily dose, 4 g"
+   ]
+  }
+ ]
+}

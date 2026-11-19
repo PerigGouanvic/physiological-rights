@@ -1,0 +1,15 @@
+{
+ "sid": "santigosa-2021",
+ "short": "Santigosa et al., 2021",
+ "container": "Animals",
+ "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8065835/",
+ "license": "Open access, CC BY.",
+ "note": "A fish-feed study in gilthead sea bream: algal oil replaced fish oil in aquaculture feed. It does not test human bioavailability.",
+ "excerpts": [
+  {
+   "key": "contaminants",
+   "where": "Contaminants",
+   "anchor": "The amount of arsenic, mercury, and dioxins or dioxin-like PCBs was compared"
+  }
+ ]
+}

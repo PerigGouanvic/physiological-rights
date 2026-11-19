@@ -1,0 +1,19 @@
+{
+ "sid": "origin-2012",
+ "short": "ORIGIN Trial, 2012",
+ "authors": [
+  "ORIGIN Trial Investigators"
+ ],
+ "container": "New England Journal of Medicine",
+ "note": "One gram a day of omega-3 ethyl esters, with no measurement of omega-3 status at entry.",
+ "excerpts": [
+  {
+   "key": "abstract",
+   "where": "Abstract (full text not consulted)",
+   "anchor": "abstract",
+   "marks": [
+    "hazard ratio, 0.98; 95% confidence interval [CI], 0.87 to 1.10; P=0.72"
+   ]
+  }
+ ]
+}

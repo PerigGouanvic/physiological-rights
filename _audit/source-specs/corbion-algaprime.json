@@ -1,0 +1,31 @@
+{
+ "sid": "corbion-algaprime",
+ "short": "Corbion (manufacturer)",
+ "title": "An alternative to fish oil",
+ "authors": [
+  "Corbion"
+ ],
+ "container": "corbion.com",
+ "url": "https://www.corbion.com/solutions/algae/an-alternative-to-fish-oil",
+ "note": "Manufacturer's own claims, including its life-cycle assessment, which was not independently checked here.",
+ "excerpts": [
+  {
+   "key": "fermentation",
+   "where": "Web page",
+   "anchor": "microalgae are grown in closed fermentation tanks"
+  },
+  {
+   "key": "claim",
+   "where": "Web page",
+   "anchor": "And by growing marine microalgae via fermentation",
+   "marks": [
+    "we produce AlgaPrime™ DHA, an efficient, clean, and sustainable source of long-chain Omega-3s"
+   ]
+  },
+  {
+   "key": "lca",
+   "where": "Web page",
+   "anchor": "We have completed a full Life Cycle Assessment"
+  }
+ ]
+}
