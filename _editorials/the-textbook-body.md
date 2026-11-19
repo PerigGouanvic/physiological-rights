@@ -54,7 +54,7 @@ This resource documents the population figures for a handful of nutrients, each 
 
 - **Magnesium**: about half of Americans below the estimated requirement.{% include cite.html id="ods-magnesium" ex="intake" %}
 - **Potassium**: well over nine in ten below the 4 700 mg that the physiology supports.{% include cite.html id="whelton-2018" ex="intakes" %}
-- **Vitamin D**: about two in three below 75 nmol/L; three in four in the last survey before assay standardisation.{% include cite.html id="ginde-2009" ex="abstract" %}{% include cite.html id="herrick-2019" ex="abstract" %}
+- **Vitamin D**: about two in three below 75 nmol/L, taken here at the conservative end; three in four in the national survey that reported this threshold, before assays were standardised.{% include cite.html id="ginde-2009" ex="abstract" %}{% include cite.html id="herrick-2019" ex="abstract" %}
 - **Omega-3**: nearly all, 97.6 % of American adults, below an Omega-3 Index of 8 % in the first national measurement (NHANES 2021–2023).{% include cite.html id="powers-2026" ex="results,abstract" %}
 - **Choline**: about nine in ten below the Adequate Intake.{% include cite.html id="wallace-fulgoni-2016" ex="abstract" %}
 - **Vitamin E**: roughly eight to nine in ten below requirement from diet alone.{% include cite.html id="reider-2020" ex="abstract" %}{% include cite.html id="traber-2014" ex="abstract" %}
