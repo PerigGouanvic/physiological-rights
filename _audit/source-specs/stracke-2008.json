@@ -1,0 +1,16 @@
+{
+ "sid": "stracke-2008",
+ "short": "Stracke et al., 2008 (BENDIP)",
+ "container": "Experimental and Clinical Endocrinology & Diabetes",
+ "excerpts": [
+  {
+   "key": "abstract",
+   "where": "Abstract (full text not consulted)",
+   "anchor": "abstract",
+   "marks": [
+    "the primary outcome parameter NSS (Neuropathy Symptom Score) differed significantly between the treatment groups (p=0.033) in the PP (per protocol) population",
+    "In the ITT (intention to treat) population, the improvement of NSS was slightly above significance (p=0.055)."
+   ]
+  }
+ ]
+}

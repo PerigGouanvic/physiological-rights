@@ -1,0 +1,632 @@
+[
+ {
+  "n": "1",
+  "sid": "thiamine-b1-ref1",
+  "ident": "url:https://www.betterhealthguy.com/episode206",
+  "claim": "Without it, the mitochondrial power plant slows, overruns, or partially breaks down, depending on the organs affected.",
+  "score": 0.0,
+  "para": 0,
+  "sentence": "EP241: Root Causes: Exploring the Hidden Links Between Your Mouth and Your Health - Corbin Popp, DMD",
+  "chars": 116
+ },
+ {
+  "n": "2",
+  "sid": "thiamine-b1-ref2",
+  "ident": "pmc:PMC8533683",
+  "claim": "pyruvate dehydrogenase, alpha-ketoglutarate dehydrogenase, and transketolase.",
+  "score": 1.88,
+  "para": 27,
+  "sentence": "Much of this is mediated by five key thiamine dependent enzymes or enzyme complexes: transketolase (TKT), pyruvate dehydrogenase complex (PDC), 2-hydroxyacyl-CoA lyase enzyme (HACL), branched chain keto-acid dehydrogenase (BCAKD), a-ketoglutarate dehydrogenase complex (a-KDGH).",
+  "chars": 46077
+ },
+ {
+  "n": "3",
+  "sid": "thiamine-b1-ref3",
+  "ident": "url:https://hormonesmatter.com/thiamine-insufficiency-carbohydrate-consumption/",
+  "claim": "pyruvate dehydrogenase, alpha-ketoglutarate dehydrogenase, and transketolase.",
+  "score": 0.62,
+  "para": 10,
+  "sentence": "Transketolase enzyme activity was also measured but remained unchanged.",
+  "chars": 11696
+ },
+ {
+  "n": "4",
+  "sid": "thiamine-b1-ref4",
+  "ident": "pdf:https://www.cambridge.org/core/services/aop-cambridge-core/content/view/CA09C2E5CA7FD63D764688D3D82F5849/S0025727300059482a.pdf/beriberi_vitamin_b1_and_world_food_policy_19251970.pdf",
+  "claim": "Thiamine deficiency has been known since the era of beriberi linked to polished rice, documented from the late 19th century in Asia.",
+  "score": 4.36,
+  "para": 6,
+  "sentence": "Among the individual examples of public health nutrition work discussed was beriberi, of which the authors noted that the problem of its international control was highly complex but worthy of further study.27 The most significant passages occurred in the section on colonial dietary 19 Ibid., p. 375. 'Beri-beri columbarum', Indian J. med.",
+  "chars": 66658
+ },
+ {
+  "n": "5",
+  "sid": "thiamine-b1-ref5",
+  "ident": "url:https://en.wikipedia.org/wiki/Thiamine_deficiency",
+  "claim": "Thiamine deficiency has been known since the era of beriberi linked to polished rice, documented from the late 19th century in Asia.",
+  "score": 4.69,
+  "para": 52,
+  "sentence": "Archived (PDF) from the original on 2012-10-19. ↑ Golden M (May 1997). \"Diagnosing Beriberi in Emergency Situations\".",
+  "chars": 47804
+ },
+ {
+  "n": "6",
+  "sid": "thiamine-b1-ref6",
+  "ident": "url:https://foodmedcenter.org/food-fighting-and-disease-series-beriberi/",
+  "claim": "Thiamine deficiency has been known since the era of beriberi linked to polished rice, documented from the late 19th century in Asia.",
+  "score": 0,
+  "para": -1,
+  "sentence": "",
+  "chars": 0
+ },
+ {
+  "n": "7",
+  "sid": "thiamine-b1-ref7",
+  "ident": "url:https://en.wikipedia.org/wiki/Derrick_Lonsdale",
+  "claim": "From the 1970s–2000s, Dr Derrick Lonsdale published dozens of papers showing that subclinical thiamine deficiency is widespread in the United States and linked to behavioural disorders, developmental problems, and chronic disease, while remaining largely ignored.",
+  "score": 4.35,
+  "para": 12,
+  "sentence": "Shamberger 2 & Tapan Audhya</> (2002), Neuroendocrinol Lett, Vol 23:302-308. ↑ Lonsdale D and Shamberger R J (2000) \"A clinical study of secretin in autism and pervasive developmental delay.\" Journal of Nutritional and Environmental Medicine, Vol 10 (4), pp 271–280 ↑ Kalyva, Efrosini (6 May 2011).",
+  "chars": 6138
+ },
+ {
+  "n": "2",
+  "sid": "thiamine-b1-ref2",
+  "ident": "pmc:PMC8533683",
+  "claim": "Modern Thiamine Deficiency*) emphasized that no current data on thiamine deficiency rates in the United States is available, not because the problem has been resolved, but simply because thiamine is not being measured.",
+  "score": 2.15,
+  "para": 16,
+  "sentence": "To that end, the current NIH fact sheet updated on 26 March 2021, states “no current data on rates of thiamin deficiency in the U.S. population are available [27].”",
+  "chars": 46077
+ },
+ {
+  "n": "2",
+  "sid": "thiamine-b1-ref2",
+  "ident": "pmc:PMC8533683",
+  "claim": "> *\"TD is believed to be rare in developed, food-secure countries […] As a result of this perception, thiamine is not consistently assessed in healthcare practice or in the nutritional surveys that guide policy.\"*",
+  "score": 4.71,
+  "para": 16,
+  "sentence": "As a result of this perception, thiamine is not consistently assessed in healthcare practice or in the nutritional surveys that guide policy.",
+  "chars": 46077
+ },
+ {
+  "n": "5",
+  "sid": "thiamine-b1-ref5",
+  "ident": "url:https://en.wikipedia.org/wiki/Thiamine_deficiency",
+  "claim": "cereal refining, high-temperature cooking, coffee/tea containing thiaminases, alcohol, diuretics, metformin, PPIs, stress, and chronic hyperglycaemia.",
+  "score": 0.62,
+  "para": 52,
+  "sentence": "Drug Alcohol Rev. 12 (3): 315–22. doi:10.1080/09595239300185371.",
+  "chars": 47804
+ },
+ {
+  "n": "8",
+  "sid": "thiamine-b1-ref8",
+  "ident": "pmid:34685573",
+  "claim": "cereal refining, high-temperature cooking, coffee/tea containing thiaminases, alcohol, diuretics, metformin, PPIs, stress, and chronic hyperglycaemia.",
+  "score": 0.31,
+  "para": 1,
+  "sentence": "Inasmuch as thiamine deficiency syndromes pose great risk of chronic morbidity, and if left untreated, mortality, a more comprehensive understanding thiamine chemistry, relative to energy production, modern living, and disease, may prove useful.",
+  "chars": 1698
+ },
+ {
+  "n": "9",
+  "sid": "thiamine-b1-ref9",
+  "ident": "url:https://www.youtube.com/watch?v=GlpXUIQWBok",
+  "claim": "cereal refining, high-temperature cooking, coffee/tea containing thiaminases, alcohol, diuretics, metformin, PPIs, stress, and chronic hyperglycaemia.",
+  "score": 0.0,
+  "para": 0,
+  "sentence": "AboutPressCopyrightContact usCreatorAdvertiseDevelopersTermsPrivacyPolicy & SafetyHow YouTube worksTest new featuresAccessibility© 2026 Google LLC",
+  "chars": 229
+ },
+ {
+  "n": "10",
+  "sid": "thiamine-b1-ref10",
+  "ident": "pmc:PMC8451800",
+  "claim": "cereal refining, high-temperature cooking, coffee/tea containing thiaminases, alcohol, diuretics, metformin, PPIs, stress, and chronic hyperglycaemia.",
+  "score": 0.92,
+  "para": 14,
+  "sentence": "Thiamine in the treatment of Wernicke encephalopathy in patients with alcohol use disorders.",
+  "chars": 23014
+ },
+ {
+  "n": "11",
+  "sid": "thiamine-b1-ref11",
+  "ident": "url:https://www.ncbi.nlm.nih.gov/books/NBK537204/",
+  "claim": "cereal refining, high-temperature cooking, coffee/tea containing thiaminases, alcohol, diuretics, metformin, PPIs, stress, and chronic hyperglycaemia.",
+  "score": 0.0,
+  "para": 0,
+  "sentence": "Checking your browser before accessing www.ncbi.nlm.nih.gov ...Click here if you are not automatically redirected after 5 seconds.",
+  "chars": 165
+ },
+ {
+  "n": "2",
+  "sid": "thiamine-b1-ref2",
+  "ident": "pmc:PMC8533683",
+  "claim": "Body stores cover only 2–3 weeks, with a half-life of 9 to 18 days, so any increase in demand (infection, pregnancy, surgery, high carbohydrate intake) can unmask functional deficiency.",
+  "score": 3.54,
+  "para": 12,
+  "sentence": "The reference range for Quest is 8–30 nmol/L [18].",
+  "chars": 46077
+ },
+ {
+  "n": "2",
+  "sid": "thiamine-b1-ref2",
+  "ident": "pmc:PMC8533683",
+  "claim": "several key steps of glycolysis and the Krebs cycle are B1-dependent.",
+  "score": 1.95,
+  "para": 30,
+  "sentence": "This step is profoundly dependent upon thiamine and as such becomes the rate-limiting variable for the oxidation of glucose by the tricarboxylic (TCA)/Krebs/citric acid cycle, but also a key player in fatty acid and cholesterol synthesis.",
+  "chars": 46077
+ },
+ {
+  "n": "3",
+  "sid": "thiamine-b1-ref3",
+  "ident": "url:https://hormonesmatter.com/thiamine-insufficiency-carbohydrate-consumption/",
+  "claim": "several key steps of glycolysis and the Krebs cycle are B1-dependent.",
+  "score": 0.49,
+  "para": 10,
+  "sentence": "In addition to the decreasing thiamine values, there were several changes in lipid profile as well.",
+  "chars": 11696
+ },
+ {
+  "n": "2",
+  "sid": "thiamine-b1-ref2",
+  "ident": "pmc:PMC8533683",
+  "claim": "ultra-processed foods are both poor in B1 and major consumers of B1.",
+  "score": 1.58,
+  "para": 49,
+  "sentence": "Metabolically, high carbohydrate diets, especially those composed of highly processed, high sugar-added foods [128], are associated with hyperglycemia [129], along with up to 80% of the comorbid cardiovascular disease [130], a good percentage of neurocognitive disorders [131], and the general metabolic ill-health that plagues western countries [132].",
+  "chars": 46077
+ },
+ {
+  "n": "3",
+  "sid": "thiamine-b1-ref3",
+  "ident": "url:https://hormonesmatter.com/thiamine-insufficiency-carbohydrate-consumption/",
+  "claim": "ultra-processed foods are both poor in B1 and major consumers of B1.",
+  "score": 1.58,
+  "para": 12,
+  "sentence": "Given the dominance of ultra-processed carbohydrate-dense foods in the modern diet, is likely that high-calorie malnutrition underlies much of the chronic illness that plagues western medicine.",
+  "chars": 11696
+ },
+ {
+  "n": "3",
+  "sid": "thiamine-b1-ref3",
+  "ident": "url:https://hormonesmatter.com/thiamine-insufficiency-carbohydrate-consumption/",
+  "claim": "> *\"Among the most common contributors to thiamine deficiency is the regular consumption of a high carbohydrate/highly processed food diet.\"*",
+  "score": 4.41,
+  "para": 1,
+  "sentence": "Among the most common but least well-recognized contributors to thiamine deficiency is the regular consumption of a high carbohydrate/highly processed food diet.",
+  "chars": 11696
+ },
+ {
+  "n": "12",
+  "sid": "thiamine-b1-ref12",
+  "ident": "pmc:PMC8265441",
+  "claim": "This phenomenon particularly affects type 2 diabetics, obese individuals in \"high-calorie malnutrition,\" and children raised on ultra-processed products.",
+  "score": 0,
+  "para": -1,
+  "sentence": "",
+  "chars": 0
+ },
+ {
+  "n": "13",
+  "sid": "thiamine-b1-ref13",
+  "ident": "doi:10.3945/an.114.007526",
+  "claim": "This phenomenon particularly affects type 2 diabetics, obese individuals in \"high-calorie malnutrition,\" and children raised on ultra-processed products.",
+  "score": 0,
+  "para": -1,
+  "sentence": "",
+  "chars": 0
+ },
+ {
+  "n": "10",
+  "sid": "thiamine-b1-ref10",
+  "ident": "pmc:PMC8451800",
+  "claim": "psychiatric patients, pregnant women, emergency department patients, obese individuals (especially pre-bariatric surgery), dialysis patients, heart failure patients on diuretics, the elderly, people with chronic illness, and patients on artificial nutrition.",
+  "score": 2.17,
+  "para": 14,
+  "sentence": "Thiamine and heart failure: challenging cases of modern‐day cardiac beriberi.",
+  "chars": 23014
+ },
+ {
+  "n": "13",
+  "sid": "thiamine-b1-ref13",
+  "ident": "doi:10.3945/an.114.007526",
+  "claim": "psychiatric patients, pregnant women, emergency department patients, obese individuals (especially pre-bariatric surgery), dialysis patients, heart failure patients on diuretics, the elderly, people with chronic illness, and patients on artificial nutrition.",
+  "score": 0,
+  "para": -1,
+  "sentence": "",
+  "chars": 0
+ },
+ {
+  "n": "14",
+  "sid": "thiamine-b1-ref14",
+  "ident": "url:https://www.psychiatryredefined.org/running-on-empty-subclinical-thiamine-deficiency-is-common-and-causes-depression/",
+  "claim": "psychiatric patients, pregnant women, emergency department patients, obese individuals (especially pre-bariatric surgery), dialysis patients, heart failure patients on diuretics, the elderly, people with chronic illness, and patients on artificial nutrition.",
+  "score": 0.0,
+  "para": 0,
+  "sentence": "A required part of this site couldn’t load.",
+  "chars": 230
+ },
+ {
+  "n": "10",
+  "sid": "thiamine-b1-ref10",
+  "ident": "pmc:PMC8451800",
+  "claim": "> *\"The number and variety of symptomatic thiamine-deficient adults identified in this review demonstrates that thiamine deficiency is not exclusive to LMICs and, in high-income settings, is not exclusive to alcoholic patients.\"*",
+  "score": 4.12,
+  "para": 0,
+  "sentence": "The number and variety of symptomatic thiamine‐deficient adults identified in this review demonstrates that thiamine deficiency is not exclusive to LMICs and, in high‐income settings, is not exclusive to alcoholic patients.",
+  "chars": 23014
+ },
+ {
+  "n": "15",
+  "sid": "thiamine-b1-ref15",
+  "ident": "url:https://academic.oup.com/tropej/article/70/5/fmae030/7762180",
+  "claim": "Polymorphisms in the SLC19A2 and SLC19A3 genes (THTR1 and THTR2 transporters) can reduce absorption or utilization of thiamine and predispose to early-onset diabetes, chronic inflammation, or neurological disorders.",
+  "score": 0,
+  "para": -1,
+  "sentence": "",
+  "chars": 0
+ },
+ {
+  "n": "16",
+  "sid": "thiamine-b1-ref16",
+  "ident": "pmc:PMC6477897",
+  "claim": "Polymorphisms in the SLC19A2 and SLC19A3 genes (THTR1 and THTR2 transporters) can reduce absorption or utilization of thiamine and predispose to early-onset diabetes, chronic inflammation, or neurological disorders.",
+  "score": 4.47,
+  "para": 3,
+  "sentence": "Solute Carrier Family 19 Member 2 (SLC19A2) encodes thiamine transporter 1 (THTR1), which facilitates thiamine transport across the cell membrane.",
+  "chars": 2307
+ },
+ {
+  "n": "17",
+  "sid": "thiamine-b1-ref17",
+  "ident": "pmc:PMC11988879",
+  "claim": "Polymorphisms in the SLC19A2 and SLC19A3 genes (THTR1 and THTR2 transporters) can reduce absorption or utilization of thiamine and predispose to early-onset diabetes, chronic inflammation, or neurological disorders.",
+  "score": 5.35,
+  "para": 67,
+  "sentence": "Role of HIF-1α in the Hypoxia Inducible Expression of the Thiamine Transporter, SLC19A3.",
+  "chars": 51408
+ },
+ {
+  "n": "18",
+  "sid": "thiamine-b1-ref18",
+  "ident": "url:https://www.eonutrition.co.uk/post/when-sibo-ibs-constipation-are-just-unrecognized-thiamine-deficiency",
+  "claim": "The brainstem and autonomic nervous system, highly dependent on mitochondrial ATP, are particularly vulnerable to thiamine deficiency, which can cause dysautonomia (POTS, tachycardia, exercise intolerance, vasomotor disturbances), anxiety, and brain fog.",
+  "score": 1.8,
+  "para": 3,
+  "sentence": "The lower regions of the brain responsible for coordinating the autonomic nervous system are particularly vulnerable to a deficiency of thiamine.",
+  "chars": 7484
+ },
+ {
+  "n": "19",
+  "sid": "thiamine-b1-ref19",
+  "ident": "url:https://www.eonutrition.co.uk/post/thiamine-deficiency-a-major-cause-of-sibo",
+  "claim": "The brainstem and autonomic nervous system, highly dependent on mitochondrial ATP, are particularly vulnerable to thiamine deficiency, which can cause dysautonomia (POTS, tachycardia, exercise intolerance, vasomotor disturbances), anxiety, and brain fog.",
+  "score": 1.8,
+  "para": 21,
+  "sentence": "Postural Orthostatic Tachycardia Syndrome, a prime example of dysautonomia, can be caused by thiamine deficiency.",
+  "chars": 20359
+ },
+ {
+  "n": "18",
+  "sid": "thiamine-b1-ref18",
+  "ident": "url:https://www.eonutrition.co.uk/post/when-sibo-ibs-constipation-are-just-unrecognized-thiamine-deficiency",
+  "claim": "At the digestive level, B1 is necessary for acetylcholine synthesis for the vagus nerve; its deficiency can lead to gastroparesis, constipation, reflux, and presentations confused with SIBO or IBS.",
+  "score": 1.47,
+  "para": 4,
+  "sentence": "The primary neurotransmitter utilized by the vagus nerve is acetylcholine.",
+  "chars": 7484
+ },
+ {
+  "n": "20",
+  "sid": "thiamine-b1-ref20",
+  "ident": "url:https://digestioncoach.com/thiamine-deficiency-sibo-dysautonomia/",
+  "claim": "At the digestive level, B1 is necessary for acetylcholine synthesis for the vagus nerve; its deficiency can lead to gastroparesis, constipation, reflux, and presentations confused with SIBO or IBS.",
+  "score": 0.88,
+  "para": 24,
+  "sentence": "The vagus nerve helps control stomach acid, digestive enzymes, bile flow, and gut movement.",
+  "chars": 7245
+ },
+ {
+  "n": "18",
+  "sid": "thiamine-b1-ref18",
+  "ident": "url:https://www.eonutrition.co.uk/post/when-sibo-ibs-constipation-are-just-unrecognized-thiamine-deficiency",
+  "claim": "Yet, sometimes the issues improve greatly with vitamin B1 repletion.\"*",
+  "score": 3.41,
+  "para": 0,
+  "sentence": "Yet, sometimes the issues improve greatly with vitamin B1 repletion.",
+  "chars": 7484
+ },
+ {
+  "n": "21",
+  "sid": "thiamine-b1-ref21",
+  "ident": "url:https://www.mayocliniclabs.com/test-catalog/overview/42356",
+  "claim": "Serum thiamine poorly reflects tissue stores and can remain \"normal\" despite functional deficiency.",
+  "score": 0,
+  "para": -1,
+  "sentence": "",
+  "chars": 0
+ },
+ {
+  "n": "22",
+  "sid": "thiamine-b1-ref22",
+  "ident": "url:https://arupconsult.com/content/vitamins-deficiency-and-toxicity",
+  "claim": "Black subjects) at lower concentrations.",
+  "score": 0.62,
+  "para": 30,
+  "sentence": "Serum and plasma B12 concentrations reflect both intake and stores.",
+  "chars": 30085
+ },
+ {
+  "n": "23",
+  "sid": "thiamine-b1-ref23",
+  "ident": "pmc:PMC8451777",
+  "claim": "Black subjects) at lower concentrations.",
+  "score": 0.62,
+  "para": 31,
+  "sentence": "Price et al. observed a lower activation after in vitro stimulation of ETK compared with in vivo activity following thiamine supplementation that may be related to irreversible inactivation of the enzyme in vitro.40 Thus, observations in vitro may not represent the in vivo situation.",
+  "chars": 29001
+ },
+ {
+  "n": "24",
+  "sid": "thiamine-b1-ref24",
+  "ident": "doi:10.1016/j.nutres.2024.03.011",
+  "claim": "Black subjects) at lower concentrations.",
+  "score": 0,
+  "para": -1,
+  "sentence": "",
+  "chars": 0
+ },
+ {
+  "n": "23",
+  "sid": "thiamine-b1-ref23",
+  "ident": "pmc:PMC8451777",
+  "claim": "Functional tests such as ETKAC also have important technical limitations; a study in thiamine-sensitive children showed that no biomarker could reliably identify them individually.",
+  "score": 0.92,
+  "para": 32,
+  "sentence": "The ETKAC assay provides an indirect, functional measure of thiamine status.",
+  "chars": 29001
+ },
+ {
+  "n": "25",
+  "sid": "thiamine-b1-ref25",
+  "ident": "pmc:PMC11225667",
+  "claim": "Functional tests such as ETKAC also have important technical limitations; a study in thiamine-sensitive children showed that no biomarker could reliably identify them individually.",
+  "score": 1.54,
+  "para": 41,
+  "sentence": "Considering the short- and long-term health risks associated with thiamine deficiency, there is an urgent need to prevent thiamine deficiency in young children and their mothers in the study region and other similar regions, and assessment of thiamine biomarkers in representative population samples coupled with case reports of beriberi can be helpful to identify populations at risk of thiamine deficiency.",
+  "chars": 56504
+ },
+ {
+  "n": "1",
+  "sid": "thiamine-b1-ref1",
+  "ident": "url:https://www.betterhealthguy.com/episode206",
+  "claim": "In practice, several authors conclude that it is often rational to supplement empirically when the clinical picture is compatible, since thiamine is very safe and inexpensive.",
+  "score": 0.0,
+  "para": 0,
+  "sentence": "EP241: Root Causes: Exploring the Hidden Links Between Your Mouth and Your Health - Corbin Popp, DMD",
+  "chars": 116
+ },
+ {
+  "n": "10",
+  "sid": "thiamine-b1-ref10",
+  "ident": "pmc:PMC8451800",
+  "claim": "In practice, several authors conclude that it is often rational to supplement empirically when the clinical picture is compatible, since thiamine is very safe and inexpensive.",
+  "score": 1.23,
+  "para": 7,
+  "sentence": "Some authors recommend obtaining a thiamine level before thiamine replacement (to help confirm the diagnosis), without delaying the treatment, that is, beginning the thiamine administration immediately after the blood is collected for analysis.2, 14 Thiamine has no tolerable upper intake level (there is no established toxic level) and is safe and inexpensive, justifying the prompt treatment.",
+  "chars": 23014
+ },
+ {
+  "n": "2",
+  "sid": "thiamine-b1-ref2",
+  "ident": "pmc:PMC8533683",
+  "claim": "Official fact sheets (NIH, WHO, national agencies) state that thiamine deficiency is rare in developed countries and easily prevented through diet and fortification, but acknowledge not having recent data on actual deficiency rates.",
+  "score": 2.02,
+  "para": 16,
+  "sentence": "To that end, the current NIH fact sheet updated on 26 March 2021, states “no current data on rates of thiamin deficiency in the U.S. population are available [27].”",
+  "chars": 46077
+ },
+ {
+  "n": "8",
+  "sid": "thiamine-b1-ref8",
+  "ident": "pmid:34685573",
+  "claim": "Official fact sheets (NIH, WHO, national agencies) state that thiamine deficiency is rare in developed countries and easily prevented through diet and fortification, but acknowledge not having recent data on actual deficiency rates.",
+  "score": 0.9,
+  "para": 1,
+  "sentence": "With an average diet, even a poor one, it is not difficult to meet that daily requirement, and yet, measurable thiamine deficiency has been observed across multiple patient populations with incidence rates ranging from 20% to over 90% depending upon the study.",
+  "chars": 1698
+ },
+ {
+  "n": "2",
+  "sid": "thiamine-b1-ref2",
+  "ident": "pmc:PMC8533683",
+  "claim": "Independent reviews show on the contrary that modern deficiency is widely underestimated, poorly measured, and affects a much broader spectrum of populations than just alcoholics or low-income countries.",
+  "score": 1.08,
+  "para": 45,
+  "sentence": "While dietary thiamine is the primary factor in thiamine sufficiency, just over 2% of TPP is synthesized endogenously by various commensal bacterial populations in both the small and large intestines [110].",
+  "chars": 46077
+ },
+ {
+  "n": "10",
+  "sid": "thiamine-b1-ref10",
+  "ident": "pmc:PMC8451800",
+  "claim": "Independent reviews show on the contrary that modern deficiency is widely underestimated, poorly measured, and affects a much broader spectrum of populations than just alcoholics or low-income countries.",
+  "score": 1.08,
+  "para": 5,
+  "sentence": "It highlights that, in high‐income countries, thiamine deficiency affects many more patients beyond the expected cases caused by alcoholism.",
+  "chars": 23014
+ },
+ {
+  "n": "26",
+  "sid": "thiamine-b1-ref26",
+  "ident": "pmc:PMC8453888",
+  "claim": "Independent reviews show on the contrary that modern deficiency is widely underestimated, poorly measured, and affects a much broader spectrum of populations than just alcoholics or low-income countries.",
+  "score": 1.08,
+  "para": 0,
+  "sentence": "However, recent scholarship shows that the disorders associated with thiamine deficiency may also affect heretofore unsuspected populations, and that the scope of disorders, including some long‐lasting neurocognitive consequences, is broader than previously thought.",
+  "chars": 14778
+ },
+ {
+  "n": "7",
+  "sid": "thiamine-b1-ref7",
+  "ident": "url:https://en.wikipedia.org/wiki/Derrick_Lonsdale",
+  "claim": "more than 50 years of work on thiamine, author of *Thiamine Deficiency Disease, Dysautonomia, and High Calorie Malnutrition*; three of his papers are cited by the WHO on sudden infant death syndrome.",
+  "score": 2.43,
+  "para": 6,
+  "sentence": "Lonsdale studied the use of nutrients to prevent diseases.[6][7] He was particularly interested in Vitamin B1, also known as thiamine.[7] The World Health Organization have cited three of Lonsdale's thiamine deficiency papers on Sudden Infant Death Syndrome.[8]",
+  "chars": 6138
+ },
+ {
+  "n": "27",
+  "sid": "thiamine-b1-ref27",
+  "ident": "url:https://www.youtube.com/watch?v=tN5WpR-2-fI",
+  "claim": "more than 50 years of work on thiamine, author of *Thiamine Deficiency Disease, Dysautonomia, and High Calorie Malnutrition*; three of his papers are cited by the WHO on sudden infant death syndrome.",
+  "score": 0.0,
+  "para": 0,
+  "sentence": "AboutPressCopyrightContact usCreatorAdvertiseDevelopersTermsPrivacyPolicy & SafetyHow YouTube worksTest new featuresAccessibility© 2026 Google LLC",
+  "chars": 234
+ },
+ {
+  "n": "28",
+  "sid": "thiamine-b1-ref28",
+  "ident": "url:https://www.youtube.com/watch?v=wFiSxTKsnRM",
+  "claim": "co-author of the reference book and founder of HormonesMatter.com, a platform documenting hundreds of clinical cases and thiamine effects.",
+  "score": 0.34,
+  "para": 0,
+  "sentence": "Chandler Marrs: Thiamine Deficiency, Dysautonomia & Women's Health | Ricci Flow Nutrition Podcast - YouTube",
+  "chars": 272
+ },
+ {
+  "n": "29",
+  "sid": "thiamine-b1-ref29",
+  "ident": "url:https://hormonesmatter.com/author/elliot-overton/",
+  "claim": "functional medicine practitioner who developed high-dose thiamine protocols (ThiamineProtocols), used by thousands of patients and carers.",
+  "score": 0.0,
+  "para": 0,
+  "sentence": "Fibromyalgia (FMS) is a complex chronic condition characterized by allodynia, pain, stiffness, paresthesias, and tenderness of the muscles, skin, and soft tissues.",
+  "chars": 270
+ },
+ {
+  "n": "30",
+  "sid": "thiamine-b1-ref30",
+  "ident": "url:https://www.youtube.com/watch?v=ohFuqOBL-LM",
+  "claim": "functional medicine practitioner who developed high-dose thiamine protocols (ThiamineProtocols), used by thousands of patients and carers.",
+  "score": 0.0,
+  "para": 0,
+  "sentence": "AboutPressCopyrightContact usCreatorAdvertiseDevelopersTermsPrivacyPolicy & SafetyHow YouTube worksTest new featuresAccessibility© 2026 Google LLC",
+  "chars": 234
+ },
+ {
+  "n": "3",
+  "sid": "thiamine-b1-ref3",
+  "ident": "url:https://hormonesmatter.com/thiamine-insufficiency-carbohydrate-consumption/",
+  "claim": "functional medicine practitioner who developed high-dose thiamine protocols (ThiamineProtocols), used by thousands of patients and carers.",
+  "score": 0.71,
+  "para": 12,
+  "sentence": "Admittedly, both studies were very small, but the research connecting thiamine deficiency to ill-health and carbohydrate consumption to thiamine loss is clear.",
+  "chars": 11696
+ },
+ {
+  "n": "31",
+  "sid": "thiamine-b1-ref31",
+  "ident": "url:Balakumar",
+  "claim": "Its penetration of the central nervous system, however, is limited.",
+  "score": 0,
+  "para": -1,
+  "sentence": "",
+  "chars": 0
+ },
+ {
+  "n": "32",
+  "sid": "thiamine-b1-ref32",
+  "ident": "url:Hammes",
+  "claim": "The mechanistic case for benfotiamine in metabolic disease was made in 2003 by Hans-Peter Hammes and colleagues in *Nature Medicine*.",
+  "score": 0,
+  "para": -1,
+  "sentence": "",
+  "chars": 0
+ },
+ {
+  "n": "33",
+  "sid": "thiamine-b1-ref33",
+  "ident": "url:Winkler",
+  "claim": "Winkler and colleagues, in 1999, reported dose-dependent improvement in Neuropathy Symptom Score at 320 mg/day of benfotiamine.",
+  "score": 0,
+  "para": -1,
+  "sentence": "",
+  "chars": 0
+ },
+ {
+  "n": "34",
+  "sid": "thiamine-b1-ref34",
+  "ident": "url:Haupt",
+  "claim": "Winkler and colleagues, in 1999, reported dose-dependent improvement in Neuropathy Symptom Score at 320 mg/day of benfotiamine.[^33] The BEDIP study (Haupt, Ledermann, Köpcke, 2005) confirmed the finding in a three-week placebo-controlled pilot.",
+  "score": 0,
+  "para": -1,
+  "sentence": "",
+  "chars": 0
+ },
+ {
+  "n": "35",
+  "sid": "thiamine-b1-ref35",
+  "ident": "url:Stracke",
+  "claim": "hy Symptom Score at 320 mg/day of benfotiamine.[^33] The BEDIP study (Haupt, Ledermann, Köpcke, 2005) confirmed the finding in a three-week placebo-controlled pilot.[^34] The BENDIP trial (Stracke and colleagues, 2008), a three-arm randomised double-blind study in 165 patients over six weeks, demonstrated dose-dependent improvement at 600 mg/day, with vibration perception threshold also improving.",
+  "score": 0,
+  "para": -1,
+  "sentence": "",
+  "chars": 0
+ },
+ {
+  "n": "36",
+  "sid": "thiamine-b1-ref36",
+  "ident": "url:Gibson",
+  "claim": "Small trials at Weill Cornell Medicine, led by Gary Gibson, have tested high-dose benfotiamine in mild cognitive impairment and early Alzheimer's disease, on the mechanistic hypothesis that thiamine-dependent enzymes are impaired in the Alzheimer brain.",
+  "score": 0,
+  "para": -1,
+  "sentence": "",
+  "chars": 0
+ },
+ {
+  "n": "37",
+  "sid": "thiamine-b1-ref37",
+  "ident": "url:Lonsdale",
+  "claim": "The practitioner protocols developed by Overton and by Marrs use TTFD as the primary agent for these presentations.",
+  "score": 0,
+  "para": -1,
+  "sentence": "",
+  "chars": 0
+ },
+ {
+  "n": "10",
+  "sid": "thiamine-b1-ref10",
+  "ident": "pmc:PMC8451800",
+  "claim": "high safety even at elevated doses, very low cost, and the potential for rapid reversibility of sometimes debilitating symptoms (extreme fatigue, mild to moderate dysautonomia, functional digestive disorders, paradoxical anxiety).",
+  "score": 0.9,
+  "para": 9,
+  "sentence": "The history of a significant unintentional weight loss (which can be as high as 20 kg in 2 months11) is, however, a sign that the patient is malnourished or at risk of malnutrition, even in the presence of abundant fat reserves.",
+  "chars": 23014
+ },
+ {
+  "n": "1",
+  "sid": "thiamine-b1-ref1",
+  "ident": "url:https://www.betterhealthguy.com/episode206",
+  "claim": "high safety even at elevated doses, very low cost, and the potential for rapid reversibility of sometimes debilitating symptoms (extreme fatigue, mild to moderate dysautonomia, functional digestive disorders, paradoxical anxiety).",
+  "score": 0.0,
+  "para": 0,
+  "sentence": "EP241: Root Causes: Exploring the Hidden Links Between Your Mouth and Your Health - Corbin Popp, DMD",
+  "chars": 116
+ },
+ {
+  "n": "10",
+  "sid": "thiamine-b1-ref10",
+  "ident": "pmc:PMC8451800",
+  "claim": "> *\"Treatment with intravenous thiamine resulted in partial or complete recovery from the symptoms (cardiac, neurologic, and metabolic disorders) for most patients.\"*",
+  "score": 4.41,
+  "para": 0,
+  "sentence": "Treatment with intravenous thiamine resulted in partial or complete recovery from the symptoms (cardiac, neurologic, and metabolic disorders) for most patients.",
+  "chars": 23014
+ }
+]

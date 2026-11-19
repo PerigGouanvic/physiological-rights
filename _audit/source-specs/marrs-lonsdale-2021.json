@@ -1,0 +1,34 @@
+{
+ "sid": "marrs-lonsdale-2021",
+ "short": "Marrs & Lonsdale, 2021",
+ "container": "Nutrients",
+ "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8533683/",
+ "license": "Open access, CC BY.",
+ "excerpts": [
+  {
+   "key": "rare",
+   "where": "Thiamine in the general population",
+   "anchor": "TD is believed to be rare in developed, food-secure countries",
+   "marks": [
+    "TD is believed to be rare in developed, food-secure countries, except in certain populations or medical situations. As a result of this perception, thiamine is not consistently assessed in healthcare practice or in the nutritional surveys that guide policy.",
+    "no current data on rates of thiamin deficiency in the U.S. population are available"
+   ]
+  },
+  {
+   "key": "halflife",
+   "where": "Introduction",
+   "anchor": "It has a very short half-life, limited storage capacity",
+   "marks": [
+    "It has a very short half-life, limited storage capacity, and is susceptible to degradation and depletion"
+   ]
+  },
+  {
+   "key": "drugs",
+   "where": "Pharmaceutical threats",
+   "anchor": "Among the greatest threats to thiamine status include",
+   "marks": [
+    "metformin [167], psychiatric medications [168]"
+   ]
+  }
+ ]
+}

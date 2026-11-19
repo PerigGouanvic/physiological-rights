@@ -1,0 +1,19 @@
+{
+ "sid": "lonsdale-wikipedia",
+ "short": "Wikipedia",
+ "title": "Derrick Lonsdale",
+ "authors": [
+  "Wikipedia contributors"
+ ],
+ "container": "en.wikipedia.org",
+ "url": "https://en.wikipedia.org/wiki/Derrick_Lonsdale",
+ "note": "Used only for biographical dates.",
+ "excerpts": [
+  {
+   "key": "dates",
+   "where": "Lead",
+   "anchor": "Derrick Lonsdale (April 22, 1924 – May 2, 2024)",
+   "to": "pediatrician and researcher"
+  }
+ ]
+}

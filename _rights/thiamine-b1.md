@@ -3,7 +3,7 @@ category: vitamin
 description: 'The right to an optimal thiamine status: recognition of functional deficiency
   beyond frank beriberi, including high-dose thiamine therapy for conditions such
   as dysautonomia and Parkinson''s disease.'
-last_revised: July 2026
+last_revised: November 2026
 layout: default
 name: Vitamin B1 (thiamine)
 related:
@@ -25,29 +25,29 @@ title: Right to Optimal Thiamine (Vitamin B1) Status
 
 ## B1: an energy conductor
 
-Imagine that every cell in your body is a factory running on electricity. Thiamine (B1) is not the fuel: it is the electrical transformer that makes the fuel usable. Without it, the mitochondrial power plant slows, overruns, or partially breaks down, depending on the organs affected.[^1]
+Imagine that every cell in your body is a factory running on electricity. Thiamine (B1) is not the fuel: it is the electrical transformer that makes the fuel usable. Without it, the mitochondrial power plant slows, overruns, or partially breaks down, depending on the organs affected.
 
-More concretely: thiamine is the limiting cofactor of three fundamental enzymes of energy metabolism: pyruvate dehydrogenase, alpha-ketoglutarate dehydrogenase, and transketolase.[^2][^3]
+More concretely: thiamine is the limiting cofactor of three fundamental enzymes of energy metabolism: pyruvate dehydrogenase, alpha-ketoglutarate dehydrogenase, and transketolase.{% include cite.html id="marrs-lonsdale-2021" ex="halflife" %}
 
 ---
 
 ## History: a century of ignored warnings
 
-Thiamine deficiency has been known since the era of beriberi linked to polished rice, documented from the late 19th century in Asia.[^4][^5][^6]
+Thiamine deficiency has been known since the era of beriberi linked to polished rice, documented from the late 19th century in Asia.
 
-From the 1970s–2000s, Dr Derrick Lonsdale published dozens of papers showing that subclinical thiamine deficiency is widespread in the United States and linked to behavioural disorders, developmental problems, and chronic disease, while remaining largely ignored.[^7]
+From the 1970s–2000s, Dr Derrick Lonsdale published dozens of papers showing that subclinical thiamine deficiency is widespread in the United States and linked to behavioural disorders, developmental problems, and chronic disease, while remaining largely ignored.{% include cite.html id="lonsdale-2006" ex="abstract" %}
 
-In 2021, a review in *Nutrients* (*Hiding in Plain Sight: Modern Thiamine Deficiency*) emphasized that no current data on thiamine deficiency rates in the United States is available, not because the problem has been resolved, but simply because thiamine is not being measured.[^2]
+In 2021, a review in *Nutrients* by Chandler Marrs and Derrick Lonsdale (*Hiding in Plain Sight: Modern Thiamine Deficiency*) pointed out that the NIH itself states that no current data on thiamine deficiency rates in the United States are available, not because the problem has been resolved, but because thiamine is not being measured.{% include cite.html id="marrs-lonsdale-2021" ex="rare" %}
 
-> *"TD is believed to be rare in developed, food-secure countries […] As a result of this perception, thiamine is not consistently assessed in healthcare practice or in the nutritional surveys that guide policy."*[^2]
+> *"TD is believed to be rare in developed, food-secure countries […] As a result of this perception, thiamine is not consistently assessed in healthcare practice or in the nutritional surveys that guide policy."*{% include cite.html id="marrs-lonsdale-2021" ex="rare" %}
 
 ---
 
 ## Demystifying: B1 is not "easy to obtain"
 
-Officially, the recommended intake (≈1.1–1.2 mg/day) would be easily achieved through diet, but numerous modern factors destroy or deplete B1: cereal refining, high-temperature cooking, coffee/tea containing thiaminases, alcohol, diuretics, metformin, PPIs, stress, and chronic hyperglycaemia.[^5][^8][^9][^10][^11]
+Officially, the recommended intake (≈1.1–1.2 mg/day) would be easily achieved through diet, but numerous modern factors destroy or deplete B1: cereal refining, high-temperature cooking, coffee/tea containing thiaminases, alcohol, diuretics, metformin, PPIs, stress, and chronic hyperglycaemia.{% include cite.html id="marrs-lonsdale-2021" ex="drugs" %}{% include cite.html id="gomes-2021" ex="abstract" %}
 
-Body stores cover only 2–3 weeks, with a half-life of 9 to 18 days, so any increase in demand (infection, pregnancy, surgery, high carbohydrate intake) can unmask functional deficiency.[^2]
+Thiamine has a very short half-life and limited storage capacity, so any increase in demand (infection, pregnancy, surgery, high carbohydrate intake) can unmask functional deficiency within weeks.{% include cite.html id="marrs-lonsdale-2021" ex="halflife" %}
 
 ---
 
@@ -55,13 +55,11 @@ Body stores cover only 2–3 weeks, with a half-life of 9 to 18 days, so any inc
 
 ### Sugar consumed
 
-Thiamine is indispensable to carbohydrate metabolism: several key steps of glycolysis and the Krebs cycle are B1-dependent.[^2][^3]
+Thiamine is indispensable to carbohydrate metabolism: several key steps of glycolysis and the Krebs cycle are B1-dependent.{% include cite.html id="marrs-lonsdale-2021" ex="halflife" %}
 
-The higher the diet in refined carbohydrates, the greater the thiamine requirement, creating a double trap: ultra-processed foods are both poor in B1 and major consumers of B1.[^2][^3]
+The higher the diet in refined carbohydrates, the greater the thiamine requirement, creating a double trap: ultra-processed foods are both poor in B1 and major consumers of B1.
 
-> *"Among the most common contributors to thiamine deficiency is the regular consumption of a high carbohydrate/highly processed food diet."*[^3]
-
-This phenomenon particularly affects type 2 diabetics, obese individuals in "high-calorie malnutrition," and children raised on ultra-processed products.[^12][^13]
+This phenomenon particularly affects type 2 diabetics, obese individuals in "high-calorie malnutrition," and children raised on ultra-processed products.
 
 ### Sugar produced
 
@@ -75,15 +73,15 @@ The clinical consequence is that fatigue, cognitive fog, and the sense of runnin
 
 ## Who is really at risk?
 
-Contrary to the myth that confines B1 to alcoholics and low-income countries, measurable deficits have been observed in: psychiatric patients, pregnant women, emergency department patients, obese individuals (especially pre-bariatric surgery), dialysis patients, heart failure patients on diuretics, the elderly, people with chronic illness, and patients on artificial nutrition.[^10][^13][^14]
+Contrary to the myth that confines B1 to alcoholics and low-income countries, measurable deficits have been observed in: psychiatric patients, pregnant women, emergency department patients, obese individuals (especially pre-bariatric surgery), dialysis patients, heart failure patients on diuretics, the elderly, people with chronic illness, and patients on artificial nutrition.{% include cite.html id="gomes-2021" ex="abstract" %}
 
-> *"The number and variety of symptomatic thiamine-deficient adults identified in this review demonstrates that thiamine deficiency is not exclusive to LMICs and, in high-income settings, is not exclusive to alcoholic patients."*[^10]
+> *"The number and variety of symptomatic thiamine-deficient adults identified in this review demonstrates that thiamine deficiency is not exclusive to LMICs and, in high-income settings, is not exclusive to alcoholic patients."*{% include cite.html id="gomes-2021" ex="abstract" %}
 
 ---
 
 ## Genetics: when B1 meets its transporters
 
-Polymorphisms in the SLC19A2 and SLC19A3 genes (THTR1 and THTR2 transporters) can reduce absorption or utilization of thiamine and predispose to early-onset diabetes, chronic inflammation, or neurological disorders.[^15][^16][^17]
+Polymorphisms in the SLC19A2 and SLC19A3 genes (THTR1 and THTR2 transporters) can reduce absorption or utilization of thiamine and predispose to early-onset diabetes or neurological disorders.{% include cite.html id="jungtrakoon-2019" ex="abstract" %}{% include cite.html id="szabo-2025" %}
 
 In these individuals, a "normal" intake may be insufficient, lowering the clinical deficiency threshold and modifying the response to supplementation.
 
@@ -91,39 +89,39 @@ In these individuals, a "normal" intake may be insufficient, lowering the clinic
 
 ## B1, the "great imitator": dysautonomia, SIBO, fatigue
 
-The brainstem and autonomic nervous system, highly dependent on mitochondrial ATP, are particularly vulnerable to thiamine deficiency, which can cause dysautonomia (POTS, tachycardia, exercise intolerance, vasomotor disturbances), anxiety, and brain fog.[^18][^19]
+The brainstem and autonomic nervous system, highly dependent on mitochondrial ATP, are particularly vulnerable to thiamine deficiency, which can cause dysautonomia (POTS, tachycardia, exercise intolerance, vasomotor disturbances), anxiety, and brain fog, according to practitioners who treat it.{% include cite.html id="eonutrition-sibo" ex="gut" %}
 
-At the digestive level, B1 is necessary for acetylcholine synthesis for the vagus nerve; its deficiency can lead to gastroparesis, constipation, reflux, and presentations confused with SIBO or IBS.[^18][^20]
+At the digestive level, B1 is necessary for acetylcholine synthesis for the vagus nerve; its deficiency can lead to gastroparesis, constipation, reflux, and presentations confused with SIBO or IBS.{% include cite.html id="eonutrition-sibo" ex="ach" %}
 
-> *"The gastrointestinal tract is one of the main systems that can be affected by a deficiency of thiamine […] often non-responsive to antimicrobial treatments. Yet, sometimes the issues improve greatly with vitamin B1 repletion."*[^18]
+> *"The gastrointestinal tract is one of the main systems that can be affected by a deficiency of thiamine […] often non-responsive to antimicrobial treatments. Yet, sometimes the issues improve greatly with vitamin B1 repletion."* — Elliot Overton, practitioner{% include cite.html id="eonutrition-sibo" ex="gut" %}
 
 ---
 
 ## The testing problem: a false sense of security
 
-Serum thiamine poorly reflects tissue stores and can remain "normal" despite functional deficiency.[^21]
+Serum thiamine poorly reflects tissue stores and can remain "normal" despite functional deficiency.{% include cite.html id="jones-2021-etkac" %}
 
-Measurement of TDP (thiamine diphosphate) in whole blood is more relevant but remains limited by the absence of standardised thresholds and inter-laboratory variations; some data also suggest increased vulnerability of certain populations (e.g. Black subjects) at lower concentrations.[^22][^23][^24]
+Measurement of TDP (thiamine diphosphate) in whole blood is more relevant but remains limited by the absence of standardised thresholds and inter-laboratory variations; some data also suggest increased vulnerability of certain populations (e.g. Black subjects) at lower concentrations.{% include cite.html id="jones-2021-etkac" %}
 
-Functional tests such as ETKAC also have important technical limitations; a study in thiamine-sensitive children showed that no biomarker could reliably identify them individually.[^23][^25]
+Functional tests such as ETKAC also have important technical limitations; a study in thiamine-responsive children showed that no biomarker could reliably identify them individually.{% include cite.html id="hess-2024" ex="conclusion" %}
 
-In practice, several authors conclude that it is often rational to supplement empirically when the clinical picture is compatible, since thiamine is very safe and inexpensive.[^1][^10]
+In practice, several authors conclude that it is often rational to supplement empirically when the clinical picture is compatible, since thiamine is very safe and inexpensive.{% include cite.html id="gomes-2021" ex="abstract" %}
 
 ---
 
 ## Health authorities vs scientific reality
 
-Official fact sheets (NIH, WHO, national agencies) state that thiamine deficiency is rare in developed countries and easily prevented through diet and fortification, but acknowledge not having recent data on actual deficiency rates.[^2][^8]
+Official fact sheets (NIH, WHO, national agencies) state that thiamine deficiency is rare in developed countries and easily prevented through diet and fortification, but acknowledge not having recent data on actual deficiency rates.{% include cite.html id="marrs-lonsdale-2021" ex="rare" %}
 
-Independent reviews show on the contrary that modern deficiency is widely underestimated, poorly measured, and affects a much broader spectrum of populations than just alcoholics or low-income countries.[^2][^10][^26]
+Independent reviews show on the contrary that modern deficiency is widely underestimated, poorly measured, and affects a much broader spectrum of populations than just alcoholics or low-income countries.{% include cite.html id="marrs-lonsdale-2021" ex="rare" %}{% include cite.html id="gomes-2021" ex="abstract" %}{% include cite.html id="bourassa-2021" %}
 
 ---
 
 ## The researchers who have sounded the alarm
 
-- **Derrick Lonsdale** (1924–2024): more than 50 years of work on thiamine, author of *Thiamine Deficiency Disease, Dysautonomia, and High Calorie Malnutrition*; three of his papers are cited by the WHO on sudden infant death syndrome.[^7][^27]
-- **Chandler Marrs** (PhD): co-author of the reference book and founder of HormonesMatter.com, a platform documenting hundreds of clinical cases and thiamine effects.[^28]
-- **Elliot Overton** (EONutrition): functional medicine practitioner who developed high-dose thiamine protocols (ThiamineProtocols), used by thousands of patients and carers.[^29][^30][^3]
+- **Derrick Lonsdale** (1924–2024): more than 50 years of work on thiamine, co-author with Chandler Marrs of *Thiamine Deficiency Disease, Dysautonomia, and High Calorie Malnutrition*.{% include cite.html id="lonsdale-wikipedia" ex="dates" %}{% include cite.html id="lonsdale-2006" ex="abstract" %}
+- **Chandler Marrs** (PhD): co-author of the reference book and founder of HormonesMatter.com, a platform documenting hundreds of clinical cases and thiamine effects.{% include cite.html id="marrs-lonsdale-2021" ex="rare" %}
+- **Elliot Overton** (EONutrition): functional medicine practitioner who developed and publishes high-dose thiamine protocols.{% include cite.html id="eonutrition-sibo" ex="gut" %}
 
 ---
 
@@ -133,23 +131,23 @@ Thiamine hydrochloride, the standard supplement form, is water-soluble. It is ab
 
 ### Benfotiamine: chemistry and mechanism
 
-Benfotiamine (S-benzoylthiamine O-monophosphate) is a synthetic S-acyl derivative of thiamine, developed in Japan in the 1950s. Unlike thiamine hydrochloride, it crosses the intestinal wall by facilitated diffusion, is dephosphorylated at the brush border, and enters the circulation as S-benzoylthiamine. Once in the bloodstream it is hydrolysed to free thiamine, which is then taken up into tissues and phosphorylated to thiamine diphosphate, the active cofactor. The route delivers substantially higher intracellular thiamine concentrations in muscle, nerve, kidney, and retina than equimolar oral thiamine HCl. Its penetration of the central nervous system, however, is limited.[^31]
+Benfotiamine (S-benzoylthiamine O-monophosphate) is a synthetic S-acyl derivative of thiamine, developed in Japan in the 1950s. Unlike thiamine hydrochloride, it crosses the intestinal wall by facilitated diffusion, is dephosphorylated at the brush border, and enters the circulation as S-benzoylthiamine. Once in the bloodstream it is hydrolysed to free thiamine, which is then taken up into tissues and phosphorylated to thiamine diphosphate, the active cofactor. The route delivers substantially higher intracellular thiamine concentrations in muscle, nerve, kidney, and retina than equimolar oral thiamine HCl. Its penetration of the central nervous system, however, is limited.{% include cite.html id="balakumar-2010" ex="abstract" %}
 
-The mechanistic case for benfotiamine in metabolic disease was made in 2003 by Hans-Peter Hammes and colleagues in *Nature Medicine*.[^32] Chronic hyperglycemia was known to drive four biochemical pathways of tissue damage: the polyol pathway, the hexosamine pathway, protein kinase C activation, and the formation of advanced glycation end products (AGEs). Hammes showed that benfotiamine, by activating the thiamine-dependent enzyme transketolase, shunts excess glycolytic intermediates into the pentose phosphate pathway and thereby blocks three of the four pathways at once. The finding gave a single molecule plausibly capable of preventing the microvascular complications of diabetes, at a cost of pennies per day. It also opened a broader hypothesis relevant to the [right to measure insulin](/rights/insulin/): any state of chronic hyperinsulinemia and hyperglycemia, well before frank diabetes, engages the same damage pathways, and the same transketolase intervention may partially interrupt them.
+The mechanistic case for benfotiamine in metabolic disease was made in 2003 by Hans-Peter Hammes and colleagues in *Nature Medicine*.{% include cite.html id="hammes-2003" ex="abstract" %} Chronic hyperglycemia was known to drive four biochemical pathways of tissue damage: the polyol pathway, the hexosamine pathway, protein kinase C activation, and the formation of advanced glycation end products (AGEs). Hammes showed that benfotiamine, by activating the thiamine-dependent enzyme transketolase, shunts excess glycolytic intermediates into the pentose phosphate pathway and thereby blocks three of the four pathways at once. The finding gave a single molecule plausibly capable of preventing the microvascular complications of diabetes, at a cost of pennies per day. It also opened a broader hypothesis relevant to the [right to measure insulin](/rights/insulin/): any state of chronic hyperinsulinemia and hyperglycemia, well before frank diabetes, engages the same damage pathways, and the same transketolase intervention may partially interrupt them.
 
 ### The neuropathy trials: two decades of consistent signals, no phase III sponsor
 
-The most substantial clinical evidence base for benfotiamine is in painful diabetic peripheral neuropathy. Winkler and colleagues, in 1999, reported dose-dependent improvement in Neuropathy Symptom Score at 320 mg/day of benfotiamine.[^33] The BEDIP study (Haupt, Ledermann, Köpcke, 2005) confirmed the finding in a three-week placebo-controlled pilot.[^34] The BENDIP trial (Stracke and colleagues, 2008), a three-arm randomised double-blind study in 165 patients over six weeks, demonstrated dose-dependent improvement at 600 mg/day, with vibration perception threshold also improving.[^35] The trials are not large by pharmaceutical standards, but they are directionally consistent, mechanistically anchored, and use validated neuropathy endpoints. What they lack is the multi-thousand-patient phase III replication that would justify guideline inclusion. In the two decades since Hammes, no commercial actor has funded that trial.
+The most substantial clinical evidence base for benfotiamine is in painful diabetic peripheral neuropathy. Winkler and colleagues, in 1999, reported in a six-week open trial of 36 patients that a benfotiamine–B-vitamin combination at 320 mg/day of benfotiamine improved pain and vibration sense more than lower doses.{% include cite.html id="winkler-1999" ex="abstract" %} The BEDIP study (Haupt, Ledermann, Köpcke, 2005) confirmed the finding in a three-week placebo-controlled pilot.{% include cite.html id="haupt-2005" ex="abstract" %} The BENDIP trial (Stracke and colleagues, 2008), a three-arm randomised double-blind study in 165 patients over six weeks, found an improvement in the Neuropathy Symptom Score that was significant per protocol (p = 0.033) and just short of significance by intention to treat (p = 0.055), more pronounced at 600 mg/day.{% include cite.html id="stracke-2008" ex="abstract" %} The trials are not large by pharmaceutical standards, but they are directionally consistent, mechanistically anchored, and use validated neuropathy endpoints. What they lack is the multi-thousand-patient phase III replication that would justify guideline inclusion. In the two decades since Hammes, no commercial actor has funded that trial.
 
 ### Beyond neuropathy
 
-Small trials at Weill Cornell Medicine, led by Gary Gibson, have tested high-dose benfotiamine in mild cognitive impairment and early Alzheimer's disease, on the mechanistic hypothesis that thiamine-dependent enzymes are impaired in the Alzheimer brain.[^36] Results are preliminary and mixed but sufficient to sustain a research programme. Diabetic nephropathy and diabetic retinopathy have been investigated in single-centre studies with promising but not conclusive findings. The pattern across the non-neuropathy literature is what one might expect for a molecule that is cheap, safe, and mechanistically attractive: committed investigators run small trials, no phase III sponsor materialises, the literature accumulates in the specialist journals.
+Small trials at Weill Cornell Medicine, led by Gary Gibson, have tested high-dose benfotiamine in mild cognitive impairment and early Alzheimer's disease, on the mechanistic hypothesis that thiamine-dependent enzymes are impaired in the Alzheimer brain.{% include cite.html id="gibson-2020" ex="abstract" %} Results are preliminary and mixed but sufficient to sustain a research programme. Diabetic nephropathy and diabetic retinopathy have been investigated in single-centre studies with promising but not conclusive findings. The pattern across the non-neuropathy literature is what one might expect for a molecule that is cheap, safe, and mechanistically attractive: committed investigators run small trials, no phase III sponsor materialises, the literature accumulates in the specialist journals.
 
 ### Choosing the derivative by tissue target: TTFD, sulbutiamine
 
 Benfotiamine is not the only lipid-soluble thiamine derivative in clinical use. Two others merit mention.
 
-**TTFD (thiamine tetrahydrofurfuryl disulfide)**, also called fursultiamine, is a synthetic derivative of allithiamine, the naturally occurring compound isolated by Fujiwara in 1954 from garlic bulbs stored with thiamine. TTFD crosses the blood-brain barrier substantially better than benfotiamine and is the derivative of choice when central nervous system involvement (dysautonomia, fatigue, cognitive symptoms, mood dysregulation) is prominent. The practitioner protocols developed by Overton and by Marrs use TTFD as the primary agent for these presentations.[^37]
+**TTFD (thiamine tetrahydrofurfuryl disulfide)**, also called fursultiamine, is a synthetic derivative of allithiamine, the naturally occurring compound isolated by Fujiwara in 1954 from garlic bulbs stored with thiamine. TTFD crosses the blood-brain barrier substantially better than benfotiamine and is the derivative of choice when central nervous system involvement (dysautonomia, fatigue, cognitive symptoms, mood dysregulation) is prominent. The practitioner protocols developed by Overton and by Marrs use TTFD as the primary agent for these presentations.{% include cite.html id="lonsdale-2006" ex="abstract" %}
 
 **Sulbutiamine**, developed in France in the 1960s under the brand name Arcalion, is another lipid-soluble derivative with good CNS penetration. It has been prescribed for asthenia in France and francophone jurisdictions since the 1970s and has been studied in post-infectious fatigue.
 
@@ -165,57 +163,12 @@ In most of Europe and in North America, benfotiamine is sold as a food supplemen
 
 ## The hope: a simple, safe, often transformative intervention
 
-Thiamine combines three rare properties: high safety even at elevated doses, very low cost, and the potential for rapid reversibility of sometimes debilitating symptoms (extreme fatigue, mild to moderate dysautonomia, functional digestive disorders, paradoxical anxiety).[^10][^1]
+Thiamine combines three rare properties: high safety even at elevated doses, very low cost, and the potential for rapid reversibility of sometimes debilitating symptoms (extreme fatigue, mild to moderate dysautonomia, functional digestive disorders, paradoxical anxiety).{% include cite.html id="gomes-2021" ex="abstract" %}
 
-> *"Treatment with intravenous thiamine resulted in partial or complete recovery from the symptoms (cardiac, neurologic, and metabolic disorders) for most patients."*[^10]
+> *"Treatment with intravenous thiamine resulted in partial or complete recovery from the symptoms (cardiac, neurologic, and metabolic disorders) for most patients."* — Gomes and colleagues, 2021{% include cite.html id="gomes-2021" ex="abstract" %}
 
 Within the framework of the [physiological rights](/definitions/physiological-rights/) this resource defends, this grounds a **right to an optimal thiamine status**: the right to recognition of subclinical deficiency, access to relevant tests where available, access to the specific derivatives whose trial base has been accumulating for twenty years, and safe, low-cost supplementation strategies to correct a deficit that today is, quite literally, hiding in plain sight.
 
 ---
 
-## References
-
-[^1]: https://www.betterhealthguy.com/episode206
-[^2]: https://pmc.ncbi.nlm.nih.gov/articles/PMC8533683/
-[^3]: https://hormonesmatter.com/thiamine-insufficiency-carbohydrate-consumption/
-[^4]: https://www.cambridge.org/core/services/aop-cambridge-core/content/view/CA09C2E5CA7FD63D764688D3D82F5849/S0025727300059482a.pdf/beriberi_vitamin_b1_and_world_food_policy_19251970.pdf
-[^5]: https://en.wikipedia.org/wiki/Thiamine_deficiency
-[^6]: https://foodmedcenter.org/food-fighting-and-disease-series-beriberi/
-[^7]: https://en.wikipedia.org/wiki/Derrick_Lonsdale
-[^8]: https://pubmed.ncbi.nlm.nih.gov/34685573/
-[^9]: https://www.youtube.com/watch?v=GlpXUIQWBok
-[^10]: https://pmc.ncbi.nlm.nih.gov/articles/PMC8451800/
-[^11]: https://www.ncbi.nlm.nih.gov/books/NBK537204/
-[^12]: https://pmc.ncbi.nlm.nih.gov/articles/PMC8265441/
-[^13]: https://www.sciencedirect.com/science/article/pii/S2161831322006366
-[^14]: https://www.psychiatryredefined.org/running-on-empty-subclinical-thiamine-deficiency-is-common-and-causes-depression/
-[^15]: https://academic.oup.com/tropej/article/70/5/fmae030/7762180
-[^16]: https://pmc.ncbi.nlm.nih.gov/articles/PMC6477897/
-[^17]: https://pmc.ncbi.nlm.nih.gov/articles/PMC11988879/
-[^18]: https://www.eonutrition.co.uk/post/when-sibo-ibs-constipation-are-just-unrecognized-thiamine-deficiency
-[^19]: https://www.eonutrition.co.uk/post/thiamine-deficiency-a-major-cause-of-sibo
-[^20]: https://digestioncoach.com/thiamine-deficiency-sibo-dysautonomia/
-[^21]: https://www.mayocliniclabs.com/test-catalog/overview/42356
-[^22]: https://arupconsult.com/content/vitamins-deficiency-and-toxicity
-[^23]: https://pmc.ncbi.nlm.nih.gov/articles/PMC8451777/
-[^24]: https://www.sciencedirect.com/science/article/pii/S0271531724000459
-[^25]: https://pmc.ncbi.nlm.nih.gov/articles/PMC11225667/
-[^26]: https://pmc.ncbi.nlm.nih.gov/articles/PMC8453888/
-[^27]: https://www.youtube.com/watch?v=tN5WpR-2-fI
-[^28]: https://www.youtube.com/watch?v=wFiSxTKsnRM
-[^29]: https://hormonesmatter.com/author/elliot-overton/
-[^30]: https://www.youtube.com/watch?v=ohFuqOBL-LM
-
-[^31]: Balakumar P, Rohilla A, Krishan P, Solairaj P, Thangathirupathi A. *The multifaceted therapeutic potential of benfotiamine.* Pharmacol Res. 2010;61(6):482-488.
-
-[^32]: Hammes HP, Du X, Edelstein D, Taguchi T, Matsumura T, Ju Q, Lin J, Bierhaus A, Nawroth P, Hannak D, Neumaier M, Bergfeld R, Giardino I, Brownlee M. *[Benfotiamine blocks three major pathways of hyperglycemic damage and prevents experimental diabetic retinopathy](https://www.nature.com/articles/nm834).* Nat Med. 2003;9(3):294-299.
-
-[^33]: Winkler G, Pál B, Nagybéganyi E, Ory I, Porochnavec M, Kempler P. *Effectiveness of different benfotiamine dosage regimens in the treatment of painful diabetic neuropathy.* Arzneimittelforschung. 1999;49(3):220-224.
-
-[^34]: Haupt E, Ledermann H, Köpcke W. *Benfotiamine in the treatment of acute painful diabetic neuropathy: a three-week randomized, controlled pilot study (BEDIP study).* Int J Clin Pharmacol Ther. 2005;43(2):71-77.
-
-[^35]: Stracke H, Gaus W, Achenbach U, Federlin K, Bretzel RG. *Benfotiamine in diabetic polyneuropathy (BENDIP): results of a randomised, double blind, placebo-controlled clinical study.* Exp Clin Endocrinol Diabetes. 2008;116(10):600-605.
-
-[^36]: Gibson GE, Luchsinger JA, Cirio R, Chen H, Franchino-Elder J, Hirsch JA, Bettendorff L, Chen Z, Flowers SA, Gerber LM, Grandville T, Schupf N, Xu H, Stern Y, Habeck C, Jordan B, Fonzetti P. *Benfotiamine and cognitive decline in Alzheimer's disease: results of a randomized placebo-controlled phase IIa clinical trial.* J Alzheimers Dis. 2020;78(3):989-1010.
-
-[^37]: Lonsdale D. *A review of the biochemistry, metabolism and clinical benefits of thiamin(e) and its derivatives.* Evid Based Complement Alternat Med. 2006;3(1):49-59.
+*Every numbered marker on this page opens its source: the full reference, passages in the authors' own words with the relevant sentence highlighted, and a note on how much of the text was read. Practitioner sources are labelled as such.*

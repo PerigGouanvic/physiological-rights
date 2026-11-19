@@ -1,0 +1,36 @@
+---
+sid: "jungtrakoon-2019"
+title: "Loss-of-Function Mutation in Thiamine Transporter 1 in a Family With Autosomal Dominant Diabetes"
+short: "Jungtrakoon et al., 2019"
+authors:
+  - "Jungtrakoon P"
+  - "Shirakawa J"
+  - "Buranasupkajorn P"
+  - "Gupta MK"
+  - "De Jesus DF"
+  - "Pezzolesi MG"
+  - "Panya A"
+  - "Hastings T"
+  - "Chanprasert C"
+  - "Mendonca C"
+  - "Kulkarni RN"
+  - "Doria A"
+container: "Diabetes"
+year: "2019"
+volume: "68"
+issue: "5"
+pages: "1084-1093"
+doi: "10.2337/db17-0821"
+pmid: "30833467"
+pmcid: "PMC6477897"
+access: "abstract (PubMed)"
+status: "no retraction or correction found (Crossref, Europe PMC, 2026-11-19)"
+verified: "2026-11-19"
+excerpts:
+  - key: "abstract"
+    where: "Abstract (full text not consulted)"
+    marks:
+      - "a loss-of-function SLC19A2 mutation (c.A1063C: p.Lys355Gln) in a family with early-onset diabetes"
+    paras:
+      - "Solute Carrier Family 19 Member 2 (SLC19A2) encodes thiamine transporter 1 (THTR1), which facilitates thiamine transport across the cell membrane. SLC19A2 homozygous mutations have been described as a cause of thiamine-responsive megaloblastic anemia (TRMA), an autosomal recessive syndrome characterized by megaloblastic anemia, diabetes, and sensorineural deafness. Here we describe a loss-of-function SLC19A2 mutation (c.A1063C: p.Lys355Gln) in a family with early-onset diabetes and mild TRMA traits transmitted in an autosomal dominant fashion. We show that SLC19A2-deficient β-cells are characterized by impaired thiamine uptake, which is not rescued by overexpression of the p.Lys355Gln mutant protein. We further demonstrate that SLC19A2 deficit causes impaired insulin secretion in conjunction with mitochondrial dysfunction, loss of protection against oxidative stress, and cell cycle arrest. These findings link SLC19A2 mutations to autosomal dominant diabetes and suggest a role of SLC19A2 in β-cell function and survival."
+---

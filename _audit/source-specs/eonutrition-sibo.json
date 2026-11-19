@@ -1,0 +1,26 @@
+{
+ "sid": "eonutrition-sibo",
+ "short": "EONutrition (Elliot Overton)",
+ "title": "When SIBO & IBS-Constipation are just unrecognized thiamine deficiency",
+ "authors": [
+  "Elliot Overton"
+ ],
+ "container": "eonutrition.co.uk (practitioner blog)",
+ "url": "https://www.eonutrition.co.uk/post/when-sibo-ibs-constipation-are-just-unrecognized-thiamine-deficiency",
+ "note": "A practitioner's clinical observations, not a study.",
+ "excerpts": [
+  {
+   "key": "gut",
+   "where": "Blog post",
+   "anchor": "The gastrointestinal tract is one of the main systems that can be affected",
+   "marks": [
+    "The gastrointestinal tract is one of the main systems that can be affected by a deficiency of thiamine"
+   ]
+  },
+  {
+   "key": "ach",
+   "where": "Blog post",
+   "anchor": "The primary neurotransmitter utilized by the vagus nerve is acetylcholine"
+  }
+ ]
+}

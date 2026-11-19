@@ -1,0 +1,28 @@
+---
+sid: "szabo-2025"
+title: "Genetic Variants of the Human Thiamine Transporter (SLC19A3, THTR2)-Potential Relevance in Metabolic Diseases"
+short: "Szabó et al., 2025"
+authors:
+  - "Szabó E"
+  - "Pálinkás M"
+  - "Bohár B"
+  - "Literáti-Nagy B"
+  - "Korányi L"
+  - "Poór G"
+  - "Várady G"
+  - "Sarkadi B"
+container: "International Journal of Molecular Sciences"
+year: "2025"
+volume: "26"
+issue: "7"
+pages: "2972"
+doi: "10.3390/ijms26072972"
+pmid: "40243602"
+pmcid: "PMC11988879"
+url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC11988879/"
+license: "Open access, CC BY."
+access: "full text (PMC)"
+status: "no retraction or correction found (Crossref, Europe PMC, 2026-11-19)"
+verified: "2026-11-19"
+excerpts:
+---

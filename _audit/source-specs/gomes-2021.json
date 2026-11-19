@@ -1,0 +1,18 @@
+{
+ "sid": "gomes-2021",
+ "short": "Gomes et al., 2021",
+ "container": "Annals of the New York Academy of Sciences",
+ "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8451800/",
+ "license": "Open access, CC BY.",
+ "excerpts": [
+  {
+   "key": "abstract",
+   "where": "Abstract",
+   "anchor": "Treatment with intravenous thiamine resulted in partial or complete recovery",
+   "marks": [
+    "Treatment with intravenous thiamine resulted in partial or complete recovery from the symptoms (cardiac, neurologic, and metabolic disorders) for most patients.",
+    "is not exclusive to LMICs and, in high‐income settings, is not exclusive to alcoholic patients"
+   ]
+  }
+ ]
+}
