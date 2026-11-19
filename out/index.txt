@@ -4,7 +4,7 @@ permalink: /out.txt
 ---
 # PHYSIOLOGICAL RIGHTS — CONTENT EXPORT
 # Site: https://physiological-rights.org
-# Generated: 2026-11-19 06:10 UTC
+# Generated: 2026-11-19 07:05 UTC
 #
 ========================================================================
 # INSTRUCTIONS FOR THE AI READING THIS FILE
@@ -2524,7 +2524,7 @@ description: 'The right to adequate potassium status: recognition that a homeost
   defended serum value systematically hides tissue depletion, that dietary intake
   is only one input to the tissue balance, and that access to a food environment matching
   evolutionary physiology is a matter of preventable cardiovascular mortality.'
-last_revised: July 2026
+last_revised: November 2026
 layout: default
 name: Potassium
 related:
@@ -2544,16 +2544,16 @@ title: Right to Adequate Potassium Status
 
 # Right to Adequate Potassium Status
 
-> *"The need to carefully address and manage potassium intake within comprehensive efforts to prevent CVD in both the general population and high-risk subgroups."*
-> — Filippini et al., *J Am Heart Assoc*, 2020
+> *"[…] the need to carefully address and manage potassium intake within comprehensive efforts to prevent CVD in both the general population and high‐risk subgroups."*
+> — Filippini et al., *J Am Heart Assoc*, 2020{% include cite.html id="filippini-2020" ex="conclusion" %}
 
 ---
 
 ## An evolutionary mismatch that medicine has failed to translate
 
-Before agriculture, human diets (reconstructed from botanical and anthropological work on modern hunter-gatherers such as the Yanomami) delivered on the order of **6 000 to 11 000 mg of potassium per day** and only about **500 mg of sodium**. The potassium-to-sodium ratio was somewhere between 10:1 and 20:1. Human kidneys and vascular biology evolved under that ratio, and every homeostatic mechanism we possess for sodium and potassium is calibrated to it.
+Before agriculture, human diets were built on plant foods rich in potassium and poor in sodium. Anthony Sebastian and colleagues, reconstructing 159 Stone Age diets, put potassium intake at about **400 mEq per day, some 15 grams**, more than four times current and recommended intakes.{% include cite.html id="sebastian-2006" ex="abstract" %} Human kidneys and vascular biology evolved under that supply, and the homeostatic mechanisms we possess for sodium and potassium are calibrated to it.
 
-Modern industrial diets have **inverted** this ratio. In the United States, average potassium intake sits around **2 496 mg per day** (WWEIA/NHANES 2017–2018) against the Adequate Intake of **3 400 mg for men and 2 600 mg for women** set by the National Academies in 2019. Sodium intake, meanwhile, exceeds 3 400 mg per day. The K:Na ratio has flipped from roughly 20:1 to roughly 0.6:1, a **more than thirty-fold shift** away from the environment for which human physiology was designed.
+Modern industrial diets have **inverted** this ratio. In the United States, average potassium intake sits around **2 496 mg per day** (WWEIA/NHANES 2017–2018) against the Adequate Intake of **3 400 mg for men and 2 600 mg for women** set by the National Academies in 2019.{% include cite.html id="hoy-2022" ex="average" %} Sodium, meanwhile, runs far above recommendations: in one NHANES sample measured by 24-hour urine, only 4.2% of adults stayed under 2 300 mg a day.{% include cite.html id="whelton-2018" ex="intakes" %} Frassetto, Sebastian and colleagues call it what it is: a post-agricultural **inversion** of the potassium-to-sodium ratio.{% include cite.html id="frassetto-2001" ex="abstract" %}
 
 This is not "modern lifestyle" as a vague trope. It is a specific, quantifiable, and reversible mismatch, and it accounts for a substantial share of the global burden of hypertension, stroke, and cardiovascular mortality. The right to adequate potassium status is the right to a food environment, a clinical approach, and a system of preventive care that acknowledges this mismatch rather than treating its consequences one blood-pressure prescription at a time.
 
@@ -2561,17 +2561,17 @@ This is not "modern lifestyle" as a vague trope. It is a specific, quantifiable,
 
 ## A century of ignored warnings
 
-The connection between salt, potassium, and blood pressure was not discovered yesterday. **Ambard and Beaujard** in Paris reported salt-driven hypertension in **1904**. In the 1930s, at Duke University, **Walter Kempner** developed the *rice-fruit diet* (extremely high in potassium, essentially devoid of sodium) and demonstrated that it could **reverse severe hypertension, hypertensive retinopathy, congestive heart failure, and kidney disease** in patients otherwise considered untreatable. His clinical films from that period remain some of the most striking documents of nutritional therapeutics in medical history.
+The connection between salt, potassium, and blood pressure was not discovered yesterday. **Ambard and Beaujard** in Paris reported salt-driven hypertension in **1904**.{% include cite.html id="ambard-1904" %} From 1939, at Duke University, **Walter Kempner** treated patients with the *rice-fruit diet* (extremely high in potassium, essentially devoid of sodium) and reported that it could **reverse malignant hypertension, hypertensive retinopathy, and heart enlargement** in patients otherwise considered untreatable.{% include cite.html id="kempner-1948" %}{% include cite.html id="klemmer-2014" %}
 
-In the 1950s–70s, **George R. Meneely** and colleagues at Vanderbilt showed in a series of rat experiments that potassium chloride supplementation could largely prevent the hypertension and shortened lifespan caused by high sodium chloride intake. Meneely and Battarbee's 1976 review, *"High Sodium-Low Potassium Environment and Hypertension"* (*Am J Cardiol* 1976;38:768–785), stated the case with a force that has never been rebutted, and has been steadily ignored by mainstream nutritional policy for almost fifty years.
+In the 1950s, **George R. Meneely** and colleagues at Vanderbilt showed in rat experiments that potassium chloride protected against the hypertension and shortened lifespan caused by chronic sodium chloride loading.{% include cite.html id="meneely-ball-1958" %} Meneely and Battarbee's 1976 review, *"High Sodium-Low Potassium Environment and Hypertension"* (*Am J Cardiol* 1976;38:768–785), stated the case with a force that has never been rebutted, and has been steadily ignored by mainstream nutritional policy for almost fifty years.{% include cite.html id="meneely-battarbee-1976" ex="abstract" %}
 
-In **1988**, the **INTERSALT** study (10 079 participants across 52 populations in 32 countries) established what remains the most solid observational demonstration of the sodium-potassium-blood-pressure relationship at a population level. The four "unacculturated" populations in the study (Yanomami, Xingu, rural Kenya, Papua New Guinea highlands), whose potassium intake approached the ancestral range, showed essentially no hypertension and no age-related rise in blood pressure.
+In **1988**, the **INTERSALT** study (10 079 participants from 52 centres around the world, with 24-hour urine collections) produced what remains the reference observational demonstration of the electrolyte-blood-pressure relationship at a population level. Four isolated populations, among them the Yanomamo of Brazil, whose sodium excretion was close to nil, showed low blood pressure and little or no rise of blood pressure with age.{% include cite.html id="intersalt-1988" ex="abstract" %}
 
-Since the 1980s, **Graham MacGregor** and **Feng J. He** at the Wolfson Institute of Preventive Medicine in London have produced dozens of trials and meta-analyses on sodium reduction and potassium repletion, arguing continuously that the food environment, not individual willpower, is the correct lever. **Paul K. Whelton** published the first modern potassium/BP meta-analysis in *JAMA* in **1997** and has chaired several waves of hypertension guidelines since. **Horacio Adrogué and Nicolaos Madias** synthesised the case for the *New England Journal of Medicine* in **2007** (*Sodium and Potassium in the Pathogenesis of Hypertension*, NEJM 2007;356:1966–1978), a landmark review that clinical practice has largely failed to internalise.
+Since the 1980s, **Graham MacGregor** and **Feng J. He** at the Wolfson Institute of Preventive Medicine in London have produced dozens of trials and meta-analyses on sodium reduction and potassium repletion, starting with a 1991 meta-analysis of potassium supplementation,{% include cite.html id="cappuccio-1991" ex="abstract" %} arguing continuously that the food environment, not individual willpower, is the correct lever. **Paul K. Whelton** published a landmark potassium/BP meta-analysis in *JAMA* in **1997**{% include cite.html id="whelton-1997" ex="abstract" %} and later chaired the writing committee of the 2017 American College of Cardiology/American Heart Association hypertension guideline. **Horacio Adrogué and Nicolaos Madias** synthesised the case for the *New England Journal of Medicine* in **2007** (*Sodium and Potassium in the Pathogenesis of Hypertension*, NEJM 2007;356:1966–1978), a landmark review that clinical practice has largely failed to internalise.{% include cite.html id="adrogue-madias-2007" %}
 
-In **2020**, Filippini and colleagues published in *J Am Heart Assoc* the first proper dose-response meta-analysis of the 32 available RCTs, establishing a **curvilinear inverse relationship** between potassium intake and blood pressure, with the strongest effect in hypertensive and salt-loaded patients. In **2021**, the **SSaSS trial** (Neal et al., NEJM 2021;385:1067–1077), a village-cluster randomised trial of a salt substitute containing 25 % potassium chloride, in over 20 000 people in China, showed a **14 % reduction in stroke** and a **12 % reduction in cardiovascular death** over five years. Population-level dietary reformulation for potassium is not theoretical: it has been done, and it works.
+In **2020**, Filippini and colleagues published in *J Am Heart Assoc* a dose-response meta-analysis of 32 RCTs. The relationship is **U-shaped**: blood pressure falls as added potassium rises, the benefit flattens beyond about 30 mmol a day of extra excretion, and pressure rises again above about 80 mmol, mainly in people already on antihypertensive drugs. The effect is strongest in hypertensive and salt-loaded patients.{% include cite.html id="filippini-2020" ex="results" %} In **2021**, the **SSaSS trial** (Neal et al., NEJM 2021;385:1067–1077), a cluster-randomised trial in 600 Chinese villages of a salt substitute containing 25 % potassium chloride, in nearly 21 000 people with a history of stroke or with high blood pressure past sixty, showed **14 % fewer strokes**, **13 % fewer major cardiovascular events** and **12 % fewer deaths from any cause** over a mean of 4.7 years.{% include cite.html id="neal-2021-ssass" ex="abstract" %} Population-level dietary reformulation for potassium is not theoretical: it has been done, and it works.
 
-In **2024**, Gan and colleagues (BMC Medicine 2024;22:132) reported on 416 000 NIH-AARP participants: women in the highest quintile of potassium intake had **18 % lower overall mortality** and **21 % lower cardiovascular mortality** than those in the lowest quintile, with continuous dose-response by 500 mg increments. The signal in men was smaller but present.
+In **2024**, Gan and colleagues (BMC Medicine 2024;22:132) reported on 416 000 NIH-AARP participants: women in the highest quintile of potassium intake had **18 % lower overall mortality** and **21 % lower cardiovascular mortality** than those in the lowest quintile, with dose-response analysed by 500 mg increments. In men, the association was weak for overall mortality (6 % lower) and absent for cardiovascular mortality.{% include cite.html id="gan-2024" ex="abstract,cvd" %}
 
 A century of warnings, five decades of trials, two large-scale demonstrations of feasibility. And official advice to the population continues to be "eat a balanced diet."
 
@@ -2581,11 +2581,11 @@ A century of warnings, five decades of trials, two large-scale demonstrations of
 
 ### 98 % vs 2 %
 
-Roughly **98 % of total body potassium is intracellular**, locked inside muscle cells, red blood cells, neurons, and other tissues, at concentrations near **150 mmol/L**. The remaining ~2 % circulates in the extracellular fluid and plasma at **3.5–5.0 mmol/L**. That tiny extracellular fraction is the compartment measured by the standard serum potassium test.
+Roughly **98 % of total body potassium is intracellular**, locked inside muscle cells, red blood cells, neurons, and other tissues, at concentrations near **150 mmol/L**. The remaining ~2 % circulates in the extracellular fluid and plasma at **3.5–5.0 mmol/L**. That tiny extracellular fraction is the compartment measured by the standard serum potassium test.{% include cite.html id="gumz-2015" ex="distribution" %}
 
-Serum potassium is not merely a small compartment: it is a **homeostatically defended** compartment. The kidney, the adrenal cortex, and the sodium-potassium pump on every cell membrane cooperate to keep serum K within a narrow band, because cardiac and skeletal excitability depend on it. When intake falls or losses rise, the body's first response is not to let the serum value drop; it is to **mobilise potassium from cells, from muscle, and from bone** to hold the serum line. Frank hypokalemia (serum K below 3.5 mmol/L) appears only when this defence is overwhelmed.
+Serum potassium is not merely a small compartment: it is a **homeostatically defended** compartment. The kidney, the adrenal cortex, and the sodium-potassium pump on every cell membrane cooperate to keep serum K within a narrow band, because cardiac and skeletal excitability depend on it. When intake falls or losses rise, the body's first response is not to let the serum value drop; it is to **mobilise potassium from cells, above all from muscle,** to hold the serum line.{% include cite.html id="gumz-2015" ex="insulin" %} Frank hypokalemia (serum K below 3.5 mmol/L) appears only when this defence is overwhelmed.
 
-A "normal" serum potassium in a symptomatic patient is therefore not a reassuring finding. It is a [**systematic false negative**](/critique/false-negative-serum-potassium/) for the question of tissue status. The Framingham Heart Study demonstrated as early as 2002 that **serum potassium is not associated with blood pressure tracking** across four years of follow-up (Walsh et al., *Am J Hypertens* 2002;15:130–136), the very endpoint for which potassium intake is most solidly protective. The serum value simply does not answer the question the clinician is asking.
+A "normal" serum potassium in a symptomatic patient is therefore not a reassuring finding. It is a [**systematic false negative**](/critique/false-negative-serum-potassium/) for the question of tissue status. The Framingham Heart Study demonstrated as early as 2002 that **serum potassium is not associated with blood pressure tracking** across four years of follow-up (Walsh et al., *Am J Hypertens* 2002;15:130–136), the very endpoint for which potassium intake is most solidly protective.{% include cite.html id="walsh-2002" ex="abstract" %} The serum value simply does not answer the question the clinician is asking.
 
 ### Better tests exist and are not used
 
@@ -2595,9 +2595,9 @@ Where the serum potassium test fails, alternatives exist: **red-blood-cell potas
 
 Even if the test were accurate, it would only tell part of the story. Tissue potassium status is the result of a **dynamic bilan**: a running balance of intake, losses, redistribution, and the availability of co-nutrients. Any of these can be disturbed independently:
 
-- **Losses**: sweat (200–400 mg of K per litre; a two-hour heavy training session in the heat can shed a gram or more), diarrhea and vomiting, thiazide and loop diuretics, primary and secondary hyperaldosteronism, licorice, chronic alkalosis, laxative overuse, renal tubulopathies (Gitelman, Bartter).
+- **Losses**: heavy sweating, diarrhea and vomiting, thiazide and loop diuretics, primary and secondary hyperaldosteronism, licorice, chronic alkalosis, laxative overuse, renal tubulopathies (Gitelman, Bartter).
 - **Redistribution**: insulin overuse, beta-adrenergic drive from chronic stress, alkalosis, refeeding syndrome all drive K from extracellular into intracellular space, masking depletion at the serum level while symptoms of intracellular deficit accumulate.
-- **Magnesium as a gate**: intracellular potassium retention depends on functioning Na⁺/K⁺-ATPase, which requires magnesium. A magnesium-depleted patient cannot hold on to potassium, and repleting K without addressing Mg is often ineffective. This co-nutrient dependency, well documented in cardiology and nephrology, is invisible in a standard serum potassium report.
+- **Magnesium as a gate**: intracellular potassium retention depends on functioning Na⁺/K⁺-ATPase, which requires magnesium. A magnesium-depleted patient cannot hold on to potassium, and repleting K without addressing Mg is often ineffective.{% include cite.html id="huang-kuo-2007" ex="abstract" %} This co-nutrient dependency, well documented in cardiology and nephrology, is invisible in a standard serum potassium report.
 
 An individual with adequate potassium intake, high sweat losses, thiazide treatment, and marginal magnesium status can be tissue-depleted with a serum potassium of 4.2 mmol/L and be told, in perfect good faith, that "everything is normal."
 
@@ -2609,23 +2609,23 @@ Potassium is not merely one of many minerals to include in a balanced diet. It i
 
 ### Membrane potential and excitability
 
-Every excitable cell in the body (every cardiac myocyte, every neuron, every skeletal muscle fibre) maintains its resting membrane potential through a potassium gradient stabilised by the Na⁺/K⁺-ATPase pump. Deviations in tissue potassium, even small ones, alter the excitability of these cells: subtle rises in arrhythmic threshold, delayed repolarisation, blunted muscle response, changes in autonomic tone. Chronic sub-clinical depletion presents not as a dramatic crisis but as a slow drift toward symptoms that get catalogued under other names: palpitations, post-exertional weakness, fatigue, cramps, anxiety, poor stress tolerance.
+Every excitable cell in the body (every cardiac myocyte, every neuron, every skeletal muscle fibre) maintains its resting membrane potential through a potassium gradient stabilised by the Na⁺/K⁺-ATPase pump. Deviations in tissue potassium, even small ones, alter the excitability of these cells: subtle rises in arrhythmic threshold, delayed repolarisation, blunted muscle response, changes in autonomic tone. Chronic sub-clinical depletion can present not as a dramatic crisis but as a slow drift toward symptoms that get catalogued under other names: palpitations, post-exertional weakness, fatigue, cramps, anxiety, poor stress tolerance.
 
 ### Vascular function and blood pressure
 
-Adequate potassium promotes **endothelial-dependent vasodilation**, in part by hyperpolarising endothelial cells through activation of the Na⁺/K⁺ pump and opening of potassium channels (a mechanism reviewed in Gan et al. 2024). It enhances urinary sodium excretion (natriuresis) and modulates the sensitivity of vessels to catecholamines. RCT meta-analysis shows that increasing potassium excretion by roughly 90 mmol per day (about 3.5 g of K) lowers systolic blood pressure by 6–7 mmHg in hypertensive patients and by 2–3 mmHg in normotensives, a public-health effect comparable to that of the best antihypertensive drugs, at the cost of a change in the food environment.
+Adequate potassium improves **endothelial function**: in a placebo-controlled crossover trial in mild hypertensives, both potassium chloride and potassium bicarbonate improved flow-mediated dilatation and arterial stiffness.{% include cite.html id="he-2010" ex="abstract" %} It enhances urinary sodium excretion (natriuresis) and modulates the sensitivity of vessels to catecholamines. In the meta-analysis commissioned by WHO, raising potassium intake lowered systolic pressure by 3.5 mmHg on average and by about 7 mmHg when intake reached 90–120 mmol a day; the effect appeared in people with hypertension, not in those without.{% include cite.html id="aburto-2013" ex="results" %} Seven millimetres of mercury, for people who need it, at the cost of a change in the food environment.
 
 ### Renal handling and the sodium–potassium ratio
 
-The kidney does not regulate sodium and potassium independently. Distal tubular handling is coupled through the WNK-SPAK-NCC pathway and the aldosterone-sensitive nephron: dietary potassium loading suppresses sodium reabsorption, drives natriuresis, and lowers blood pressure. This is why the **sodium-to-potassium ratio** is a stronger predictor of cardiovascular mortality than either sodium or potassium considered alone, a finding confirmed across the NIH-AARP cohort and multiple meta-analyses.
+The kidney does not regulate sodium and potassium independently. Distal tubular handling is coupled through the WNK-SPAK-NCC pathway and the aldosterone-sensitive nephron: dietary potassium loading suppresses sodium reabsorption, drives natriuresis, and lowers blood pressure.{% include cite.html id="nomura-2019" ex="abstract" %}{% include cite.html id="ellison-terker-2015" %} This is why the **sodium-to-potassium ratio** is a stronger predictor of cardiovascular mortality than either sodium or potassium considered alone, as long-term follow-up of the Trials of Hypertension Prevention showed;{% include cite.html id="whelton-2018" ex="ratio" %} in the NIH-AARP cohort, the ratio tracked cardiovascular mortality in women more steeply than potassium alone.{% include cite.html id="gan-2024" ex="abstract" %}
 
 ### Bone, kidney stones, and the acid-base story
 
-The Western diet is a net acid producer. Potassium, particularly in its bicarbonate and citrate forms in fruits and vegetables, provides the alkali the body needs to buffer this acid load without drawing on the alkali reservoir of bone. Chronic potassium inadequacy therefore contributes to **urinary calcium loss** and, over decades, to **accelerated bone mineral loss**. The same acid-base mechanism links low-K diets to **calcium oxalate kidney stone formation** (documented in the Nurses' Health Study and Health Professionals Follow-up cohorts).
+The Western diet is a net acid producer. Potassium, particularly in its bicarbonate and citrate forms in fruits and vegetables, provides the alkali the body needs to buffer this acid load without drawing on the alkali reservoir of bone. Chronic potassium inadequacy therefore contributes to **urinary calcium loss** and, over decades, to **accelerated bone mineral loss**.{% include cite.html id="frassetto-2001" ex="abstract" %}{% include cite.html id="he-2010" ex="abstract" %} The same acid-base mechanism links low-K diets to **calcium oxalate kidney stone formation** (documented in the Health Professionals Follow-up Study, where men with the highest potassium intake had half the risk of stones, and later in the Nurses' Health Study).{% include cite.html id="curhan-1993" ex="abstract" %}
 
 ### Glucose handling and beta-cell integrity
 
-Potassium is required for normal insulin secretion by pancreatic beta cells and for insulin-mediated glucose uptake in peripheral tissues. Thiazide-induced hypokalemia is a recognised cause of new-onset diabetes; sub-clinical depletion likely contributes to impaired glucose tolerance long before overt diabetes appears.
+Potassium is required for normal insulin secretion by pancreatic beta cells and for insulin-mediated glucose uptake in peripheral tissues. Thiazide-induced hypokalemia is a recognised cause of new-onset diabetes, and preventing the potassium loss prevents the glucose intolerance;{% include cite.html id="zillich-2006" ex="abstract" %}{% include cite.html id="helderman-1983" ex="abstract" %} sub-clinical depletion likely contributes to impaired glucose tolerance long before overt diabetes appears.
 
 ---
 
@@ -2651,13 +2651,13 @@ Each of these associations is documented in peer-reviewed clinical literature. S
 
 ### "Eat more fruits and vegetables": advice that no longer works alone
 
-The top dietary sources of potassium (potatoes, beans, spinach, avocados, bananas, dairy) are exactly what public-health advice recommends. Yet median intake has not moved in three decades of dietary guidance. NHANES data show median potassium consumption stuck around 2 500 mg per day since the mid-1990s. This is not because the advice is wrong; it is because the food environment is structured against it.
+The top dietary sources of potassium (potatoes, beans, spinach, avocados, bananas, dairy) are exactly what public-health advice recommends. Yet median intake has not moved in three decades of dietary guidance. NHANES data show average potassium consumption stuck around 2 500 mg per day since the mid-1990s.{% include cite.html id="hoy-2012" ex="trend" %}{% include cite.html id="hoy-2022" ex="average" %} This is not because the advice is wrong; it is because the food environment is structured against it.
 
 An ultra-processed diet is not merely low in potassium; it is high in sodium, further worsening the ratio. Restaurants, packaged foods, and industrial bread contribute the bulk of dietary sodium in most Western countries. The individual who wants to reach 3 400 mg of potassium per day while staying under 2 300 mg of sodium is fighting the entire structure of their food supply.
 
 ### Reformulation works, and remains largely unadopted
 
-Two demonstrations bracket the case. **Universal salt iodisation** (implemented from the 1920s in some countries and near-universally today) showed that food-supply-level interventions on a single mineral can eradicate a widespread deficiency disease within a generation. **The SSaSS trial** (2021) showed that replacing table salt with a 75/25 sodium chloride / potassium chloride blend at the household level produces measurable cardiovascular mortality reduction within five years. Country-level reformulation of processed food to reduce sodium and increase potassium (on the model of iodisation, or of the UK's salt reduction programme) is technically straightforward and blocked mostly by industrial inertia.
+Two demonstrations bracket the case. **Universal salt iodisation** (implemented from the 1920s in some countries and near-universally today) showed that food-supply-level interventions on a single mineral can eradicate a widespread deficiency disease within a generation. **The SSaSS trial** (2021) showed that replacing table salt with a 75/25 sodium chloride / potassium chloride blend at the household level produces measurable reductions in stroke and death within five years.{% include cite.html id="neal-2021-ssass" ex="abstract" %} Country-level reformulation of processed food to reduce sodium and increase potassium (on the model of iodisation, or of the UK's salt reduction programme) is technically straightforward and blocked mostly by industrial inertia.
 
 ### The vicious cycle of medications
 
@@ -2669,27 +2669,29 @@ Many commonly prescribed medications **worsen** potassium status: **thiazide** a
 
 ### Walter Kempner (1903–1997): The clinical proof of concept
 
-Refugee physician from Nazi Germany, Kempner developed at Duke the *rice-fruit diet*: essentially a whole-food, potassium-rich, sodium-devoid regimen. Between 1939 and the 1970s he documented reversal of malignant hypertension, congestive heart failure, hypertensive retinopathy, and diabetic complications in thousands of patients. His clinical films remain a rebuke to the assumption that nutritional therapeutics cannot compete with pharmacotherapy in serious cardiovascular disease.
+Refugee physician from Nazi Germany, Kempner developed at Duke the *rice-fruit diet*: essentially a whole-food, potassium-rich, sodium-devoid regimen. From 1939 he documented reversal of malignant hypertension, heart enlargement and hypertensive retinopathy in patients for whom medicine had nothing else.{% include cite.html id="kempner-1948" %} His results remain a rebuke to the assumption that nutritional therapeutics cannot compete with pharmacotherapy in serious cardiovascular disease. His methods with patients drew serious allegations late in his career; the clinical record stands apart from them.{% include cite.html id="klemmer-2014" %}
 
-### George R. Meneely (1912–1976): The animal proof
+### George R. Meneely: The animal proof
 
-Meneely's rat experiments through the 1950s–70s (Vanderbilt) demonstrated that potassium chloride supplementation prevents the hypertension and reduces the mortality caused by high sodium loading. His 1976 review with Battarbee laid out the case in terms that public health has never adequately answered.
+Meneely's rat experiments through the 1950s–70s (Vanderbilt) demonstrated that potassium chloride supplementation prevents the hypertension and reduces the mortality caused by high sodium loading. His 1976 review with Battarbee laid out the case in terms that public health has never adequately answered:
+
+> *"The high sodium-low potassium environment of civilized people, operating on a genetic substrate of susceptibility, is the cardinal factor in the genesis and perpetuation of "essential" hypertension."*{% include cite.html id="meneely-battarbee-1976" ex="abstract" %}
 
 ### Graham MacGregor & Feng J. He: The modern campaign
 
-Based at the Wolfson Institute of Preventive Medicine, London, MacGregor and He have spent four decades on trials and meta-analyses of sodium reduction and potassium repletion, and on public-health campaigning around food reformulation (Consensus Action on Salt, Sugar and Health). Their work on the mechanism of action of dietary potassium on endothelial function and bone turnover (He, MacGregor et al., *Hypertension* 2010;55:681–688) established that the effect goes well beyond blood pressure.
+Based at the Wolfson Institute of Preventive Medicine, London, MacGregor and He have spent four decades on trials and meta-analyses of sodium reduction and potassium repletion, and on public-health campaigning around food reformulation (Consensus Action on Salt and Health, later joined by Action on Sugar). Their work on the mechanism of action of dietary potassium on endothelial function and bone turnover (He, MacGregor et al., *Hypertension* 2010;55:681–688) showed that the effect reaches the arteries, the heart muscle and bone turnover, not only blood pressure.{% include cite.html id="he-2010" ex="abstract" %}
 
 ### Paul K. Whelton: The synthesis
 
-Whelton's 1997 *JAMA* meta-analysis (Whelton PK, He J, Cutler JA, et al. *JAMA* 1997;277:1624–1632) remains a foundational reference. He has since chaired several waves of American hypertension guidelines and continues to publish on the sodium/potassium/BP triangle (*Circulation* 2018;137:247–249).
+Whelton's 1997 *JAMA* meta-analysis (Whelton PK, He J, Cutler JA, et al. *JAMA* 1997;277:1624–1632) remains a foundational reference.{% include cite.html id="whelton-1997" ex="abstract" %} He has since chaired several waves of American hypertension guidelines and continues to publish on the sodium/potassium/BP triangle (*Circulation* 2018;137:247–249).{% include cite.html id="whelton-2018" ex="intakes,ratio" %}
 
 ### Horacio Adrogué & Nicolaos Madias: The clinical statement
 
-Their 2007 *NEJM* review (*Sodium and Potassium in the Pathogenesis of Hypertension*, NEJM 2007;356:1966–1978) is the most-cited modern clinical synthesis of the case. It has been referenced thousands of times and adopted almost nowhere as the basis for standard clinical assessment.
+Their 2007 *NEJM* review (*Sodium and Potassium in the Pathogenesis of Hypertension*, NEJM 2007;356:1966–1978) is the most-cited modern clinical synthesis of the case. It has been cited close to nine hundred times and adopted almost nowhere as the basis for standard clinical assessment.{% include cite.html id="adrogue-madias-2007" %}
 
 ### Tommaso Filippini & Marco Vinceti: The dose-response
 
-At the University of Modena and Reggio Emilia, Filippini and colleagues have produced the current generation of quantitative syntheses: potassium/BP dose-response meta-analysis (2020), potassium/stroke meta-analysis (Vinceti et al. 2016). Their work provides the numerical backbone for any modern policy argument on potassium.
+At the University of Modena and Reggio Emilia, Filippini and colleagues have produced the current generation of quantitative syntheses: potassium/BP dose-response meta-analysis (2020),{% include cite.html id="filippini-2020" ex="results" %} potassium/stroke meta-analysis (Vinceti et al. 2016), which found 13 % fewer strokes at the highest intakes.{% include cite.html id="vinceti-2016" ex="abstract" %} Their work provides the numerical backbone for any modern policy argument on potassium.
 
 ---
 
@@ -2698,19 +2700,19 @@ At the University of Modena and Reggio Emilia, Filippini and colleagues have pro
 | Year | Event | Outcome |
 |---|---|---|
 | 1904 | Ambard & Beaujard: salt and hypertension | – |
-| 1939 | Kempner's rice-fruit diet reverses malignant hypertension at Duke | Regarded as a curiosity |
-| 1957 | Meneely rat experiments: K prevents Na-induced hypertension | Not translated to human policy |
-| 1976 | Meneely & Battarbee synthesis, *Am J Cardiol* | No dietary guideline change |
-| 1988 | INTERSALT: 52 populations, K:Na ratio matches BP | Cited but not acted on |
-| 1997 | Whelton *JAMA* meta-analysis: K supplementation lowers BP | No screening programme |
-| 2004 | US IOM/NASEM sets K AI at 4 700 mg/day | Median intake unchanged |
-| 2007 | Adrogué & Madias, *NEJM* clinical synthesis | Adopted by no clinical guideline |
-| 2012 | WHO recommends 90 mmol (3 510 mg) potassium/day | Countries do not implement |
-| 2016 | Vinceti/Filippini meta-analysis: K reduces stroke | – |
-| 2019 | US NASEM revises AI to 3 400 mg (M) / 2 600 mg (F) | Reference values lowered to match failure |
-| 2020 | Filippini dose-response meta-analysis, *JAHA* | Public-health translation lacking |
-| 2021 | SSaSS trial: KCl-fortified salt reduces stroke and CV death | Salt-substitute programmes remain rare |
-| 2024 | Gan et al., BMC Medicine: 416 000 NIH-AARP participants confirm dose-response mortality reduction | Advice remains "eat more fruit and vegetables" |
+| 1939 | Kempner's rice-fruit diet reverses malignant hypertension at Duke{% include cite.html id="kempner-1948" %} | Regarded as a curiosity |
+| 1958 | Meneely rat experiments: K protects against Na-induced hypertension{% include cite.html id="meneely-ball-1958" %} | Not translated to human policy |
+| 1976 | Meneely & Battarbee synthesis, *Am J Cardiol*{% include cite.html id="meneely-battarbee-1976" ex="abstract" %} | No dietary guideline change |
+| 1988 | INTERSALT: 52 centres, electrolytes track blood pressure{% include cite.html id="intersalt-1988" ex="abstract" %} | Cited but not acted on |
+| 1997 | Whelton *JAMA* meta-analysis: K supplementation lowers BP{% include cite.html id="whelton-1997" ex="abstract" %} | No screening programme |
+| 2004 | US IOM sets K AI at 4 700 mg/day{% include cite.html id="hoy-2012" ex="trend" %} | Median intake unchanged |
+| 2007 | Adrogué & Madias, *NEJM* clinical synthesis{% include cite.html id="adrogue-madias-2007" %} | Adopted by no clinical guideline |
+| 2012 | WHO suggests at least 90 mmol (3 510 mg) potassium/day{% include cite.html id="who-2012-potassium" ex="recommendation" %} | Countries do not implement |
+| 2016 | Vinceti/Filippini meta-analysis: higher K, fewer strokes{% include cite.html id="vinceti-2016" ex="abstract" %} | – |
+| 2019 | US NASEM revises AI to 3 400 mg (M) / 2 600 mg (F){% include cite.html id="hoy-2022" ex="average" %} | Reference values lowered to match failure |
+| 2020 | Filippini dose-response meta-analysis, *JAHA*{% include cite.html id="filippini-2020" ex="results" %} | Public-health translation lacking |
+| 2021 | SSaSS trial: KCl-enriched salt reduces stroke and death{% include cite.html id="neal-2021-ssass" ex="abstract" %} | Salt-substitute programmes remain rare |
+| 2024 | Gan et al., BMC Medicine: 416 000 NIH-AARP participants, lower mortality with higher K in women{% include cite.html id="gan-2024" ex="abstract" %} | Advice remains "eat more fruit and vegetables" |
 
 ---
 
@@ -2729,30 +2731,7 @@ The [physiological right](/definitions/physiological-rights/) is to a **stock** 
 
 ---
 
-## References
-
-1. Filippini T, Naska A, Kasdagli M-I, et al. Potassium intake and blood pressure: a dose-response meta-analysis of randomized controlled trials. *J Am Heart Assoc* 2020;9:e015719. — [ahajournals.org](https://www.ahajournals.org/doi/10.1161/JAHA.119.015719)
-2. Gan L, Zhao B, Inoue-Choi M, et al. Sex-specific associations between sodium and potassium intake and overall and cause-specific mortality: a large prospective U.S. cohort study, systematic review, and updated meta-analysis of cohort studies. *BMC Med* 2024;22:132. — [BMC Medicine](https://link.springer.com/article/10.1186/s12916-024-03350-x)
-3. Hoy MK, Goldman JD, Moshfegh AJ. Potassium: What We Eat in America, NHANES 2017–2018. USDA Food Surveys Research Group Dietary Data Brief No. 47, September 2022. — [ars.usda.gov](https://www.ars.usda.gov/northeast-area/beltsville-md-bhnrc/beltsville-human-nutrition-research-center/food-surveys-research-group/docs/dbrief/)
-4. Hoy MK, Goldman JD. Potassium Intake of the U.S. Population: What We Eat in America, NHANES 2009–2010. USDA Food Surveys Research Group Dietary Data Brief No. 10, September 2012.
-5. National Academies of Sciences, Engineering, and Medicine. *Dietary Reference Intakes for Sodium and Potassium.* Washington, DC: The National Academies Press; 2019. doi:10.17226/25353
-6. Adrogué HJ, Madias NE. Sodium and potassium in the pathogenesis of hypertension. *N Engl J Med* 2007;356:1966–1978.
-7. Meneely GR, Battarbee HD. High sodium-low potassium environment and hypertension. *Am J Cardiol* 1976;38:768–785.
-8. Meneely GR, Ball CO. Experimental epidemiology of chronic sodium chloride toxicity and the protective effect of potassium chloride. *Am J Med* 1958;25:713–725.
-9. Intersalt Cooperative Research Group. Intersalt: an international study of electrolyte excretion and blood pressure. *BMJ* 1988;297:319–328.
-10. Whelton PK, He J, Cutler JA, et al. Effects of oral potassium on blood pressure: meta-analysis of randomized controlled clinical trials. *JAMA* 1997;277:1624–1632.
-11. Whelton PK. Sodium and potassium intake in US adults. *Circulation* 2018;137:247–249.
-12. Neal B, Wu Y, Feng X, et al. Effect of salt substitution on cardiovascular events and death (SSaSS trial). *N Engl J Med* 2021;385:1067–1077.
-13. Vinceti M, Filippini T, Crippa A, et al. Meta-analysis of potassium intake and the risk of stroke. *J Am Heart Assoc* 2016;5:e004210. doi:10.1161/JAHA.116.004210
-14. He FJ, Marciniak M, Carney C, et al. Effects of potassium chloride and potassium bicarbonate on endothelial function, cardiovascular risk factors, and bone turnover in mild hypertensives. *Hypertension* 2010;55:681–688.
-15. Ellison DH, Terker AS. Why your mother was right: how potassium intake reduces blood pressure. *Trans Am Clin Climatol Assoc* 2015;126:46–55.
-16. Gumz ML, Rabinowitz L, Wingo CS. An integrated view of potassium homeostasis. *N Engl J Med* 2015;373:60–72.
-17. Walsh CR, Larson MG, Vasan RS, Levy D. Serum potassium is not associated with blood pressure tracking in the Framingham Heart Study. *Am J Hypertens* 2002;15:130–136.
-18. WHO. *Guideline: Potassium Intake for Adults and Children.* Geneva: World Health Organization; 2012.
-19. EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA). Dietary reference values for potassium. *EFSA Journal* 2016;14:e04592.
-20. Kempner W. Treatment of hypertensive vascular disease with rice diet. *Am J Med* 1948;4:545–577.
-21. Aburto NJ, Hanson S, Gutierrez H, Hooper L, Elliott P, Cappuccio FP. Effect of increased potassium intake on cardiovascular risk factors and disease: systematic review and meta-analyses. *BMJ* 2013;346:f1378.
-22. Nomura N, Shoda W, Uchida S. Clinical importance of potassium intake and molecular mechanism of potassium regulation. *Clin Exp Nephrol* 2019;23:1175–1180.
+*Every numbered marker on this page opens its source: the full reference, passages in the authors' own words with the relevant sentence highlighted, and a note on how much of the text was read. The EFSA (2016) and NASEM (2019) reference-value reports are cited through the USDA brief that reports them.*
 ====END: _rights/potassium.md====
 
 ====FILE: _rights/riboflavin-b2.md====
