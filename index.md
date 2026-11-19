@@ -14,7 +14,7 @@ last_revised: "November 2026"
 <section class="home-hero">
   <p class="kicker">Start here</p>
   <h2 class="home-hero-title"><a href="{{ '/editorials/the-textbook-body/' | relative_url }}">The Textbook Body</a></h2>
-  <p class="chapo">Most people believe they live in the first chapter of the biology textbook, the one where every enzyme has its cofactor, with a small appendix for their asthma or their few extra pounds. The arithmetic of the population says otherwise. The patient with a single deficiency, around whom trials and protocols are built, is about one adult in two thousand. The ordinary adult carries five.</p>
+  <p class="chapo">Most people believe they live in the first chapter of the biology textbook, the one where every enzyme has its cofactor, with a small appendix for their asthma or their few extra pounds. The arithmetic of the population says otherwise. The patient with a single deficiency, around whom trials and protocols are built, is about one adult in five thousand. The ordinary adult carries five.</p>
   <p class="read-on"><a href="{{ '/editorials/the-textbook-body/' | relative_url }}">Read →</a></p>
 </section>
 

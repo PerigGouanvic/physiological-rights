@@ -3,7 +3,7 @@ description: Most people believe they live in the first chapter of the biology t
   the one where every enzyme has its cofactor, with a small appendix for their asthma
   or their few extra pounds. The arithmetic of the population says otherwise. The patient
   with a single deficiency, around whom trials and protocols are built, is about one adult
-  in two thousand. The ordinary adult carries five.
+  in five thousand. The ordinary adult carries five.
 featured: true
 last_revised: November 2026
 layout: default
@@ -24,7 +24,7 @@ title: The Textbook Body
 
 # The Textbook Body
 
-*Most people believe they live in the first chapter of the biology textbook, with a small appendix for their asthma or their few extra pounds. The arithmetic of the population says otherwise. The patient with a single deficiency, around whom trials and protocols are built, is about one adult in two thousand. The ordinary adult carries five.*
+*Most people believe they live in the first chapter of the biology textbook, with a small appendix for their asthma or their few extra pounds. The arithmetic of the population says otherwise. The patient with a single deficiency, around whom trials and protocols are built, is about one adult in five thousand. The ordinary adult carries five.*
 
 ---
 
@@ -55,29 +55,29 @@ This resource documents the population figures for a handful of nutrients, each 
 - **Magnesium**: about half of adults below the estimated requirement.
 - **Potassium**: well over nine in ten below the 4 700 mg that the physiology supports.
 - **Vitamin D**: about two in three below 75 nmol/L.
-- **Omega-3**: about nine in ten below an Omega-3 Index of 8 %.
+- **Omega-3**: nearly all, 97.6 % of American adults, below an Omega-3 Index of 8 % in the first national measurement (NHANES 2021–2023).{% include cite.html id="powers-2026" ex="results,abstract" %}
 - **Choline**: about nine in ten below the Adequate Intake.
 - **Vitamin E**: roughly eight to nine in ten below requirement from diet alone.
 - **Functional B12**: about one in ten, more with age, metformin, or acid suppression.
 
 Now ask what fraction of adults is short on none of them, on exactly one, on two, and so on. If the seven shortfalls were independent events, the answer is a simple calculation, and it looks like this.
 
-<figure class="deficit-histogram" role="img" aria-label="Distribution of the number of simultaneous shortfalls among seven nutrients, assuming independence. Zero: under 0.01 percent. One: 0.05 percent. Two: 0.9 percent. Three: 6.7 percent. Four: 25.2 percent. Five: 41.1 percent. Six: 24.0 percent. Seven: 2.2 percent.">
+<figure class="deficit-histogram" role="img" aria-label="Distribution of the number of simultaneous shortfalls among seven nutrients, assuming independence. Zero: under 0.01 percent. One: 0.02 percent. Two: 0.5 percent. Three: 5.3 percent. Four: 23.7 percent. Five: 42.3 percent. Six: 25.8 percent. Seven: 2.4 percent.">
   <div class="dh-plot">
-    <div class="dh-col" title="0 shortfalls: under 0.01 %"><span class="dh-val">&lt;0.01 %</span><span class="dh-bar" style="height:0%"></span><span class="dh-x">0</span></div>
-    <div class="dh-col" title="1 shortfall: 0.05 %"><span class="dh-val">0.05 %</span><span class="dh-bar" style="height:0.1%"></span><span class="dh-x">1</span></div>
-    <div class="dh-col" title="2 shortfalls: 0.9 %"><span class="dh-val">0.9 %</span><span class="dh-bar" style="height:2.2%"></span><span class="dh-x">2</span></div>
-    <div class="dh-col" title="3 shortfalls: 6.7 %"><span class="dh-val">6.7 %</span><span class="dh-bar" style="height:16.3%"></span><span class="dh-x">3</span></div>
-    <div class="dh-col" title="4 shortfalls: 25.2 %"><span class="dh-val">25.2 %</span><span class="dh-bar" style="height:61.3%"></span><span class="dh-x">4</span></div>
-    <div class="dh-col" title="5 shortfalls: 41.1 %"><span class="dh-val">41.1 %</span><span class="dh-bar" style="height:100%"></span><span class="dh-x">5</span></div>
-    <div class="dh-col" title="6 shortfalls: 24.0 %"><span class="dh-val">24.0 %</span><span class="dh-bar" style="height:58.4%"></span><span class="dh-x">6</span></div>
-    <div class="dh-col" title="7 shortfalls: 2.2 %"><span class="dh-val">2.2 %</span><span class="dh-bar" style="height:5.4%"></span><span class="dh-x">7</span></div>
+    <div class="dh-col" title="0 shortfalls: under 0.01 %"><span class="dh-val">&lt;0.01 %</span><span class="dh-bar" style="height:0.0%"></span><span class="dh-x">0</span></div>
+    <div class="dh-col" title="1 shortfall: 0.02 %"><span class="dh-val">0.02 %</span><span class="dh-bar" style="height:0.0%"></span><span class="dh-x">1</span></div>
+    <div class="dh-col" title="2 shortfalls: 0.5 %"><span class="dh-val">0.5 %</span><span class="dh-bar" style="height:1.2%"></span><span class="dh-x">2</span></div>
+    <div class="dh-col" title="3 shortfalls: 5.3 %"><span class="dh-val">5.3 %</span><span class="dh-bar" style="height:12.6%"></span><span class="dh-x">3</span></div>
+    <div class="dh-col" title="4 shortfalls: 23.7 %"><span class="dh-val">23.7 %</span><span class="dh-bar" style="height:56.0%"></span><span class="dh-x">4</span></div>
+    <div class="dh-col" title="5 shortfalls: 42.3 %"><span class="dh-val">42.3 %</span><span class="dh-bar" style="height:100%"></span><span class="dh-x">5</span></div>
+    <div class="dh-col" title="6 shortfalls: 25.8 %"><span class="dh-val">25.8 %</span><span class="dh-bar" style="height:61.0%"></span><span class="dh-x">6</span></div>
+    <div class="dh-col" title="7 shortfalls: 2.4 %"><span class="dh-val">2.4 %</span><span class="dh-bar" style="height:5.6%"></span><span class="dh-x">7</span></div>
   </div>
   <p class="dh-axis">Number of simultaneous shortfalls, out of seven nutrients</p>
   <figcaption>Share of adults by number of shortfalls among magnesium, potassium, vitamin D, omega-3, choline, vitamin E and functional B12, computed from the prevalence figures above as if the shortfalls were independent. The textbook body sits at zero. The patient of the single-nutrient trial sits at one. Both columns are empty.</figcaption>
 </figure>
 
-The textbook body, the person adequate on all seven, is about one adult in a hundred thousand. The person with exactly one shortfall is about one in two thousand. The middle of the distribution, the ordinary adult, the person who tells you they are fine, carries **five**.
+The textbook body, the person adequate on all seven, is about one adult in several hundred thousand. The person with exactly one shortfall is about one in five thousand. The middle of the distribution, the ordinary adult, the person who tells you they are fine, carries **five**.
 
 Add iron for a menstruating woman (ferritin under 30 μg/L in about a third of them) and the peak moves further right: one woman in ten is short on seven or eight of the eight. Add zinc, iodine, selenium, vitamin K2, taurine, glycine, and the curve keeps walking right. It never walks back.
 
@@ -89,7 +89,7 @@ Now look at the column for one.
 
 That column is where medicine lives. The clinical trial that tests magnesium gives magnesium, and only magnesium, to people who are assumed to be otherwise replete, and measures whether something improves. The protocol that treats iron deficiency treats iron. The textbook chapter on B12 describes the B12-deficient patient as a textbook body with one cofactor removed. Every one of these designs presupposes a person with a single gap in an otherwise complete body.
 
-That person is one adult in two thousand. The trials are run on the other 1 999.
+That person is one adult in five thousand. The trials are run on the other 4 999.
 
 When the magnesium trial on people who are also short on potassium, vitamin D, omega-3 and choline comes back with a modest or null effect, the conclusion printed in the abstract is that magnesium does little. The conclusion the arithmetic supports is different: one missing letter was handed back to people missing four others, and the word still could not be spelled. (On why a single restored nutrient so often cannot show its effect, see [One Missing Letter](/critique/one-missing-letter/) and [Calibrated for Nothing](/critique/calibrated-for-nothing/).)
 
