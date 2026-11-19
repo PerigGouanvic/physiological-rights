@@ -1,0 +1,17 @@
+{
+ "sid": "mei-2021",
+ "short": "Mei et al., 2021",
+ "container": "The Lancet Haematology",
+ "note": "By CDC scientists, using NHANES 2003-2018.",
+ "excerpts": [
+  {
+   "key": "abstract",
+   "where": "Abstract (full text not consulted)",
+   "anchor": "abstract",
+   "marks": [
+    "WHO determined that insufficient data are available to revise the serum ferritin thresholds of less than 12 μg/L for children and less than 15 μg/L for women, which were developed on the basis of expert opinion",
+    "For women the haemoglobin identified serum ferritin threshold was 25·2 μg/L"
+   ]
+  }
+ ]
+}

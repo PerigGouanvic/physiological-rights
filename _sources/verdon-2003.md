@@ -1,0 +1,37 @@
+---
+sid: "verdon-2003"
+title: "Iron supplementation for unexplained fatigue in non-anaemic women: double blind randomised placebo controlled trial"
+short: "Verdon et al., 2003"
+authors:
+  - "Verdon F"
+  - "Burnand B"
+  - "Stubi CL"
+  - "Bonard C"
+  - "Graff M"
+  - "Michaud A"
+  - "Bischoff T"
+  - "de Vevey M"
+  - "Studer JP"
+  - "Herzig L"
+  - "Chapuis C"
+  - "Tissot J"
+  - "Pécoud A"
+  - "Favrat B"
+container: "BMJ"
+year: "2003"
+volume: "326"
+issue: "7399"
+pages: "1124"
+doi: "10.1136/bmj.326.7399.1124"
+pmid: "12763985"
+access: "abstract (PubMed)"
+status: "no retraction or correction found (Crossref, Europe PMC, 2026-11-19)"
+verified: "2026-11-19"
+excerpts:
+  - key: "abstract"
+    where: "Abstract (full text not consulted)"
+    marks:
+      - "The level of fatigue after one month decreased by -1.82/6.37 points (29%) in the iron group compared with -0.85/6.46 points (13%) in the placebo group"
+    paras:
+      - "OBJECTIVE: To determine the subjective response to iron therapy in non-anaemic women with unexplained fatigue. DESIGN: Double blind randomised placebo controlled trial. SETTING: Academic primary care centre and eight general practices in western Switzerland. PARTICIPANTS: 144 women aged 18 to 55, assigned to either oral ferrous sulphate (80 mg/day of elemental iron daily; n=75) or placebo (n=69) for four weeks. MAIN OUTCOME MEASURES: Level of fatigue, measured by a 10 point visual analogue scale. RESULTS: 136 (94%) women completed the study. Most had a low serum ferritin concentration; <or= 20 microg/l in 69 (51%) women. Mean age, haemoglobin concentration, serum ferritin concentration, level of fatigue, depression, and anxiety were similar in both groups at baseline. Both groups were also similar for compliance and dropout rates. The level of fatigue after one month decreased by -1.82/6.37 points (29%) in the iron group compared with -0.85/6.46 points (13%) in the placebo group (difference 0.95 points, 95% confidence interval 0.32 to 1.62; P=0.004). Subgroups analysis showed that only women with ferritin concentrations <or= 50 microg/l improved with oral supplementation. CONCLUSION: Non-anaemic women with unexplained fatigue may benefit from iron supplementation. The effect may be restricted to women with low or borderline serum ferritin concentrations."
+---

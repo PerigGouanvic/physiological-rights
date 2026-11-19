@@ -1,0 +1,35 @@
+---
+sid: "allen-2018"
+title: "Evidence-based and consensus clinical practice guidelines for the iron treatment of restless legs syndrome/Willis-Ekbom disease in adults and children: an IRLSSG task force report"
+short: "Allen et al., 2018 (IRLSSG)"
+authors:
+  - "Allen RP"
+  - "Picchietti DL"
+  - "Auerbach M"
+  - "Cho YW"
+  - "Connor JR"
+  - "Earley CJ"
+  - "Garcia-Borreguero D"
+  - "Kotagal S"
+  - "Manconi M"
+  - "Ondo W"
+  - "Ulfberg J"
+  - "Winkelman JW"
+  - "International Restless Legs Syndrome Study Group (IRLSSG)"
+container: "Sleep Medicine"
+year: "2018"
+volume: "41"
+pages: "27-44"
+doi: "10.1016/j.sleep.2017.11.1126"
+pmid: "29425576"
+access: "abstract (PubMed)"
+status: "no retraction or correction found (Crossref, Europe PMC, 2026-11-19)"
+verified: "2026-11-19"
+excerpts:
+  - key: "abstract"
+    where: "Abstract (full text not consulted)"
+    marks:
+      - "Oral iron (65 mg elemental iron) is possibly effective for treating RLS in those with serum ferritin ≤75 μg/l."
+    paras:
+      - "BACKGROUND: Brain iron deficiency has been implicated in the pathophysiology of RLS, and current RLS treatment guidelines recommend iron treatment when peripheral iron levels are low. In order to assess the evidence on the oral and intravenous (IV) iron treatment of RLS and periodic limb movement disorder (PLMD) in adults and children, the International Restless Legs Syndrome Study Group (IRLSSG) formed a task force to review these studies and provide evidence-based and consensus guidelines for the iron treatment of RLS in adults, and RLS and PLMD in children. METHODS: A literature search was performed to identify papers appearing in MEDLINE from its inception to July 2016. The following inclusion criteria were used: human research on the treatment of RLS or periodic limb movements (PLM) with iron, sample size of at least five, and published in English. Two task force members independently evaluated each paper and classified the quality of evidence provided. RESULTS: A total of 299 papers were identified, of these 31 papers met the inclusion criteria. Four studies in adults were given a Class I rating (one for IV iron sucrose, and three for IV ferric carboxymaltose); only Class IV studies have evaluated iron treatment in children. Ferric carboxymaltose (1000 mg) is effective for treating moderate to severe RLS in those with serum ferritin <300 μg/l and could be used as first-line treatment for RLS in adults. Oral iron (65 mg elemental iron) is possibly effective for treating RLS in those with serum ferritin ≤75 μg/l. There is insufficient evidence to make conclusions on the efficacy of oral iron or IV iron in children. CONCLUSIONS: Consensus recommendations based on clinical practice are presented, including when to use oral iron or IV iron, and recommendations on repeated iron treatments. New iron treatment algorithms, based on evidence and consensus opinion have been developed."
+---
