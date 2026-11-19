@@ -63,7 +63,7 @@ Here is the tragedy: medicine and industry decided that only the eldest mattered
 
 ### 1922: The Discovery
 
-In December 1922, **Herbert M. Evans** and **Katharine Scott Bishop** at the University of California, Berkeley, published in *Science* their report on "a hitherto unknown dietary factor essential for reproduction." Rats fed an apparently complete diet grew normally but could not reproduce. Only adding wheat germ or lettuce allowed pregnancies to proceed.[^14][^15]
+In December 1922, **Herbert M. Evans** and **Katharine Scott Bishop** at the University of California, Berkeley, published in *Science* their report "On the existence of a hitherto unrecognized dietary factor essential for reproduction." Rats fed an apparently complete diet grew normally but could not reproduce. Only adding wheat germ or lettuce allowed pregnancies to proceed.[^14][^15]
 
 ### 1936: Isolation and Naming
 
@@ -85,9 +85,9 @@ The trial was stopped early in 2008: no benefit observed. Worse: the extended fo
 
 ### Why SELECT Was Structurally Flawed
 
-The study used the synthetic form (dl-alpha) at a high dose (400 IU), **without gamma-tocopherol, without delta-tocopherol, and without any tocotrienols**. Yet it was already documented since 1985 that alpha-tocopherol supplementation **lowers plasma gamma-tocopherol levels by 50 to 70%**. And a Johns Hopkins study had shown that men with the highest gamma-tocopherol levels had a **fivefold reduction** in prostate cancer risk, but only when alpha-tocopherol and selenium levels were also high.[^13][^25][^26][^12][^10]
+The study used the synthetic form (dl-alpha) at a high dose (400 IU), **without gamma-tocopherol, without delta-tocopherol, and without any tocotrienols**. Yet it was already documented since 1985 that alpha-tocopherol supplementation **lowers plasma gamma-tocopherol levels by 50 to 70%**. And a Johns Hopkins study (Helzlsouer and colleagues, 2000) had shown that men with the highest gamma-tocopherol levels had a **fivefold reduction** in prostate cancer risk, and that the protective associations of selenium and alpha-tocopherol appeared only when gamma-tocopherol was also high.[^13][^25][^26][^12][^10]
 
-In other words: SELECT administered the wrong form, at the wrong dose, without the necessary cofactors, while actively depleting the probably protective form (gamma), and then concluded that "vitamin E doesn't work." The Life Extension Foundation had warned of this design flaw as early as **1997**, a decade before the results.[^26]
+In other words: SELECT administered the wrong form, at the wrong dose, without the necessary cofactors, while actively depleting the probably protective form (gamma), and then concluded that "vitamin E doesn't work." The Johns Hopkins authors had drawn the conclusion themselves, in 2000, before SELECT began enrolling: *"The use of combined alpha- and gamma- tocopherol supplements should be considered in upcoming prostate cancer prevention trials."*[^26]
 
 > *"The researchers who designed a study using only high-dose synthetic alpha tocopherol depleted plasma gamma tocopherol levels and consequently, DNA damage from reactive nitrogen species. This costly study was designed to fail from the outset."* — Life Extension Magazine, 2012[^26]
 
@@ -99,13 +99,13 @@ This erroneous conclusion had a devastating effect on public and medical percept
 
 ### What NHANES Data Reveal
 
-CDC/NHANES data (2003–2006) analysed by Cornell researchers show:[^2][^4]
+CDC/NHANES data (2003–2006), analysed by researchers from DSM, a vitamin manufacturer, and from Cornell University, show the share of adults below the adequacy threshold of 30 µmol/L:[^2][^4]
 
 | Age group | Suboptimal status, diet alone | Suboptimal status, diet + supplements |
 |---|---|---|
 | 20–30 years | **93%** | 79% |
 | 31–50 years | **81%** | 54% |
-| 51+ years | **81%** | 29% |
+| 51+ years | **71%** | 29% |
 
 These figures are staggering. Even among supplement users, **more than half of adults under 50** do not reach the adequacy threshold. In children, a 2023 narrative review found the highest prevalence of vitamin E deficiency in **North America and Brazil**, not Asia or Africa as orthodoxy predicted.[^27][^28][^4]
 
