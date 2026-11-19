@@ -1,0 +1,20 @@
+{
+ "sid": "kcl-riboflavin-biomarkers",
+ "short": "King's College London, OpeN-Global",
+ "title": "Human biomarkers for measuring riboflavin intake and status",
+ "authors": [
+  "OpeN-Global, King's College London"
+ ],
+ "container": "kcl.ac.uk",
+ "url": "https://www.kcl.ac.uk/open-global/biomarkers/vitamin/vitamin-b2/human-biomarkers-for-measuring-riboflavin",
+ "excerpts": [
+  {
+   "key": "egrac",
+   "where": "EGRAC",
+   "anchor": "The IOM suggest the following interpretation of EGRAC",
+   "marks": [
+    "This assay cannot be used for individuals with glucose 6-phosphate dehydrogenase"
+   ]
+  }
+ ]
+}

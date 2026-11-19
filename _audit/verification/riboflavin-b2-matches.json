@@ -1,0 +1,482 @@
+[
+ {
+  "n": "1",
+  "sid": "riboflavin-b2-ref1",
+  "ident": "pmc:PMC7312377",
+  "claim": "These two molecules participate in dozens of oxidation-reduction reactions in the mitochondria, the respiratory chain, the synthesis of steroid hormones, iron mobilisation, and the folate cycle.",
+  "score": 1.47,
+  "para": 53,
+  "sentence": "Isoalloxazine ring of FAD is required for the formation of the core in the Hsp60-assisted folding of medium chain Acyl-CoA dehydrogenase subunit into the assembly competent conformation in mitochondria.",
+  "chars": 91208
+ },
+ {
+  "n": "2",
+  "sid": "riboflavin-b2-ref2",
+  "ident": "url:https://draxe.com/nutrition/vitamin-b2/",
+  "claim": "These two molecules participate in dozens of oxidation-reduction reactions in the mitochondria, the respiratory chain, the synthesis of steroid hormones, iron mobilisation, and the folate cycle.",
+  "score": 0,
+  "para": -1,
+  "sentence": "",
+  "chars": 0
+ },
+ {
+  "n": "3",
+  "sid": "riboflavin-b2-ref3",
+  "ident": "doi:10.1146/annurev-nutr-061121-084407",
+  "claim": "This is exactly what makes subclinical B2 deficiency so difficult to spot.",
+  "score": 0,
+  "para": -1,
+  "sentence": "",
+  "chars": 0
+ },
+ {
+  "n": "4",
+  "sid": "riboflavin-b2-ref4",
+  "ident": "url:https://www.ncbi.nlm.nih.gov/books/NBK525977/",
+  "claim": "Riboflavin was isolated in 1926–1933 (independently by Warburg, Kuhn, and several teams), and *ariboflavinosis* (the clinical form of deficiency) was already well described in the 1940s in rural populations of Asia, Africa, and Central America.",
+  "score": 0.0,
+  "para": 0,
+  "sentence": "Checking your browser before accessing www.ncbi.nlm.nih.gov ...Click here if you are not automatically redirected after 5 seconds.",
+  "chars": 165
+ },
+ {
+  "n": "5",
+  "sid": "riboflavin-b2-ref5",
+  "ident": "pmid:32481712",
+  "claim": "ncy) was already well described in the 1940s in rural populations of Asia, Africa, and Central America.[^4]\n\nAfter flour fortification in the 1950s–60s, Western health authorities classified the problem as \"solved.\" Yet surveys in the following decades continued to document a persistent prevalence of subclinical deficiency among adolescent girls, the elderly, and vegetarians: data largely ignored.",
+  "score": 0.78,
+  "para": 3,
+  "sentence": "A latent subclinical riboflavin deficiency can result in a significant clinical phenotype when combined with inborn genetic disturbances or environmental and physiological factors like infections, exercise, diet, aging and pregnancy.",
+  "chars": 2105
+ },
+ {
+  "n": "5",
+  "sid": "riboflavin-b2-ref5",
+  "ident": "pmid:32481712",
+  "claim": "> *\"Insufficient dietary intake of riboflavin is often reported in nutritional surveys and population studies, **even in non-developing countries with abundant sources of riboflavin-rich dietary products**.\"*",
+  "score": 4.79,
+  "para": 3,
+  "sentence": "Insufficient dietary intake of riboflavin is often reported in nutritional surveys and population studies, even in non-developing countries with abundant sources of riboflavin-rich dietary products.",
+  "chars": 2105
+ },
+ {
+  "n": "1",
+  "sid": "riboflavin-b2-ref1",
+  "ident": "pmc:PMC7312377",
+  "claim": "> *\"Insufficient dietary intake of riboflavin is often reported in nutritional surveys and population studies, **even in non-developing countries with abundant sources of riboflavin-rich dietary products**.\"*",
+  "score": 4.79,
+  "para": 0,
+  "sentence": "Insufficient dietary intake of riboflavin is often reported in nutritional surveys and population studies, even in non-developing countries with abundant sources of riboflavin-rich dietary products.",
+  "chars": 91208
+ },
+ {
+  "n": "3",
+  "sid": "riboflavin-b2-ref3",
+  "ident": "doi:10.1146/annurev-nutr-061121-084407",
+  "claim": "> *\"Subclinical deficiency may be much more widespread, including in high-income countries, but typically goes undetected because riboflavin biomarkers are rarely measured in human studies.\"*",
+  "score": 0,
+  "para": -1,
+  "sentence": "",
+  "chars": 0
+ },
+ {
+  "n": "1",
+  "sid": "riboflavin-b2-ref1",
+  "ident": "pmc:PMC7312377",
+  "claim": "milk exposed to light (transparent bottles, supermarket shelves) loses a significant fraction of its B2 content",
+  "score": 0.75,
+  "para": 53,
+  "sentence": "Consumption of Milk and Alternatives and Their Contribution to Nutrient Intakes among Canadian Adults: Evidence from the 2015 Canadian Community Health Survey-Nutrition.",
+  "chars": 91208
+ },
+ {
+  "n": "6",
+  "sid": "riboflavin-b2-ref6",
+  "ident": "url:https://www.kcl.ac.uk/open-global/biomarkers/vitamin/vitamin-b2",
+  "claim": "particularly in boiled vegetables\n- **Declining consumption of dairy products and offal** (organs extremely rich in B2) in modern habits, particularly among adolescent girls\n- **Vegan diets** without specific attention to B2: structurally poor\n- **Alcohol**: reduces intestinal absorption\n- **Oral contraceptives and certain antidepressants** (tricyclics, phenothiazines): alter riboflavin metabolism",
+  "score": 0.62,
+  "para": 6,
+  "sentence": "Milk, dairy products, eggs, and (organ) meat are a major source of dietary riboflavin, but most plant- and animal derived foods contain at least small amounts of this vitamin (1, 6).",
+  "chars": 6045
+ },
+ {
+  "n": "6",
+  "sid": "riboflavin-b2-ref6",
+  "ident": "url:https://www.kcl.ac.uk/open-global/biomarkers/vitamin/vitamin-b2",
+  "claim": "significantly increases B2 requirements (muscle oxidation-reduction reactions)",
+  "score": 0.53,
+  "para": 15,
+  "sentence": "Keywords: riboflavin, flavin adenine dinucleotide (FAD), flavin mononucleotide (FMN), redox reactions, energy production, cellular function, erythrocyte glutathione reductase activity, ariboflavinosis",
+  "chars": 6045
+ },
+ {
+  "n": "7",
+  "sid": "riboflavin-b2-ref7",
+  "ident": "url:https://oxfordvitality.co.uk/blogs/news/b-vitamin-series-vitamin-b2",
+  "claim": "59% of boys aged 2–6 and 78% of boys aged 7–10 had insufficient B2 status; **95% of girls aged 15–18** had insufficient intake",
+  "score": 26.11,
+  "para": 2,
+  "sentence": "A study of 2127 UK schoolchildren showed 59% of 2-6 year old boys and 78% of 7–10 year old boys had low B2 status.",
+  "chars": 7550
+ },
+ {
+  "n": "7",
+  "sid": "riboflavin-b2-ref7",
+  "ident": "url:https://oxfordvitality.co.uk/blogs/news/b-vitamin-series-vitamin-b2",
+  "claim": "7 to 20% of adults deficient, up to **27% in the United States**",
+  "score": 10.88,
+  "para": 4,
+  "sentence": "Surveys predict European adults have between a 7-20% deficiency rate, with up to 27% seen in the United States.",
+  "chars": 7550
+ },
+ {
+  "n": "8",
+  "sid": "riboflavin-b2-ref8",
+  "ident": "url:https://www.sciencedirect.com/topics/nursing-and-health-professions/riboflavin-deficiency",
+  "claim": "approximately 20% of the elderly with subclinical deficiency",
+  "score": 0,
+  "para": -1,
+  "sentence": "",
+  "chars": 0
+ },
+ {
+  "n": "9",
+  "sid": "riboflavin-b2-ref9",
+  "ident": "url:https://research.sahmri.org.au/en/publications/dietary-riboflavin-intake-and-riboflavin-status-in-young-adult-wo/",
+  "claim": "only 7% had intakes below the recommended threshold, but **40% had biochemical deficiency measured** by EGRAC ≥ 1.40, despite apparently adequate dietary intakes",
+  "score": 11.86,
+  "para": 12,
+  "sentence": "Results: Only 7% of participants had dietary riboflavin intakes below the Estimated Average Requirement (0.9 mg/d), but 40% of women had biochemical riboflavin deficiency (EGRac ≥1.40).",
+  "chars": 12256
+ },
+ {
+  "n": "3",
+  "sid": "riboflavin-b2-ref3",
+  "ident": "doi:10.1146/annurev-nutr-061121-084407",
+  "claim": "ch more widespread, including in high-income countries, but typically goes undetected because riboflavin biomarkers are rarely measured in human studies. There are adverse health consequences of low and deficient riboflavin status throughout the life cycle, including anemia and hypertension, that could contribute substantially to the global burden of disease.\"*\n> — Annual Review of Nutrition, 2023",
+  "score": 0,
+  "para": -1,
+  "sentence": "",
+  "chars": 0
+ },
+ {
+  "n": "10",
+  "sid": "riboflavin-b2-ref10",
+  "ident": "url:https://rarediseases.org/rare-diseases/riboflavin-transporter-deficiency/",
+  "claim": "Three genes encode riboflavin transporters (RFVT1, RFVT2, RFVT3):",
+  "score": 1.58,
+  "para": 55,
+  "sentence": "This specialized analysis, performed at reference laboratories, looks for disease-causing variants in the SLC52A1, SLC52A2 or SLC52A3 genes, each of which encodes one of the three key riboflavin “carrier” proteins.",
+  "chars": 40759
+ },
+ {
+  "n": "11",
+  "sid": "riboflavin-b2-ref11",
+  "ident": "doi:10.1002/jimd.12053",
+  "claim": "blood B2 levels may appear **normal** even when nerve cells are deprived of riboflavin, because the defective transporter blocks intracellular entry.",
+  "score": 0,
+  "para": -1,
+  "sentence": "",
+  "chars": 0
+ },
+ {
+  "n": "10",
+  "sid": "riboflavin-b2-ref10",
+  "ident": "url:https://rarediseases.org/rare-diseases/riboflavin-transporter-deficiency/",
+  "claim": "blood B2 levels may appear **normal** even when nerve cells are deprived of riboflavin, because the defective transporter blocks intracellular entry.",
+  "score": 2.46,
+  "para": 39,
+  "sentence": "This defect prevents riboflavin from crossing cell membranes, so even if blood levels of vitamin B₂ appear normal, cells become starved of this vital nutrient.",
+  "chars": 40759
+ },
+ {
+  "n": "10",
+  "sid": "riboflavin-b2-ref10",
+  "ident": "url:https://rarediseases.org/rare-diseases/riboflavin-transporter-deficiency/",
+  "claim": "— NORD (National Organization for Rare Disorders)",
+  "score": 2.86,
+  "para": 114,
+  "sentence": "The National Organization for Rare Disorders (NORD) does not endorse the information presented.",
+  "chars": 40759
+ },
+ {
+  "n": "12",
+  "sid": "riboflavin-b2-ref12",
+  "ident": "url:https://vitaverse.co.uk/news-notes/267/riboflavin-vitamin-b2-as-the-key-to-mthfr-mutations",
+  "claim": "in carriers (heterozygous CT or homozygous TT), **the MTHFR enzyme functions poorly, particularly when riboflavin status is low**.",
+  "score": 1.89,
+  "para": 31,
+  "sentence": "Riboflavin status modifies the effects of methylenetetrahydrofolate reductase (MTHFR) and methionine synthase reductase (MTRR) polymorphisms on homocysteine.",
+  "chars": 18000
+ },
+ {
+  "n": "13",
+  "sid": "riboflavin-b2-ref13",
+  "ident": "url:https://fxmed.co.nz/vitamin-b2-riboflavin-mthfr-and-blood-pressure-an-expert-series/",
+  "claim": "in carriers (heterozygous CT or homozygous TT), **the MTHFR enzyme functions poorly, particularly when riboflavin status is low**.",
+  "score": 0,
+  "para": -1,
+  "sentence": "",
+  "chars": 66
+ },
+ {
+  "n": "14",
+  "sid": "riboflavin-b2-ref14",
+  "ident": "url:https://www.ncbi.nlm.nih.gov/books/NBK6145/",
+  "claim": "in carriers (heterozygous CT or homozygous TT), **the MTHFR enzyme functions poorly, particularly when riboflavin status is low**.",
+  "score": 0.0,
+  "para": 0,
+  "sentence": "Checking your browser before accessing www.ncbi.nlm.nih.gov ...Click here if you are not automatically redirected after 5 seconds.",
+  "chars": 165
+ },
+ {
+  "n": "15",
+  "sid": "riboflavin-b2-ref15",
+  "ident": "url:https://academic.oup.com/clinchem/article-abstract/49/2/295/5639578",
+  "claim": "- Accumulation of **homocysteine** (cardiovascular, thrombotic, and neurotoxic risk factor)",
+  "score": 0,
+  "para": -1,
+  "sentence": "",
+  "chars": 0
+ },
+ {
+  "n": "12",
+  "sid": "riboflavin-b2-ref12",
+  "ident": "url:https://vitaverse.co.uk/news-notes/267/riboflavin-vitamin-b2-as-the-key-to-mthfr-mutations",
+  "claim": "- Accumulation of **homocysteine** (cardiovascular, thrombotic, and neurotoxic risk factor)",
+  "score": 1.46,
+  "para": 20,
+  "sentence": "(12) In the US, where riboflavin has been added to flour for decades, the presence of the MTHFR TT polymorphism not only did not increase cardiovascular risk, but was found to be protective in 8 of the 11 studies included, whereas in Europe, where it was not, it was a significant risk factor in 18 of the 23 studies included.",
+  "chars": 18000
+ },
+ {
+  "n": "12",
+  "sid": "riboflavin-b2-ref12",
+  "ident": "url:https://vitaverse.co.uk/news-notes/267/riboflavin-vitamin-b2-as-the-key-to-mthfr-mutations",
+  "claim": "Riboflavin supplementation (1.6 mg/day) reduces homocysteine by **22 to 40%** in TT genotype carriers with low B2 status",
+  "score": 10.7,
+  "para": 12,
+  "sentence": "In a previous study, supplementation with 1.6 mg of riboflavin per day reduced homocysteine levels by 22% in riboflavin-deficient individuals with the MTHFR 677 TT mutation.",
+  "chars": 18000
+ },
+ {
+  "n": "13",
+  "sid": "riboflavin-b2-ref13",
+  "ident": "url:https://fxmed.co.nz/vitamin-b2-riboflavin-mthfr-and-blood-pressure-an-expert-series/",
+  "claim": "without adequate B2, the enzyme remains defective regardless of the folate dose",
+  "score": 0,
+  "para": -1,
+  "sentence": "",
+  "chars": 66
+ },
+ {
+  "n": "12",
+  "sid": "riboflavin-b2-ref12",
+  "ident": "url:https://vitaverse.co.uk/news-notes/267/riboflavin-vitamin-b2-as-the-key-to-mthfr-mutations",
+  "claim": "People with the MTHFR 677CT mutation had high homocysteine levels only if they had low riboflavin levels.\"*",
+  "score": 6.83,
+  "para": 10,
+  "sentence": "These data showed that people with the MTHFR 677CT mutation had high homocysteine levels only if they had low riboflavin levels.",
+  "chars": 18000
+ },
+ {
+  "n": "16",
+  "sid": "riboflavin-b2-ref16",
+  "ident": "url:https://www.ncbi.nlm.nih.gov/books/NBK470460/",
+  "claim": "Several clinical trials show that **400 mg/day of riboflavin reduces migraine frequency by half** within 3 months in responsive patients.",
+  "score": 0.0,
+  "para": 0,
+  "sentence": "Checking your browser before accessing www.ncbi.nlm.nih.gov ...Click here if you are not automatically redirected after 5 seconds.",
+  "chars": 165
+ },
+ {
+  "n": "2",
+  "sid": "riboflavin-b2-ref2",
+  "ident": "url:https://draxe.com/nutrition/vitamin-b2/",
+  "claim": "Several clinical trials show that **400 mg/day of riboflavin reduces migraine frequency by half** within 3 months in responsive patients.",
+  "score": 0,
+  "para": -1,
+  "sentence": "",
+  "chars": 0
+ },
+ {
+  "n": "2",
+  "sid": "riboflavin-b2-ref2",
+  "ident": "url:https://draxe.com/nutrition/vitamin-b2/",
+  "claim": "B2 is necessary for iron mobilisation and erythropoietin production; deficiency can cause a normocytic or microcytic anaemia that **does not respond to iron**, mimicking refractory iron-deficiency anaemia.",
+  "score": 0,
+  "para": -1,
+  "sentence": "",
+  "chars": 0
+ },
+ {
+  "n": "2",
+  "sid": "riboflavin-b2-ref2",
+  "ident": "url:https://draxe.com/nutrition/vitamin-b2/",
+  "claim": "B2 regulates the synthesis of thyroid and adrenal hormones; deficiency increases the risk of thyroid disease, and symptoms of dysthyroidism may in fact reflect riboflavin deficiency.",
+  "score": 0,
+  "para": -1,
+  "sentence": "",
+  "chars": 0
+ },
+ {
+  "n": "17",
+  "sid": "riboflavin-b2-ref17",
+  "ident": "url:https://nutritionsource.hsph.harvard.edu/riboflavin-vitamin-b2/",
+  "claim": "via homocysteine accumulation in MTHFR carriers, riboflavin deficiency directly increases cardiovascular risk, a documented mechanism rarely mentioned in clinical consultations.",
+  "score": 1.41,
+  "para": 14,
+  "sentence": "Adaptive regulation of riboflavin transport in heart: effect of dietary riboflavin deficiency in cardiovascular pathogenesis.",
+  "chars": 8135
+ },
+ {
+  "n": "18",
+  "sid": "riboflavin-b2-ref18",
+  "ident": "url:https://www.mayocliniclabs.com/test-catalog/overview/42363",
+  "claim": "A meal rich in dairy products before the blood draw can artificially normalize results.",
+  "score": 0,
+  "para": -1,
+  "sentence": "",
+  "chars": 0
+ },
+ {
+  "n": "19",
+  "sid": "riboflavin-b2-ref19",
+  "ident": "doi:10.1016/j.trac.2021.116412",
+  "claim": "Standard laboratory measurement reflects **intakes from the preceding 48–72 hours**, not tissue stores. A meal rich in dairy products before the blood draw can artificially normalize results.[^18]\n\n### EGRAC: the reference functional test\n\nEGRAC (erythrocyte glutathione reductase activation coefficient) is the functional equivalent of the ETKAC test for other B vitamins. Its important limitations:",
+  "score": 0,
+  "para": -1,
+  "sentence": "",
+  "chars": 0
+ },
+ {
+  "n": "20",
+  "sid": "riboflavin-b2-ref20",
+  "ident": "url:https://www.kcl.ac.uk/open-global/biomarkers/vitamin/vitamin-b2/human-biomarkers-for-measuring-riboflavin",
+  "claim": "Standard laboratory measurement reflects **intakes from the preceding 48–72 hours**, not tissue stores. A meal rich in dairy products before the blood draw can artificially normalize results.[^18]\n\n### EGRAC: the reference functional test\n\nEGRAC (erythrocyte glutathione reductase activation coefficient) is the functional equivalent of the ETKAC test for other B vitamins. Its important limitations:",
+  "score": 1.03,
+  "para": 7,
+  "sentence": "Method Erythrocyte Glutathione Reductase Activity Coefficient (EGRAC), see method in reference (9): Becker et al.",
+  "chars": 5087
+ },
+ {
+  "n": "10",
+  "sid": "riboflavin-b2-ref10",
+  "ident": "url:https://rarediseases.org/rare-diseases/riboflavin-transporter-deficiency/",
+  "claim": "In RTD cases, cells can be **starved of B2 with a normal EGRAC** because the defect lies downstream of transport, not in the circulating quantity",
+  "score": 1.36,
+  "para": 39,
+  "sentence": "This defect prevents riboflavin from crossing cell membranes, so even if blood levels of vitamin B₂ appear normal, cells become starved of this vital nutrient.",
+  "chars": 40759
+ },
+ {
+  "n": "21",
+  "sid": "riboflavin-b2-ref21",
+  "ident": "url:https://ods.od.nih.gov/factsheets/Riboflavin-HealthProfessional/",
+  "claim": "StatPearls (NIH) describes deficiency as a *\"rare condition\"* in well-nourished societies.",
+  "score": 0,
+  "para": -1,
+  "sentence": "",
+  "chars": 0
+ },
+ {
+  "n": "4",
+  "sid": "riboflavin-b2-ref4",
+  "ident": "url:https://www.ncbi.nlm.nih.gov/books/NBK525977/",
+  "claim": "StatPearls (NIH) describes deficiency as a *\"rare condition\"* in well-nourished societies.",
+  "score": 0.45,
+  "para": 0,
+  "sentence": "Checking your browser before accessing www.ncbi.nlm.nih.gov ...Click here if you are not automatically redirected after 5 seconds.",
+  "chars": 165
+ },
+ {
+  "n": "9",
+  "sid": "riboflavin-b2-ref9",
+  "ident": "url:https://research.sahmri.org.au/en/publications/dietary-riboflavin-intake-and-riboflavin-status-in-young-adult-wo/",
+  "claim": "- The Canadian survey shows **40% biochemical deficiency** among young women with theoretically adequate intakes",
+  "score": 5.26,
+  "para": 12,
+  "sentence": "Results: Only 7% of participants had dietary riboflavin intakes below the Estimated Average Requirement (0.9 mg/d), but 40% of women had biochemical riboflavin deficiency (EGRac ≥1.40).",
+  "chars": 12256
+ },
+ {
+  "n": "3",
+  "sid": "riboflavin-b2-ref3",
+  "ident": "doi:10.1146/annurev-nutr-061121-084407",
+  "claim": "The *Annual Review of Nutrition* 2023 emphasizes that biomarkers are **rarely measured**, making official statistics not reassuring but meaningless",
+  "score": 0,
+  "para": -1,
+  "sentence": "",
+  "chars": 0
+ },
+ {
+  "n": "14",
+  "sid": "riboflavin-b2-ref14",
+  "ident": "url:https://www.ncbi.nlm.nih.gov/books/NBK6145/",
+  "claim": "The official NIH fact sheet does not mention the central role of B2 in MTHFR functionality, despite documentation going back to the 2000s",
+  "score": 0.34,
+  "para": 0,
+  "sentence": "Checking your browser before accessing www.ncbi.nlm.nih.gov ...Click here if you are not automatically redirected after 5 seconds.",
+  "chars": 165
+ },
+ {
+  "n": "22",
+  "sid": "riboflavin-b2-ref22",
+  "ident": "url:https://www.cambridge.org/core/journals/proceedings-of-the-nutrition-society/article/riboflavin-status-mthfr-genotype-and-blood-pressure-current-evidence-and-implications-for-personalised-nutrition/F9E4504F68655C5350967762E9117E3F",
+  "claim": "world specialist in the riboflavin/MTHFR/blood pressure interaction; author of several key studies on B2 supplementation in MTHFR carriers",
+  "score": 3.05,
+  "para": 121,
+  "sentence": "(2010) Riboflavin lowers blood pressure in cardiovascular disease patients homozygous for the 677C→T polymorphism in MTHFR.",
+  "chars": 80003
+ },
+ {
+  "n": "12",
+  "sid": "riboflavin-b2-ref12",
+  "ident": "url:https://vitaverse.co.uk/news-notes/267/riboflavin-vitamin-b2-as-the-key-to-mthfr-mutations",
+  "claim": "work on B2, folate, homocysteine, and methylation",
+  "score": 1.25,
+  "para": 31,
+  "sentence": "Effect modification by population dietary folate on the association between MTHFR genotype, homocysteine, and stroke risk: a meta-analysis of genetic studies and randomised trials.",
+  "chars": 18000
+ },
+ {
+  "n": "11",
+  "sid": "riboflavin-b2-ref11",
+  "ident": "doi:10.1002/jimd.12053",
+  "claim": "work on RTD and neuroprotection with high-dose riboflavin",
+  "score": 0,
+  "para": -1,
+  "sentence": "",
+  "chars": 0
+ },
+ {
+  "n": "4",
+  "sid": "riboflavin-b2-ref4",
+  "ident": "url:https://www.ncbi.nlm.nih.gov/books/NBK525977/",
+  "claim": "The bright yellow urine observed at high doses is a benign sign.",
+  "score": 0.0,
+  "para": 0,
+  "sentence": "Checking your browser before accessing www.ncbi.nlm.nih.gov ...Click here if you are not automatically redirected after 5 seconds.",
+  "chars": 165
+ },
+ {
+  "n": "16",
+  "sid": "riboflavin-b2-ref16",
+  "ident": "url:https://www.ncbi.nlm.nih.gov/books/NBK470460/",
+  "claim": "For migraineurs with mitochondrial dysfunction, **400 mg/day of riboflavin** has an efficacy profile comparable to prophylactic medications, with zero serious side effects.",
+  "score": 0.0,
+  "para": 0,
+  "sentence": "Checking your browser before accessing www.ncbi.nlm.nih.gov ...Click here if you are not automatically redirected after 5 seconds.",
+  "chars": 165
+ },
+ {
+  "n": "1",
+  "sid": "riboflavin-b2-ref1",
+  "ident": "pmc:PMC7312377",
+  "claim": "— International Journal of Molecular Sciences, 2020",
+  "score": 4.25,
+  "para": 53,
+  "sentence": "Life Sci. 2020:1–10. doi: 10.1007/s00018-020-03489-9.20.Refsum H., Ueland P.M., Nygard O., Vollset S.E.",
+  "chars": 91208
+ }
+]

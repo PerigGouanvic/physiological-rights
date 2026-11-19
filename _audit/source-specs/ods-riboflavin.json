@@ -1,0 +1,24 @@
+{
+ "sid": "ods-riboflavin",
+ "short": "NIH Office of Dietary Supplements",
+ "title": "Riboflavin: Fact Sheet for Health Professionals",
+ "authors": [
+  "NIH Office of Dietary Supplements"
+ ],
+ "container": "ods.od.nih.gov",
+ "url": "https://ods.od.nih.gov/factsheets/Riboflavin-HealthProfessional/",
+ "access": "full text (web page, Wayback Machine copy, 2025)",
+ "license": "US government publication, public domain.",
+ "excerpts": [
+  {
+   "key": "light",
+   "where": "Riboflavin",
+   "anchor": "Moreover, ultraviolet and visible light can rapidly inactivate riboflavin"
+  },
+  {
+   "key": "athletes",
+   "where": "Groups at risk",
+   "anchor": "Exercise produces stress in the metabolic pathways that use riboflavin"
+  }
+ ]
+}

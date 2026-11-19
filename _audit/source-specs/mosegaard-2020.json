@@ -1,0 +1,18 @@
+{
+ "sid": "mosegaard-2020",
+ "short": "Mosegaard et al., 2020",
+ "container": "International Journal of Molecular Sciences",
+ "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7312377/",
+ "license": "Open access, CC BY.",
+ "excerpts": [
+  {
+   "key": "abstract",
+   "where": "Abstract",
+   "anchor": "Insufficient dietary intake of riboflavin is often reported",
+   "marks": [
+    "Insufficient dietary intake of riboflavin is often reported in nutritional surveys and population studies, even in non-developing countries with abundant sources of riboflavin-rich dietary products.",
+    "A latent subclinical riboflavin deficiency can result in a significant clinical phenotype"
+   ]
+  }
+ ]
+}

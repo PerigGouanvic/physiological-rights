@@ -1,0 +1,20 @@
+{
+ "sid": "nord-rtd",
+ "short": "NORD",
+ "title": "Riboflavin Transporter Deficiency",
+ "authors": [
+  "National Organization for Rare Disorders"
+ ],
+ "container": "rarediseases.org",
+ "url": "https://rarediseases.org/rare-diseases/riboflavin-transporter-deficiency/",
+ "excerpts": [
+  {
+   "key": "cells",
+   "where": "Causes",
+   "anchor": "When a variant occurs in any of these three genes",
+   "marks": [
+    "so even if blood levels of vitamin B₂ appear normal, cells become starved of this vital nutrient"
+   ]
+  }
+ ]
+}
