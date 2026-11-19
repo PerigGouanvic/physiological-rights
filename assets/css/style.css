@@ -1382,6 +1382,7 @@ html.cite-open { overflow: hidden; }
 .source-card .sc-authors details { display: inline; }
 .source-card .sc-authors summary { display: inline; cursor: pointer; color: var(--accent); font-family: var(--ui); font-size: 0.8rem; list-style: none; }
 .source-card .sc-authors summary::-webkit-details-marker { display: none; }
+.source-card .sc-authors summary::marker { content: ''; }
 .source-card .sc-authors details[open] summary { display: none; }
 .source-card .sc-ex blockquote p:last-child { margin-bottom: 0; }
 .source-card .sc-more { margin: 0 0 1.1rem; }

@@ -1,16 +1,12 @@
 ---
 sid: "who-2012-potassium"
-title: "Guideline: Potassium intake for adults and children"
+title: ""
 short: "WHO, 2012"
 authors:
-  - "World Health Organization"
-container: "World Health Organization, Geneva"
-year: "2012"
-pmid: "23617019"
-url: "https://www.who.int/publications/i/item/9789241504829"
+url: "https://iris.who.int/bitstream/handle/10665/77986/9789241504829_eng.pdf"
 license: "© World Health Organization 2012. Excerpts quoted for commentary."
-access: "full text (PDF, via Wayback Machine copy of WHO IRIS)"
-status: "WHO guideline; no retraction registry applies"
+access: "full text (PDF)"
+status: "web source; no retraction registry applies"
 verified: "2026-11-18"
 excerpts:
   - key: "recommendation"

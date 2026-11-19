@@ -71,6 +71,8 @@ def build(spec_path):
             chunk = ps[i:j + 1]
             if ex.get("from"):
                 chunk[0] = chunk[0][chunk[0].index(ex["from"]):]
+            if ex.get("to"):
+                chunk[-1] = chunk[-1][:chunk[-1].index(ex["to"]) + len(ex["to"])]
         for m in ex.get("marks", []):
             if not any(m in p for p in chunk):
                 raise SystemExit(f"mark not in excerpt {ex['key']}: {m!r}")

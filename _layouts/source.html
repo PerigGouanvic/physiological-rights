@@ -24,5 +24,5 @@ layout: default
     {%- if s.pmcid %}<a href="https://pmc.ncbi.nlm.nih.gov/articles/{{ s.pmcid }}/" rel="noopener">PMC</a>{% endif -%}
     <a class="sc-record" href="{{ page.url | relative_url }}">Source record</a>
   </p>
-  <p class="sc-meta">Excerpts copied verbatim from: {{ s.access }}.{% if s.license %} {{ s.license | escape }}{% endif %} Status: {{ s.status }}. Checked {{ s.verified }}.</p>
+  <p class="sc-meta">{% if s.excerpts and s.excerpts.size > 0 %}Excerpts copied verbatim from: {{ s.access }}.{% else %}No excerpt reproduced.{% endif %}{% if s.license %} {{ s.license | escape }}{% endif %} Status: {{ s.status }}. Checked {{ s.verified }}.</p>
 </article>
