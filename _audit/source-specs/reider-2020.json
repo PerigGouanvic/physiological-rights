@@ -1,0 +1,17 @@
+{
+ "sid": "reider-2020",
+ "short": "Reider et al., 2020",
+ "container": "Nutrients",
+ "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7352522/",
+ "license": "Open access, CC BY.",
+ "excerpts": [
+  {
+   "key": "abstract",
+   "where": "Abstract",
+   "anchor": "Specifically, 45% of the U.S. population had a prevalence of inadequacy",
+   "marks": [
+    "84% for vitamin E"
+   ]
+  }
+ ]
+}

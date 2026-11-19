@@ -1,0 +1,17 @@
+{
+ "sid": "ramanathan-2018",
+ "short": "Ramanathan et al., 2018",
+ "container": "Nutrition & Metabolism",
+ "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5775572/",
+ "license": "Open access, CC BY.",
+ "excerpts": [
+  {
+   "key": "hmg",
+   "where": "Cholesterol",
+   "anchor": "Tocotrienols can suppress the production of 3-hydroxy-3-methyl-glutaryl-coenzymeA",
+   "marks": [
+    "Tocotrienols can suppress the production of 3-hydroxy-3-methyl-glutaryl-coenzymeA (HMG-CoA reductase)"
+   ]
+  }
+ ]
+}

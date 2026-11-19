@@ -1,0 +1,36 @@
+---
+sid: "gopalan-2014"
+title: "Clinical investigation of the protective effects of palm vitamin E tocotrienols on brain white matter"
+short: "Gopalan et al., 2014"
+authors:
+  - "Gopalan Y"
+  - "Shuaib IL"
+  - "Magosso E"
+  - "Ansari MA"
+  - "Abu Bakar MR"
+  - "Wong JW"
+  - "Khan NA"
+  - "Liong WC"
+  - "Sundram K"
+  - "Ng BH"
+  - "Karuthan C"
+  - "Yuen KH"
+container: "Stroke"
+year: "2014"
+volume: "45"
+issue: "5"
+pages: "1422-8"
+doi: "10.1161/STROKEAHA.113.004449"
+pmid: "24699052"
+note: "Industry-supported trial (palm tocotrienols); the per-protocol and intention-to-treat analyses both reached significance at two years."
+access: "abstract (PubMed)"
+status: "no retraction or correction found (Crossref, Europe PMC, 2026-11-19)"
+verified: "2026-11-19"
+excerpts:
+  - key: "abstract"
+    where: "Abstract (full text not consulted)"
+    marks:
+      - "121 volunteers aged ≥35 years with cardiovascular risk factors and MRI-confirmed WMLs were randomized to receive 200 mg mixed tocotrienols or placebo twice a day for 2 years"
+    paras:
+      - "BACKGROUND AND PURPOSE: Previous cell-based and animal studies showed mixed tocotrienols are neuroprotective, but the effect is yet to be proven in humans. Thus, the present study aimed to evaluate the protective activity of mixed tocotrienols in humans with white matter lesions (WMLs). WMLs are regarded as manifestations of cerebral small vessel disease, reflecting varying degrees of neurodegeneration and tissue damage with potential as a surrogate end point in clinical trials. METHODS: A total of 121 volunteers aged ≥35 years with cardiovascular risk factors and MRI-confirmed WMLs were randomized to receive 200 mg mixed tocotrienols or placebo twice a day for 2 years. The WML volumes were measured from MRI images taken at baseline, 1 year, and 2 years using a validated software and were compared. Fasting blood samples were collected for full blood chemistry investigation. RESULTS: According to per-protocol (88 volunteers) and intention-to-treat (121 volunteers) analyses, the mean WML volume of the placebo group increased after 2 years, whereas that of the tocotrienol-supplemented group remained essentially unchanged. The mean WML volume change between the 2 groups was not significantly different (P=0.150) at the end of 1 year but was significant at the end of 2 years for both per-protocol and intention-to-treat analyses (P=0.019 and P=0.018). No significant difference was observed in the blood chemistry parameters between the 2 groups. CONCLUSIONS: Mixed tocotrienols were found to attenuate the progression of WMLs. CLINICAL TRIAL REGISTRATION URL: http://www.clinicaltrials.gov. Unique identifier: NCT00753532."
+---

@@ -1,0 +1,33 @@
+---
+sid: "aggarwal-2019"
+title: "Molecular Mechanisms of Action of Tocotrienols in Cancer: Recent Trends and Advancements"
+short: "Aggarwal et al., 2019"
+authors:
+  - "Aggarwal V"
+  - "Kashyap D"
+  - "Sak K"
+  - "Tuli HS"
+  - "Jain A"
+  - "Chaudhary A"
+  - "Garg VK"
+  - "Sethi G"
+  - "Yerer MB"
+container: "International Journal of Molecular Sciences"
+year: "2019"
+volume: "20"
+issue: "3"
+pages: "656"
+doi: "10.3390/ijms20030656"
+pmid: "30717416"
+pmcid: "PMC6386883"
+url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC6386883/"
+license: "Open access, CC BY."
+access: "full text (PMC)"
+status: "no retraction or correction found (Crossref, Europe PMC, 2026-11-19)"
+verified: "2026-11-19"
+excerpts:
+  - key: "delta"
+    where: "Tocotrienols and cancer cells"
+    paras:
+      - "In another study, the authors showed that δ-T3 has higher efficacy and effectiveness in carrying out apoptosis in both human lung adenocarcinoma A549 and glioblastoma U87MG cells as compared to α- and γ-T3 [52]. In 2015, Wang et al., treated MDA-MB-231 cells with δ-T3 and found that the latter effectively induced apoptosis in these cells by activating miR-429 [53]. Moreover, it was noted that δ-T3 arrested the growth of human bladder cancer cells, induced apoptosis, and chemosensitization by inhibiting STAT3 pathway [54]. Lovastatin and γ-T3 induced differentiation and apoptosis in HL-60 cells via Ras/Akt/NF-κB and Ras/ERK/NF-κB signaling dependent pathways by down-regulating glyoxalase 1 and HMG-CoA reductase enzymes [55]. Another report also found that γ-T3-induced ER stress-mediated apoptosis and autophagy in breast cancer MCF-7 and MDA-MB-231 cells [56]. γ-T3 acted as an effective inducer of apoptosis in K562 chronic myeloid leukemia cells, which was mediated by both extrinsic and intrinsic apoptotic pathways [57]. Rajasinghe and Gupta showed that tocotrienol-rich mixture hindered cell proliferation, migration, and tumor cell invasiveness by downregulating NF-κB and Notch-1 pathways during apoptosis induction in non-small cell lung cancer cells (NSCLC) [58]. In 2017, Xu et al., concluded that γ-T3 acted as anti-proliferative agent and induced apoptosis in HeLa cells via the mitochondrial pathway [59]. Overall, tocotrienols can exert their apoptotic effects through diverse mechanism(s), which are briefly summarized in Figure 2."
+---

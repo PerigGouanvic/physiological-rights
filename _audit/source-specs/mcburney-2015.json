@@ -1,0 +1,27 @@
+{
+ "sid": "mcburney-2015",
+ "short": "McBurney et al., 2015",
+ "container": "PLoS ONE",
+ "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4546010/",
+ "license": "Open access, CC BY.",
+ "note": "Four of the six authors worked for DSM Nutritional Products, a vitamin E manufacturer; two were at Cornell. In Table 1, the columns are: total; male; female; p; non-Hispanic white; non-Hispanic black; Mexican American; other; p; ages 20-30, 31-50, 51+; p. Rows give the percentage below 12 and below 30 µmol/L.",
+ "excerpts": [
+  {
+   "key": "abstract",
+   "where": "Abstract",
+   "anchor": "Vitamin E is an essential nutrient for human health",
+   "marks": [
+    "87% of persons 20-30y and 43% of those 51+y had inadequate vitamin E status"
+   ]
+  },
+  {
+   "key": "table",
+   "where": "Table 1",
+   "anchor": "TABLE 1.",
+   "until": "30 | 81.3",
+   "marks": [
+    "30 | 81.3 | 80.4 | 82.3 | 0.13 | 78.7 | 87.2 | 81.2 | 84.3 | <0.01 | 92.7 | 80.8 | 71.2 | <0.01"
+   ]
+  }
+ ]
+}

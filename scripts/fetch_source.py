@@ -62,13 +62,18 @@ def main():
     if kind in ("url", "pdf"):
         return fetch_web(slug, ident.split(":", 1)[1], kind)
     q = {"pmid": f"EXT_ID:{val} AND SRC:MED", "pmc": f"PMCID:{val}", "doi": f'DOI:"{val}"'}[kind]
-    rec = epmc_search(q) or {}
+    import os
+    rec = {} if os.environ.get("FAST") else (epmc_search(q) or {})
     if kind != "doi" and rec and val.replace("PMC", "") not in (str(rec.get("pmid")), str(rec.get("pmcid", "")).replace("PMC", "")):
         raise SystemExit(f"Europe PMC returned a different record for {ident}: {rec.get('title')}")
     pmid = rec.get("pmid") or (val if kind == "pmid" else None)
     pmcid = rec.get("pmcid") or (val if kind == "pmc" else None)
     doi = rec.get("doi") or (val if kind == "doi" else None)
 
+    if kind == "pmc" and not pmid and os.environ.get("FAST"):
+        conv = get(f"https://www.ncbi.nlm.nih.gov/pmc/utils/idconv/v1.0/?ids={val}&format=json")
+        if conv:
+            pmid = (json.loads(conv).get("records") or [{}])[0].get("pmid")
     if not rec.get("title") and pmid:
         es = get(f"{EU}/esummary.fcgi?db=pubmed&retmode=json&id={pmid}")
         if es:

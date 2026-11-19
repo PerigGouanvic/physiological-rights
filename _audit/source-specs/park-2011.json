@@ -1,0 +1,16 @@
+{
+ "sid": "park-2011",
+ "short": "Park et al., 2011",
+ "container": "Stroke",
+ "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3362046/",
+ "excerpts": [
+  {
+   "key": "abstract",
+   "where": "Abstract",
+   "anchor": "Elevation of intracellular GSSG triggers neural cell death",
+   "marks": [
+    "Multidrug resistance-associated protein 1 (MRP1), a key mediator of GSSG efflux from neural cells"
+   ]
+  }
+ ]
+}

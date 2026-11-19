@@ -1,0 +1,25 @@
+{
+ "sid": "traber-2014",
+ "short": "Traber, 2014",
+ "container": "Advances in Nutrition",
+ "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4188222/",
+ "excerpts": [
+  {
+   "key": "abstract",
+   "where": "Abstract",
+   "anchor": "It is estimated that >90% of Americans",
+   "marks": [
+    "It is estimated that >90% of Americans do not consume sufficient dietary vitamin E, as α-tocopherol, to meet estimated average requirements."
+   ]
+  },
+  {
+   "key": "assessment",
+   "where": "Assessing vitamin E status",
+   "anchor": "Seemingly, adequacy of human vitamin E status cannot be assessed",
+   "marks": [
+    "Seemingly, adequacy of human vitamin E status cannot be assessed from circulating α-tocopherol concentrations, but inadequacy can be determined from “low” values.",
+    "as a person ages, plasma lipid concentrations also increase"
+   ]
+  }
+ ]
+}
