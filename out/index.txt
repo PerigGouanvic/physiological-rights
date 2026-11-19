@@ -4,7 +4,7 @@ permalink: /out.txt
 ---
 # PHYSIOLOGICAL RIGHTS — CONTENT EXPORT
 # Site: https://physiological-rights.org
-# Generated: 2026-11-19 12:33 UTC
+# Generated: 2026-11-19 12:40 UTC
 #
 ========================================================================
 # INSTRUCTIONS FOR THE AI READING THIS FILE
@@ -2414,7 +2414,7 @@ The landscape assembled here is provisional. Each of the five axes deserves the 
 4. Wilson RA. *Feminine Forever.* M. Evans and Company, 1966.
 5. Rossouw JE, Anderson GL, Prentice RL, et al. *Risks and benefits of estrogen plus progestin in healthy postmenopausal women: principal results from the Women's Health Initiative randomized controlled trial.* JAMA. 2002;288(3):321-333. [PubMed 12117397](https://pubmed.ncbi.nlm.nih.gov/12117397/)
 6. Manson JE, Chlebowski RT, Stefanick ML, et al. *Menopausal hormone therapy and health outcomes during the intervention and extended poststopping phases of the Women's Health Initiative randomized trials.* JAMA. 2013;310(13):1353-1368. [PubMed 24084921](https://pubmed.ncbi.nlm.nih.gov/24084921/)
-7. Prior JC. *Progesterone as a bone-trophic hormone.* Endocrine Reviews. 1990;11(2):386-398. [PubMed 2194788](https://pubmed.ncbi.nlm.nih.gov/2194788/)
+7. Prior JC. *Progesterone as a bone-trophic hormone.* Endocrine Reviews. 1990;11(2):386-398. [PubMed 2194787](https://pubmed.ncbi.nlm.nih.gov/2194787/)
 8. Prior JC. *Estrogen's Storm Season: Stories of Perimenopause.* Centre for Menstrual Cycle and Ovulation Research, 2005.
 9. The 2022 Hormone Therapy Position Statement of The North American Menopause Society Advisory Panel. *The 2022 hormone therapy position statement of The North American Menopause Society.* Menopause. 2022;29(7):767-794. [PubMed 35797481](https://pubmed.ncbi.nlm.nih.gov/35797481/)
 10. Davis SR, Baber R, Panay N, et al. *Global Consensus Position Statement on the Use of Testosterone Therapy for Women.* Journal of Clinical Endocrinology and Metabolism. 2019;104(10):4660-4666. [PubMed 31498871](https://pubmed.ncbi.nlm.nih.gov/31498871/)
