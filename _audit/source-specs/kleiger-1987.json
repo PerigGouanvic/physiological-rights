@@ -1,0 +1,16 @@
+{
+ "sid": "kleiger-1987",
+ "short": "Kleiger et al., 1987",
+ "container": "American Journal of Cardiology",
+ "excerpts": [
+  {
+   "key": "abstract",
+   "where": "Abstract (full text not consulted)",
+   "anchor": "abstract",
+   "marks": [
+    "The relative risk of mortality was 5.3 times higher in the group with HR variability of less than 50 ms",
+    "HR variability remained a significant predictor of mortality after adjusting for clinical, demographic, other Holter features and ejection fraction."
+   ]
+  }
+ ]
+}

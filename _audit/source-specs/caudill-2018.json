@@ -1,0 +1,17 @@
+{
+ "sid": "caudill-2018",
+ "short": "Caudill et al., 2018",
+ "container": "FASEB Journal",
+ "note": "A small trial: 26 women randomised, 24 infants tested.",
+ "excerpts": [
+  {
+   "key": "abstract",
+   "where": "Abstract (full text not consulted)",
+   "anchor": "abstract",
+   "marks": [
+    "either 480 mg choline/d ( n = 13) or 930 mg choline/d ( n = 13)",
+    "Mean reaction time averaged across the four ages was significantly faster for infants born to mothers in the 930 ( vs. 480) mg choline/d group."
+   ]
+  }
+ ]
+}

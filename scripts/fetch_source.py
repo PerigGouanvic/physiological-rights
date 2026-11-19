@@ -69,6 +69,15 @@ def main():
     pmcid = rec.get("pmcid") or (val if kind == "pmc" else None)
     doi = rec.get("doi") or (val if kind == "doi" else None)
 
+    if not rec.get("title") and pmid:
+        es = get(f"{EU}/esummary.fcgi?db=pubmed&retmode=json&id={pmid}")
+        if es:
+            x = json.loads(es)["result"][str(pmid)]
+            rec = {"title": x.get("title"), "pubYear": (x.get("pubdate") or "")[:4], "pageInfo": x.get("pages"),
+                   "journalInfo": {"journal": {"title": x.get("fulljournalname") or x.get("source")}, "volume": x.get("volume"), "issue": x.get("issue")},
+                   "authorList": {"author": [{"collectiveName": a["name"]} for a in x.get("authors", [])]},
+                   "doi": next((i["value"] for i in x.get("articleids", []) if i["idtype"] == "doi"), None)}
+            doi = doi or rec["doi"]
     authors = [
         " ".join(filter(None, [a.get("firstName"), a.get("lastName")])) or a.get("collectiveName", "")
         for a in rec.get("authorList", {}).get("author", [])

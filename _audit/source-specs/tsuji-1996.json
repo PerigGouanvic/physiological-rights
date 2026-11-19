@@ -1,0 +1,15 @@
+{
+ "sid": "tsuji-1996",
+ "short": "Tsuji et al., 1996",
+ "container": "Circulation",
+ "excerpts": [
+  {
+   "key": "abstract",
+   "where": "Abstract (full text not consulted)",
+   "anchor": "abstract",
+   "marks": [
+    "A one-standard deviation decrement in the standard deviation of total normal RR intervals (natural log transformed) was associated with a hazard ratio of 1.47 for new cardiac events"
+   ]
+  }
+ ]
+}
