@@ -17,11 +17,12 @@ ROOT = Path(__file__).resolve().parent.parent
 TXT = ROOT / "kb/sources/texts"
 OUT = ROOT / "_sources"
 
+SPACES = {c: " " for c in (0xa0, 0x2000, 0x2001, 0x2002, 0x2003, 0x2004, 0x2005, 0x2006, 0x2007, 0x2008, 0x2009, 0x200a, 0x202f, 0x205f)}
 META_RE = re.compile(r"^(\d+\. |Author information|DOI:|PMID:|PMCID:|Comment in|Erratum in|Copyright|©|\(\d+\)|Conflict of interest)")
 
 
 def paragraphs(text):
-    return [html.unescape(re.sub(r"\s*\n\s*", " ", p)).replace("\xa0", " ").strip() for p in re.split(r"\n\s*\n", text) if p.strip()]
+    return [html.unescape(re.sub(r"\s*\n\s*", " ", p)).translate(SPACES).strip() for p in re.split(r"\n\s*\n", text) if p.strip()]
 
 
 def pubmed_abstract(text):
@@ -61,7 +62,7 @@ def build(spec_path):
         if v:
             lines.append(f"{k}: {q(v)}")
     lines += [f"access: {q(spec.get('access') or meta['access'])}", f"status: {q(meta['status'])}", f"verified: {q(meta['fetched'])}", "excerpts:"]
-    for ex in spec["excerpts"]:
+    for ex in spec.get("excerpts") or []:
         if ex.get("anchor") == "abstract":
             chunk = pubmed_abstract(text) if not full else ps[1:find(ps, "BODY")]
         else:
@@ -82,7 +83,7 @@ def build(spec_path):
     OUT.mkdir(exist_ok=True)
     (OUT / f"{sid}.md").write_text("\n".join(lines), encoding="utf-8")
     n = sum(1 for l in lines if l.startswith("      - "))
-    print(f"{sid}: {len(spec['excerpts'])} excerpts, {n} paragraphs")
+    print(f"{sid}: {len(spec.get('excerpts') or [])} excerpts, {n} paragraphs")
 
 
 if __name__ == "__main__":

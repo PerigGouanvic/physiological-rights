@@ -1,0 +1,17 @@
+{
+ "sid": "vinceti-2016",
+ "short": "Vinceti et al., 2016",
+ "container": "Journal of the American Heart Association",
+ "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5121516/",
+ "license": "Open access, CC BY-NC.",
+ "excerpts": [
+  {
+   "key": "abstract",
+   "where": "Abstract",
+   "anchor": "We reviewed the observational cohort studies addressing the relation between potassium intake",
+   "marks": [
+    "the highest category of potassium intake was associated with a 13% reduced risk of stroke"
+   ]
+  }
+ ]
+}

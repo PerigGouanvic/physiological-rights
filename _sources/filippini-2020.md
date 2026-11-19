@@ -1,0 +1,45 @@
+---
+sid: "filippini-2020"
+title: "Potassium Intake and Blood Pressure: A Dose-Response Meta-Analysis of Randomized Controlled Trials"
+short: "Filippini et al., 2020"
+authors:
+  - "Tommaso Filippini"
+  - "Androniki Naska"
+  - "Maria-Iosifina Kasdagli"
+  - "Duarte Torres"
+  - "Carla Lopes"
+  - "Catarina Carvalho"
+  - "Pedro Moreira"
+  - "Marcella Malavolti"
+  - "Nicola Orsini"
+  - "Paul K Whelton"
+  - "Marco Vinceti"
+container: "Journal of the American Heart Association"
+year: "2020"
+volume: "9"
+issue: "12"
+pages: "e015719"
+doi: "10.1161/jaha.119.015719"
+pmid: "32500831"
+pmcid: "PMC7429027"
+url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC7429027/"
+license: "Open access, CC BY-NC."
+note: "Funded by a grant from the European Food Safety Authority. The curve is U-shaped: the benefit flattens above about 30 mmol/day of added potassium and reverses above about 80 mmol/day, mainly in people on blood-pressure drugs."
+access: "full text (PMC)"
+status: "no retraction or correction found (Crossref, Europe PMC, 2026-11-18)"
+verified: "2026-11-18"
+excerpts:
+  - key: "results"
+    where: "Abstract"
+    marks:
+      - "We observed a U‐shaped relationship"
+      - "The BP‐lowering effects of potassium supplementation were stronger in participants with hypertension and at higher levels of sodium intake."
+    paras:
+      - "We performed a meta‐analysis to explore the dose‐response relationship between potassium supplementation and BP in randomized‐controlled trials with a duration ≥4 weeks using the recently developed 1‐stage cubic spline regression model. This model allows use of trials with at least 2 exposure categories. We identified 32 eligible trials. Most were conducted in adults with hypertension using a crossover design and potassium supplementation doses that ranged from 30 to 140 mmol/d. We observed a U‐shaped relationship between 24‐hour active and control arm differences in potassium excretion and BP levels, with weakening of the BP reduction effect above differences of 30 mmol/d and a BP increase above differences ≈80 mmol/d. Achieved potassium excretion analysis also identified a U‐shaped relationship. The BP‐lowering effects of potassium supplementation were stronger in participants with hypertension and at higher levels of sodium intake. The BP increase with high potassium excretion was noted in participants with antihypertensive drug‐treated hypertension but not in their untreated counterparts."
+  - key: "conclusion"
+    where: "Conclusions"
+    marks:
+      - "the need to carefully address and manage potassium intake within comprehensive efforts to prevent CVD in both the general population and high‐risk subgroups"
+    paras:
+      - "In conclusion, this is the first meta‐analysis to investigate the effects of potassium supplementation on BP levels and with a specific focus on the dose‐response relationship. We found evidence for a nonlinear association, and for effect modification in those with hypertension, taking antihypertensive medication, or having a high sodium intake. Our findings for the effects of potassium intake on BP may explain, at least in part, the recently observed U‐shaped associations between serum potassium levels and risk of adverse outcomes in observational studies. They also support current European and US dietary recommendations for potassium intake and underscore the need to carefully address and manage potassium intake within comprehensive efforts to prevent CVD in both the general population and high‐risk subgroups."
+---

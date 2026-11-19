@@ -1,0 +1,23 @@
+{
+ "sid": "hoy-2012",
+ "short": "Hoy & Goldman, 2012",
+ "title": "Potassium Intake of the U.S. Population: What We Eat in America, NHANES 2009-2010",
+ "authors": [
+  "Mary K. Hoy",
+  "Joseph D. Goldman"
+ ],
+ "container": "USDA Food Surveys Research Group, Dietary Data Brief No. 10",
+ "year": "2012",
+ "url": "https://www.ars.usda.gov/ARSUserFiles/80400530/pdf/DBrief/10_Potassium_Intake_0910.pdf",
+ "license": "US government publication, public domain.",
+ "excerpts": [
+  {
+   "key": "trend",
+   "where": "Potassium intake trends",
+   "anchor": "These intakes have remained relatively unchanged since the mid-1990s",
+   "marks": [
+    "unchanged since the mid-1990s"
+   ]
+  }
+ ]
+}

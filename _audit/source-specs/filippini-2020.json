@@ -1,0 +1,27 @@
+{
+ "sid": "filippini-2020",
+ "short": "Filippini et al., 2020",
+ "container": "Journal of the American Heart Association",
+ "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7429027/",
+ "license": "Open access, CC BY-NC.",
+ "note": "Funded by a grant from the European Food Safety Authority. The curve is U-shaped: the benefit flattens above about 30 mmol/day of added potassium and reverses above about 80 mmol/day, mainly in people on blood-pressure drugs.",
+ "excerpts": [
+  {
+   "key": "results",
+   "where": "Abstract",
+   "anchor": "We identified 32 eligible trials",
+   "marks": [
+    "We observed a U‐shaped relationship",
+    "The BP‐lowering effects of potassium supplementation were stronger in participants with hypertension and at higher levels of sodium intake."
+   ]
+  },
+  {
+   "key": "conclusion",
+   "where": "Conclusions",
+   "anchor": "underscore the need to carefully address and manage potassium intake",
+   "marks": [
+    "the need to carefully address and manage potassium intake within comprehensive efforts to prevent CVD in both the general population and high‐risk subgroups"
+   ]
+  }
+ ]
+}

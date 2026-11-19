@@ -1,0 +1,23 @@
+{
+ "sid": "whelton-2018",
+ "short": "Whelton, 2018",
+ "container": "Circulation",
+ "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5775505/",
+ "note": "An editorial commenting on a 2014 NHANES study (Jackson et al.) that measured intake with 24-hour urine collections.",
+ "excerpts": [
+  {
+   "key": "intakes",
+   "where": "Editorial",
+   "anchor": "As one would expect, the intake of dietary sodium was higher",
+   "marks": [
+    "The reported average intake of dietary potassium (1997 mg/day) was less than half the federal recommendation of 4,700 mg/day for US adults.",
+    "only 32 (4.2%) of the 765 participants had a dietary sodium intake <2,300 mg/day"
+   ]
+  },
+  {
+   "key": "ratio",
+   "where": "Editorial",
+   "anchor": "Previous cross-sectional and longitudinal studies have also identified"
+  }
+ ]
+}

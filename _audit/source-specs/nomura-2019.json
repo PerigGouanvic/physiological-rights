@@ -1,0 +1,17 @@
+{
+ "sid": "nomura-2019",
+ "short": "Nomura, Shoda & Uchida, 2019",
+ "container": "Clinical and Experimental Nephrology",
+ "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6746677/",
+ "license": "Open access, CC BY 4.0.",
+ "excerpts": [
+  {
+   "key": "abstract",
+   "where": "Abstract",
+   "anchor": "Potassium (K+) intake is intrinsically linked to blood pressure",
+   "marks": [
+    "A K+-restrictive diet activates NCC, and K+ loading suppresses NCC."
+   ]
+  }
+ ]
+}

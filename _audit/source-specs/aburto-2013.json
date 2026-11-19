@@ -1,0 +1,21 @@
+{
+ "sid": "aburto-2013",
+ "short": "Aburto et al., 2013",
+ "container": "BMJ",
+ "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4816263/",
+ "license": "Open access, CC BY-NC.",
+ "note": "The systematic review commissioned by WHO for its 2012 potassium guideline.",
+ "excerpts": [
+  {
+   "key": "results",
+   "where": "Abstract, Results",
+   "anchor": "22 randomised controlled trials (including 1606 participants)",
+   "marks": [
+    "Increased potassium intake reduced systolic blood pressure by 3.49",
+    "an effect seen in people with hypertension but not in those without hypertension",
+    "Systolic blood pressure was reduced by 7.16 (1.91 to 12.41) mm Hg when the higher potassium intake was 90-120 mmol/day",
+    "risk of incident stroke (risk ratio 0.76, 0.66 to 0.89)"
+   ]
+  }
+ ]
+}

@@ -57,10 +57,14 @@ def epmc_search(q):
 def main():
     slug, ident = sys.argv[1], sys.argv[2]
     kind, val = ident.split(":", 1)
+    if not val.strip() or val.strip().lower() in ("none", "null"):
+        raise SystemExit(f"empty identifier: {ident!r}")
     if kind in ("url", "pdf"):
         return fetch_web(slug, ident.split(":", 1)[1], kind)
     q = {"pmid": f"EXT_ID:{val} AND SRC:MED", "pmc": f"PMCID:{val}", "doi": f'DOI:"{val}"'}[kind]
     rec = epmc_search(q) or {}
+    if kind != "doi" and rec and val.replace("PMC", "") not in (str(rec.get("pmid")), str(rec.get("pmcid", "")).replace("PMC", "")):
+        raise SystemExit(f"Europe PMC returned a different record for {ident}: {rec.get('title')}")
     pmid = rec.get("pmid") or (val if kind == "pmid" else None)
     pmcid = rec.get("pmcid") or (val if kind == "pmc" else None)
     doi = rec.get("doi") or (val if kind == "doi" else None)

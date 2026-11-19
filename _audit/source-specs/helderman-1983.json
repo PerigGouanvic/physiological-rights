@@ -1,0 +1,16 @@
+{
+ "sid": "helderman-1983",
+ "short": "Helderman et al., 1983",
+ "container": "Diabetes",
+ "excerpts": [
+  {
+   "key": "abstract",
+   "where": "Abstract (full text not consulted)",
+   "anchor": "abstract",
+   "marks": [
+    "When potassium losses were prevented, thiazides induced no alterations in glucose tolerance",
+    "a consequence of diminished pancreatic beta-cell response to glucose"
+   ]
+  }
+ ]
+}

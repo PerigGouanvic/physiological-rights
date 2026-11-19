@@ -1,0 +1,35 @@
+---
+sid: "aburto-2013"
+title: "Effect of increased potassium intake on cardiovascular risk factors and disease: systematic review and meta-analyses"
+short: "Aburto et al., 2013"
+authors:
+  - "Nancy J Aburto"
+  - "Sara Hanson"
+  - "Hialy Gutierrez"
+  - "Lee Hooper"
+  - "Paul Elliott"
+  - "Francesco P Cappuccio"
+container: "BMJ"
+year: "2013"
+volume: "346"
+pages: "f1378"
+doi: "10.1136/bmj.f1378"
+pmid: "23558164"
+pmcid: "PMC4816263"
+url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC4816263/"
+license: "Open access, CC BY-NC."
+note: "The systematic review commissioned by WHO for its 2012 potassium guideline."
+access: "full text (PMC)"
+status: "no retraction or correction found (Crossref, Europe PMC, 2026-11-18)"
+verified: "2026-11-18"
+excerpts:
+  - key: "results"
+    where: "Abstract, Results"
+    marks:
+      - "Increased potassium intake reduced systolic blood pressure by 3.49"
+      - "an effect seen in people with hypertension but not in those without hypertension"
+      - "Systolic blood pressure was reduced by 7.16 (1.91 to 12.41) mm Hg when the higher potassium intake was 90-120 mmol/day"
+      - "risk of incident stroke (risk ratio 0.76, 0.66 to 0.89)"
+    paras:
+      - "Results 22 randomised controlled trials (including 1606 participants) reporting blood pressure, blood lipids, catecholamine concentrations, and renal function and 11 cohort studies (127 038 participants) reporting all cause mortality, cardiovascular disease, stroke, or coronary heart disease in adults were included in the meta-analyses. Increased potassium intake reduced systolic blood pressure by 3.49 (95% confidence interval 1.82 to 5.15) mm Hg and diastolic blood pressure by 1.96 (0.86 to 3.06) mm Hg in adults, an effect seen in people with hypertension but not in those without hypertension. Systolic blood pressure was reduced by 7.16 (1.91 to 12.41) mm Hg when the higher potassium intake was 90-120 mmol/day, without any dose response. Increased potassium intake had no significant adverse effect on renal function, blood lipids, or catecholamine concentrations in adults. An inverse statistically significant association was seen between potassium intake and risk of incident stroke (risk ratio 0.76, 0.66 to 0.89). Associations between potassium intake and incident cardiovascular disease (risk ratio 0.88, 0.70 to 1.11) or coronary heart disease (0.96, 0.78 to 1.19) were not statistically significant. In children, three controlled trials and one cohort study suggested that increased potassium intake reduced systolic blood pressure by a non-significant 0.28 (−0.49 to 1.05) mm Hg."
+---

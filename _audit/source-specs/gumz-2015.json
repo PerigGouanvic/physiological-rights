@@ -1,0 +1,21 @@
+{
+ "sid": "gumz-2015",
+ "short": "Gumz, Rabinowitz & Wingo, 2015",
+ "container": "New England Journal of Medicine",
+ "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5675534/",
+ "excerpts": [
+  {
+   "key": "distribution",
+   "where": "Potassium homeostasis",
+   "anchor": "External potassium homeostasis regulates renal potassium excretion",
+   "marks": [
+    "the greater part (approximately 98%) intracellular and only a small fraction (approximately 2%) extracellular"
+   ]
+  },
+  {
+   "key": "insulin",
+   "where": "Internal potassium balance",
+   "anchor": "Insulin, catecholamines, and mineralocorticoids stimulate potassium uptake"
+  }
+ ]
+}

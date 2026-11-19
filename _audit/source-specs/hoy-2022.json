@@ -1,0 +1,25 @@
+{
+ "sid": "hoy-2022",
+ "short": "Hoy, Goldman & Moshfegh, 2022",
+ "title": "Potassium Intake of the U.S. Population: What We Eat in America, NHANES 2017-2018",
+ "authors": [
+  "M. Katherine Hoy",
+  "Joseph D. Goldman",
+  "Alanna Moshfegh"
+ ],
+ "container": "USDA Food Surveys Research Group, Dietary Data Brief No. 47",
+ "year": "2022",
+ "url": "https://www.ars.usda.gov/ARSUserFiles/80400530/pdf/DBrief/47_Potassium_intakes_of_US_population_1718.pdf",
+ "pmid": "36630549",
+ "license": "US government publication, public domain.",
+ "excerpts": [
+  {
+   "key": "average",
+   "where": "Highlights and first section",
+   "anchor": "older was 2496 mg (data not shown)",
+   "marks": [
+    "older was 2496 mg"
+   ]
+  }
+ ]
+}

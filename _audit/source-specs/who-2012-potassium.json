@@ -1,0 +1,15 @@
+{
+ "sid": "who-2012-potassium",
+ "short": "WHO, 2012",
+ "license": "© World Health Organization 2012. Excerpts quoted for commentary.",
+ "excerpts": [
+  {
+   "key": "recommendation",
+   "where": "Recommendations",
+   "anchor": "WHO suggests a potassium intake of at least 90 mmol/day (3510 mg/day)",
+   "marks": [
+    "WHO suggests a potassium intake of at least 90 mmol/day (3510 mg/day) for adults (conditional recommendation"
+   ]
+  }
+ ]
+}
