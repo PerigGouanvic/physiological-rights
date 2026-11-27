@@ -1,11 +1,15 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{ page.lang | default: site.lang }}">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title }} — {{ site.title }}</title>
     <meta name="description" content="{{ page.description | default: site.description }}">
     <link rel="canonical" href="{{ page.url | absolute_url }}">
+    {% if page.fr_url %}<link rel="alternate" hreflang="en" href="{{ page.url | absolute_url }}">
+    <link rel="alternate" hreflang="fr" href="{{ page.fr_url | absolute_url }}">{% endif %}
+    {% if page.en_url %}<link rel="alternate" hreflang="fr" href="{{ page.url | absolute_url }}">
+    <link rel="alternate" hreflang="en" href="{{ page.en_url | absolute_url }}">{% endif %}
 
     <!-- Open Graph -->
     <meta property="og:type" content="website">
@@ -38,7 +42,7 @@
       "name": "{{ page.title | default: site.title }}",
       "headline": "{{ page.title | default: site.title }}",
       "description": "{{ page.description | default: site.description }}",
-      "inLanguage": "en",
+      "inLanguage": "{{ page.lang | default: site.lang }}",
       "publisher": {
         "@type": "Organization",
         "name": "{{ site.title }}",
@@ -186,17 +190,17 @@
         </div>
         {% endif %}
 
-        {% assign this_url = page.url | absolute_url | url_encode %}
+        {% assign this_url_src = page.en_url | default: page.url %}{% assign this_url = this_url_src | absolute_url | url_encode %}
         <div class="aside-section aside-translate">
             <h3>Read in</h3>
             <p class="translate-langs">
-                <a href="https://translate.google.com/translate?sl=en&amp;tl=fr&amp;u={{ this_url }}" target="_blank" rel="noopener nofollow">FR</a> ·
+                {% if page.en_url %}<a href="{{ page.en_url | relative_url }}">EN</a> ·{% elsif page.fr_url %}<a href="{{ page.fr_url | relative_url }}">FR</a> ·{% else %}<a href="https://translate.google.com/translate?sl=en&amp;tl=fr&amp;u={{ this_url }}" target="_blank" rel="noopener nofollow">FR</a> ·{% endif %}
                 <a href="https://translate.google.com/translate?sl=en&amp;tl=es&amp;u={{ this_url }}" target="_blank" rel="noopener nofollow">ES</a> ·
                 <a href="https://translate.google.com/translate?sl=en&amp;tl=pt&amp;u={{ this_url }}" target="_blank" rel="noopener nofollow">PT</a> ·
                 <a href="https://translate.google.com/translate?sl=en&amp;tl=de&amp;u={{ this_url }}" target="_blank" rel="noopener nofollow">DE</a> ·
                 <a href="https://translate.google.com/translate?sl=en&amp;tl=it&amp;u={{ this_url }}" target="_blank" rel="noopener nofollow">IT</a>
             </p>
-            <p class="translate-note">Machine translation via Google. The English version prevails.</p>
+            <p class="translate-note">{% if page.en_url %}Version française de l'auteur. Les autres langues passent par la traduction automatique de Google.{% elsif page.fr_url %}FR: the author's French version. Other languages: machine translation via Google. The English version prevails.{% else %}Machine translation via Google. The English version prevails.{% endif %}</p>
         </div>
 
         {% if page.path %}
@@ -267,17 +271,17 @@
         </div>
         {% endif %}
 
-        {% assign this_url_mob = page.url | absolute_url | url_encode %}
+        {% assign this_url_mob_src = page.en_url | default: page.url %}{% assign this_url_mob = this_url_mob_src | absolute_url | url_encode %}
         <div class="aside-section aside-translate">
             <h3>Read in</h3>
             <p class="translate-langs">
-                <a href="https://translate.google.com/translate?sl=en&amp;tl=fr&amp;u={{ this_url_mob }}" target="_blank" rel="noopener nofollow">FR</a> ·
+                {% if page.en_url %}<a href="{{ page.en_url | relative_url }}">EN</a> ·{% elsif page.fr_url %}<a href="{{ page.fr_url | relative_url }}">FR</a> ·{% else %}<a href="https://translate.google.com/translate?sl=en&amp;tl=fr&amp;u={{ this_url_mob }}" target="_blank" rel="noopener nofollow">FR</a> ·{% endif %}
                 <a href="https://translate.google.com/translate?sl=en&amp;tl=es&amp;u={{ this_url_mob }}" target="_blank" rel="noopener nofollow">ES</a> ·
                 <a href="https://translate.google.com/translate?sl=en&amp;tl=pt&amp;u={{ this_url_mob }}" target="_blank" rel="noopener nofollow">PT</a> ·
                 <a href="https://translate.google.com/translate?sl=en&amp;tl=de&amp;u={{ this_url_mob }}" target="_blank" rel="noopener nofollow">DE</a> ·
                 <a href="https://translate.google.com/translate?sl=en&amp;tl=it&amp;u={{ this_url_mob }}" target="_blank" rel="noopener nofollow">IT</a>
             </p>
-            <p class="translate-note">Machine translation via Google. The English version prevails.</p>
+            <p class="translate-note">{% if page.en_url %}Version française de l'auteur. Les autres langues passent par la traduction automatique de Google.{% elsif page.fr_url %}FR: the author's French version. Other languages: machine translation via Google. The English version prevails.{% else %}Machine translation via Google. The English version prevails.{% endif %}</p>
         </div>
 
         {% if page.path %}
