@@ -64,3 +64,11 @@ The Textbook Body passe après la décision D5.
 - Critiques (22) : après D1 et D4. AI as the Mirror (3 717) attend une décision sur la transcription Perplexity (la publier en entier ou réduire la page).
 - Fiches Rights (15) : ce sont les pages déjà sourcées, où la voix tient. On y vérifierait surtout la forme, et la version française dépend de D8.
 - Currents (6) et Did you know (26) : passe rapide, par lots de 5 à 10.
+
+## Où on en est (27 novembre 2026, fin de séance)
+
+- Passes en mode chaîne faites, à présenter à Perig d'une traite : Practicing the Right in an Ordinary Life, The Tragedy of Diagnosis, Ethical Limits of RCTs. Les journaux sont dans `journal/`.
+- Interrompue : This Resource IS Indeed Intended (passe arrêtée en cours, à relancer).
+- Décisions : D1 et D2 tranchées. D3 en attente : Claude recommande de fondre The Ferritin Threshold dans Iron (la fiche contient déjà le seuil de 30 µg/L, le marché du fer intraveineux, les intervalles de référence et la vignette), en gardant ses deux apports propres (ce que les patients savent déjà, la catégorie que le bilan ne nomme pas) et une redirection. D4 à D8 restent à poser.
+- Leçon de rythme : sur téléphone, Perig ne peut pas suivre plusieurs agents et des décisions en même temps. À la reprise, une seule chose à la fois.
+- En attente de fusion : PR #11 (rapport d'analyse) et PR #12 (Deficiency, version française, sélecteur de langue).
