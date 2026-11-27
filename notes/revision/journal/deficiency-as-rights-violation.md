@@ -119,3 +119,7 @@ Ces références sont nouvelles dans la page. Elles sont listées ici pour ne pa
 8. Hors texte, pour une note éventuelle : Paré I, Proulx M, Dussault M, Munger A. « Et l'examen annuel, docteur ? ». *Le Médecin du Québec*, mars 2016. https://lemedecinduquebec.org/archives/2016/3/gestion-pratique/et-l-examen-annuel-docteur/. Lu. Appuie : en 2015, le Collège des médecins du Québec a remplacé l'examen médical périodique par la Fiche de prévention clinique. Le mot « aboli » de l'entrevue no 7 est trop fort.
 
 Liens internes nouveaux ou conservés : You Are Not the Exception, Calibrated for Nothing, The False Negative of Serum Potassium, The Ferritin Threshold, The Instruments Already Exist, A Litigation Brief.
+
+## Publication
+
+Validée par Perig (« Go », 27 novembre 2026). Demande de fusion : https://github.com/PerigGouanvic/physiological-rights/pull/12. Structure française proposée pour cette page, à confirmer pour les autres textes avant de l'inscrire dans `decisions-style.md` : fichier `fr/<collection>/<slug>.md`, permalien `/fr/<collection>/<slug>/`, `lang: fr`, `en_url` dans la page française et `fr_url` dans la page anglaise. Le gabarit fait alors pointer le lien FR vers la version de l'auteur.
