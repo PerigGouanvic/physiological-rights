@@ -27,6 +27,7 @@ Règles tirées des deux premières séances (Deficiency as a Rights Violation, 
 ## 1. Décisions à prendre avant de réviser (fusions proposées par le rapport)
 
 - D1. Food universel : Limits of Healthy Eating (313 mots), No Universal Good Food (395), Balanced Diet Ambiguities (354), Practical Illustrations (97). Le rapport propose une seule page, ou une section de The Textbook Body.
+  - **Tranché (Perig, 27 novembre 2026) : option 3.** Limits of Healthy Eating et No Universal Good Food sont fondues en une seule page. Balanced Diet Ambiguities reste à part et sera étoffée. Practical Illustrations est retirée. En contrepoint, les deux pages renvoient à The Physiological Rights Dispensary.
 - D2. Doctrine OG 14 : Inadequacy of the Right to Health (397), Beyond the Right to Food (332), The Invisible Medical Emergency (463), et Deficiency as a Rights Violation, désormais révisée. Le rapport propose de les fondre. Deficiency pourrait devenir la page d'accueil du groupe, et les trois autres s'y fondre ou y renvoyer.
 - D3. The Ferritin Threshold (1 441) : en faire une section de la fiche Iron ? Le rapport propose de garder Iron et Ferritin 24. Deficiency renvoie maintenant à The Ferritin Threshold.
 - D4. The False Negative of Serum Potassium (666) : la fondre dans la fiche Potassium ? Deficiency y renvoie aussi.
