@@ -39,3 +39,27 @@ The doctrinal architecture has been in place since 2000. See [The Instruments Al
 5. Le champ `description` du front matter ne correspond plus à la page et sera à réécrire.
 6. Le rapport du 24 novembre propose de fondre cette page avec Inadequacy of the Right to Health, Beyond the Right to Food et The Invisible Medical Emergency. La nouvelle orientation (partir de la médecine) en fait peut-être la page d'entrée de ce groupe.
 7. Version française : à faire après validation de l'anglais. Citer l'OG 14 dans sa version officielle française (E/C.12/2000/4), non lue à ce jour.
+
+## Version française provisoire (27 novembre 2026)
+
+Citations de l'Observation générale no 14 tirées du texte officiel français (E/C.12/2000/4) : https://digitallibrary.un.org/record/425041/files/E_C.12_2000_4-FR.pdf
+
+# La carence comme violation de droit
+
+La plupart des gens portent un ensemble de carences, en magnésium tissulaire, en fer disponible, en potassium tissulaire et en d'autres substrats, chacun selon une combinaison qui lui est propre (voir [You Are Not the Exception](/editorials/you-are-not-the-exception/)), et dans la plupart des cas la norme de soins ne prévoit ni de les dépister ni de les corriger. On serait tenté d'y voir une lacune de la médecine, qu'on comblerait par de meilleures lignes directrices, un nutriment à la fois. C'en est une, mais c'est d'abord une violation du droit à la santé, et la corriger à la pièce laisserait intacte la raison pour laquelle elle se produit, qui est que la médecine a été construite pour reconnaître des maladies et des symptômes et n'a jamais fait un impératif de ramener ces paramètres à un niveau suffisant.
+
+L'absence de correction n'est pas, dans la plupart des cas, un refus au sens ordinaire. Elle est architecturale. L'analyse de routine ne nomme pas la carence quand elle est présente (voir [Calibrated for Nothing](/critique/calibrated-for-nothing/) sur la construction des intervalles de référence, et [The False Negative of Serum Potassium](/critique/false-negative-serum-potassium/) pour l'écart entre le tissu et le sérum dans sa forme la plus nette). La carence n'entre donc jamais dans le diagnostic différentiel, et la correction n'entre jamais dans la consultation. Le clinicien applique de bonne foi la norme de soins, et c'est la norme de soins elle-même qui est calibrée pour manquer ce que le droit à la santé exige qu'elle saisisse.
+
+## « Le droit à la santé ne saurait se comprendre comme le droit d'être en bonne santé »
+
+Le comité des Nations Unies chargé d'interpréter le droit à la santé inscrit dans le Pacte international relatif aux droits économiques, sociaux et culturels a écrit cette phrase en 2000, dans l'Observation générale no 14, sa lecture de référence de ce droit. Le Comité l'entendait comme une limite, puisqu'aucun État ne peut garantir la santé contre la génétique, la vulnérabilité individuelle ou les modes de vie à risque (paragraphe 9), et le droit devient alors celui « de jouir d'une diversité d'installations, de biens, de services et de conditions », ce qui est la manière même dont la médecine fonctionne, en offrant des services sans répondre de l'état du corps. Dans cette limite, la carence que l'analyse de routine ne voit pas ne viole rien, puisque le service a été offert.
+
+## Là où la santé se mesure, c'est le droit d'être en bonne santé
+
+La limite vaut pour ce qui ne peut pas être garanti. Elle ne vaut pas pour un paramètre mesurable qu'un substrat peu coûteux ramène à un niveau suffisant. Le droit à la santé est à réalisation progressive, dans la limite des ressources dont l'État dispose (article 2 du Pacte), mais la même Observation générale fixe, au paragraphe 43, des **obligations fondamentales** auxquelles un État ne peut se soustraire même quand ses ressources sont limitées, parmi lesquelles fournir les médicaments essentiels définis par l'OMS et assurer l'accès à « une alimentation essentielle minimale qui soit suffisante et sûre sur le plan nutritionnel », et la correction d'une carence documentée, avec un substrat bon marché et disponible, se situe à l'intérieur de ce plancher. La doctrine civiliste distingue une obligation de **moyens** (faire de son mieux avec ce que la norme de soins prévoit) d'une obligation de **résultat** (le paramètre essentiel doit être maintenu), et pour un tel paramètre, le droit à la santé exige l'obligation de résultat.
+
+## L'État doit le résultat
+
+Le Pacte lie les États, pas les cliniciens, et le médecin est tenu de faire de son mieux, pas de garantir un résultat. Le clinicien qui applique la norme de soins a fait ce que la loi lui demande. La médecine s'acquitte de cette obligation de moyens et de rien de plus, et c'est l'État qui doit le résultat, lui qui finance le système, homologue les analyses et peut exiger ce que la consultation doit chercher. La médecine est le moyen par lequel l'État remplit ou manque son obligation, et c'est la médecine comme institution, non le clinicien, qui doit changer.
+
+L'architecture doctrinale est en place depuis 2000. Voir [The Instruments Already Exist](/definitions/the-instruments-already-exist/) pour la lecture de l'Observation générale no 14 et le précédent des antirétroviraux, et [A Litigation Brief](/definitions/a-litigation-brief/) pour l'analyse de la qualité pour agir, de la justiciabilité et des recours qu'un juriste devrait développer pour porter la demande.
