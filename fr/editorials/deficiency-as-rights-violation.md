@@ -15,10 +15,10 @@ related:
 - title: A Litigation Brief for Physiological Rights
   url: /definitions/a-litigation-brief/
 status: published
-title: La carence comme violation de droit
+title: La carence, violation de droit
 ---
 
-# La carence comme violation de droit
+# La carence, violation de droit
 
 La plupart des gens portent un ensemble de carences, en magnésium tissulaire, en fer disponible, en potassium tissulaire et en d'autres substrats, chacun selon une combinaison qui lui est propre (voir [You Are Not the Exception](/editorials/you-are-not-the-exception/)), et dans la plupart des cas la norme de soins ne prévoit ni de les dépister ni de les corriger. On serait tenté d'y voir une lacune de la médecine, qu'on comblerait par de meilleures lignes directrices, un nutriment à la fois. C'en est une, mais c'est d'abord une violation du droit à la santé, et la corriger à la pièce laisserait intacte la raison pour laquelle elle se produit, qui est que la médecine a été construite pour reconnaître des maladies et des symptômes et n'a fait un impératif de ramener ces paramètres à un niveau suffisant que pour les quelques-uns qu'elle mesure en routine, à des seuils faits pour trouver la maladie.
 
