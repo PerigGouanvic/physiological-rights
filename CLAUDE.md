@@ -2,6 +2,8 @@
 
 > **Écosystème** — Ce dépôt fait partie de `~/projects/` (voir **[`../INDEX.md`](../INDEX.md)** pour la vue d'ensemble). Recoupements santé possibles avec `jp3/`, `_coach-sante/`, `_weakest-link-coach/`. Mettre à jour l'index si le statut ou la description synthétique changent, ou si un nouveau recoupement est identifié.
 
+> **À signaler à Perig à l'ouverture d'une session** : le rapport `_audit/2026-11-24-analyse-ensemble-du-site.md` (analyse d'ensemble du site, trois strates, pages à fusionner) est à relire en priorité.
+
 ## Nature du dépôt
 
 Ce dépôt est à la fois :
