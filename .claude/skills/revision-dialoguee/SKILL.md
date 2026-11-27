@@ -36,6 +36,10 @@ Perig travaille sur téléphone, en dictée. Les fragments font environ un demi-
 - Signaler les conséquences d'une coupe sur les fragments suivants (une phrase qui dépend de celle qu'on coupe).
 - Appliquer le guide à ses propres propositions : pas de panneaux, pas de chute vendue, pas de point-virgule ni de tiret long, phrase longue construite vers la droite.
 - Ne jamais modifier le texte publié sans validation explicite.
+- Garder la vue d'ensemble : Perig lit par petits morceaux et la perd, Claude la garde. Quand il se dit mélangé, ou qu'une section entière est à refaire, proposer une version complète de la section plutôt que de continuer fragment par fragment.
+- En fin de page, recopier tout le texte révisé d'un seul tenant (toujours en fragments d'un demi-écran) pour une relecture d'ensemble avant toute validation.
+- Dès la première séance d'une page, travailler le français en même temps que l'anglais.
+- Limiter le travail méta (réglages de la méthode) en cours de page. S'il devient nécessaire, le noter dans ce fichier et reprendre la page dans une nouvelle conversation.
 
 ## Tenue des fichiers (tout reste dans le dépôt)
 

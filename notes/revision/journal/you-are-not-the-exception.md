@@ -42,6 +42,26 @@ Proposition retenue provisoirement pour marquer le passage de « se regarder » 
 
 Correction de Perig : ce n'est pas « the same depletion », chacun a sa propre combinaison de carences, presque une empreinte digitale. Variantes : « carries their own set of depletions », ou l'image de l'empreinte placée en milieu de phrase pour éviter la chute.
 
-## Reprise
+## Fragment 9 (« The tired reader... not lying »)
 
-Reprendre au fragment 9 : « The tired reader who says they feel fine is not lying. They are reporting accurately against a baseline... » (dépend de la coupe du fragment 8 : glissement vers la troisième personne et retour de « baseline »).
+Décision provisoire : couper les deux phrases. La transition « Then you look around... » les remplace et garde la deuxième personne.
+
+## Fragment 10 (« Feeling fine... evidence of adaptation »)
+
+Décision provisoire : garder telle quelle. La chute répond à un vrai adversaire (« But I feel fine ») et, une fois le reste de la section réécrit en phrases liées, elle retrouve sa force de contraste. À rejuger en relisant la page entière.
+
+## Fragments 11 à 13 (« The named prior »)
+
+Diagnostic : surexplication (redite de ce que le texte a montré, « You, reading this », « This is not a diagnosis. It is a prior. », jargon « prior »), formule grandiloquente (« ethical force of every honest statement »), triple anaphore « You have the right », troisième droit circulaire. Note de cohérence : « This is not a diagnosis » contredit l'éditorial « This Resource IS Indeed Intended to Diagnose... ».
+
+Proposition de Claude, non discutée :
+
+> **What follows**
+>
+> That you are very likely depleted, in a pattern of your own, is enough to give you rights without waiting for a test to confirm it: the right to know it, the right to be tested against thresholds that reflect tissue function rather than the bottom of your local population's distribution, and the right no longer to be treated as the exception who escaped the numbers.
+>
+> The pieces on this resource were written about you.
+
+## État
+
+Page mise en pause le 27 novembre 2026. Les nombreux allers-retours de cette première séance (mise au point de la méthode) ont brisé l'impression d'ensemble. Avant de finaliser, relire la page entière d'un seul tenant, en anglais et en français.
