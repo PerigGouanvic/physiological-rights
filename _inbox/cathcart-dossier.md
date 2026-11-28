@@ -25,6 +25,23 @@ Perig a été témoin de l'effacement de Robert F. Cathcart III de Wikipédia, m
 - **Une piste voisine.** La page de discussion « Talk:Vitamin C and the common cold » indique que l'article a été fusionné dans « Vitamin C » le 11 février 2024. Elle contient aussi un passage sur le « protocole Cathcart » qualifié de recherche personnelle (« JG's personal WP:OR »). https://en.wikipedia.org/wiki/Talk:Vitamin_C_and_the_common_cold
 - Les dates de vie de Cathcart et la date exacte de l'effacement.
 
+## Trouvailles du 27 nov. 2026, deuxième passe
+
+- **Hemilä conserve lui-même une trace de Cathcart.** Il héberge sur son site de l'Université d'Helsinki l'entretien de B. J. Luberoff, « Symptomectomy: A chat with Robert Cathcart, M.D. », *CHEMTECH*, février 1978, p. 76 et suiv. https://www.mv.helsinki.fi/home/hemila/CP/Luberoff_1978_ch.pdf
+  - Cathcart y raconte qu'il était chirurgien orthopédiste et qu'environ sept ans plus tôt, à San Mateo, la pression des pairs était plutôt hostile au médecin qui utilisait la vitamine C.
+- **Hemilä a lui-même réécrit un article de Wikipédia.** Le 27 octobre 2013, il a remplacé tout le texte de « Vitamin C and the common cold », qu'il jugeait de très mauvaise qualité, et documenté ses raisons en page de discussion (lien vers l'ancienne version : oldid=578129214). L'article a ensuite été fusionné dans « Vitamin C » le 11 février 2024.
+- **Le précédent Klenner.** L'article sur Fred R. Klenner, l'autre pionnier des mégadoses, a fait l'objet d'une revue de suppression le 27 août 2008 (suppression annulée), puis d'une proposition de suppression le 10 juillet 2016, conclue par une redirection vers « Megavitamin therapy ». Même motif possible pour Cathcart : redirection plutôt que suppression formelle.
+- L'article actuel « Megavitamin therapy » mentionne Klenner mais pas Cathcart.
+- Notice biographique à lire : R. Swenson, « Dr. Robert Fulton Cathcart III: Pioneer in Orthomolecular Medicine », *Orthomolecular Medicine News Service*, 17 avril 2020.
+
+## Limites d'accès depuis Claude web
+
+- La Wayback Machine (archive.org) est bloquée pour les outils de Claude web.
+- Les pages spéciales et les pages de discussion de Wikipédia n'ont pas pu être chargées depuis Claude web. À faire depuis un navigateur :
+  - https://en.wikipedia.org/w/index.php?title=Special:Log&page=Robert+F.+Cathcart
+  - https://en.wikipedia.org/w/index.php?title=Special:Log&page=Robert+Cathcart
+  - https://web.archive.org/web/2010*/en.wikipedia.org/wiki/Robert_F._Cathcart*
+
 ## Pistes de recherche
 
 1. Le journal de suppression de Wikipédia (Special:Log/delete) pour les titres possibles : « Robert Cathcart », « Robert F. Cathcart », « Robert F. Cathcart III ».
