@@ -2,6 +2,8 @@
 
 *Ouvert le 27 novembre 2026 (Claude web). Brouillon : à vérifier, compléter et corriger par Perig.*
 
+**Statut : dossier clos le 28 nov. 2026.** La suppression est attestée et la discussion archivée. Piste restante, non prioritaire : la discussion parallèle sur « Bowel tolerance ».
+
 ## Pourquoi ce dossier
 
 Perig a été témoin de l'effacement de Robert F. Cathcart III de Wikipédia, malgré le fait qu'il soit cité dans des travaux reconnus, notamment ceux de Harri Hemilä. Ce dossier rassemble les traces qui subsistent, pour documenter cet effacement et rattacher Cathcart à la fiche `_rights/vitamin-c.md`, où il figure déjà parmi les chercheurs de référence.
