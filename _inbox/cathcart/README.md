@@ -33,7 +33,39 @@ Journal de suppression de Wikipédia, page « Robert Cathcart » :
 
 - Date : 14 août 2007. Administrateur : Sandstein. Procédure : discussion formelle de suppression (AfD).
 - Le témoignage de Perig est donc confirmé par le journal.
-- À récupérer : la discussion elle-même, https://en.wikipedia.org/wiki/Wikipedia:Articles_for_deletion/Robert_Cathcart (proposant, motif, votes, clôture). Inaccessible depuis Claude web.
+- Texte intégral de la discussion : `afd-2007-robert-cathcart.txt` (dans ce dossier).
+
+## La discussion de suppression (8-14 août 2007)
+
+- **Proposant** : Djma12, 8 août 2007 : non-notoriété selon WP:BIO, citations renvoyant au site de Cathcart ou à des sites commerciaux.
+- **Clôture** (Sandstein, 14 août) : les arguments minces des deux côtés sont écartés, et une « majorité importante » d'éditeurs juge les sources trop faibles pour établir la notoriété.
+- **Pour la conservation** : TheNautilus, Lumos3, Michael C. Price, Burntsauce, et **Pierre-Alain Gouanvic (Perig)**, « Strong keep », le 11 août 2007.
+- **Pour la suppression** : Djma12, Siva1979, Daniel 5127, Gordonofcartoon, Arthur Rubin, Shot info, DGG, Pocopocopocopoco, Antelan, Fyslee, CrohnieGal.
+- Une discussion parallèle visait l'article « Bowel tolerance », également proposé à la suppression (à retrouver).
+
+### L'argument de Perig, en 2007 comme en 2026
+
+Perig cite Hemilä (« It has been reported that people with serious infections can ingest over 50 g/day of vitamin C without gastric problems (Luberoff 1978; Cathcart 1981) ») comme citation indépendante, par un auteur des revues Cochrane sur la vitamine C. C'est exactement l'argument retrouvé le 27 nov. 2026, sans souvenir de l'avoir déjà fait.
+
+Les réponses :
+- Arthur Rubin : « weak evidence for the other article, not for this one ».
+- Djma12 attribue d'abord la citation à une méta-analyse Cochrane, puis la traite de « minor reference in a meta-analysis that included literally thousands of studies ».
+- Djma12 qualifie ensuite la thèse de Hemilä (Helsinki, 2006) de « Some grad student's thesis ». TheNautilus rappelle que Hemilä avait déjà un doctorat (1993) et un diplôme de médecine (1999), et que Cathcart 1981 et Luberoff 1978 sont aussi cités dans la revue Cochrane de 2007 de Hemilä et Louhiala sur la vitamine C et la pneumonie.
+- Antelan : l'argument soutient l'article « Bowel tolerance », mais pas la notoriété de Cathcart lui-même.
+
+### Ce que la discussion montre (lecture)
+
+1. **La circularité de la notoriété.** Gordonofcartoon : « If someone non-mainstream is notable, we don't have to pick around in obscure publications to find evidence of that. They'll be reported prominently in the mainstream ». La notoriété d'une figure marginale exige la couverture du courant dominant, qui est précisément ce qui la marginalise.
+2. **La notoriété déléguée aux sceptiques.** Pocopocopocopoco : « He is clearly someone the Quackwatch folks would consider a quack yet he is not even noteworthy enough to be mentioned anywhere on their website. »
+3. **« Indépendant » redéfini.** Djma12 définit l'indépendance comme « outside of the immediate community, in this case the orthomolecular one ». Lumos3 répond que cette définition exclurait toute hypothèse plausible pas encore acceptée par le courant dominant.
+4. **Fyslee**, qui qualifie les sources de « veritable who's who of quackery », apparaît aussi dans les discussions de 2008 sur l'homéopathie avec Dana Ullman (voir dépôt `revolution`, carte de la soirée).
+
+### Ce qui avait du poids, honnêtement
+
+- L'article reposait surtout sur les écrits de Cathcart lui-même et sur des sites qui recopiaient son site.
+- Lumos3 a confondu Cathcart avec H. Robert Cathcart (American Hospital Association), erreur relevée par Gordonofcartoon.
+- La prothèse de hanche citée comme titre de notoriété : une étude de 2001 rapportait un taux élevé de complications (selon Antelan, non vérifié ici).
+- Ces faiblesses portaient sur l'article tel qu'il était rédigé. Elles ne répondent pas à l'argument de la citation par Hemilä, qui a été écarté sans être réfuté.
 
 ## Trouvailles du 27 nov. 2026, deuxième passe
 
