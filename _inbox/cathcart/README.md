@@ -39,7 +39,7 @@ Journal de suppression de Wikipédia, page « Robert Cathcart » :
 
 - **Proposant** : Djma12, 8 août 2007 : non-notoriété selon WP:BIO, citations renvoyant au site de Cathcart ou à des sites commerciaux.
 - **Clôture** (Sandstein, 14 août) : les arguments minces des deux côtés sont écartés, et une « majorité importante » d'éditeurs juge les sources trop faibles pour établir la notoriété.
-- **Pour la conservation** : TheNautilus, Lumos3, Michael C. Price, Burntsauce, et **Pierre-Alain Gouanvic (Perig)**, « Strong keep », le 11 août 2007.
+- **Pour la conservation** : TheNautilus, Lumos3, Michael C. Price, Burntsauce, et **Pierre-Alain Gouanvic** (nom de baptême de Perig), « Strong keep », le 11 août 2007.
 - **Pour la suppression** : Djma12, Siva1979, Daniel 5127, Gordonofcartoon, Arthur Rubin, Shot info, DGG, Pocopocopocopoco, Antelan, Fyslee, CrohnieGal.
 - Une discussion parallèle visait l'article « Bowel tolerance », également proposé à la suppression (à retrouver).
 
