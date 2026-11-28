@@ -25,6 +25,16 @@ Perig a été témoin de l'effacement de Robert F. Cathcart III de Wikipédia, m
 - **Une piste voisine.** La page de discussion « Talk:Vitamin C and the common cold » indique que l'article a été fusionné dans « Vitamin C » le 11 février 2024. Elle contient aussi un passage sur le « protocole Cathcart » qualifié de recherche personnelle (« JG's personal WP:OR »). https://en.wikipedia.org/wiki/Talk:Vitamin_C_and_the_common_cold
 - Les dates de vie de Cathcart et la date exacte de l'effacement.
 
+## La suppression, attestée (relevé de Perig, 27 nov. 2026)
+
+Journal de suppression de Wikipédia, page « Robert Cathcart » :
+
+> 21:04, 14 August 2007 Sandstein talk contribs deleted page Robert Cathcart (Wikipedia:Articles for deletion/Robert Cathcart)
+
+- Date : 14 août 2007. Administrateur : Sandstein. Procédure : discussion formelle de suppression (AfD).
+- Le témoignage de Perig est donc confirmé par le journal.
+- À récupérer : la discussion elle-même, https://en.wikipedia.org/wiki/Wikipedia:Articles_for_deletion/Robert_Cathcart (proposant, motif, votes, clôture). Inaccessible depuis Claude web.
+
 ## Trouvailles du 27 nov. 2026, deuxième passe
 
 - **Hemilä conserve lui-même une trace de Cathcart.** Il héberge sur son site de l'Université d'Helsinki l'entretien de B. J. Luberoff, « Symptomectomy: A chat with Robert Cathcart, M.D. », *CHEMTECH*, février 1978, p. 76 et suiv. https://www.mv.helsinki.fi/home/hemila/CP/Luberoff_1978_ch.pdf
